@@ -5,15 +5,14 @@
   "main": "main.js",
   "dependencies": {
     "apify": "^0.11.0",
-    "puppeteer": "^1.12.2"
-  },
-  "devDependencies": {
+    "puppeteer": "^1.12.2",
     "@types/jquery": "^3.3.29",
     "@types/node": "^11.9.4",
     "@types/puppeteer": "^1.12.1",
     "ts-node": "^8.0.2",
     "typescript": "^3.3.3"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "node dist/main.js",
     "build": "tsc",
