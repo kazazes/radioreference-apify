@@ -1,4 +1,4 @@
-apify_storage/request_queues
+apify_storage/
 .idea
 .vscode
 dist
