@@ -15,7 +15,8 @@
     "typescript": "^3.3.3"
   },
   "scripts": {
-    "start": "node main.js",
+    "start": "node dist/main.js",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "debug": "node --no-lazy --inspect -r ts-node/register src/main.ts"
   },
