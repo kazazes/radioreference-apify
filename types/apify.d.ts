@@ -261,7 +261,7 @@ export function getEnv(): any;
 export function getMemoryInfo(): any;
 export function getValue(key: any): void;
 export function initializeEvents(): void;
-export function isAtHome(): void;
+export function isAtHome(): boolean;
 export function launchPuppeteer(options: any): any;
 export function launchWebDriver(options: any): any;
 export function main(userFunc: any): void;

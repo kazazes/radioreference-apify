@@ -49,27 +49,33 @@ Apify.main(async () => {
     await page.waitForSelector(".footerText");
     await Apify.utils.puppeteer.injectJQuery(page);
     if (url === "https://www.radioreference.com/apps/db/") {
-      return await handleDBRoot(page, $, requestQueue);
+      await handleDBRoot(page, $, requestQueue);
+      page.close();
     } else if (url.indexOf("stid=") >= 0) {
-      return await handleState(page, $, requestQueue);
+      await handleState(page, $, requestQueue);
+      page.close();
     } else if (url.indexOf("ctid=") >= 0) {
-      return await handleCounty(page, requestQueue, psuedoUrls);
+      await handleCounty(page, requestQueue, psuedoUrls);
+      page.close();
     } else if (url.indexOf("siteId=") >= 0) {
       const site = await handleSite(page, requestQueue);
-      return await Apify.pushData(site);
+      await Apify.pushData(site);
+      page.close();
     } else if (url.indexOf("sid=") >= 0) {
       if (url.indexOf("opt=all_tg")) {
         const s = await handleSystemTables(page, requestQueue, $);
         console.log(`${s["System Name"]} in ${s.Location}`);
-        return await Apify.pushData(s);
+        await Apify.pushData(s);
       } else {
-        return await requestQueue.addRequest({
+        await requestQueue.addRequest({
           url: url + "&opt=all_tg#tgs",
         });
       }
+      page.close();
     } else {
       console.error("Where AM I?", "");
       console.log("You're at", url);
+      page.close();
     }
   };
 
@@ -86,12 +92,10 @@ Apify.main(async () => {
     // For example, you can set "slowMo" to slow down Puppeteer operations to simplify debugging
     launchPuppeteerOptions: {
       devTools: true,
-      headless: true,
+      headless: Apify.isAtHome(),
       liveView: true,
     },
-
-    maxConcurrency: 20,
-    minConcurrency: 10,
+    maxConcurrency: 50,
 
     handlePageFunction,
   });
@@ -283,7 +287,7 @@ async function handleDBRoot(page: Page, $: JQueryStatic, requestQueue: any) {
       };
     });
   });
-  await Promise.all(
+  return Promise.all(
     reqs.map((req) => {
       return requestQueue.addRequest(req);
     }),
@@ -304,7 +308,7 @@ async function handleState(page: Page, $: JQueryStatic, requestQueue: any) {
       };
     });
   });
-  await Promise.all(
+  return Promise.all(
     reqs.map((req) => {
       return requestQueue.addRequest(req);
     }),
