@@ -1,0 +1,41 @@
+{
+  "System Name": "LaFarge - Fort Collins Area",
+  "Location": "Fort Collins, CO",
+  "County": "Larimer",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 1, 2008, 3:43 am (Default Location Data Updated to 40.6666482 / -105.4672148 / 35)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 939.9625 ",
+        "07 936.975 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DISPATCH",
+      "Description": "Dispatch ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DISPATCH",
+      "Description": "Dispatch ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DATA",
+      "Description": "Data ",
+      "Tag  ": "Business "
+    }
+  ]
+}

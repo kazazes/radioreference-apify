@@ -1,0 +1,56 @@
+{
+  "System Name": "Jacksonville Beach",
+  "Location": "Jacksonville Beach, FL",
+  "County": "Duval",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 3, 2018, 7:56 pm (Added Talkgroup 2863 Jacksonville Beach Water Dept.(Jacksonville Beach Public Works))",
+  "System ID List": [
+    {
+      "System ID": "949",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Main ",
+      "Freqs": [
+        "851.7625",
+        "852.175",
+        "852.5875",
+        "853.5125a",
+        "853.850c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2049 ",
+      "HEX ": "801 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JBFD F-TAC-1",
+      "Description": "Jacksonville Beach Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2051 ",
+      "HEX ": "803 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JBFD F-TAC-2",
+      "Description": "Jacksonville Beach Fire Fireground ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3589 ",
+      "HEX ": "e05 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JB FLEETWIDE",
+      "Description": "Jacksonville Beach Fleetwide ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

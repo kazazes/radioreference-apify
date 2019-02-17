@@ -1,0 +1,185 @@
+{
+  "System Name": "San Bernardino County 04",
+  "Location": "Morongo Basin, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 1, 2018, 2:46 am (Changed Site # 001 (Simulcast) to 001 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "512C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.950c",
+        "852.075c",
+        "852.575c",
+        "852.950c",
+        "853.1875",
+        "853.3625",
+        "853.8375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-1",
+      "Description": "Morongo Basin (Station 9) / Twentynine Palms (Station 20) / Yucca Valley (Station 23) Dispatch (Patched to 5-DC-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-2",
+      "Description": "Desert Dispatch (Patched to 1-DC-3) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-3",
+      "Description": "Desert Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-4",
+      "Description": "Desert Dispatch ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTac-1",
+      "Description": "Morongo Basin (Station 9) Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTac-2",
+      "Description": "Twentynine Palms (Station 20) Tac (Patched to 1-DTac-3) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTac-3",
+      "Description": "Yucca Valley (Station 23) Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTac-4",
+      "Description": "Backup Tac (All Stations) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-ATac-1",
+      "Description": "Desert Area Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-ATac-2",
+      "Description": "Desert Area Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-40King",
+      "Description": "Airship Calling/Air-to-Air ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-Chase",
+      "Description": "Pursuit Channel (All Stations) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-Court-1",
+      "Description": "Court Security 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CTac-1",
+      "Description": "Countywide Tac 1 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CTac-2",
+      "Description": "Countywide Tac 2 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-Oscar",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "15568 ",
+      "HEX ": "3cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-HAZMAT",
+      "Description": "Hazardous Materials ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "16144 ",
+      "HEX ": "3f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CoExec",
+      "Description": "County Executive Staff ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "37200 ",
+      "HEX ": "915 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-BDCFD",
+      "Description": "County Fire Non-Incident Talkaround ",
+      "Tag  ": "Fire-Talk "
+    }
+  ]
+}

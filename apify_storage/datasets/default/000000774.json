@@ -1,0 +1,153 @@
+{
+  "System Name": "Walter E. Washington Convention Center",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 13, 2017, 8:05 pm (Added Site # 4 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 453.1125 ",
+        "02 453.1375 ",
+        "03 453.7875 ",
+        "04 453.8875 ",
+        "05 453.9125 ",
+        "06 453.9625 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Confirmed LCN",
+        "01 452.4875 ",
+        "02 452.9875 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Confirmed LCN",
+        "01 452.2875 ",
+        "02 452.6875 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Sec 1",
+      "Description": "Security (Ch. 1) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC CESSec 2",
+      "Description": "CES Security (Ch. 2)/Parking ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Mtg Svcs",
+      "Description": "Meeting Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC H/K",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Centerpl",
+      "Description": "Centerplate ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC IT 7",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC IT 8",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Electric",
+      "Description": "Electric (Hi-Tech) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC 12?",
+      "Description": "(Ch. 12?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Sec 14",
+      "Description": "Security (Ch. 14) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Food 80",
+      "Description": "Food/Catering - Banquet ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "81 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Food 81",
+      "Description": "Food/Catering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "82 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Food 82",
+      "Description": "Food/Catering - Retail ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "83 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCC Food 83",
+      "Description": "Food/Catering (loading dock?) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

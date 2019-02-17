@@ -1,0 +1,44 @@
+{
+  "System Name": "Florida Power and Light (Turkey Point Nuclear Power Plant)",
+  "Location": "Florida City, FL",
+  "County": "Miami-Dade",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 8:46 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "251D",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Florida City",
+      "Freqs": [
+        "937.4375c",
+        "937.4125",
+        "937.400",
+        "937.3875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2256 ",
+      "HEX ": "08d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pump/Pressure",
+      "Description": "Pump / Pressure Readings ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

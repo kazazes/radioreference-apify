@@ -1,0 +1,67 @@
+{
+  "System Name": "Telecomm Network (Mobile)",
+  "Location": "Mobile, AL",
+  "County": "Mobile",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 5, 2012, 12:35 am (Changed Talkgroup Category: All to Telecomm Network)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mobile *Confirmed LCN*",
+        "01 452.300 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Mobile *Unconfirmed LCN*",
+        "00 464.175 ",
+        "00 461.9625 ",
+        "00 461.4125 ",
+        "00 452.0125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID 0-01-017",
+      "Description": "Unknown Auto Parts ID 0-01-017 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-018 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID 0-01-018",
+      "Description": "ID 0-01-018 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID 0-01-019",
+      "Description": "ID 0-01-019 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID 0-01-020",
+      "Description": "ID 0-01-020 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID 0-01-021",
+      "Description": "ID 0-01-021 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -15,6 +15,5 @@ function pageFunction(context) {
             await apify_1.default.pushData(s);
         } else {
             console.log("Where AM I?", "");
-            debugger;
         }
         }

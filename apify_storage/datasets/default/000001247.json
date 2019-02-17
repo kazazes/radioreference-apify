@@ -1,0 +1,19 @@
+{
+  "System Name": "Active Communications (Sandpoint)",
+  "Location": "Sandpoint, ID",
+  "County": "Bonner",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 14, 2011, 11:30 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Sandpoint Bald",
+        "01 451.325 ",
+        "02 452.0875 ",
+        "03 451.7625 "
+      ]
+    }
+  ]
+}

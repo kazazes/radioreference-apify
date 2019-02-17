@@ -1,0 +1,243 @@
+{
+  "System Name": "Federal Protective Service Atlanta MOT",
+  "Location": "Various, GA",
+  "County": "3 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "July 19, 2018, 11:44 am (Deleted news entry ID=1754)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.30000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "750D",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Atlanta",
+      "County": "Fulton",
+      "Freqs": [
+        "406.4125c",
+        "407.2125c",
+        "408.5375c",
+        "410.125a",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Fort McPherson",
+      "County": "Fulton",
+      "Freqs": [
+        "407.1625c",
+        "406.5625c",
+        "408.5625c",
+        "410.3625c",
+        "410.5625"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Fort Gillem",
+      "County": "Clayton",
+      "Freqs": [
+        "408.3625c",
+        "409.3625c",
+        "408.7625c",
+        "410.7625",
+        "407.3625"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Dobbins ARB",
+      "County": "Cobb",
+      "Freqs": [
+        "406.7625c",
+        "406.9625a",
+        "407.5625a",
+        "408.9625c",
+        "407.8625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48752 ",
+      "HEX ": "be7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBPD V",
+      "Description": "Police - \"Victor\" ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "48208 ",
+      "HEX ": "bc5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBPD 2",
+      "Description": "Police Ch 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "48080 ",
+      "HEX ": "bbd ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "48096 ",
+      "HEX ": "bbe ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBFD FG",
+      "Description": "Fireground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "48128 ",
+      "HEX ": "bc0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBFD Pvt",
+      "Description": "Fire Private ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "48192 ",
+      "HEX ": "bc4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARBFD TAC",
+      "Description": "Fire Tactical ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "48032 ",
+      "HEX ": "bba ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB Crash",
+      "Description": "Crash Net ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "48048 ",
+      "HEX ": "bbb ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB Ground",
+      "Description": "Ground Control (Cross patched with 275.8)  ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "48384 ",
+      "HEX ": "bd0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB OPS",
+      "Description": "Base Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "48400 ",
+      "HEX ": "bd1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB 700AS",
+      "Description": "700th Airlift Squadron ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "48416 ",
+      "HEX ": "bd2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB 94 Mtc1",
+      "Description": "94th Maintenance Group ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "48432 ",
+      "HEX ": "bd3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DARB 94 Mtc2",
+      "Description": "94th Maintenance Group  - Ch 2 ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac MP",
+      "Description": "Military Police - Gate Guards ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16064 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac FD 1",
+      "Description": "Fire Station 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac FD 2",
+      "Description": "Fire Station 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16128 ",
+      "HEX ": "3f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac FDTAC",
+      "Description": "Fireground Tactical ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16208 ",
+      "HEX ": "3f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac MP",
+      "Description": "Military Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16240 ",
+      "HEX ": "3f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac MP",
+      "Description": "Military Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16256 ",
+      "HEX ": "3f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac MP",
+      "Description": "Military Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16416 ",
+      "HEX ": "402 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac MP",
+      "Description": "Military Police - Gate Guards ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "16848 ",
+      "HEX ": "41d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Mac Ch 2",
+      "Description": "Channel 2 - \"HOTEL\" ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

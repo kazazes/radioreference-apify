@@ -1,0 +1,27 @@
+{
+  "System Name": "Anheuser-Busch (Van Nuys)",
+  "Location": "Van Nuys, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2011, 1:03 am (Changed Site # 540 (Site 540A) to 1 (Van Nuys))",
+  "System ID List": [
+    {
+      "System ID": "540A",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Van Nuys",
+      "Freqs": [
+        "856.2875",
+        "857.2875",
+        "858.2875",
+        "860.3125",
+        "860.3875c"
+      ]
+    }
+  ]
+}

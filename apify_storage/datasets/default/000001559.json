@@ -1,0 +1,32 @@
+{
+  "System Name": "United Parcel Service (Rockford)",
+  "Location": "Rockford, IL",
+  "County": "Winnebago",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 30, 2018, 6:43 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "6033",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 001",
+      "Freqs": [
+        "935.1375",
+        "935.2125",
+        "935.225",
+        "938.1625",
+        "938.1875",
+        "938.2375",
+        "939.1625",
+        "939.1875",
+        "939.7125c",
+        "939.7375"
+      ]
+    }
+  ]
+}

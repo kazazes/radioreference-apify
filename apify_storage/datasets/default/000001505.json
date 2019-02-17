@@ -1,0 +1,27 @@
+{
+  "System Name": "Advocate Condell Medical Center",
+  "Location": "Libertyville, IL",
+  "County": "Lake",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 15, 2018, 7:27 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Condell Medical Center",
+        "01 464.525 ",
+        "02 461.650 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ACMC",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "System Name": "Butte Regional Interoperable Communications System (BRICS)",
+  "Location": "Various, CA",
+  "County": "Butte",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 17, 2018, 8:43 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "964",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "South Simulcast",
+      "Freqs": [
+        "773.73125c",
+        "773.99375c",
+        "774.39375",
+        "774.66875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "North Simulcast",
+      "Freqs": [
+        "771.10625c",
+        "771.50625c",
+        "771.83125",
+        "772.13125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Sunset Hill",
+      "Freqs": [
+        "769.33125c",
+        "769.85625c",
+        "770.33125",
+        "770.60625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "Radio Service 1",
+      "Description": "Radio Service (001) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Radio Service 2",
+      "Description": "Radio Service (002) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Radio Service 3",
+      "Description": "Radio Service (003) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Radio Service 4",
+      "Description": "Radio Service (004) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Radio Service 5",
+      "Description": "Radio Service (005) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

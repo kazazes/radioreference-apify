@@ -1,0 +1,63 @@
+{
+  "System Name": "Los Angeles Police Department",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 27, 2019, 1:12 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "346",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Mount Lukens",
+      "Freqs": [
+        "854.0625c",
+        "855.1375c",
+        "857.1625c",
+        "857.5375a",
+        "857.9125a",
+        "859.3125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "LAPD ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "T",
+      "Alpha Tag": "102",
+      "Description": "LAPD ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "T",
+      "Alpha Tag": "103",
+      "Description": "LAPD ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1011 ",
+      "HEX ": "3f3 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "1011",
+      "Description": "LAPD ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

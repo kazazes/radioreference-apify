@@ -1,0 +1,38 @@
+{
+  "System Name": "First Communications (Opelika)",
+  "Location": "Opelika, AL",
+  "County": "Lee",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 26, 2010, 6:25 am (Updated Talkgroups (2 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "FC Opelika *Confirmed LCN*",
+        "01 452.4625 ",
+        "02 N/A ",
+        "03 463.250 ",
+        "04 461.575 ",
+        "05 N/A ",
+        "06 452.6625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Trucking",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TransitBuses",
+      "Description": "Lee County Area Transit Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

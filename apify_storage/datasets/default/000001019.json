@@ -1,0 +1,455 @@
+{
+  "System Name": "Sarasota County",
+  "Location": "Sarasota County, FL",
+  "County": "Sarasota",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "February 12, 2019, 9:12 pm (Updated Function Tag assignments for 1 talkgroups(Florida Forest Service ))",
+  "System ID List": [
+    {
+      "System ID": "593b",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Sarasota",
+      "Freqs": [
+        "851.0625",
+        "851.6375",
+        "851.6875",
+        "851.8625",
+        "852.1125",
+        "852.4125",
+        "852.6625",
+        "852.7625",
+        "853.2625a",
+        "853.2875a",
+        "853.5125a",
+        "853.7625c",
+        "852.225",
+        "853.725"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Osprey",
+      "Freqs": [
+        "851.6625",
+        "851.9125",
+        "852.1625",
+        "852.3875",
+        "852.6125",
+        "852.7875a",
+        "853.1125a",
+        "853.6125c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Venice",
+      "Freqs": [
+        "851.2125",
+        "851.3875",
+        "851.7875",
+        "851.8875",
+        "852.1375",
+        "852.2875",
+        "852.6375a",
+        "852.7125a",
+        "853.1375c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Englewood",
+      "Freqs": [
+        "851.3625a",
+        "851.7625",
+        "852.5375a",
+        "853.0375c",
+        "853.2375",
+        "853.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "North Port",
+      "Freqs": [
+        "851.2875",
+        "851.7125",
+        "852.3625",
+        "852.5625",
+        "852.8625a",
+        "853.0625",
+        "853.3625a",
+        "853.7875c"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "High Hat Ranch",
+      "Freqs": [
+        "851.6125",
+        "851.8375",
+        "852.0875",
+        "852.8375",
+        "853.075a",
+        "853.700c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "24976 ",
+      "HEX ": "619 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Disp 1",
+      "Description": "FD Dispatch A1 (Station 1-10/17/19, includes Longboat Key) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "25008 ",
+      "HEX ": "61b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Disp 2",
+      "Description": "FD Dispatch A2 (Station 11-16/18) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "25040 ",
+      "HEX ": "61d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Disp 3",
+      "Description": "FD Dispatch A3 (Station 20-23, 26, 41-42, 51-53) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "25072 ",
+      "HEX ": "61f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Disp 4",
+      "Description": "FD Dispatch A4 (Englewood Sta. 71-77, North Port Sta. 81-85) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 1-8) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "688 ",
+      "HEX ": "02b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 11-14) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "720 ",
+      "HEX ": "02d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 31-38/51-53) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "4128 ",
+      "HEX ": "102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 11-14) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 31-38/51-53) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs (Station 71-76 & 81-86) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Toneouts",
+      "Description": "FD Tone Outs ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "25168 ",
+      "HEX ": "625 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Tac 1",
+      "Description": "FD Tac 1 (Fire Ground for A1) C1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "25200 ",
+      "HEX ": "627 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Tac 2",
+      "Description": "FD Tac 2 (Fire Ground for A2) C2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "25232 ",
+      "HEX ": "629 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Tac 3",
+      "Description": "FD Tac 3 (Fire Ground for A3) C3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "25264 ",
+      "HEX ": "62b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Tac 4",
+      "Description": "FD  Tac 4 (Fire Ground for A4) C4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "25296 ",
+      "HEX ": "62d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD ADM1",
+      "Description": "FD Admin 1 B5 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25328 ",
+      "HEX ": "62f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD ADM2",
+      "Description": "FD Admin 2 B6 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25488 ",
+      "HEX ": "639 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD ES ADM3",
+      "Description": "FD Admin 3 C5 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25520 ",
+      "HEX ": "63b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD ES ADM4",
+      "Description": "FD Admin 4 C6 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25360 ",
+      "HEX ": "631 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Command 1",
+      "Description": "FD Command 1 B1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25392 ",
+      "HEX ": "633 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Command 2",
+      "Description": "FD Command 2 B2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25424 ",
+      "HEX ": "635 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Command 3",
+      "Description": "FD Command 3 B3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25456 ",
+      "HEX ": "637 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Command 4",
+      "Description": "FD Command 4 B4 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25552 ",
+      "HEX ": "63d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Support 1",
+      "Description": "FD Support 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25584 ",
+      "HEX ": "63f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Support 2",
+      "Description": "FD Support 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25616 ",
+      "HEX ": "641 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Support 3",
+      "Description": "FD Support 3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25648 ",
+      "HEX ": "643 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Support 4",
+      "Description": "FD Support 4 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25104 ",
+      "HEX ": "621 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD EM 1",
+      "Description": "FD Emergeny Managment 1 A5 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25136 ",
+      "HEX ": "623 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD Lifegrd 1",
+      "Description": "FD Life Guards (Beach) A6 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2064 ",
+      "HEX ": "081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Inspector",
+      "Description": "FD Inspectors ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "25936 ",
+      "HEX ": "655 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS All D12",
+      "Description": "EMS All D12 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25968 ",
+      "HEX ": "657 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS All",
+      "Description": "EMS All ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25712 ",
+      "HEX ": "647 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-SMH",
+      "Description": "EMS-to-Hospital (Sarasota Memorial Hospital) C7 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25744 ",
+      "HEX ": "649 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-DLR",
+      "Description": "EMS-to-Hospital (Doctors & Lakewood Ranch) Hospital C8 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25776 ",
+      "HEX ": "64b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-VH",
+      "Description": "EMS-to-Hospital (Venice Hospital) C9 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25808 ",
+      "HEX ": "64d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-ECH",
+      "Description": "EMS-to-Hospital (Englewood Community Hospital) C10 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25840 ",
+      "HEX ": "64f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-LRMC",
+      "Description": "EMS-to-Hospital (Lakewood Ranch Medical Center) C6 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25904 ",
+      "HEX ": "653 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-to-SMNP",
+      "Description": "EMS-to-Hospital (Sarasota Memorial North Port)  D7 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "26416 ",
+      "HEX ": "673 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Nokomis VFD",
+      "Description": "Nokomis VFD (site-trunking fallback only) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "26512 ",
+      "HEX ": "679 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Englewood FD",
+      "Description": "Englewood FD Dispatch 1 (site-trunking fallback only) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "31120 ",
+      "HEX ": "799 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NorthPort FD",
+      "Description": "North Port FD Dispatch 1 (site-trunking fallback only) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "64880 ",
+      "HEX ": "fd7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Bayflite-2",
+      "Description": "Bayflite Medevac ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "33232 ",
+      "HEX ": "81d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FFS Myakka Ops",
+      "Description": "Operations ",
+      "Tag  ": "Fire-Tac "
+    }
+  ]
+}

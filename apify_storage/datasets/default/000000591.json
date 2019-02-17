@@ -1,0 +1,170 @@
+{
+  "System Name": "Westminster",
+  "Location": "Westminster, CO",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 29, 2018, 1:12 am (Changed Site # 001 (Simulcast) to 001 (Westy Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "5C8",
+      "WACN": "927A7"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Westy Simulcast",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.0625c",
+        "852.1625c",
+        "852.8875c",
+        "853.350c",
+        "856.0375c",
+        "859.3875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "38501 ",
+      "HEX ": "9665 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD CH1 ",
+      "Description": "Police 1 Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "38502 ",
+      "HEX ": "9666 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD CH2",
+      "Description": "Police 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38503 ",
+      "HEX ": "9667 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Data",
+      "Description": "Police Data ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38504 ",
+      "HEX ": "9668 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Car1",
+      "Description": "Police 4 Car-Car 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38505 ",
+      "HEX ": "9669 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Car2",
+      "Description": "Police Car-Car 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38506 ",
+      "HEX ": "966a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Code",
+      "Description": "Police Code ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38507 ",
+      "HEX ": "966b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Invt",
+      "Description": "Police Investigations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38508 ",
+      "HEX ": "966c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Vice",
+      "Description": "Police Vice ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38509 ",
+      "HEX ": "966d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD SUT",
+      "Description": "Police SUT ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38510 ",
+      "HEX ": "966e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Intp",
+      "Description": "Police Interops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38511 ",
+      "HEX ": "966f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Swat",
+      "Description": "Police SWAT ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38512 ",
+      "HEX ": "9670 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Tac1",
+      "Description": "Police Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38513 ",
+      "HEX ": "9671 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD AMAW",
+      "Description": "Police AMAW ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "38514 ",
+      "HEX ": "9672 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WestyPD Tac2",
+      "Description": "Police Tactical 2 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "200 ",
+      "HEX ": "0c8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "201 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "202 ",
+      "HEX ": "0ca ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs 3 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "System Name": "Banks County",
+  "Location": "Homer, GA",
+  "County": "2 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "June 27, 2018, 12:37 pm (Changed Site # 003 (Baldwin) to 003 (Baldwin))",
+  "System ID List": [
+    {
+      "System ID": "1001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Homer 1",
+      "County": "Banks",
+      "Freqs": [
+        "453.50625",
+        "453.61875",
+        "453.73125",
+        "460.100c",
+        "460.4125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Homer 2",
+      "County": "Banks",
+      "Freqs": [
+        "453.25625c",
+        "453.45625",
+        "453.6625",
+        "460.13125",
+        "460.41875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Baldwin",
+      "County": "Banks",
+      "Freqs": [
+        "453.3375c",
+        "453.225",
+        "453.44375",
+        "453.55625",
+        "453.7625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Gillsville",
+      "County": "Hall",
+      "Freqs": [
+        "453.26875c",
+        "453.41875",
+        "453.5625",
+        "460.200",
+        "460.40625",
+        "460.550",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Commerce",
+      "County": "Banks",
+      "Freqs": [
+        "453.34375c",
+        "453.58125",
+        "453.74375",
+        "453.900",
+        "460.10625",
+        "460.400",
+        "460.500",
+        "460.61875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "50 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCSO DISP",
+      "Description": "County Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "56 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCSO JAIL",
+      "Description": "County Sheriff Jail ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCSO TAC 1",
+      "Description": "County Sheriff Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD/EMS DISP",
+      "Description": "County Fire/EMS Dispatch ",
+      "Tag  ": "Multi-Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "43 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCPW ROADS",
+      "Description": "County Road Department ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "System Name": "Atlantic Communications",
+  "Location": "Various, ME",
+  "County": "Statewide",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "July 25, 2016, 2:31 pm (Added Site # 1 (Medway))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Rockland",
+      "County": [
+        "Knox",
+        "152.375 (CC 0)",
+        "152.390 (CC 0)",
+        "152.405 (CC 0)",
+        "451.900 (CC 1)",
+        "461.525 (CC 0)",
+        "462.450 (CC 0)"
+      ],
+      "Data": [
+        "463.600 (CC 0)",
+        "464.150 (CC 0)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Blackcap Mtn",
+      "County": [
+        "Penobscot",
+        "451.650 (CC 0)",
+        "456.650 (CC 0)",
+        "462.125 (CC 0)",
+        "463.400 (CC 0)",
+        "464.350 (CC 0)",
+        "464.625 (CC 0)"
+      ],
+      "Data": [
+        "467.125 (CC 0)",
+        "468.400 (CC 0)",
+        "469.350 (CC 0)",
+        "469.625 (CC 0)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Medway",
+      "County": [
+        "Penobscot",
+        "461.125 (CC 0)",
+        "466.125 (CC 0)",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1002 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Logging",
+      "Description": "Logging Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

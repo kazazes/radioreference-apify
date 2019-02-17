@@ -1,0 +1,43 @@
+{
+  "System Name": "Jewel Food Stores (Melrose Park)",
+  "Location": "Melrose Park, IL",
+  "County": "Cook",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 7, 2018, 11:54 pm ((3) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary (*LCN)",
+        "01 461.500 ",
+        "02 463.575 ",
+        "03 463.600 ",
+        "04 461.575 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-05-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Managers",
+      "Description": "Managers / supervisors talk channel? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-05-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Warehouse",
+      "Description": "Warehouse operations / managers/supervisors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-05-225 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Receiving/Frklft",
+      "Description": "Receiving operations / trailer spotters / forklift operators ",
+      "Tag  ": "Business "
+    }
+  ]
+}

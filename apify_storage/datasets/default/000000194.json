@@ -1,0 +1,134 @@
+{
+  "System Name": "Central Flying Service",
+  "Location": "Little Rock, AR",
+  "County": "Pulaski",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 21, 2008, 9:05 pm (Updated Function Tag assignments for 13 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "3822",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.2625",
+        "937.275c",
+        "937.2875",
+        "937.300c",
+        "937.3125",
+        "937.3375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "704 ",
+      "HEX ": "02c ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "896 ",
+      "HEX ": "038 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1024 ",
+      "HEX ": "040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1472 ",
+      "HEX ": "05c ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1520 ",
+      "HEX ": "05f ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1600 ",
+      "HEX ": "064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1920 ",
+      "HEX ": "078 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2208 ",
+      "HEX ": "08a ",
+      "Mode  ": "A",
+      "Alpha Tag": "CENTRL FLYNG",
+      "Description": "Unknown ",
+      "Tag  ": "Business "
+    }
+  ]
+}

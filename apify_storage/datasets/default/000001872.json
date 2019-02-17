@@ -1,0 +1,92 @@
+{
+  "System Name": "Carroll County",
+  "Location": "Westminster, MD",
+  "County": "Carroll",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 25, 2015, 4:31 pm (Added Talkgroup 10375 Police/Maintenance)",
+  "System ID List": [
+    {
+      "System ID": "66A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.1625",
+        "852.1375",
+        "852.3375",
+        "852.425a",
+        "852.450",
+        "852.475c",
+        "852.5875a",
+        "852.9375a",
+        "853.3375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10489 ",
+      "HEX ": "28f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC IA Emerg",
+      "Description": "Interagency Emergency ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "10491 ",
+      "HEX ": "28fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC LG Coord",
+      "Description": "Local Government Coordination ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "10492 ",
+      "HEX ": "28fc ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC LG Emerg",
+      "Description": "Local Government Emergency ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "10493 ",
+      "HEX ": "28fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC SpecEvt 1",
+      "Description": "Special Events 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "10494 ",
+      "HEX ": "28fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC SpecEvt 2",
+      "Description": "Special Events 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "10495 ",
+      "HEX ": "28ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC SpecEvt 3",
+      "Description": "Special Events 3 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "10375 ",
+      "HEX ": "2887 ",
+      "Mode  ": "D",
+      "Alpha Tag": "McDanielColl",
+      "Description": "Police/Maintenance ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

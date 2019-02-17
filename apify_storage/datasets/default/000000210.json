@@ -1,0 +1,28 @@
+{
+  "System Name": "Federal Correctional Institution Dublin",
+  "Location": "Dublin, CA",
+  "County": "Alameda",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 12, 2017, 6:44 pm (Changed Site # 001 (USP Atwater) to 001 (FCI Dublin))",
+  "System ID List": [
+    {
+      "System ID": "891",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "FCI Dublin",
+      "Freqs": [
+        "409.2125a",
+        "410.200c",
+        "410.4125a",
+        "410.700a",
+        "410.900"
+      ]
+    }
+  ]
+}

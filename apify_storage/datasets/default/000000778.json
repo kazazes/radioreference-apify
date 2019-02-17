@@ -1,0 +1,324 @@
+{
+  "System Name": "Washington Metropolitan Area Transit Authority",
+  "Location": "Various, MD VA DC",
+  "County": "10 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "August 25, 2018, 7:22 pm ((1) Talkgroups Updated (Other))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "489.08750",
+      "Spacing": "25.0",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "8209",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "County": ", ",
+      "Freqs": [
+        "489.5125",
+        "489.5375",
+        "490.7625",
+        "490.7875c",
+        "490.8375",
+        "490.8625a",
+        "490.8875",
+        "490.9125",
+        "490.9375",
+        "490.9625",
+        "496.3375",
+        "496.4375a",
+        "496.4625",
+        "496.4875",
+        "496.5375a",
+        "496.5625",
+        "496.5875",
+        "496.6125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Analog MTPD",
+      "Description": "Analog MTPD Patch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "49152 ",
+      "HEX ": "c00 ",
+      "Mode  ": "M",
+      "Alpha Tag": "MTPD Training",
+      "Description": "Training ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "49168 ",
+      "HEX ": "c01 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD-1",
+      "Description": "MTPD-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "49200 ",
+      "HEX ": "c03 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD-2",
+      "Description": "MTPD-2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49232 ",
+      "HEX ": "c05 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD-3",
+      "Description": "MTPD-3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49264 ",
+      "HEX ": "c07 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD-4",
+      "Description": "MTPD-4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50032 ",
+      "HEX ": "c37 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 1",
+      "Description": "Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50064 ",
+      "HEX ": "c39 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 2",
+      "Description": "Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50096 ",
+      "HEX ": "c3b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 3",
+      "Description": "Tac 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50128 ",
+      "HEX ": "c3d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 4",
+      "Description": "Tac 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50160 ",
+      "HEX ": "c3f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 5",
+      "Description": "Tac 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50192 ",
+      "HEX ": "c41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 6",
+      "Description": "Tac 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50224 ",
+      "HEX ": "c43 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 7",
+      "Description": "Tac 7 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50256 ",
+      "HEX ": "c45 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD Tac 8",
+      "Description": "Tac 8 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57296 ",
+      "HEX ": "dfd ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD 57296",
+      "Description": "Patch to MPD ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57328 ",
+      "HEX ": "dff ",
+      "Mode  ": "D",
+      "Alpha Tag": "MTPD 57328",
+      "Description": "Patch to MPD ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "32800 ",
+      "HEX ": "802 ",
+      "Mode  ": "M",
+      "Alpha Tag": "Comm Maint",
+      "Description": "Communications Cable Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "32960 ",
+      "HEX ": "80c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Phone Maint",
+      "Description": "Telephone Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33248 ",
+      "HEX ": "81e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Test 33248",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33264 ",
+      "HEX ": "81f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Test 33264",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33296 ",
+      "HEX ": "821 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Test 33296",
+      "Description": "Radio Reception Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33328 ",
+      "HEX ": "823 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Test 33328",
+      "Description": "Radio Reception Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33344 ",
+      "HEX ": "824 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Test 33344",
+      "Description": "Radio Reception Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33488 ",
+      "HEX ": "82d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MetroRadTest",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33616 ",
+      "HEX ": "835 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metro Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "41840 ",
+      "HEX ": "a37 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Communications Technicians ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "41904 ",
+      "HEX ": "a3b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Testing",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "42224 ",
+      "HEX ": "a4f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metro Radio Test",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50992 ",
+      "HEX ": "c73 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metro HQ/Yrd",
+      "Description": "Headquarters/Rail Yards/Bus Garages ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57440 ",
+      "HEX ": "e06 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Media Relati",
+      "Description": "Media Relations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57744 ",
+      "HEX ": "e19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MetroRadTest",
+      "Description": "Radio Testing (tunnels) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57776 ",
+      "HEX ": "e1b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MetroRadTest",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "58032 ",
+      "HEX ": "e2b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MetroEmrgMgt",
+      "Description": "Emergency Management ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "58064 ",
+      "HEX ": "e2d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metro Media?",
+      "Description": "Media Relations? ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

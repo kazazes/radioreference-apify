@@ -1,0 +1,34 @@
+{
+  "System Name": "LTR Tuolumne",
+  "Location": ", CA",
+  "County": "Tuolumne",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 20, 2017, 5:29 am (Updated encryption settings for 1 talkgroups(Talkgroups))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.675 ",
+        "03 452.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi",
+      "Description": "Taxi Service (Sonora Area) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-03-037 ",
+      "Mode  ": "AE",
+      "Alpha Tag": "3037",
+      "Description": "Speech Inversion ",
+      "Tag  ": "Business "
+    }
+  ]
+}

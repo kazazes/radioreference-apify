@@ -1,0 +1,1056 @@
+{
+  "System Name": "Oklahoma Gas and Electric",
+  "Location": "Various, AR OK",
+  "County": "27 counties",
+  "System Type": "EDACS Networked Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 12:21 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Oklahoma City",
+      "County": [
+        "Oklahoma, OK",
+        "01 856.3625c ",
+        "02 857.3625c ",
+        "03 858.3625c ",
+        "04 859.3625c "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Seminole",
+      "County": [
+        "Seminole, OK",
+        "01 855.0375c ",
+        "02 858.8875c ",
+        "03 859.8875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Moore",
+      "County": [
+        "Cleveland, OK",
+        "01 855.2625c ",
+        "02 855.5875c ",
+        "03 860.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Tecumseh",
+      "County": [
+        "Pottawatomie, OK",
+        "01 856.8875c ",
+        "02 857.8875c ",
+        "03 860.2875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "El Reno",
+      "County": [
+        "Canadian, OK",
+        "01 855.0375c ",
+        "02 858.8875c ",
+        "03 859.8875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Chandler",
+      "County": [
+        "Lincoln, OK",
+        "01 855.7625c ",
+        "02 858.3375c ",
+        "03 860.3375c ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Red Rock",
+      "County": [
+        "Noble, OK",
+        "01 855.0375c ",
+        "02 858.8875c ",
+        "03 859.8875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Crescent",
+      "County": [
+        "Logan, OK",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Healdton",
+      "County": [
+        "Carter, OK",
+        "01 856.8875c ",
+        "02 857.8875c ",
+        "03 860.2875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Alva",
+      "County": [
+        "Woods, OK",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Woodward",
+      "County": [
+        "Woodward, OK",
+        "01 855.7625c ",
+        "02 858.3375c ",
+        "03 860.3375c ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Davis",
+      "County": [
+        "Murray, OK",
+        "01 855.2625c ",
+        "02 855.5875c ",
+        "03 860.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Madill",
+      "County": [
+        "Marshall, OK",
+        "01 855.0375c ",
+        "02 858.8875c ",
+        "03 859.8875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Fairview",
+      "County": [
+        "Major, OK",
+        "01 856.8875c ",
+        "02 857.8875c ",
+        "03 860.2875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Durant",
+      "County": [
+        "Bryan, OK",
+        "01 855.7625c ",
+        "02 858.3375c ",
+        "03 860.3375c ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Enid",
+      "County": [
+        "Garfield, OK",
+        "01 855.2625c ",
+        "02 855.5875c ",
+        "03 860.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Tonkawa",
+      "County": [
+        "Kay, OK",
+        "01 856.3625c ",
+        "02 857.3625c ",
+        "03 858.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Ardmore",
+      "County": [
+        "Carter, OK",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Ada",
+      "County": [
+        "Pontotoc, OK",
+        "01 855.7625c ",
+        "02 858.3375c ",
+        "03 860.3375c ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Wayne",
+      "County": [
+        "McClain, OK",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        "04 860.3875c "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Drumright",
+      "County": [
+        "Creek, OK",
+        "01 855.2625c ",
+        "02 855.5875c ",
+        "03 860.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Sapulpa",
+      "County": [
+        "Creek, OK",
+        "01 856.8875c ",
+        "02 857.8875c ",
+        "03 860.2875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Muskogee",
+      "County": [
+        "Muskogee, OK",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        "04 855.0375c "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Gans",
+      "County": [
+        "Sequoyah, OK",
+        "01 856.3625c ",
+        "02 857.3625c ",
+        "03 858.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Fort Smith, Arkansas",
+      "County": [
+        "Crawford, AR",
+        "01 855.2625c ",
+        "02 855.5875c ",
+        "03 860.3625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Poteau",
+      "County": [
+        "Le Flore, OK",
+        "01 855.7625c ",
+        "02 858.8625c ",
+        "03 859.8625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Paris, Arkansas",
+      "County": [
+        "Logan, AR",
+        "01 857.3875c ",
+        "02 858.3875c ",
+        "03 859.3875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "216 (D8)",
+      "Name": "Winslow, Arkansas",
+      "County": [
+        "Washington, AR",
+        "01 856.8875c ",
+        "02 857.8875c ",
+        "03 860.2875c ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "34 ",
+      "AFS ": "00-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONTROL1",
+      "Description": "Control 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35 ",
+      "AFS ": "00-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONTROL2",
+      "Description": "Control 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "36 ",
+      "AFS ": "00-044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "METER",
+      "Description": "Meter ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "38 ",
+      "AFS ": "00-046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ST-LITE",
+      "Description": "Street Light Repair -- OKC Metro ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "66 ",
+      "AFS ": "00-082 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TREE-CON",
+      "Description": "Tree Clearing -- OKC Metro ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "68 ",
+      "AFS ": "00-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NETWORK",
+      "Description": "Network ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "70 ",
+      "AFS ": "00-086 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MET-CNST",
+      "Description": "Meter Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "98 ",
+      "AFS ": "00-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NORTH",
+      "Description": "OKC North District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "99 ",
+      "AFS ": "00-123 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GUTHRIE",
+      "Description": "Guthrie ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "100 ",
+      "AFS ": "00-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SOUTH",
+      "Description": "OKC South District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "102 ",
+      "AFS ": "00-126 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EAST",
+      "Description": "OKC East District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "104 ",
+      "AFS ": "00-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WEST",
+      "Description": "OKC West District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "105 ",
+      "AFS ": "00-131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELRENO",
+      "Description": "El Reno ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "106 ",
+      "AFS ": "00-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WIRE-PL1",
+      "Description": "Wire 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "107 ",
+      "AFS ": "00-133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WIRE-PL2",
+      "Description": "Wire 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "129 ",
+      "AFS ": "01-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRBL-1",
+      "Description": "Trouble 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "130 ",
+      "AFS ": "01-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRBL-2",
+      "Description": "Trouble 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "131 ",
+      "AFS ": "01-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRBL-3",
+      "Description": "Trouble 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "132 ",
+      "AFS ": "01-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRBL-4",
+      "Description": "Trouble 4 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "161 ",
+      "AFS ": "01-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STORM1",
+      "Description": "Storm 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "162 ",
+      "AFS ": "01-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STORM2",
+      "Description": "Storm 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "163 ",
+      "AFS ": "01-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STORM3",
+      "Description": "Storm 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "164 ",
+      "AFS ": "01-044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STORM4",
+      "Description": "Storm 4 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "165 ",
+      "AFS ": "01-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STORM5",
+      "Description": "Storm 5 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "193 ",
+      "AFS ": "01-081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SYS-CST1",
+      "Description": "System Construction 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "194 ",
+      "AFS ": "01-082 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SYS-CST2",
+      "Description": "System Construction 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "195 ",
+      "AFS ": "01-083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SYS-CST3",
+      "Description": "System Construction 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "196 ",
+      "AFS ": "01-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SYS-CST4",
+      "Description": "System Construction 4 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "197 ",
+      "AFS ": "01-085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SYS-CST",
+      "Description": "System Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "198 ",
+      "AFS ": "01-086 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MATERIAL",
+      "Description": "Material ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "225 ",
+      "AFS ": "01-121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TELECOM",
+      "Description": "System-Wide Communications ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "227 ",
+      "AFS ": "01-123 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCC-DISP",
+      "Description": "SCC Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "232 ",
+      "AFS ": "01-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ENID-SCC",
+      "Description": "Enid SCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "233 ",
+      "AFS ": "01-131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHAW-SCC",
+      "Description": "Shawnee SCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "234 ",
+      "AFS ": "01-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARD-SCC",
+      "Description": "Ardmore SCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "235 ",
+      "AFS ": "01-133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MUSK-SCC",
+      "Description": "Muskogee SCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "236 ",
+      "AFS ": "01-134 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT S-SCC",
+      "Description": "Fort Smith SCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "257 ",
+      "AFS ": "02-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CORP",
+      "Description": "Corporate Offices ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "264 ",
+      "AFS ": "02-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONV PTCH",
+      "Description": "Conventional Patch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "270 ",
+      "AFS ": "02-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT-1",
+      "Description": "FT 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "520 ",
+      "AFS ": "04-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MUSK-ACC",
+      "Description": "Muskogee ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "545 ",
+      "AFS ": "04-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ACC-DISP",
+      "Description": "Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "548 ",
+      "AFS ": "04-044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ADA",
+      "Description": "Ada ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "549 ",
+      "AFS ": "04-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DURANT",
+      "Description": "Durant ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "555 ",
+      "AFS ": "04-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARD-CNT",
+      "Description": "Ardmore CNT ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "557 ",
+      "AFS ": "04-055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARD-CST",
+      "Description": "Ardmore Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "558 ",
+      "AFS ": "04-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARD-OP",
+      "Description": "Ardmore Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "560 ",
+      "AFS ": "04-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARD-ACC",
+      "Description": "Ardmore ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "561 ",
+      "AFS ": "04-061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAP-ACC",
+      "Description": "Sapulpa ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "562 ",
+      "AFS ": "04-062 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ENID-ACC",
+      "Description": "Enid ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "563 ",
+      "AFS ": "04-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHAW-ACC",
+      "Description": "Shawnee ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "565 ",
+      "AFS ": "04-065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT S-ACC",
+      "Description": "Fort Smith ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "566 ",
+      "AFS ": "04-066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NORM-ACC",
+      "Description": "Norman ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "567 ",
+      "AFS ": "04-067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELR-ACC",
+      "Description": "El Reno ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "568 ",
+      "AFS ": "04-070 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GUTH-ACC",
+      "Description": "Guthrie ACC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "578 ",
+      "AFS ": "04-082 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PAULS-VL",
+      "Description": "Pauls Valley ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "609 ",
+      "AFS ": "04-121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ENID-CST",
+      "Description": "Enid Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "610 ",
+      "AFS ": "04-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ENID-OP",
+      "Description": "Enid Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "612 ",
+      "AFS ": "04-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WOODWARD",
+      "Description": "Woodward ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "615 ",
+      "AFS ": "04-127 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ENID-CNT",
+      "Description": "Enid ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "619 ",
+      "AFS ": "04-133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLPP MAIN",
+      "Description": "Sooner Lake Power Plant -- Main Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "620 ",
+      "AFS ": "04-134 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLPP SIDE",
+      "Description": "Sooner Lake Power Plant -- Side Channel ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "621 ",
+      "AFS ": "04-135 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLPP SIDE",
+      "Description": "Sooner Lake Power Plant -- Side Channel ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "622 ",
+      "AFS ": "04-136 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLPP SIDE ",
+      "Description": "Sooner Lake Power Plant -- Side Channel (Ch 6?) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "641 ",
+      "AFS ": "05-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MUSK-CST",
+      "Description": "Muskogee CST ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "642 ",
+      "AFS ": "05-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MUSK-OP",
+      "Description": "Muskogee Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "644 ",
+      "AFS ": "05-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAPULPA",
+      "Description": "Sapulpa ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "645 ",
+      "AFS ": "05-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DRUMRIGH",
+      "Description": "Drumright ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "647 ",
+      "AFS ": "05-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MUSK-CNT",
+      "Description": "Muskogee CNT ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "673 ",
+      "AFS ": "05-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHAW-CST",
+      "Description": "Shawnee Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "674 ",
+      "AFS ": "05-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHAW-OP",
+      "Description": "Shawnee Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "679 ",
+      "AFS ": "05-047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHAW-CNT",
+      "Description": "Shawnee CNT ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "683 ",
+      "AFS ": "05-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SEMINOLE EGP",
+      "Description": "Seminole EGP Konawa ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "685 ",
+      "AFS ": "05-055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SEMINOLE EGP",
+      "Description": "Seminole EGP Konawa ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "686 ",
+      "AFS ": "05-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SEMINOLE EGP",
+      "Description": "Seminole EGP Konawa ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "705 ",
+      "AFS ": "05-081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT S-CST",
+      "Description": "Fort Smith CST ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "706 ",
+      "AFS ": "05-082 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT S-OP",
+      "Description": "Fort Smith Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "708 ",
+      "AFS ": "05-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "POTEAU",
+      "Description": "Poteau ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "709 ",
+      "AFS ": "05-085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OZARK",
+      "Description": "Ozark ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "711 ",
+      "AFS ": "05-087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FT S-CNT",
+      "Description": "Fort Smith CNT ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "725 ",
+      "AFS ": "05-105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST1",
+      "Description": "Test Channel 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "726 ",
+      "AFS ": "05-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST2",
+      "Description": "Test Channel 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "727 ",
+      "AFS ": "05-107 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST3",
+      "Description": "Test Channel 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "728 ",
+      "AFS ": "05-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST4",
+      "Description": "Test Channel 4 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "729 ",
+      "AFS ": "05-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST5",
+      "Description": "Test Channel 5 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "730 ",
+      "AFS ": "05-112 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST6",
+      "Description": "Test Channel 6 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "731 ",
+      "AFS ": "05-113 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST7",
+      "Description": "Test Channel 7 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "732 ",
+      "AFS ": "05-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST8",
+      "Description": "Test Channel 8 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "733 ",
+      "AFS ": "05-115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST9",
+      "Description": "Test Channel 9 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "734 ",
+      "AFS ": "05-116 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST10",
+      "Description": "Test Channel 10 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "735 ",
+      "AFS ": "05-117 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAPULPA CTL",
+      "Description": "Sapulpa Control 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "737 ",
+      "AFS ": "05-121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEST12",
+      "Description": "Test Channel 12 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "System Name": "Pleasant Valley State Prison",
+  "Location": "Coalinga, CA",
+  "County": "Fresno",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "November 15, 2015, 5:26 am (Default Location Data Updated to 36.133716 / -120.245061 / .75)",
+  "System ID List": [
+    {
+      "System ID": "2935",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Fleetmap": [],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "858.2625",
+        "859.2625",
+        "860.2625c"
+      ]
+    }
+  ]
+}

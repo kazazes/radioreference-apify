@@ -1,0 +1,51 @@
+{
+  "System Name": "Federal Prison Camp Maxwell",
+  "Location": "Montgomery, AL",
+  "County": "Montgomery",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 6, 2015, 11:22 pm (Changed Site # 001 (Camp Maxwell) to 001 (Camp Maxwell))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.01250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "4A3C",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Camp Maxwell",
+      "Freqs": [
+        "406.8125c",
+        "406.4125",
+        "407.0125",
+        "407.6125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "",
+      "Alpha Tag": "Camp Max Ops1",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "",
+      "Alpha Tag": "Camp Max Ops2",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

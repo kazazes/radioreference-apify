@@ -1,0 +1,19 @@
+{
+  "System Name": "Rentschler Stadium (DMR)",
+  "Location": "East Hartford, CT",
+  "County": "Hartford",
+  "System Type": "DMR Hytera XPT",
+  "System Voice": "DMR",
+  "Last Updated": "January 12, 2017, 11:24 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Rentschler Stadium",
+        "01 462.1375 ",
+        "02 463.6625 ",
+        "03 463.7875 "
+      ]
+    }
+  ]
+}

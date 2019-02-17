@@ -1,0 +1,27 @@
+{
+  "System Name": "Advocate South Suburban Hospital",
+  "Location": "Hazel Crest, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 23, 2017, 8:06 am (Added Site # 1 (Hazel Crest))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hazel Crest",
+        "01 464.375 ",
+        "02 462.100 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "S Sub Hosp Sec",
+      "Description": "South Suburban Hospital: Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

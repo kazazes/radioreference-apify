@@ -1,0 +1,478 @@
+{
+  "System Name": "Avista Utilities",
+  "Location": "Various, WA ID MT OR",
+  "County": "21 counties",
+  "System Type": "MPT-1327 Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 9, 2017, 1:21 am (Changed Site # 4119 (Black Mt) to 16665 (Black Mt))",
+  "System Frequencies": [
+    {
+      "Site": "16521 (4089)",
+      "Name": "Ritzville",
+      "County": "Adams, WA",
+      "Freqs": [
+        "217.00625c",
+        "217.13125",
+        "217.25625"
+      ]
+    },
+    {
+      "Site": "16529 (4091)",
+      "Name": "Creston",
+      "County": "Lincoln, WA",
+      "Freqs": [
+        "217.03125c",
+        "217.15625",
+        "217.28125"
+      ]
+    },
+    {
+      "Site": "16537 (4099)",
+      "Name": "Three Springs",
+      "County": "Grant, WA",
+      "Freqs": [
+        "217.06875c",
+        "217.19375",
+        "217.31875"
+      ]
+    },
+    {
+      "Site": "16553 (40A9)",
+      "Name": "Devils Gap",
+      "County": "Lincoln, WA",
+      "Freqs": [
+        "217.05625c",
+        "217.18125",
+        "217.30625"
+      ]
+    },
+    {
+      "Site": "16561 (40B1)",
+      "Name": "Flagstaff",
+      "County": "Stevens, WA",
+      "Freqs": [
+        "217.01875c",
+        "217.14375",
+        "217.26875"
+      ]
+    },
+    {
+      "Site": "16569 (40B9)",
+      "Name": "Colville Mt",
+      "County": "Stevens, WA",
+      "Freqs": [
+        "217.04375c",
+        "217.16875",
+        "217.29375"
+      ]
+    },
+    {
+      "Site": "16577 (40C1)",
+      "Name": "Monumental Mtn",
+      "County": "Stevens, WA",
+      "Freqs": [
+        "217.09375c",
+        "217.21875",
+        "217.34375"
+      ]
+    },
+    {
+      "Site": "16585 (40C9)",
+      "Name": "Mt Spokane",
+      "County": "Spokane, WA",
+      "Freqs": [
+        "217.11875c",
+        "217.24375",
+        "217.36875"
+      ]
+    },
+    {
+      "Site": "16593 (40D1)",
+      "Name": "Mica Peak",
+      "County": "Kootenai, ID",
+      "Freqs": [
+        "217.08125c",
+        "217.20625",
+        "217.33125"
+      ]
+    },
+    {
+      "Site": "16649 (4109)",
+      "Name": "Goose Peak",
+      "County": "Shoshone, ID",
+      "Freqs": [
+        "217.06875c",
+        "217.19375",
+        "217.31875"
+      ]
+    },
+    {
+      "Site": "16657 (4111)",
+      "Name": "St Joe Baldy",
+      "County": "Benewah, ID",
+      "Freqs": [
+        "217.04375c",
+        "217.16875",
+        "217.29375"
+      ]
+    },
+    {
+      "Site": "16665 (4119)",
+      "Name": "Black Mt",
+      "County": "Boundary, ID",
+      "Freqs": [
+        "217.00625c",
+        "217.13125",
+        "217.25625"
+      ]
+    },
+    {
+      "Site": "16673 (4121)",
+      "Name": "Site 4121",
+      "County": ", ",
+      "Freqs": [
+        "217.01875c",
+        "217.14375",
+        "217.26875"
+      ]
+    },
+    {
+      "Site": "16681 (4129)",
+      "Name": "Sandpoint",
+      "County": "Bonner, ID",
+      "Freqs": [
+        "217.03125c",
+        "217.15625",
+        "217.28125"
+      ]
+    },
+    {
+      "Site": "16697 (4139)",
+      "Name": "Site 4139",
+      "County": ", ",
+      "Freqs": [
+        "217.05625c",
+        "217.18125",
+        "217.30625"
+      ]
+    },
+    {
+      "Site": "16785 (4191)",
+      "Name": "Site 4191",
+      "County": ", ",
+      "Freqs": [
+        "217.06875c",
+        "217.19375",
+        "217.31875"
+      ]
+    },
+    {
+      "Site": "16793 (4199)",
+      "Name": "Site 4199",
+      "County": ", ",
+      "Freqs": [
+        "217.10625c",
+        "217.23125",
+        "217.35625"
+      ]
+    },
+    {
+      "Site": "16817 (41B1)",
+      "Name": "Steptoe Butte",
+      "County": "Whitman, WA",
+      "Freqs": [
+        "217.23125c",
+        "217.35625",
+        " "
+      ]
+    },
+    {
+      "Site": "16825 (41B9)",
+      "Name": "Site 41B9",
+      "County": ", ",
+      "Freqs": [
+        "217.01875c",
+        "217.04375",
+        "217.26875"
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Scott Mtn",
+      "County": "Douglas, OR",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Elk Mtn",
+      "County": "Josephine, OR",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Klickitat",
+      "County": "Klickitat, WA",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Teakean Butte",
+      "County": "Clearwater, ID",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Pilot Knob",
+      "County": "Idaho, ID",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Lewiston Ridge",
+      "County": "Garfield, WA",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Hogback",
+      "County": "Klamath, OR",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Baldy-Safley",
+      "County": "Jackson, OR",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "West Twin",
+      "County": "Latah, ID",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Shawnee",
+      "County": "Whitman, WA",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Lind",
+      "County": "Adams, WA",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "99999 (1869F)",
+      "Name": "Cottonwood Butte",
+      "County": "Idaho, ID",
+      "Freqs": [
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "7100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SouthAllCall",
+      "Description": "South Zone All Call ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LineStringer",
+      "Description": "Line Stringer ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Linemen Disp",
+      "Description": "Lineman Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pullman",
+      "Description": "Pullman Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grangeville",
+      "Description": "Grangeville Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7140 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Orofino",
+      "Description": "Orofino Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telcom Shop",
+      "Description": "Telcom Shop ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7160 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SysOpAllCall",
+      "Description": "System Operator All Call ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7170 ",
+      "Mode  ": "A",
+      "Alpha Tag": "South White",
+      "Description": "South White ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7180 ",
+      "Mode  ": "A",
+      "Alpha Tag": "South Blue",
+      "Description": "South Blue ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "7700 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CZ AllCall",
+      "Description": "Central Zone All Call ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7710 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spokane Elec",
+      "Description": "Spokane Electric Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7720 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spokane Gas",
+      "Description": "Spokane Gas Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7730 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GCC",
+      "Description": "GCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7740 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Underground",
+      "Description": "Underground Net ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7750 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telcom Shop",
+      "Description": "Telcom Shop ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7760 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SysOpAllCall",
+      "Description": "System Operator All Call ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7770 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CZ White",
+      "Description": "Central White ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7780 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CZ Blue",
+      "Description": "Central Blue ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7810 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DPWS",
+      "Description": "DPWS ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7820 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Relay Shop",
+      "Description": "Central Relay Shop ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7830 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meter Shop",
+      "Description": "Central Meter Shop ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

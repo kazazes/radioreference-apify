@@ -1,0 +1,42 @@
+{
+  "System Name": "Herscher Community Unit School District 2 (Kankakee)",
+  "Location": "Herscher, IL",
+  "County": "Kankakee",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 11, 2011, 11:45 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 462.500 ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Unidentified LCN",
+        "01 463.700 ",
+        "02 463.375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-255 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW-ID R01",
+      "Description": "CW-ID R01 462.5 ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-05-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Mnt 025",
+      "Description": "HVAC Maintenance ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

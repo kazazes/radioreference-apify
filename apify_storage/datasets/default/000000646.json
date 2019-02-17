@@ -1,0 +1,55 @@
+{
+  "System Name": "Union Station Alliance",
+  "Location": "Denver, CO",
+  "County": "Denver",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 24, 2017, 10:01 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Union Station",
+        "01 451.775 ",
+        "02 452.425 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CH Front Desk",
+      "Description": "Crawford Hotel Front Desk ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Union Sta Sec",
+      "Description": "Union Station Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CH Housekeeping",
+      "Description": "Crawford Hotel Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CH Engineering",
+      "Description": "Crawford Hotel Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "55 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CH Valet Parking",
+      "Description": "Crawford Hotel Valet Parking ",
+      "Tag  ": "Business "
+    }
+  ]
+}

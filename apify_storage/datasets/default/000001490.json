@@ -1,0 +1,48 @@
+{
+  "System Name": "Costco Wholesale Distribution Center - Morris",
+  "Location": "Morris, IL",
+  "County": "Grundy",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 21, 2018, 7:28 pm (Added Talkgroup 105 Warehouse Ops(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 461.350 ",
+        "02 451.675 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WarehouseOps 101",
+      "Description": "Warehouse Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WarehouseOps 103",
+      "Description": "Warehouse Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WarehouseOps",
+      "Description": "Warehouse Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WarehouseOps",
+      "Description": "Warehouse Ops ",
+      "Tag  ": "Business "
+    }
+  ]
+}

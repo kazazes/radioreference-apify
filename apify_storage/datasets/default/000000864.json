@@ -1,0 +1,415 @@
+{
+  "System Name": "Ascend Performance Materials LLC",
+  "Location": "Cantonment, FL",
+  "County": "Escambia",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 7, 2012, 11:05 pm (Changed Talkgroup Category: Ascend Performance Materials to Ascend Performance Materials)",
+  "System ID List": [
+    {
+      "System ID": "3E20",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Ascend Materials",
+      "Freqs": [
+        "855.5125",
+        "855.7875",
+        "856.2875",
+        "856.7875c",
+        "857.2875c",
+        "857.7875",
+        "858.2875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1632 ",
+      "HEX ": "066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 1632",
+      "Description": "APM Operations 1632 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 1648",
+      "Description": "APM Operations 1648 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 1712",
+      "Description": "APM Operations 1712 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1728 ",
+      "HEX ": "06c ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 1728",
+      "Description": "APM Operations 1728 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 3216",
+      "Description": "APM Operations 3216 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3232 ",
+      "HEX ": "0ca ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 3232",
+      "Description": "APM Operations 3232 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4832 ",
+      "HEX ": "12e ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 4832",
+      "Description": "APM Operations 4832 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4848 ",
+      "HEX ": "12f ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 4848",
+      "Description": "APM Operations 4848 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6416 ",
+      "HEX ": "191 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 6416",
+      "Description": "APM Operations 6416 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8016 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 8016",
+      "Description": "APM Operations 8016 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8032 ",
+      "HEX ": "1f6 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 8032",
+      "Description": "APM Operations 8032 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8048 ",
+      "HEX ": "1f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 8048",
+      "Description": "APM Operations 8048 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8080 ",
+      "HEX ": "1f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 8080",
+      "Description": "APM Operations 8080 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8208 ",
+      "HEX ": "201 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 8208",
+      "Description": "APM Operations 8208 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9616 ",
+      "HEX ": "259 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 9616",
+      "Description": "APM Operations 9616 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9632 ",
+      "HEX ": "25a ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 9632",
+      "Description": "APM Operations 9632 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9648 ",
+      "HEX ": "25b ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 9648",
+      "Description": "APM Operations 9648 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11216 ",
+      "HEX ": "2bd ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 11216",
+      "Description": "APM Operations 11216 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11232 ",
+      "HEX ": "2be ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 11232",
+      "Description": "APM Operations 11232 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11248 ",
+      "HEX ": "2bf ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 11248",
+      "Description": "APM Operations 11248 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12816 ",
+      "HEX ": "321 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 12816",
+      "Description": "APM Operations 12816 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12832 ",
+      "HEX ": "322 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 12832",
+      "Description": "APM Operations 12832 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12864 ",
+      "HEX ": "324 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 12864",
+      "Description": "APM Operations 12864 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14416 ",
+      "HEX ": "385 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 14416",
+      "Description": "APM Operations 14416 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14432 ",
+      "HEX ": "386 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 14432",
+      "Description": "APM Operations 14432 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14448 ",
+      "HEX ": "387 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 14448",
+      "Description": "APM Operations 14448 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14464 ",
+      "HEX ": "388 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 14464",
+      "Description": "APM Operations 14464 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 16016",
+      "Description": "APM Operations 16016 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16032 ",
+      "HEX ": "3ea ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 16032",
+      "Description": "APM Operations 16032 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17616 ",
+      "HEX ": "44d ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17616",
+      "Description": "APM Operations 17616 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17632 ",
+      "HEX ": "44e ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17632",
+      "Description": "APM Operations 17632 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17648 ",
+      "HEX ": "44f ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17648",
+      "Description": "APM Operations 17648 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17680 ",
+      "HEX ": "451 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17680",
+      "Description": "APM Operations 17680 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17696 ",
+      "HEX ": "452 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17696",
+      "Description": "APM Operations 17696 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17712 ",
+      "HEX ": "453 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17712",
+      "Description": "APM Operations 17712 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17744 ",
+      "HEX ": "455 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17744",
+      "Description": "APM Operations 17744 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17776 ",
+      "HEX ": "457 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 17776",
+      "Description": "APM Operations 17776 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19232 ",
+      "HEX ": "4b2 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 19232",
+      "Description": "APM Operations 19232 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19264 ",
+      "HEX ": "4b4 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 19264",
+      "Description": "APM Operations 19264 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20832 ",
+      "HEX ": "516 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 20832",
+      "Description": "APM Operations 20832 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24016 ",
+      "HEX ": "5dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24016",
+      "Description": "APM Operations 24016 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24048 ",
+      "HEX ": "5df ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24048",
+      "Description": "APM Operations 24048 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24064 ",
+      "HEX ": "5e0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24064",
+      "Description": "APM Operations 24064 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24080 ",
+      "HEX ": "5e1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24080",
+      "Description": "APM Operations 24080 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24144 ",
+      "HEX ": "5e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24144",
+      "Description": "APM Operations 24144 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24160 ",
+      "HEX ": "5e6 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 24160",
+      "Description": "APM Operations 24160 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48032 ",
+      "HEX ": "bba ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 48032",
+      "Description": "APM Operations 48032 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48064 ",
+      "HEX ": "bbc ",
+      "Mode  ": "A",
+      "Alpha Tag": "APM 48064",
+      "Description": "APM Operations 48064 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

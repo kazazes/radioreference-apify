@@ -1,0 +1,20 @@
+{
+  "System Name": "Perry Township Metropolitan School District (TRBO)",
+  "Location": "Indianapolis, IN",
+  "County": "Marion",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 8, 2018, 12:55 am (Changed Site # 001 (Campus Repeater) to 001 (Campus Repeater))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Campus Repeater",
+        "00 462.225 ",
+        "00 462.275 ",
+        "01 461.350 ",
+        "03 462.500c "
+      ]
+    }
+  ]
+}

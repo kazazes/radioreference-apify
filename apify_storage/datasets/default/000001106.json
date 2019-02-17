@@ -1,0 +1,148 @@
+{
+  "System Name": "Fayette County Public Services",
+  "Location": "Fayetteville, GA",
+  "County": "Fayette",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "September 29, 2017, 4:30 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "203D",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "2",
+      "B1": "2",
+      "B2": "2",
+      "B3": "2",
+      "B4": "2",
+      "B5": "2",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S0",
+      "B1": "S0",
+      "B2": "S0",
+      "B3": "S0",
+      "B4": "S0",
+      "B5": "S0",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "853.2875",
+        "853.5625",
+        "853.8375",
+        "854.1125",
+        "854.3875c",
+        "854.7625c",
+        "856.1625c",
+        "857.0375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "912 ",
+      "HEX ": "039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCGS Buildng",
+      "Description": "County Building Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "2384 ",
+      "HEX ": "095 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TGRP 2384",
+      "Description": "Unknown User ",
+      "Tag  ": "Public Works "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "7312 ",
+      "HEX ": "1c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD Tac 1",
+      "Description": "Tactical 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "7344 ",
+      "HEX ": "1cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD Tac 2",
+      "Description": "Tactical 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "31888 ",
+      "HEX ": "7c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD Ops 1",
+      "Description": "Operations ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD Admin",
+      "Description": "Admin ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1744 ",
+      "HEX ": "06d ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD CID",
+      "Description": "CID ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1776 ",
+      "HEX ": "06f ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD SpecOps",
+      "Description": "Special Ops ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1808 ",
+      "HEX ": "071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PCPD T/A",
+      "Description": "Talk Around ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

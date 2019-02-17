@@ -1,0 +1,106 @@
+{
+  "System Name": "Rides Mass Transit District (DMR)",
+  "Location": "Southern IL, IL",
+  "County": "17 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "August 1, 2018, 10:02 pm (Changed Site # 111 (Marshall) to 111 (Marshal))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Phillipstown",
+      "County": [
+        "White",
+        "463.3625 (CC 1)",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Bluford",
+      "County": [
+        "Jefferson",
+        "464.075 (CC 2)",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Harrisburg",
+      "County": [
+        "Pope",
+        "461.9375 (CC 5)",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Cobden",
+      "County": [
+        "Union",
+        "463.9375 (CC 7)",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Mount Carmel",
+      "County": [
+        "Effingham",
+        "463.425 (CC 10)",
+        " "
+      ]
+    },
+    {
+      "Site": "111 (6F)",
+      "Name": "Marshal",
+      "County": [
+        "Clark",
+        "463.9125 (CC 0)",
+        "463.7875 (CC 0)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Harrisburg",
+      "Description": "Harrisburg ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cobden",
+      "Description": "Cobden ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Phillipstown",
+      "Description": "Phillipstown ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "4 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bluford",
+      "Description": "Bluford ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "7 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Mount Carmel",
+      "Description": "Mount Carmel ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

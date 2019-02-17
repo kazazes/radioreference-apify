@@ -1,0 +1,21 @@
+{
+  "System Name": "Merrimack Hall Performing Arts Center",
+  "Location": "Huntsville, AL",
+  "County": "Madison",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 7, 2012, 10:16 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Merrimack Hall",
+        "01 453.225 ",
+        "02 453.475 ",
+        "03 453.875 ",
+        "04 460.0375 ",
+        "05 460.075 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "System Name": "Alpha Wireless Communications Company",
+  "Location": "Fostoria, IA",
+  "County": "Clay",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 3, 2013, 1:20 pm (Added Site # 1 (Fostoria))",
+  "System ID List": [
+    {
+      "System ID": "651F",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fostoria",
+      "Freqs": [
+        "855.7875",
+        "856.7875",
+        "857.7875",
+        "858.7875c",
+        "859.7875"
+      ]
+    }
+  ]
+}

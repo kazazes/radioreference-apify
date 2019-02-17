@@ -1,0 +1,47 @@
+{
+  "System Name": "Crowne Plaza Los Angeles Airport",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 5, 2018, 5:48 pm ((1) Talkgroups Updated (Crowne Plaza))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Crowne Plaza",
+        "01 463.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OPS",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HOUSEKEEPING",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FOOD BEV",
+      "Description": "Food and Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EVENT",
+      "Description": "Event and Meeting Services ",
+      "Tag  ": "Business "
+    }
+  ]
+}

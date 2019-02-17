@@ -1,0 +1,123 @@
+{
+  "System Name": "Will County (EDACS)",
+  "Location": "Simulcast, IL",
+  "County": "Will",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 22, 2018, 2:35 am (Added a new news entry)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Simulcast",
+        "01 851.275 ",
+        "02 851.7625c ",
+        "03 852.150a ",
+        "04 852.700 ",
+        "05 853.250 ",
+        "06 853.600 ",
+        "07 854.4875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "539 ",
+      "AFS ": "04-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WCSO ISPERN",
+      "Description": "ISPERN (Patch to 155.475) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1419 ",
+      "AFS ": "11-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 11",
+      "Description": "Disaster 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1420 ",
+      "AFS ": "11-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 12",
+      "Description": "Disaster 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1421 ",
+      "AFS ": "11-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 13",
+      "Description": "Disaster 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1422 ",
+      "AFS ": "11-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 14",
+      "Description": "Disaster 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1423 ",
+      "AFS ": "11-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 15",
+      "Description": "Disaster 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1424 ",
+      "AFS ": "11-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 16",
+      "Description": "Disaster 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1425 ",
+      "AFS ": "11-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 17",
+      "Description": "Disaster 17 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1336 ",
+      "AFS ": "10-070 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Techs 10-070",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1410 ",
+      "AFS ": "11-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Techs 11-002",
+      "Description": "Radio Techs (checking radio modulation) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1411 ",
+      "AFS ": "11-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Techs 11-003",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1809 ",
+      "AFS ": "14-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Techs 14-021",
+      "Description": "Radio Techs (Holodeck) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

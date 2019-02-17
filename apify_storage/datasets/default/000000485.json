@@ -1,0 +1,98 @@
+{
+  "System Name": "San Bernardino County 05",
+  "Location": "Needles, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 10, 2017, 8:37 am ((6) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "263d",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Spirit Mountain",
+      "Freqs": [
+        "855.225",
+        "856.450c",
+        "857.975c",
+        "858.250",
+        "858.950c",
+        "859.975c",
+        "860.250",
+        "868.9375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-DC-1",
+      "Description": "Colorado River (Station 10)/Needles (Station 21) Dispatch (Patched to 4-DC-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-DTac-1",
+      "Description": "DTac-1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-ATac-1",
+      "Description": "Area Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-ATac-2",
+      "Description": "Area Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-CTac-1",
+      "Description": "Countywide Tac 1 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-CTac-2",
+      "Description": "Countywide Tac 2 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-40King",
+      "Description": "Airship Calling/Air-to-Air ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "37200 ",
+      "HEX ": "915 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-BDCFD",
+      "Description": "County Fire Non-Incident Talkaround ",
+      "Tag  ": "Fire-Talk "
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "System Name": "Paulding County",
+  "Location": "Dallas, GA",
+  "County": "Paulding",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 15, 2017, 12:32 pm (Updated 4 Talkgroup Categories)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Dallas 1",
+        "01 453.2375c ",
+        "02 453.425 ",
+        "03 453.6125 ",
+        "04 453.7375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Hiram",
+        "01 460.0375c ",
+        "02 460.1875 ",
+        "03 460.3375 ",
+        "04 460.450 ",
+        "05 460.5875 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Dallas 2",
+        "01 453.2625c ",
+        "02 453.5875 ",
+        "03 453.6875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": [
+        "Yorkville",
+        "01 460.125c ",
+        "02 460.225 ",
+        "03 460.4125 ",
+        "04 460.525 ",
+        "05 460.625 "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": [
+        "Acworth",
+        "01 453.1875c ",
+        "02 453.3375 ",
+        "03 453.5625 ",
+        "04 453.6625 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "200 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCFD DISP",
+      "Description": "Fire/EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCFD FG 1",
+      "Description": "Fire Ground 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCFD TAC 1",
+      "Description": "Fire Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "400 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DPD DISP",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "System Name": "Braves Development Company",
+  "Location": "Smyrna, GA",
+  "County": "Cobb",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 25, 2017, 7:31 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "The Battery Atlanta",
+        "01 461.800 ",
+        "02 464.925 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Custodial",
+      "Description": "Custodial ",
+      "Tag  ": "Business "
+    }
+  ]
+}

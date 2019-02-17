@@ -1,0 +1,107 @@
+{
+  "System Name": "Cincinnati/Northern Kentucky International Airport (CVG) P25",
+  "Location": "Hebron, KY",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 8, 2018, 5:46 pm (Changed Site # 001 (CVG-Hebron, KY) to 001 (CVG-Hebron, KY))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92496"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "CVG-Hebron, KY",
+      "County": "Kenton",
+      "Freqs": [
+        "856.0125a",
+        "856.7375c",
+        "856.9375a",
+        "857.7375a",
+        "857.9375a",
+        "858.9375a",
+        "859.7375a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "324 ",
+      "HEX ": "144 ",
+      "Mode  ": "D",
+      "Alpha Tag": "XCVG FD/EMS",
+      "Description": "Fire & EMS Main (patched to EDACS) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "325 ",
+      "HEX ": "145 ",
+      "Mode  ": "D",
+      "Alpha Tag": "XCVG FG1",
+      "Description": "Possibly fireground 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2326 ",
+      "HEX ": "916 ",
+      "Mode  ": "D",
+      "Alpha Tag": "XCVG FG3",
+      "Description": "Possibly fireground 3 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "300 ",
+      "HEX ": "12c ",
+      "Mode  ": "D",
+      "Alpha Tag": "XCVG MAIN",
+      "Description": "Ops calling to PD Dispatch (patched to EDACS) ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "130 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSA",
+      "Description": "Public Safety Assistants ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "313 ",
+      "HEX ": "139 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CVG FIELD MX",
+      "Description": "Field Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "340 ",
+      "HEX ": "154 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CVG FACS MX",
+      "Description": "Facilities Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "341 ",
+      "HEX ": "155 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CVG ELEC",
+      "Description": "Electricians ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "352 ",
+      "HEX ": "160 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CVG HSEKEEP",
+      "Description": "Housekeeping ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

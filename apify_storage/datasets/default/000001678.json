@@ -1,0 +1,21 @@
+{
+  "System Name": "KU Hospital Authority",
+  "Location": "Kansas City, KS",
+  "County": "Wyandotte",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 19, 2018, 12:10 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Kansas City",
+      "Freqs": [
+        "461.9125",
+        "463.3375",
+        "463.7125",
+        "464.2375",
+        "464.6625"
+      ]
+    }
+  ]
+}

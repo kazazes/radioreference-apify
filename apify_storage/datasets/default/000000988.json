@@ -1,0 +1,59 @@
+{
+  "System Name": "Pasco County (P25)",
+  "Location": "Pasco County, FL",
+  "County": "Pasco",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 8, 2019, 11:01 am (Added a new news entry)",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "927F9"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "010 (A)",
+      "Name": "010",
+      "Freqs": [
+        "855.1625c",
+        "855.3625a",
+        "855.6375a",
+        "855.8625a",
+        "856.3625a",
+        "856.8875a",
+        "857.3875a",
+        "858.3125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3101 ",
+      "HEX ": "c1d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PCFD DISP-1",
+      "Description": "Fire Dispatch 1 (West) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "3102 ",
+      "HEX ": "c1e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PCFD DISP-2",
+      "Description": "Fire Dispatch 2 (East) ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2231 ",
+      "HEX ": "8b7 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ZFD DISP",
+      "Description": "Fire Dispatch  ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "System Name": "Department of Commerce NTIA/PSCR Lab Test System",
+  "Location": "Boulder, CO",
+  "County": "Boulder",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 1, 2014, 4:03 pm (Changed Site # 101 (Site 5-101) to 101 (Site 5-101))",
+  "System ID List": [
+    {
+      "System ID": "AD1",
+      "WACN": "BEE07"
+    },
+    {
+      "System ID": "AD5",
+      "WACN": "BEE07"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Sysid": "AD1",
+      "RFSS": "4 (4)",
+      "Site": "100 (64)",
+      "Name": "Site 4-100",
+      "Freqs": "410.725c"
+    },
+    {
+      "Sysid": "AD1",
+      "RFSS": "5 (5)",
+      "Site": "101 (65)",
+      "Name": "Site 5-101",
+      "Freqs": "410.0625c"
+    },
+    {
+      "Sysid": "AD5",
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Site 2-1",
+      "Freqs": "172.100c"
+    },
+    {
+      "Sysid": "AD5",
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Site 2-2",
+      "Freqs": "172.0875c"
+    },
+    {
+      "Sysid": "AD5",
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Site 3-3",
+      "Freqs": "410.225c"
+    }
+  ]
+}

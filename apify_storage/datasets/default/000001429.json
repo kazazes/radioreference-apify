@@ -1,0 +1,160 @@
+{
+  "System Name": "Comlink Wireless (NXDN-61)",
+  "Location": "Various, IL",
+  "County": "5 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 13, 2019, 2:38 pm (Changed Site # 007 (Chicago) to 007 (Chicago))",
+  "System ID List": [
+    {
+      "System ID": "61"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "County": "",
+      "Freqs": [
+        "0.000c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Carol Stream",
+      "County": "DuPage",
+      "Freqs": [
+        "454.153125",
+        "454.496875c",
+        "454.640625",
+        "454.659375",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Aurora",
+      "County": "Kane",
+      "Freqs": [
+        "454.034375",
+        "454.146875c",
+        "454.284375",
+        "454.490625",
+        "454.615625"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Joliet",
+      "County": "Will",
+      "Freqs": [
+        "454.015625",
+        "454.159375",
+        "454.503125c",
+        "454.653125",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lake Zurich",
+      "County": "Lake",
+      "Freqs": [
+        "454.015625c",
+        "454.509375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Posen",
+      "County": "Cook",
+      "Freqs": [
+        "454.140625c",
+        "454.240625",
+        "454.509375",
+        "454.646875",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Chicago",
+      "County": "Cook",
+      "Freqs": [
+        "454.065625c",
+        "454.215625",
+        "454.590625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "WarrenTownship",
+      "County": "Lake",
+      "Freqs": [
+        "454.140625",
+        "454.240625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Site 10",
+      "County": "",
+      "Freqs": [
+        "454.021875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "2101 1st Student",
+      "Description": "First Student ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "3001 1st Student",
+      "Description": "First Student - Naperville/Aurora/Batavia Yards ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "3003 Bus",
+      "Description": "School Bus (First Student?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "3005 1st Student",
+      "Description": "First Student ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3301 ",
+      "Mode  ": "D",
+      "Alpha Tag": "3301 Sunrise",
+      "Description": "Sunrise Bus? (Chicago) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

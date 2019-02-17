@@ -1,0 +1,190 @@
+{
+  "System Name": "NJ-TRBO Linked Amateur Radio Network",
+  "Location": "Various, NJ NY PA DE",
+  "County": "13 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "November 15, 2018, 10:52 pm (Changed Site # 310233 (Wayne) to 310233 (Wayne))",
+  "System Frequencies": [
+    {
+      "Site": "310213 (4BBC5)",
+      "Name": "Carmel",
+      "County": [
+        "Putnam, NY",
+        "446.1875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "310233 (4BBD9)",
+      "Name": "Wayne",
+      "County": [
+        "Passaic, NJ",
+        "439.7875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311002 (4BEDA)",
+      "Name": "Roxana",
+      "County": [
+        "Sussex, DE",
+        "448.725 (CC 1)"
+      ]
+    },
+    {
+      "Site": "313407 (4C83F)",
+      "Name": "Martinsville",
+      "County": [
+        "Somerset, NJ",
+        "447.075 (CC 1)"
+      ]
+    },
+    {
+      "Site": "313408 (4C840)",
+      "Name": "Howell",
+      "County": [
+        "Monmouth, NJ",
+        "440.300 (CC 1)"
+      ]
+    },
+    {
+      "Site": "313410 (4C842)",
+      "Name": "Montclair",
+      "County": [
+        "Essex, NJ",
+        "447.225 (CC 1)"
+      ]
+    },
+    {
+      "Site": "313415 (4C847)",
+      "Name": "Manahawkin",
+      "County": [
+        "Ocean, NJ",
+        "448.075 (CC 1)"
+      ]
+    },
+    {
+      "Site": "313603 (4C903)",
+      "Name": "Orangeburg",
+      "County": [
+        "Rockland, NY",
+        "444.000 (CC 1)"
+      ]
+    },
+    {
+      "Site": "314202 (4CB5A)",
+      "Name": "Bangor",
+      "County": [
+        "Northampton, PA",
+        "445.21875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "314203 (4CB5B)",
+      "Name": "Fairless Hills",
+      "County": [
+        "Bucks, PA",
+        "447.125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "314206 (4CB5E)",
+      "Name": "Scranton",
+      "County": [
+        "Lackawanna, PA",
+        "441.350 (CC 2)"
+      ]
+    },
+    {
+      "Site": "314207 (4CB5F)",
+      "Name": "Montana Mtn",
+      "County": [
+        "Warren, NJ",
+        "444.29375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "314273 (4CBA1)",
+      "Name": "Blakeslee",
+      "County": [
+        "Monroe, PA",
+        "447.275 (CC 0)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO TS",
+      "Description": "Tri-State (Systemwide Link) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO NA",
+      "Description": "North America ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO LCL",
+      "Description": "Local ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "95 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC I-95",
+      "Description": "TAC I-95 (Florida) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3134 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO NJ",
+      "Description": "New Jersey Statewide ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3136 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO NY",
+      "Description": "New York Statewide ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3142 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRBO PA ",
+      "Description": "Pennsylvania Statewide ",
+      "Tag  ": "Ham "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "31371 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Triange NC",
+      "Description": "Triangle, NC System ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31660 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ocean County",
+      "Description": "Ocean County  ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

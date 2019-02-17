@@ -1,0 +1,51 @@
+{
+  "System Name": "Hudson Fuels - O'Hare",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "May 2, 2015, 5:48 pm (Changed Talkgroup Category: All to All)",
+  "System ID List": [
+    {
+      "System ID": "3902",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.6875",
+        "937.700a",
+        "937.725a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Air Fuel 16",
+      "Description": "Aircraft Fueling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Air Fuel 48",
+      "Description": "Aircraft Fueling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Air Fuel 80",
+      "Description": "Aircraft Fueling ",
+      "Tag  ": "Business "
+    }
+  ]
+}

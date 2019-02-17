@@ -1,0 +1,21 @@
+{
+  "System Name": "United Parcel Service",
+  "Location": "Lenexa, KS",
+  "County": "Johnson",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "December 6, 2018, 12:52 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "001 (1)",
+      "Name": "Lenexa Customer Center",
+      "Freqs": [
+        "451.775",
+        "452.150",
+        "452.650",
+        "451.325"
+      ]
+    }
+  ]
+}

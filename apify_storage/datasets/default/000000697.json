@@ -1,0 +1,100 @@
+{
+  "System Name": "Aspen Mountain Ski Resort - Ski World Cup Finals",
+  "Location": "Aspen, CO",
+  "County": "Pitkin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 18, 2017, 3:09 am (Added Talkgroup 5025 Announcement)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Ruthies Lift",
+        "01 461.575 ",
+        "03 463.725 ",
+        "05 461.650 ",
+        "07 464.675 ",
+        "09 464.475 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MensRaceCors",
+      "Description": "Mens Race Course ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WomensRace",
+      "Description": "Womens Race Course ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-012 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Time",
+      "Description": "Race Timing Team ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Ops",
+      "Description": "Race Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Volunteer",
+      "Description": "Volunteer Channel ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Snow Cat",
+      "Description": "Snow Cat Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Logistc",
+      "Description": "Race Logistics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Logistc",
+      "Description": "Race Logistics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Logistc",
+      "Description": "Race Logistics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Logistc",
+      "Description": "Race Logisitics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Announcement",
+      "Description": "Announcement ",
+      "Tag  ": "Business "
+    }
+  ]
+}

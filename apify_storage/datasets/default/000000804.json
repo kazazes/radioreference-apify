@@ -1,0 +1,158 @@
+{
+  "System Name": "Bay County Public Services",
+  "Location": "Bay County, FL",
+  "County": "Bay",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "August 26, 2018, 3:37 pm (Added Talkgroup 10832 County Lifeguards(Bay County Emergency Services ))",
+  "System ID List": [
+    {
+      "System ID": "6D3E",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "854.3625",
+        "854.5125",
+        "854.8875a",
+        "855.1375",
+        "855.6625c",
+        "855.6875",
+        "856.1625a",
+        "856.3125",
+        "856.7375",
+        "856.7625",
+        "857.2625",
+        "857.2875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "45360 ",
+      "HEX ": "b13 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EOC",
+      "Description": "Emergency Operations Center ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "45392 ",
+      "HEX ": "b15 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LAW MUTUAL-1",
+      "Description": "Local Law 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "45424 ",
+      "HEX ": "b17 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LAW MUTUAL-2",
+      "Description": "Local Law 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "45456 ",
+      "HEX ": "b19 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LAW MUTUAL-3",
+      "Description": "Local Law 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "45488 ",
+      "HEX ": "b1b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIRE MUTUAL1",
+      "Description": "Local Fire 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "45520 ",
+      "HEX ": "b1d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIRE MUTUAL2",
+      "Description": "Local Fire 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "45552 ",
+      "HEX ": "b1f ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOCAL 1",
+      "Description": "Local 1 (EMS/Fire/Law) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "45584 ",
+      "HEX ": "b21 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOCAL 2",
+      "Description": "Local 2  (EMS/Fire/Law) ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "65296 ",
+      "HEX ": "ff1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 1 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65328 ",
+      "HEX ": "ff3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 2 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65360 ",
+      "HEX ": "ff5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 3 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65392 ",
+      "HEX ": "ff7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 4 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65424 ",
+      "HEX ": "ff9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 5 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65456 ",
+      "HEX ": "ffb ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 6 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65488 ",
+      "HEX ": "ffd ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS",
+      "Description": "Radio Technicians 7 ",
+      "Tag  ": "Other "
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "System Name": "Hawaiian Airlines",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 9, 2014, 10:47 am (Added Talkgroup 2030 Mainland Ramp)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 462.325 ",
+        "02 462.000 ",
+        "03 463.325 ",
+        "04 464.4125 ",
+        "05 464.8125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-04-040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ContractSvcs",
+      "Description": "Contract Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Inter-Island",
+      "Description": "Inter-Island Terminal Flight Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MainlandRamp",
+      "Description": "Mainland Ramp ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mainland-Int",
+      "Description": "Mainland/International Terminal Flight Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint Ch 1",
+      "Description": "Maintenance Ch 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint Ch 2",
+      "Description": "Maintenance Ch 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ohana",
+      "Description": "Ohana Commuter Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Wheelchairs",
+      "Description": "Wheelchairs ",
+      "Tag  ": "Business "
+    }
+  ]
+}

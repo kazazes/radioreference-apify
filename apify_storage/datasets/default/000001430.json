@@ -1,0 +1,115 @@
+{
+  "System Name": "Chicago OEMC Public Safety - 800 MHz P25",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 10, 2019, 4:29 pm (Updated encryption settings for 1 talkgroups(Chicago Simulcast Public Safety))",
+  "System ID List": [
+    {
+      "System ID": "87d",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Chicago Simulcast",
+      "Freqs": [
+        "851.050",
+        "851.5875",
+        "852.350a",
+        "852.6375a",
+        "853.1625a",
+        "853.800c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Midway Airport",
+      "Freqs": [
+        "851.1875",
+        "851.3375",
+        "852.5375a",
+        "852.7625a",
+        "853.325a",
+        "853.725c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "O'Hare Airport",
+      "Freqs": [
+        "851.5625",
+        "851.675",
+        "851.8125",
+        "852.100a",
+        "852.2125",
+        "852.650",
+        "852.7375a",
+        "853.100a",
+        "853.225",
+        "853.350c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5081 ",
+      "HEX ": "13d9 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "CPD SWAT 81",
+      "Description": "Chicago Police SWAT Ops [ENC] ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "5091 ",
+      "HEX ": "13e3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CPD Marine Unit",
+      "Description": "Chicago Police Marine Unit Car/Car ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "7011 ",
+      "HEX ": "1b63 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CPD INCIDENT 1",
+      "Description": "Chicago Police Incident 1 ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "27006 ",
+      "HEX ": "697e ",
+      "Mode  ": "T",
+      "Alpha Tag": "MDW Snow-1",
+      "Description": "Midway Snow-1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "27007 ",
+      "HEX ": "697f ",
+      "Mode  ": "T",
+      "Alpha Tag": "MDW Snow-2",
+      "Description": "Midway Snow-2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "27015 ",
+      "HEX ": "6987 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MDW Snow-3",
+      "Description": "Midway Snow-3 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

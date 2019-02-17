@@ -1,0 +1,141 @@
+{
+  "System Name": "San Bernardino County Ontario Mills Mall",
+  "Location": "Ontario, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 29, 2018, 3:59 am (Changed Site # 001 (Ontario Mills) to 001 (Ontario Mills))",
+  "System ID List": [
+    {
+      "System ID": "512C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Ontario Mills",
+      "Freqs": [
+        "851.950",
+        "852.075",
+        "852.575a",
+        "852.950c",
+        "853.075"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8336 ",
+      "HEX ": "209 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OtoPD-1",
+      "Description": "Police Dispatch (Patched to 9-OtoPD-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8304 ",
+      "HEX ": "207 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OtoPD-4",
+      "Description": "Police Tactical 2 (Patched to 9-OtoPD-4) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1904 ",
+      "HEX ": "077 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OtoFD Disp",
+      "Description": "Fire Dispatch (Patched to 9-Fire Dispatch) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2128 ",
+      "HEX ": "085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Cmd 1",
+      "Description": "Fire Command 1 (Patched to 9-FCmd-1) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2096 ",
+      "HEX ": "083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Cmd 2",
+      "Description": "Fire Command 2 (Patched to 9-FCmd-2) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2832 ",
+      "HEX ": "0b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Cmd 3",
+      "Description": "Fire Command 3 (Patched to 9-FCmd-3) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2576 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 1",
+      "Description": "Fire Tactical 1 (Patched to 9-FTac-1) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2736 ",
+      "HEX ": "0ab ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 2",
+      "Description": "Fire Tactical 2 (Patched to 9-FTac-2) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2800 ",
+      "HEX ": "0af ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 3",
+      "Description": "Fire Tactical 3 (Patched to 9-FTac-3) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2512 ",
+      "HEX ": "09d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 4",
+      "Description": "Fire Tactical 4 (Patched to 9-FTac-4) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2608 ",
+      "HEX ": "0a3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 5",
+      "Description": "Fire Tactical 5 (Patched to 9-FTac-5) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2768 ",
+      "HEX ": "0ad ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 6",
+      "Description": "Fire Tactical 6 (Patched to 9-FTac-6) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4496 ",
+      "HEX ": "119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire EmerOps",
+      "Description": "Fire - Firefighter Distress/Emergency Assistance Operations (Patched to 9-EmerOps) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2384 ",
+      "HEX ": "095 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS Tac",
+      "Description": "EMS Tactical (Patched to 9-EMS) ",
+      "Tag  ": "EMS-Tac "
+    }
+  ]
+}

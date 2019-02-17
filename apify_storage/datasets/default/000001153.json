@@ -1,0 +1,42 @@
+{
+  "System Name": "Oconee Electric Membership Corporation",
+  "Location": "Various, GA",
+  "County": "3 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "July 23, 2018, 12:02 pm (Changed Site # 004 (Jeffersonville 2) to 004 (Jeffersonville 2))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Jeffersonville 1",
+      "County": [
+        "Wilkinson",
+        "158.250 (CC 0)"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Dudley",
+      "County": [
+        "Laurens",
+        "154.505 (CC 0)"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Myricks Mill",
+      "County": [
+        "Twiggs",
+        "151.670 (CC 0)"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Jeffersonville 2",
+      "County": [
+        "Wilkinson",
+        "152.990 (CC 0)"
+      ]
+    }
+  ]
+}

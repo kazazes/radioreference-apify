@@ -1,0 +1,244 @@
+{
+  "System Name": "Southwest Georgia Regional Radio System",
+  "Location": "Albany, GA",
+  "County": "4 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "September 5, 2018, 6:57 pm ((9) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "BC30",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Albany 1",
+      "County": "Dougherty",
+      "Freqs": [
+        "854.0125",
+        "854.3875",
+        "854.7125",
+        "855.6125",
+        "855.8875",
+        "856.2125a",
+        "856.7625a",
+        "857.2625c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Albany 2",
+      "County": "Dougherty",
+      "Freqs": [
+        "851.1625",
+        "852.400",
+        "852.900",
+        "853.4125",
+        "854.4125",
+        "854.6125a",
+        "855.2125c",
+        "855.4875",
+        "856.4125a"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Thomasville",
+      "County": "Thomas",
+      "Freqs": [
+        "854.5375a",
+        "855.2125",
+        "855.4375",
+        "855.9875",
+        "856.3875c",
+        "856.9875",
+        "857.2375",
+        "854.9875a"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Coolidge",
+      "County": "Thomas",
+      "Freqs": [
+        "851.125",
+        "851.625",
+        "851.8625",
+        "852.375a",
+        "852.625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Cordele",
+      "County": "Crisp",
+      "Freqs": [
+        "855.4625a",
+        "854.9625",
+        "856.3125a",
+        "856.7875a",
+        "857.3375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Leesburg",
+      "County": "Lee",
+      "Freqs": [
+        "851.200c",
+        "852.4375a",
+        "852.9375a",
+        "853.3875a",
+        "853.9375",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9616 ",
+      "HEX ": "259 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Admin",
+      "Description": "Administrative ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9648 ",
+      "HEX ": "25b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Cmdpst",
+      "Description": "Commandpost ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9680 ",
+      "HEX ": "25d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Jail",
+      "Description": "Jail ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "9712 ",
+      "HEX ": "25f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi SWAT 1",
+      "Description": "SWAT 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9744 ",
+      "HEX ": "261 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Train",
+      "Description": "Training ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9776 ",
+      "HEX ": "263 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MultiCarCar1",
+      "Description": "Car-to-Car ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9808 ",
+      "HEX ": "265 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MultiCarCar2",
+      "Description": "Car-to-Car ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9840 ",
+      "HEX ": "267 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Event1",
+      "Description": "Response/Special Event 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9872 ",
+      "HEX ": "269 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Event2",
+      "Description": "Response/Special Event 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9904 ",
+      "HEX ": "26b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Event3",
+      "Description": "Response/Special Event 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9936 ",
+      "HEX ": "26d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Multi Event4",
+      "Description": "Response/Special Event 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13200 ",
+      "HEX ": "339 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Multi SWAT 2",
+      "Description": "SWAT 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "33200 ",
+      "HEX ": "81b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Multi Event5",
+      "Description": "Analog/Special Event 5 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "17248 ",
+      "HEX ": "436 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lineman",
+      "Description": "Public Utilities - Lineman ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17344 ",
+      "HEX ": "43c ",
+      "Mode  ": "D",
+      "Alpha Tag": "CNS Cable",
+      "Description": "CNS Cable ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17376 ",
+      "HEX ": "43e ",
+      "Mode  ": "D",
+      "Alpha Tag": "E C C",
+      "Description": "Energy Control Center ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "18016 ",
+      "HEX ": "466 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Bldg Insptr",
+      "Description": "Building Inspectors ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

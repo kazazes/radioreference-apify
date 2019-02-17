@@ -1,0 +1,17 @@
+{
+  "System Name": "Oroville City Elementary School District (OCESD)",
+  "Location": "Oroville, CA",
+  "County": "Butte",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 24, 2017, 10:30 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cemetary",
+        "01 464.525 "
+      ]
+    }
+  ]
+}

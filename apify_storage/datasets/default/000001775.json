@@ -1,0 +1,76 @@
+{
+  "System Name": "McCracken County Public Safety",
+  "Location": "Paducah, KY",
+  "County": "McCracken",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "February 12, 2019, 7:52 pm (Updated Function Tag assignments for 2 talkgroups(Concord))",
+  "System ID List": [
+    {
+      "System ID": "3918",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Paducah",
+      "Freqs": [
+        "854.3125",
+        "854.5125",
+        "855.4875",
+        "855.9625",
+        "855.9875",
+        "856.9625c",
+        "858.2375c",
+        "858.4625c",
+        "859.4375c",
+        "859.2375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EM MAIN",
+      "Description": "Primary Emergency Management/Rescue Call Out ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RESCUE 1",
+      "Description": "Rescue Ops - Primary ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RIVEROPS",
+      "Description": "Primary River Operations ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONCORD FD 1",
+      "Description": "Concord Fire Operations 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONCORD FD 2",
+      "Description": "Concord Fire Operations 2 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ]
+}

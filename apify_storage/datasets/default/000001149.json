@@ -1,0 +1,202 @@
+{
+  "System Name": "Muscogee County",
+  "Location": "Columbus, GA",
+  "County": "Muscogee",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 7, 2018, 5:24 pm ((21) Talkgroups Updated (Columbus Police))",
+  "System ID List": [
+    {
+      "System ID": "399",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "7 (7)",
+      "Site": "003 (3)",
+      "Name": "Columbus",
+      "Freqs": [
+        "851.6125a",
+        "852.0875c",
+        "852.1125a",
+        "852.375a",
+        "852.8375",
+        "853.1375",
+        "853.1625",
+        "853.825",
+        "854.0875",
+        "854.4375",
+        "854.7375",
+        "854.9875",
+        "855.3875",
+        "855.5125",
+        "855.7125",
+        "855.9875",
+        "856.3125",
+        "856.4375",
+        "856.7125",
+        "856.8875",
+        "856.9875",
+        "857.3375",
+        "857.4625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "43 ",
+      "HEX ": "02b ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Disp",
+      "Description": "Sheriff Dispatch (Ch. 1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "45 ",
+      "HEX ": "02d ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Talk",
+      "Description": "Sheriff Talk Around (Ch. 2) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "47 ",
+      "HEX ": "02f ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 47",
+      "Description": "Sheriff Unknown Use (Ch. 3) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49 ",
+      "HEX ": "031 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Fugitiv",
+      "Description": "Sheriff Fugitive ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "51 ",
+      "HEX ": "033 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Court",
+      "Description": "Sheriff Courthouse Security ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "53 ",
+      "HEX ": "035 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Jail 53",
+      "Description": "Sheriff Jail Talk Around ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "55 ",
+      "HEX ": "037 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 55",
+      "Description": "Sheriff Unknown Use ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57 ",
+      "HEX ": "039 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO Jail 57",
+      "Description": "Sheriff Jail Talk Around ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "59 ",
+      "HEX ": "03b ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO SpecOps",
+      "Description": "Sheriff Special Operations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "61 ",
+      "HEX ": "03d ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 61",
+      "Description": "Sheriff Unknown Use ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "63 ",
+      "HEX ": "03f ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 63",
+      "Description": "Sheriff Unknown Use ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "65 ",
+      "HEX ": "041 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO JailOps",
+      "Description": "Sheriff Jail Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "67 ",
+      "HEX ": "043 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 67",
+      "Description": "Sheriff Unknown Use ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "69 ",
+      "HEX ": "045 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MCSO 69",
+      "Description": "Sheriff Unknown Use ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "179 ",
+      "HEX ": "0b3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Metra Disp",
+      "Description": "Metra Bus Dispatch ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "181 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Metra Garage",
+      "Description": "Metra Bus Garage ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "183 ",
+      "HEX ": "0b7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Metra Dial",
+      "Description": "Metra Dial-A-Ride ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "185 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Metra Admin",
+      "Description": "Metra Administrative ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "187 ",
+      "HEX ": "0bb ",
+      "Mode  ": "T",
+      "Alpha Tag": "Metra 187",
+      "Description": "Metra Unknown Use ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

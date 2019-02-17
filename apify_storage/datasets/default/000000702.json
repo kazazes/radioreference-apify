@@ -1,0 +1,107 @@
+{
+  "System Name": "Steamboat Resort",
+  "Location": "Steamboat Springs, CO",
+  "County": "Routt",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 23, 2017, 6:49 am ((1) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Thunderhead Gondola",
+        "01 461.675 ",
+        "02 461.275 ",
+        "03 461.400 ",
+        "04 461.725 ",
+        "05 464.875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ambassadors",
+      "Description": "Ambassadors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Base Ops",
+      "Description": "Base Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-108 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Event Ops",
+      "Description": "Event Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grooming 1",
+      "Description": "Grooming 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grooming 2",
+      "Description": "Grooming 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-068 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MountainComm",
+      "Description": "Mountain Communications ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Race Ops",
+      "Description": "Race Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 1",
+      "Description": "Security 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ski Patrol",
+      "Description": "Ski Patrol ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-093 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ski School",
+      "Description": "Ski School ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transportatn",
+      "Description": "Transportation ",
+      "Tag  ": "Business "
+    }
+  ]
+}

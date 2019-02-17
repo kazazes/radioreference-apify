@@ -1,0 +1,261 @@
+{
+  "System Name": "University of Southern California (P25)",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 3, 2017, 7:37 pm (Added Talkgroup 10042 Testing Noted)",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92806"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Site 10",
+      "Freqs": [
+        "854.0375c",
+        "854.1625a",
+        "854.1875a",
+        "854.2875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10000 ",
+      "HEX ": "2710 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPS ALLCALL",
+      "Description": "Department of Public Safety - AllCall Alerting ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "10001 ",
+      "HEX ": "2711 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPS DISP",
+      "Description": "Department of Public Safety - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "10002 ",
+      "HEX ": "2712 ",
+      "Mode  ": "D",
+      "Alpha Tag": "KECK",
+      "Description": "Keck Hospital and School of Medicine Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "10011 ",
+      "HEX ": "271b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPS TAC",
+      "Description": "Department of Public Safety - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "10012 ",
+      "HEX ": "271c ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPS TAC",
+      "Description": "Department of Public Safety - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "10021 ",
+      "HEX ": "2725 ",
+      "Mode  ": "D",
+      "Alpha Tag": "10021",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10022 ",
+      "HEX ": "2726 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CSO",
+      "Description": "Community Service Officer ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10031 ",
+      "HEX ": "272f ",
+      "Mode  ": "D",
+      "Alpha Tag": "10031",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10042 ",
+      "HEX ": "273a ",
+      "Mode  ": "D",
+      "Alpha Tag": "10042",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "30001 ",
+      "HEX ": "7531 ",
+      "Mode  ": "D",
+      "Alpha Tag": "30001",
+      "Description": "Testing Noted ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30002 ",
+      "HEX ": "7532 ",
+      "Mode  ": "D",
+      "Alpha Tag": "30002",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "40002 ",
+      "HEX ": "9c42 ",
+      "Mode  ": "D",
+      "Alpha Tag": "40002",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50011 ",
+      "HEX ": "c35b ",
+      "Mode  ": "D",
+      "Alpha Tag": "50011",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50012 ",
+      "HEX ": "c35c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMS EMERG",
+      "Description": "Facilities Management Services - Emergency ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50020 ",
+      "HEX ": "c364 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMS",
+      "Description": "Facilities Management Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50021 ",
+      "HEX ": "c365 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMS",
+      "Description": "Facilities Management Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50022 ",
+      "HEX ": "c366 ",
+      "Mode  ": "D",
+      "Alpha Tag": "50022",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50023 ",
+      "HEX ": "c367 ",
+      "Mode  ": "D",
+      "Alpha Tag": "50023",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50024 ",
+      "HEX ": "c368 ",
+      "Mode  ": "D",
+      "Alpha Tag": "50024",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50025 ",
+      "HEX ": "c369 ",
+      "Mode  ": "D",
+      "Alpha Tag": "50025",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50026 ",
+      "HEX ": "c36a ",
+      "Mode  ": "D",
+      "Alpha Tag": "50026",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50027 ",
+      "HEX ": "c36b ",
+      "Mode  ": "D",
+      "Alpha Tag": "50027",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50028 ",
+      "HEX ": "c36c ",
+      "Mode  ": "D",
+      "Alpha Tag": "50028",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50029 ",
+      "HEX ": "c36d ",
+      "Mode  ": "D",
+      "Alpha Tag": "50029",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50030 ",
+      "HEX ": "c36e ",
+      "Mode  ": "D",
+      "Alpha Tag": "50030",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50031 ",
+      "HEX ": "c36f ",
+      "Mode  ": "D",
+      "Alpha Tag": "50031",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50040 ",
+      "HEX ": "c378 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMS ",
+      "Description": "Plumbing, Electrical, Elevators ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "64001 ",
+      "HEX ": "fa01 ",
+      "Mode  ": "D",
+      "Alpha Tag": "64001",
+      "Description": "Testing noted ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "64051 ",
+      "HEX ": "fa33 ",
+      "Mode  ": "D",
+      "Alpha Tag": "64051",
+      "Description": "Testing Noted ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

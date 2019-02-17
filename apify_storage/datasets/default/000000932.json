@@ -1,0 +1,43 @@
+{
+  "System Name": "Pier House Resort and Spa",
+  "Location": "Key West, FL",
+  "County": "Monroe",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 2, 2016, 7:54 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.975 ",
+        "02 451.975 ",
+        "03 451.300 ",
+        "04 451.300 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Desk",
+      "Description": "Desk ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

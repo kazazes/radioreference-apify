@@ -1,0 +1,114 @@
+{
+  "System Name": "Cheyenne Mountain Resort",
+  "Location": "Colorado Springs, CO",
+  "County": "El Paso",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 14, 2018, 10:48 pm ((1) Talkgroups Updated (multi-category change))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cheyenne Mountain Resort",
+        "01 461.025 ",
+        "02 461.7875 ",
+        "03 462.025 ",
+        "04 463.8875 ",
+        "05 464.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Active",
+      "Description": "Active ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Banquets",
+      "Description": "Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business Service",
+      "Description": "Business Service Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Conference Serv",
+      "Description": "Conference Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Desk Reception",
+      "Description": "Desk Reception ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "118 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering/Sec",
+      "Description": "Engineering/Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Gate 47",
+      "Description": "Gate 47 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Guest Serve/Shut",
+      "Description": "Guest Services/Shuttles ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Room Service",
+      "Description": "Room Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Touch Tones",
+      "Description": "Touch Tones ",
+      "Tag  ": "Business "
+    }
+  ]
+}

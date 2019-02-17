@@ -1,0 +1,24 @@
+{
+  "System Name": "Industrial Communications (Buckfield)",
+  "Location": "Buckfield, ME",
+  "County": "Oxford",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "September 8, 2008, 3:58 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "7E3C",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "936.250c",
+        "937.2125c"
+      ]
+    }
+  ]
+}

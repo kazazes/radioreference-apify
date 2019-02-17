@@ -1,0 +1,19 @@
+{
+  "System Name": "Gary Housing Authority",
+  "Location": "Gary, IN",
+  "County": "Lake",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 23, 2013, 11:59 pm (Changed Site # 001 (Primary) to 001 (Gary))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Gary",
+        "00 471.250 ",
+        "00 470.900 ",
+        "00 470.500 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "System Name": "Tucson Convention Center",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 3, 2016, 10:57 pm (Added Talkgroup 248 Private Chat)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "TCC",
+        "01 451.175 ",
+        "02 452.800 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "241 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "242 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Event Setup",
+      "Description": "Event Setup ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "243 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Catering",
+      "Description": "Catering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "244 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking",
+      "Description": "Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "245 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Groundskeep",
+      "Description": "Groundskeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "246 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "248 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Private Chat",
+      "Description": "Private Chat ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "System Name": "Silicon Valley Regional Communications System (SVRCS)",
+  "Location": "Various, CA",
+  "County": "Santa Clara",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 11, 2018, 6:49 am (Added Talkgroup 1257 Public Works(Los Gatos))",
+  "System ID List": [
+    {
+      "System ID": "5E4",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "West",
+      "Freqs": [
+        "770.08125",
+        "771.40625",
+        "771.85625",
+        "772.15625a",
+        "772.30625c",
+        "772.45625a",
+        "772.60625",
+        "772.90625",
+        "773.18125",
+        "773.93125",
+        "774.40625",
+        "774.68125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Central",
+      "Freqs": [
+        "769.08125",
+        "769.36875",
+        "769.61875",
+        "770.28125",
+        "770.55625",
+        "770.83125",
+        "771.18125",
+        "771.48125",
+        "771.78125a",
+        "772.08125a",
+        "774.20625c",
+        "774.48125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "South",
+      "Freqs": [
+        "769.50625",
+        "770.75625",
+        "771.55625a",
+        "771.70625c",
+        "771.93125a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Redwood",
+      "Freqs": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Chual",
+      "Freqs": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Mt Madonna",
+      "Freqs": [
+        "769.81875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Pacheco",
+      "Freqs": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "35700 ",
+      "HEX ": "8b74 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Calling",
+      "Description": "South Bay Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35701 ",
+      "HEX ": "8b75 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB IO 1",
+      "Description": "South Bay Interop 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35702 ",
+      "HEX ": "8b76 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB IO 2",
+      "Description": "South Bay Interop 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35703 ",
+      "HEX ": "8b77 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB IO 3",
+      "Description": "South Bay Interop 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35704 ",
+      "HEX ": "8b78 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB IO 4",
+      "Description": "South Bay Interop 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35705 ",
+      "HEX ": "8b79 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB IO 5",
+      "Description": "South Bay Interop 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35706 ",
+      "HEX ": "8b7a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 1",
+      "Description": "South Bay Law 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35707 ",
+      "HEX ": "8b7b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 2",
+      "Description": "South Bay Law 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35708 ",
+      "HEX ": "8b7c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 3",
+      "Description": "South Bay Law 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35709 ",
+      "HEX ": "8b7d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 4",
+      "Description": "South Bay Law 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35710 ",
+      "HEX ": "8b7e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 5",
+      "Description": "South Bay Law 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35711 ",
+      "HEX ": "8b7f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 6",
+      "Description": "South Bay Law 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35712 ",
+      "HEX ": "8b80 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Law 7",
+      "Description": "South Bay Law 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35713 ",
+      "HEX ": "8b81 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Law 8",
+      "Description": "South Bay Law 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35729 ",
+      "HEX ": "8b91 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 9",
+      "Description": "South Bay Law 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35730 ",
+      "HEX ": "8b92 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 10",
+      "Description": "South Bay Law 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35731 ",
+      "HEX ": "8b93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 11",
+      "Description": "South Bay Law 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35732 ",
+      "HEX ": "8b94 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 12",
+      "Description": "South Bay Law 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35733 ",
+      "HEX ": "8b95 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 13",
+      "Description": "South Bay Law 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35734 ",
+      "HEX ": "8b96 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Law 14",
+      "Description": "South Bay Law 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35735 ",
+      "HEX ": "8b97 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Law 15",
+      "Description": "South Bay Law 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35736 ",
+      "HEX ": "8b98 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Law 16",
+      "Description": "South Bay Law 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35714 ",
+      "HEX ": "8b82 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 1",
+      "Description": "South Bay Fire 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35715 ",
+      "HEX ": "8b83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 2",
+      "Description": "South Bay Fire 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35716 ",
+      "HEX ": "8b84 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 3",
+      "Description": "South Bay Fire 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35717 ",
+      "HEX ": "8b85 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 4",
+      "Description": "South Bay Fire 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35718 ",
+      "HEX ": "8b86 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 5",
+      "Description": "South Bay Fire 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35719 ",
+      "HEX ": "8b87 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 6",
+      "Description": "South Bay Fire 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35720 ",
+      "HEX ": "8b88 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Fire 7",
+      "Description": "South Bay Fire 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35721 ",
+      "HEX ": "8b89 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Fire 8",
+      "Description": "South Bay Fire 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35737 ",
+      "HEX ": "8b99 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 9",
+      "Description": "South Bay Fire 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35738 ",
+      "HEX ": "8b9a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 10",
+      "Description": "South Bay Fire 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35739 ",
+      "HEX ": "8b9b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 11",
+      "Description": "South Bay Fire 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35740 ",
+      "HEX ": "8b9c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 12",
+      "Description": "South Bay Fire 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35741 ",
+      "HEX ": "8b9d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 13",
+      "Description": "South Bay Fire 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35742 ",
+      "HEX ": "8b9e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 14",
+      "Description": "South Bay Fire 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35743 ",
+      "HEX ": "8b9f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB Fire 15",
+      "Description": "South Bay Fire 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35744 ",
+      "HEX ": "8ba0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB Fire 16",
+      "Description": "South Bay Fire 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35722 ",
+      "HEX ": "8b8a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SB EMS 1",
+      "Description": "South Bay EMS 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35723 ",
+      "HEX ": "8b8b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB EMS 2",
+      "Description": "South Bay EMS 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35724 ",
+      "HEX ": "8b8c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB PW 1",
+      "Description": "South Bay Public Works 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35725 ",
+      "HEX ": "8b8d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB PW 2",
+      "Description": "South Bay Public Works 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35726 ",
+      "HEX ": "8b8e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB LG 1",
+      "Description": "South Bay Local Government 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35727 ",
+      "HEX ": "8b8f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB LG 2",
+      "Description": "South Bay Local Government 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35728 ",
+      "HEX ": "8b90 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SVRCS Radio Tech",
+      "Description": "Radio Techs ",
+      "Tag  ": "Public Works "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "65531 ",
+      "HEX ": "fffb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Tech 1",
+      "Description": "Radio Tech 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "65532 ",
+      "HEX ": "fffc ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Tech 2",
+      "Description": "Radio Tech 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "65533 ",
+      "HEX ": "fffd ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Tech 3",
+      "Description": "Radio Tech 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "65534 ",
+      "HEX ": "fffe ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Radio Tech 4",
+      "Description": "Radio Tech 4 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

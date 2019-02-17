@@ -1,0 +1,91 @@
+{
+  "System Name": "Gibson Electric Membership Cooperative",
+  "Location": "Various, TN KY",
+  "County": "5 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 21, 2018, 9:02 pm (Updated Sites)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Alamo",
+      "County": [
+        "Gibson, TN",
+        "01 451.0625 ",
+        "02 451.1125 ",
+        "03 451.975 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Tiptonville",
+      "County": [
+        "Lake, TN",
+        "01 461.925 ",
+        "02 463.700 ",
+        "03 463.9625 ",
+        "04 464.850 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Trenton",
+      "County": [
+        "Gibson, TN",
+        "01 451.1625 ",
+        "02 451.2625 ",
+        "03 451.3875 ",
+        "04 452.9875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Troy",
+      "County": [
+        "Obion, TN",
+        "01 451.8875 ",
+        "02 452.3375 ",
+        "03 452.750 ",
+        "04 452.8125 ",
+        "05 452.8375 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Arlington",
+      "County": [
+        "Carlisle, KY",
+        "01 463.550 ",
+        "02 463.875 ",
+        "03 464.0375 ",
+        "04 464.1375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Hickman",
+      "County": [
+        "Fulton, KY",
+        "01 464.0875 ",
+        "02 464.3875 ",
+        "03 464.7875 ",
+        "04 464.9625 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2021 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GEMC DISP",
+      "Description": "GEMC Dispatch ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

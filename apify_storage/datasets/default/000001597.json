@@ -1,0 +1,28 @@
+{
+  "System Name": "College Community Schools",
+  "Location": "Cedar Rapids, IA",
+  "County": "Linn",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 22, 2016, 9:50 pm (Added Talkgroup 1 Buses)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 464.425 ",
+        "02 463.4375 ",
+        "03 463.925 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Buses",
+      "Description": "Buses ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "System Name": "Iowa State University",
+  "Location": "Ames, IA",
+  "County": "Story",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 25, 2017, 4:55 pm ((4) Talkgroups Updated (All))",
+  "System ID List": [
+    {
+      "System ID": "3A29",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "856.5625",
+        "857.5625",
+        "858.5625",
+        "859.5625c",
+        "860.5625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "57344 ",
+      "HEX ": "e00 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU PD",
+      "Description": "Dispatch ISU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57360 ",
+      "HEX ": "e01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Info",
+      "Description": "ISU Info ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "57440 ",
+      "HEX ": "e06 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Citywide",
+      "Description": "City Wide ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "57488 ",
+      "HEX ": "e09 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ames PD Ops2",
+      "Description": "Ames Police department ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "57504 ",
+      "HEX ": "e0a ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Parking1",
+      "Description": "Parking 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "57520 ",
+      "HEX ": "e0b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Parking2",
+      "Description": "Parking 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "57600 ",
+      "HEX ": "e10 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Emergncy",
+      "Description": "ISU Emergency ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "57648 ",
+      "HEX ": "e13 ",
+      "Mode  ": "A",
+      "Alpha Tag": "VEISHEA",
+      "Description": "VEISHEA Entertainment planning and coordination ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "57696 ",
+      "HEX ": "e16 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ames Fire 2",
+      "Description": "Ames Fire department Channel 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "57712 ",
+      "HEX ": "e17 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Peer Security & Risk Management Teams (VEISHEA) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "57728 ",
+      "HEX ": "e18 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dial-A-Ride",
+      "Description": "Dial-A-Ride ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "57744 ",
+      "HEX ": "e19 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Service Cent",
+      "Description": "Service Center ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "57920 ",
+      "HEX ": "e24 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Police",
+      "Description": "ISU Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "58272 ",
+      "HEX ": "e3a ",
+      "Mode  ": "A",
+      "Alpha Tag": "Custodial",
+      "Description": "Custodians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "58288 ",
+      "HEX ": "e3b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Food Service",
+      "Description": "Food Service ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "58304 ",
+      "HEX ": "e3c ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance Ch. 3 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "58320 ",
+      "HEX ": "e3d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "58480 ",
+      "HEX ": "e47 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "58496 ",
+      "HEX ": "e48 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RCA Security",
+      "Description": "RCA Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "58512 ",
+      "HEX ": "e49 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRA Security",
+      "Description": "TRA Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "58528 ",
+      "HEX ": "e4a ",
+      "Mode  ": "A",
+      "Alpha Tag": "UDA Security",
+      "Description": "UDA Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "58544 ",
+      "HEX ": "e4b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISU Athletic",
+      "Description": "Athletics ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59152 ",
+      "HEX ": "e71 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Rec Center",
+      "Description": "Rec Center ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59232 ",
+      "HEX ": "e76 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Campus Deliv",
+      "Description": "Campus Delivery ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59376 ",
+      "HEX ": "e7f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Vending",
+      "Description": "Vending ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59568 ",
+      "HEX ": "e8b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Alarms-Cntrl",
+      "Description": "Alams, Control ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59648 ",
+      "HEX ": "e90 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Stadium Misc",
+      "Description": "Stadium Miscellaneous ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59664 ",
+      "HEX ": "e91 ",
+      "Mode  ": "A",
+      "Alpha Tag": "StadiumTrash",
+      "Description": "Stadium Trash ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "59728 ",
+      "HEX ": "e95 ",
+      "Mode  ": "A",
+      "Alpha Tag": "StadiumGates",
+      "Description": "Stadium Gates ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "60912 ",
+      "HEX ": "edf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hilton Colis",
+      "Description": "Hilton Coliseum ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

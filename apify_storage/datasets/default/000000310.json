@@ -1,0 +1,33 @@
+{
+  "System Name": "El Monte City Services",
+  "Location": "El Monte, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 28, 2017, 8:20 pm (Added Talkgroup 206 206)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "El Monte",
+        "01 453.0875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Public Works",
+      "Description": " Public Works Maintenance Division ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "206",
+      "Description": "206 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "System Name": "Big Rivers Electric Cooperative (VHF)",
+  "Location": "Various, KY",
+  "County": "13 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 29, 2018, 2:29 am (Changed Site # 011 (Salem) to 011 (Salem))",
+  "System ID List": [
+    {
+      "System ID": "266"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "010 (A)",
+      "Name": "Wickliffe",
+      "County": [
+        "Ballard",
+        "01 153.410 ",
+        "02 153.515c ",
+        "03 153.650 ",
+        "04 153.695 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Salem",
+      "County": [
+        "Livingston",
+        "01 150.815 ",
+        "02 150.920c ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "Moseleyville",
+      "County": [
+        "Daviess",
+        "01 151.730 ",
+        "02 151.970 ",
+        "03 153.635 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Henderson",
+      "County": [
+        "Henderson",
+        "01 150.8675 ",
+        "02 151.910 ",
+        "03 154.505 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Jingo",
+      "County": [
+        "Ohio",
+        "01 150.815c ",
+        "02 150.950 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "South Hanson",
+      "County": [
+        "Hopkins",
+        "00 153.500c ",
+        "00 153.590 ",
+        "00 150.815 ",
+        "00 150.950 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Brandenburg",
+      "County": [
+        "Meade",
+        "01 150.860 ",
+        "02 150.965 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Custer",
+      "County": [
+        "Breckinridge",
+        "01 150.860 ",
+        "02 150.965 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Falls of Rough River",
+      "County": [
+        "Grayson",
+        "01 150.860 ",
+        "02 150.965 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "109 (6D)",
+      "Name": "Battletown",
+      "County": [
+        "Meade",
+        "01 150.920 ",
+        "02 153.725 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "111 (6F)",
+      "Name": "Crider",
+      "County": [
+        "Caldwell",
+        "01 150.965 ",
+        "02 154.505 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "112 (70)",
+      "Name": "Morganfield",
+      "County": [
+        "Union",
+        "01 151.730 ",
+        "02 153.470 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "113 (71)",
+      "Name": "Eddyville",
+      "County": [
+        "Lyon",
+        "01 150.815 ",
+        "02 150.920 ",
+        "03 150.965 ",
+        "04 151.730 ",
+        "05 153.470 ",
+        "06 154.505 "
+      ]
+    },
+    {
+      "Site": "114 (72)",
+      "Name": "Livermore",
+      "County": [
+        "McLean",
+        "01 150.8675 ",
+        "02 151.730 ",
+        "03 151.910 ",
+        "04 151.970 ",
+        "05 153.635 ",
+        "06 154.505 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "301 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BREC DISP",
+      "Description": "Service Dispatch ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

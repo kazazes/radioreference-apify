@@ -1,0 +1,77 @@
+{
+  "System Name": "Cherry Creek School District System 2",
+  "Location": ", CO",
+  "County": "Arapahoe",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "November 19, 2017, 9:04 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Willow Creek",
+        "463.400 (CC 9)"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Cherry Creek",
+        "463.6125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Overland",
+        "464.150 (CC 6)"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Smoky Hill",
+        "464.2875 (CC 7)"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "Eaglecrest",
+        "464.3625 (CC 3)"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": [
+        "Arapahoe Park",
+        "464.650 (CC 10)"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": [
+        "Grandview",
+        "464.825 (CC 4)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "902 ",
+      "Slot ": "* ",
+      "Mode  ": "TE",
+      "Alpha Tag": "CC Schools 902",
+      "Description": "CC Schools 902 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "903 ",
+      "Slot ": "* ",
+      "Mode  ": "TE",
+      "Alpha Tag": "CC Schools 903",
+      "Description": "CC Schools 903 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

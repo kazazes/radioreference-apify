@@ -1,0 +1,95 @@
+{
+  "System Name": "Rock River Service Company (Rockford)",
+  "Location": "Rockford, IL",
+  "County": "Winnebago",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 6, 2018, 3:25 pm (Added Talkgroup 19045 Taxi service(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 N/A ",
+        "02 N/A ",
+        "03 451.5875 ",
+        "04 N/A ",
+        "05 N/A ",
+        "06 N/A ",
+        "07 451.8625 "
+      ],
+      "Data": [
+        "08 N/A ",
+        "09 N/A ",
+        "10 N/A ",
+        "11 N/A ",
+        "12 N/A ",
+        "13 N/A ",
+        "14 N/A ",
+        "15 462.0375 ",
+        "16 N/A ",
+        "17 N/A ",
+        "18 452.2625 ",
+        "19 463.3625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "vet 003065",
+      "Description": "veterinary service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-15-018 ",
+      "Mode  ": "A",
+      "Alpha Tag": "data 13018",
+      "Description": "data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-15-036 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 15036",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 18003",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "data 18004",
+      "Description": "data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-18-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 18007",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-19-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "farm0-19-020",
+      "Description": "farm ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-19-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "taxi 19045",
+      "Description": "Taxi service ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

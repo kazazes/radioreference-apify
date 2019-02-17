@@ -1,0 +1,30 @@
+{
+  "System Name": "WirelessUSA (Tier 3)",
+  "Location": "IL/MO, IL",
+  "County": "2 counties",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "August 20, 2018, 5:08 am (Changed Site # 012 (Springfield) to 012 (Springfield))",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "010 (A)",
+      "Name": "Quincy",
+      "County": "Adams",
+      "Freqs": [
+        "935.900c",
+        " "
+      ]
+    },
+    {
+      "Region": "000",
+      "Site": "012 (C)",
+      "Name": "Springfield",
+      "County": "Sangamon",
+      "Freqs": [
+        "937.1375c",
+        "938.1375c"
+      ]
+    }
+  ]
+}

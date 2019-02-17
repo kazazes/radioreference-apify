@@ -1,0 +1,52 @@
+{
+  "System Name": "State of Hawaii: Department of Health",
+  "Location": "Kauai, HI",
+  "County": "Kauai",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 8, 2019, 3:53 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "710",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "453.400c",
+        "453.900a",
+        "463.050a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS DISP 1",
+      "Description": "EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS TAC 1",
+      "Description": "EMS Tactical 1 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS TAC 2",
+      "Description": "EMS Tactical 2 ",
+      "Tag  ": "EMS-Tac "
+    }
+  ]
+}

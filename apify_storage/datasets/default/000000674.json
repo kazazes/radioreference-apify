@@ -1,0 +1,164 @@
+{
+  "System Name": "Winter Park Ski Area",
+  "Location": "Winter Park, CO",
+  "County": "Grand",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 23, 2017, 6:58 am ((1) Talkgroups Updated (Ski Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Sunspot",
+        "01 856.8375 ",
+        "02 860.8375 ",
+        "03 859.8375 ",
+        "04 858.8375 ",
+        "05 857.8375 ",
+        "06 860.8125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed",
+        "01 855.3375 ",
+        "02 856.8125 ",
+        "03 857.8125 ",
+        "04 858.9125 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "72 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "64 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Lodge Transp",
+      "Description": "Lodging Transporation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "73 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Chair Lift",
+      "Description": "Chair Lifts ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "37 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Kid Ski Scl1",
+      "Description": "Children's Ski School 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Kid Ski Scl2",
+      "Description": "Children's Ski School 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Lift Mainten",
+      "Description": "Lift Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski Clinics",
+      "Description": "On-Slope Ski Clinics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Race Ops",
+      "Description": "Race Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Race Ops",
+      "Description": "Race Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "39 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Race School",
+      "Description": "Race School ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "82 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Race School",
+      "Description": "Race School ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski Patrol 1",
+      "Description": "Ski Patrol 1 \"600\" ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski Patrol 2",
+      "Description": "Ski Patrol 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski RcingOps",
+      "Description": "Ski Racing Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski School",
+      "Description": "Ski School ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slope Mainte",
+      "Description": "Slope Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Snow Cat Ops",
+      "Description": "Snow Cat Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

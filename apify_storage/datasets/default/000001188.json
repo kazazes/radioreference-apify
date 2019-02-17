@@ -1,0 +1,31 @@
+{
+  "System Name": "Military P25 Honolulu",
+  "Location": "Varies, HI",
+  "County": "Honolulu",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 16, 2018, 3:53 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "015",
+      "WACN": "57A80"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "101 (65)",
+      "Name": "Site 101",
+      "Freqs": [
+        "386.025c",
+        "386.2375a",
+        "386.475a",
+        "386.6875a",
+        "386.925a",
+        "388.1625a",
+        "388.375a",
+        "388.6125a"
+      ]
+    }
+  ]
+}

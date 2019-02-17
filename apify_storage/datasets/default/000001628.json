@@ -1,0 +1,102 @@
+{
+  "System Name": "Harrah's Council Bluffs / Horseshoe Casino",
+  "Location": "Council Bluffs, IA",
+  "County": "Pottawattamie",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "April 28, 2012, 2:46 pm (Added Site # 1 (FDH, Omaha))",
+  "System ID List": [
+    {
+      "System ID": "091E",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Harrahs",
+      "Freqs": [
+        "859.1125c",
+        "858.1125",
+        "857.1125",
+        "856.1125"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "FDH, Omaha",
+      "Freqs": [
+        "854.1125",
+        "859.8375",
+        "860.8875",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Gaming Ops",
+      "Description": "Gaming Officials/Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cashiers",
+      "Description": "Cashiers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1600 ",
+      "HEX ": "064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Courtsey Van",
+      "Description": "Courtesy Van ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Harrahs Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1664 ",
+      "HEX ": "068 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1664",
+      "Description": "unk ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Mechanical / Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Buffet/Food",
+      "Description": "Buffet / Food service ",
+      "Tag  ": "Business "
+    }
+  ]
+}

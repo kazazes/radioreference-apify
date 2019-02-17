@@ -1,0 +1,142 @@
+{
+  "System Name": "Radi-Link (Chicago DMR)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 14, 2018, 8:27 pm (Added Talkgroup 118 Unknown Buses(Willis Tower))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Willis Tower",
+        "01 478.9625 ",
+        "02 452.3875 ",
+        "03 478.0875 ",
+        "05 478.8375 ",
+        "08 472.900 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hopewell Lombard",
+      "Description": "Hopewell Transportation: Lombard Office ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "118 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bus 118",
+      "Description": "Unknown Buses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bus? 150",
+      "Description": "Unknown Transportation Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "151 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 151",
+      "Description": "Rental Talkgroup 151 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 152",
+      "Description": "Rental Talkgroup 152 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "153 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 153",
+      "Description": "Rental Talkgroup 153 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 154",
+      "Description": "Rental Talkgroup 154 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 155",
+      "Description": "Rental Talkgroup 155 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 156",
+      "Description": "Rental Talkgroup 156 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "157 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 157",
+      "Description": "Rental Talkgroup 157 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "158 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 158",
+      "Description": "Rental Talkgroup 158 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "159 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 159",
+      "Description": "Rental Talkgroup 159 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 160",
+      "Description": "Rental Talkgroup 160 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "161 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 161",
+      "Description": "Rental Talkgroup 161 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "162 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 162",
+      "Description": "Rental Talkgroup 162 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "163 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 163",
+      "Description": "Rental Talkgroup 163 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "164 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rental 164",
+      "Description": "Rental Talkgroup 164 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

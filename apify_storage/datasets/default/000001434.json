@@ -1,0 +1,50 @@
+{
+  "System Name": "Erickson Communications (Chicago)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 3, 2015, 3:13 am (Changed Talkgroup Category: All to All)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.250 ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 461.425 ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Unverified LCN",
+        "00 464.1125 ",
+        "00 464.0625 ",
+        "00 464.350 ",
+        "00 461.300 ",
+        "00 461.525 ",
+        "00 461.575 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-088 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi M 088",
+      "Description": "Taxi Mobiles (with 0-01-089) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi B 089",
+      "Description": "Taxi Dispatch (with 0-01-088) ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

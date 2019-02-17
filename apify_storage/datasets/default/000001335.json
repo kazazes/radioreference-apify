@@ -1,0 +1,85 @@
+{
+  "System Name": "Hammond/East Chicago Public Safety",
+  "Location": "Hammond, IN",
+  "County": "Lake",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 14, 2015, 5:07 pm (Updated Talkgroups (2 Updated))",
+  "System ID List": [
+    {
+      "System ID": "561B",
+      "Connect Tone": "97.30"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Hammond",
+      "Freqs": [
+        "851.075",
+        "851.550",
+        "851.7375c",
+        "851.800c",
+        "852.125",
+        "852.325",
+        "852.5875c",
+        "852.8375c",
+        "853.1875",
+        "853.2125",
+        "853.325"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2128 ",
+      "HEX ": "085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ECFD-DISPTCH",
+      "Description": "East Chicago Fire/EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ECFD-OPS-2",
+      "Description": "East Chicago Fire Secondary ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ECFD-FG-1",
+      "Description": "East Chicago Fire Fireground 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ECFD-FG-2",
+      "Description": "East Chicago Fire Fireground 2 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MARINA-OPS",
+      "Description": "Marina Operations ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LMGC-OPS",
+      "Description": "Lost Marsh Golf Course Operations ",
+      "Tag  ": "Other "
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "System Name": "The Grove Resort",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 3, 2018, 2:19 am (Added Talkgroup 205 Engineering(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.350 ",
+        "02 463.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "205 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Managers",
+      "Description": "Managers ",
+      "Tag  ": "Business "
+    }
+  ]
+}

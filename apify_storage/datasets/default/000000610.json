@@ -1,0 +1,76 @@
+{
+  "System Name": "Colorado Telecom",
+  "Location": "Denver, CO",
+  "County": "3 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "October 28, 2018, 9:10 pm (Changed Site # 001 (Unknown) to 001 (Unknown))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Denver1",
+      "County": [
+        "Denver",
+        "451.800 (CC 7)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Unknown",
+      "County": [
+        "Jefferson",
+        "452.075 (CC 7)"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Denver 2",
+      "County": [
+        "Denver",
+        "451.8125 (CC 7)"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Lee Hill",
+      "County": [
+        "Boulder",
+        "463.3375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Lookout Mountain",
+      "County": [
+        "Jefferson",
+        "464.1375 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "500 ",
+      "Slot ": "* ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash Hauling Co",
+      "Description": "Trash Hauling Co ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "700 ",
+      "Slot ": "* ",
+      "Mode  ": "D",
+      "Alpha Tag": "Internet Co 1",
+      "Description": "Internet Service Co 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "701 ",
+      "Slot ": "* ",
+      "Mode  ": "D",
+      "Alpha Tag": "Internet Co 2",
+      "Description": "Internet Service Co 2 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

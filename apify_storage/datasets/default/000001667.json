@@ -1,0 +1,159 @@
+{
+  "System Name": "McPherson County Public Safety",
+  "Location": "McPherson County, KS",
+  "County": "McPherson",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 19, 2017, 11:08 am (Changed Talkgroup Category: Radio Maintenance to Radio Maintenance(Radio Maintenance))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "County",
+        "01 851.075 ",
+        "02 851.3625 ",
+        "03 851.975 ",
+        "04 853.450 ",
+        "05 853.7875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "City",
+        "01 851.825 ",
+        "02 852.175 ",
+        "03 852.575 ",
+        "04 853.0375 ",
+        "05 853.950 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Lindsborg",
+        "01 851.675 ",
+        "02 852.275 ",
+        "03 852.875 ",
+        "04 853.575 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "544 ",
+      "AFS ": "04-040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo SO 1",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "545 ",
+      "AFS ": "04-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo SO 2",
+      "Description": "Sheriff Patrol ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "635 ",
+      "AFS ": "04-153 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCoSpOps",
+      "Description": "Sheriff Special Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "652 ",
+      "AFS ": "05-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo Tac1",
+      "Description": "Sheriff Tac 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "653 ",
+      "AFS ": "05-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo Tac2",
+      "Description": "Sheriff Tac 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "654 ",
+      "AFS ": "05-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo Tac3",
+      "Description": "Sheriff Tac 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "655 ",
+      "AFS ": "05-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo Tac4",
+      "Description": "Sheriff Tac 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "559 ",
+      "AFS ": "04-057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhrsnCoLaw MA",
+      "Description": "Law Enforcement Mutual Aid ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "591 ",
+      "AFS ": "04-097 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhrsnCoEMS M/A",
+      "Description": "EMS Mutual Aid ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "636 ",
+      "AFS ": "04-154 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCo Jail",
+      "Description": "County Jail ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "700 ",
+      "AFS ": "05-074 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPhersonCoRoads",
+      "Description": "Highway Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "512 ",
+      "AFS ": "04-000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McPherson Co All",
+      "Description": "County All Call ",
+      "Tag  ": "Law Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "640 ",
+      "AFS ": "05-000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Shop",
+      "Description": "Ka-Comm Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "641 ",
+      "AFS ": "05-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Admin",
+      "Description": "Ka-Comm Administration ",
+      "Tag  ": "Business "
+    }
+  ]
+}

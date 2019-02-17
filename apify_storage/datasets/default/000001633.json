@@ -1,0 +1,124 @@
+{
+  "System Name": "Electronic Engineering SMR",
+  "Location": "Ames, IA",
+  "County": "Story",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 25, 2017, 4:59 pm (Updated 6 Talkgroup Categories)",
+  "System ID List": [
+    {
+      "System ID": "1119",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "854.0375",
+        "854.7375",
+        "855.1625",
+        "855.6375",
+        "857.0625",
+        "856.0125",
+        "857.0125",
+        "858.0125",
+        "859.0125a",
+        "860.0125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "57408 ",
+      "HEX ": "e04 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57424 ",
+      "HEX ": "e05 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Info",
+      "Description": "Information ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "57360 ",
+      "HEX ": "e01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Tac",
+      "Description": "Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57488 ",
+      "HEX ": "e09 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Tac",
+      "Description": "Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57456 ",
+      "HEX ": "e07 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Cmd 1",
+      "Description": "Command Channel 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "57520 ",
+      "HEX ": "e0b ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Events 1",
+      "Description": "Events Ch 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57536 ",
+      "HEX ": "e0c ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Events 2",
+      "Description": "Events Ch 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57552 ",
+      "HEX ": "e0d ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD Events 3",
+      "Description": "Events Ch 3 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16960 ",
+      "HEX ": "424 ",
+      "Mode  ": "A",
+      "Alpha Tag": "C&K Heating",
+      "Description": "C&K Heating Air Conditioning and Plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58800 ",
+      "HEX ": "e5b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hospital Mnt",
+      "Description": "Hospital Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60832 ",
+      "HEX ": "eda ",
+      "Mode  ": "A",
+      "Alpha Tag": "RovingGuards",
+      "Description": "Roving Guards ",
+      "Tag  ": "Business "
+    }
+  ]
+}

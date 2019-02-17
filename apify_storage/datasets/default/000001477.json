@@ -1,0 +1,64 @@
+{
+  "System Name": "Barbeck Communications (DMR)",
+  "Location": "Central IL, IL",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 29, 2018, 3:07 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Decatur",
+      "County": [
+        "Macon",
+        "01 452.975 ",
+        "02 452.850 ",
+        "03 452.350 ",
+        "04 452.450 ",
+        "05 452.625 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Effingham",
+      "County": [
+        "Effingham",
+        "00 463.400 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ops 21",
+      "Description": "business ops (Decatur) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "Ops 31",
+      "Description": "Operations (Effingham) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ops 49",
+      "Description": "business ops (Decatur) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ops 50",
+      "Description": "business ops (Decatur) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

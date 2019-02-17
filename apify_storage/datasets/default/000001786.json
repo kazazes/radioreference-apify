@@ -1,0 +1,229 @@
+{
+  "System Name": "Bowling Green Municipal Utilities",
+  "Location": "Bowling Green, KY",
+  "County": "Warren",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 9, 2015, 1:15 am (Changed System ID: [480 | | BEE00] to [480 | | BEE00])",
+  "System ID List": [
+    {
+      "System ID": "480",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Bowling Green",
+      "Freqs": [
+        "854.9125c",
+        "855.1625a",
+        "855.4125a",
+        "855.9375a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 1",
+      "Description": "Operations 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Service",
+      "Description": "Service ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "T",
+      "Alpha Tag": "Substation",
+      "Description": "Substation ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "T",
+      "Alpha Tag": "Meters",
+      "Description": "Meter Service ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "T",
+      "Alpha Tag": "Electrical 1",
+      "Description": "Electrical 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Electrical2",
+      "Description": "Electrical 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tree Trim",
+      "Description": "Tree Trimming ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "21 ",
+      "HEX ": "015 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Emergency",
+      "Description": "Emergency ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "23 ",
+      "HEX ": "017 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Turn On/Off",
+      "Description": "Service On/Off ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25 ",
+      "HEX ": "019 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Meter Reader",
+      "Description": "Meter Reading ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27 ",
+      "HEX ": "01b ",
+      "Mode  ": "T",
+      "Alpha Tag": "Computer Svc",
+      "Description": "Computer Service ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "29 ",
+      "HEX ": "01d ",
+      "Mode  ": "T",
+      "Alpha Tag": "MeterRepair",
+      "Description": "Meter Repair Shop ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "31 ",
+      "HEX ": "01f ",
+      "Mode  ": "T",
+      "Alpha Tag": "RadioService",
+      "Description": "Radio Service ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "33 ",
+      "HEX ": "021 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water/Sewer1",
+      "Description": "Water/Sewer 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water/Sewer2",
+      "Description": "Water/Sewer 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "37 ",
+      "HEX ": "025 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sewage Plant",
+      "Description": "Sewage Plant ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "39 ",
+      "HEX ": "027 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water plant",
+      "Description": "Water Plant ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "41 ",
+      "HEX ": "029 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Back Up 1",
+      "Description": "BGMU Back-Up 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "43 ",
+      "HEX ": "02b ",
+      "Mode  ": "T",
+      "Alpha Tag": "Back Up 2",
+      "Description": "BGMU Back-Up 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "45 ",
+      "HEX ": "02d ",
+      "Mode  ": "T",
+      "Alpha Tag": "Back Up 3",
+      "Description": "BGMU Back-Up 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "47 ",
+      "HEX ": "02f ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineer 1",
+      "Description": "Engineering 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "49 ",
+      "HEX ": "031 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineer 2",
+      "Description": "Engineering 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "51 ",
+      "HEX ": "033 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WatrSurpvrs",
+      "Description": "Water Supervisors ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

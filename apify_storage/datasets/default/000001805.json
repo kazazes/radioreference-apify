@@ -1,0 +1,124 @@
+{
+  "System Name": "RCM Communications (Hytera XPT)",
+  "Location": "Portland, ME",
+  "County": "5 counties",
+  "System Type": "DMR Hytera XPT",
+  "System Voice": "DMR",
+  "Last Updated": "February 7, 2019, 12:37 pm (Changed Site # 001 (Buckfield) to 001 (Buckfield))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Sanford",
+      "County": [
+        "York",
+        "01 152.9825 ",
+        "02 151.9825 ",
+        "03 151.670 ",
+        "04 152.405 ",
+        "05 151.5725 ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Dresden",
+      "County": [
+        "Lincoln",
+        "01 153.0425 ",
+        "02 153.2825 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Buckfield",
+      "County": [
+        "Oxford",
+        "01 151.5575 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Augusta",
+      "County": [
+        "Kennebec",
+        "01 158.3925 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Buckfield",
+      "County": [
+        "Oxford",
+        "01 151.850 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Falmouth 1",
+      "County": [
+        "Cumberland",
+        "01 151.730 ",
+        "02 152.9975 ",
+        "03 153.5525 ",
+        "04 153.9125 ",
+        "05 153.3135 ",
+        "06 152.885 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Falmouth 2",
+      "County": [
+        "Cumberland",
+        "01 153.2375 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LndscpPlow53",
+      "Description": "Landscaping/Snow Plowing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LndscpPlow54",
+      "Description": "Landscaping/Snow Plowing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "78 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LndscpPlow78",
+      "Description": "Landscaping/Snow Plowing ",
+      "Tag  ": "Business "
+    }
+  ]
+}

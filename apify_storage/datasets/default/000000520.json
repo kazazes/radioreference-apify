@@ -1,0 +1,25 @@
+{
+  "System Name": "USS Manchester (LCS-14)",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "June 10, 2018, 8:04 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "E739",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "408.5625c",
+        "410.1625",
+        "410.5625"
+      ]
+    }
+  ]
+}

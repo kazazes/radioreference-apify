@@ -1,0 +1,21 @@
+{
+  "System Name": "Florida Power and Light (Indiantown)",
+  "Location": "Indiantown, FL",
+  "County": "Martin",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 19, 2018, 8:44 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Indiantown",
+        "01 152.3225 ",
+        "02 152.3525 ",
+        "03 152.4275 ",
+        "04 152.975 ",
+        "05 154.4825 "
+      ]
+    }
+  ]
+}

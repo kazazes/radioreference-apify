@@ -1,0 +1,20 @@
+{
+  "System Name": "Murray Natural Gas",
+  "Location": "Murray, KY",
+  "County": "Calloway",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 5, 2018, 12:57 pm (Changed Site # 001 (Murray) to 001 (Murray))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Murray",
+        "01 461.5625 ",
+        "02 462.0125 ",
+        "03 463.5375 ",
+        "04 464.775 "
+      ]
+    }
+  ]
+}

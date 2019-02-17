@@ -1,0 +1,328 @@
+{
+  "System Name": "Florida Power and Light (P25)",
+  "Location": "Varies, FL",
+  "County": "17 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 15, 2018, 6:01 pm (Changed Site # 021 (Jacksonville 2) to 021 (Jacksonville 2))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92463"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "21 (15)",
+      "Site": "021 (15)",
+      "Name": "Jacksonville 2",
+      "County": "Clay",
+      "Freqs": [
+        "935.1375a",
+        "936.250c",
+        "936.7125a",
+        "939.2375a",
+        "939.475a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "43 (2B)",
+      "Site": "043 (2B)",
+      "Name": "Titusville",
+      "County": "Brevard",
+      "Freqs": [
+        "936.4375",
+        "937.500",
+        "938.1875",
+        "938.4375",
+        "989.8875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "53 (35)",
+      "Site": "053 (35)",
+      "Name": "Belle Glade",
+      "County": "Palm Beach",
+      "Freqs": [
+        "935.450a",
+        "935.750c",
+        "936.9625a",
+        "937.7375a",
+        "937.950a",
+        "939.3875a",
+        "939.4375a"
+      ]
+    },
+    {
+      "RFSS": "59 (3B)",
+      "Site": "059 (3B)",
+      "Name": "Nassau ",
+      "County": "Nassau",
+      "Freqs": [
+        "935.975a",
+        "937.500a",
+        "938.3875a",
+        "938.4125c",
+        "939.000a",
+        "939.500a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "61 (3D)",
+      "Site": "061 (3D)",
+      "Name": "Cocoa",
+      "County": "Brevard",
+      "Freqs": [
+        "935.4375",
+        "935.4875",
+        "935.675c",
+        "936.900c",
+        "937.450",
+        "938.425",
+        " "
+      ]
+    },
+    {
+      "RFSS": "69 (45)",
+      "Site": "069 (45)",
+      "Name": "Live Oak",
+      "County": "Suwannee",
+      "Freqs": [
+        "935.450c",
+        "935.475a",
+        "937.500a",
+        "938.3875a",
+        "938.4125a",
+        "938.9625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "71 (47)",
+      "Site": "071 (47)",
+      "Name": "West Broward",
+      "County": "Broward",
+      "Freqs": [
+        "935.900c",
+        "936.3875a",
+        "937.9375a",
+        "938.250a",
+        "938.4125a",
+        "939.750a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "83 (53)",
+      "Site": "083 (53)",
+      "Name": "Boca",
+      "County": "Palm Beach",
+      "Freqs": [
+        "936.9625c",
+        "937.4875a",
+        "937.900a",
+        "937.9875a",
+        "938.3875a",
+        "938.4375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "87 (57)",
+      "Site": "087 (57)",
+      "Name": "Jacksonville 1",
+      "County": "St. Johns",
+      "Freqs": [
+        "935.3875a",
+        "935.4125a",
+        "937.700c",
+        "938.450a",
+        "938.475a",
+        "938.9625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "89 (59)",
+      "Site": "089 (59)",
+      "Name": "St. Augustine ",
+      "County": "Flagler",
+      "Freqs": [
+        "935.450a",
+        "935.475a",
+        "936.725c",
+        "937.4625a",
+        "937.4875a",
+        "938.6375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "117 (75)",
+      "Site": "117 (75)",
+      "Name": "Broward ",
+      "County": "Broward",
+      "Freqs": [
+        "935.4625c",
+        "935.4875a",
+        "937.8875a",
+        "937.9125a",
+        "938.175a",
+        "938.500a",
+        "939.400a"
+      ]
+    },
+    {
+      "RFSS": "123 (7B)",
+      "Site": "123 (7B)",
+      "Name": "Hialeah ",
+      "County": "Miami-Dade",
+      "Freqs": [
+        "935.400",
+        "935.425",
+        "935.475",
+        "937.450",
+        "937.975c",
+        "938.000",
+        "939.425"
+      ]
+    },
+    {
+      "RFSS": "131 (83)",
+      "Site": "131 (83)",
+      "Name": "Osteen",
+      "County": "Volusia",
+      "Freqs": [
+        "935.400c",
+        "935.475",
+        "936.000",
+        "936.450",
+        "937.4625",
+        "937.4875",
+        "938.4125"
+      ]
+    },
+    {
+      "RFSS": "133 (85)",
+      "Site": "133 (85)",
+      "Name": "Melbourne",
+      "County": "Brevard",
+      "Freqs": [
+        "935.3875",
+        "935.4625c",
+        "936.3875",
+        "938.450",
+        "938.475",
+        "938.475",
+        "938.9625",
+        "938.9875"
+      ]
+    },
+    {
+      "RFSS": "147 (93)",
+      "Site": "147 (93)",
+      "Name": "West Palm Beach ",
+      "County": "Palm Beach",
+      "Freqs": [
+        "935.400a",
+        "935.425a",
+        "935.475a",
+        "935.500a",
+        "935.925c",
+        "937.475a",
+        "937.975a",
+        "938.425a",
+        "939.4125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "South Broward T",
+      "Description": "South Broward Trouble ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "202 ",
+      "HEX ": "0ca ",
+      "Mode  ": "T",
+      "Alpha Tag": "Central BrowardT",
+      "Description": "Central Broward Trouble ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "203 ",
+      "HEX ": "0cb ",
+      "Mode  ": "T",
+      "Alpha Tag": "North Broward T",
+      "Description": "North Broward Trouble ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "301 ",
+      "HEX ": "12d ",
+      "Mode  ": "T",
+      "Alpha Tag": "Boca Trouble",
+      "Description": "Boca Trouble ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "302 ",
+      "HEX ": "12e ",
+      "Mode  ": "T",
+      "Alpha Tag": "West Palm Troubl",
+      "Description": "West Palm Trouble ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "303 ",
+      "HEX ": "12f ",
+      "Mode  ": "T",
+      "Alpha Tag": "Boca Yard",
+      "Description": "Boca Yard ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "305 ",
+      "HEX ": "131 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Belle Glade Yard",
+      "Description": "Belle Glade Yard ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "306 ",
+      "HEX ": "132 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Jupiter Yard",
+      "Description": "Jupiter Yard ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "307 ",
+      "HEX ": "133 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Royal Palm Yard",
+      "Description": "Royal Palm Yard ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "308 ",
+      "HEX ": "134 ",
+      "Mode  ": "T",
+      "Alpha Tag": "West Palm Yard",
+      "Description": "West Palm Yard ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

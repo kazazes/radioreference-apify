@@ -1,0 +1,127 @@
+{
+  "System Name": "Calvert County",
+  "Location": "Prince Frederick, MD",
+  "County": "Calvert",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 22, 2016, 8:09 pm (Updated Talkgroups (6 Updated))",
+  "System ID List": [
+    {
+      "System ID": "683B",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.9125",
+        "852.1375c",
+        "852.1875c",
+        "852.250c",
+        "853.350a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1808 ",
+      "HEX ": "071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police/Fire",
+      "Description": "Police/Fire (Mobile Ch. A7, Portable Ch. A8) ",
+      "Tag  ": "Multi-Tac "
+    },
+    {
+      "DEC ": "1840 ",
+      "HEX ": "073 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Disp",
+      "Description": "Ch. A1 Main (Linked to 33.82 MHz Dispatch) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1872 ",
+      "HEX ": "075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 1",
+      "Description": "Ch. A2 Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1904 ",
+      "HEX ": "077 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 2",
+      "Description": "Ch. A3 Tactical 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1936 ",
+      "HEX ": "079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Tac 3",
+      "Description": "Ch. A4 Tactical 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1968 ",
+      "HEX ": "07b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Mut Aid",
+      "Description": "Ch. A5 Mutual Aid (Part time link to St. Mary's Ch. 4 on 33.1 MHz) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2032 ",
+      "HEX ": "07f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Train",
+      "Description": "Ch. A6 Training ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Co Meet",
+      "Description": "Ch. A9 County Meet ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2512 ",
+      "HEX ": "09d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Co Trng",
+      "Description": "Ch. A10 County Training ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2544 ",
+      "HEX ": "09f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Co Emer",
+      "Description": "Ch. A11 County Emergency ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2704 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Benedict 1",
+      "Description": "\"Benedict Ch. 1\" (used by Charles County units) ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2576 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MSP Pr Fred",
+      "Description": "Maryland State Police - Prince Frederick ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

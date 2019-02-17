@@ -1,0 +1,252 @@
+{
+  "System Name": "State of Delaware Public Safety",
+  "Location": "Statewide, DE",
+  "County": "Statewide",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 24, 2018, 3:38 pm ((4) Talkgroups Updated (Sussex County - Mutual Aid))",
+  "System ID List": [
+    {
+      "System ID": "583A",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "New Castle Simulcast",
+      "County": "New Castle",
+      "Freqs": [
+        "851.2375",
+        "851.4875",
+        "851.5625",
+        "851.725",
+        "852.0375",
+        "852.2375",
+        "852.4875",
+        "852.7125",
+        "852.7375",
+        "853.2125c",
+        "853.3875",
+        "853.7125",
+        "853.9375a",
+        "853.9625a"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Kent Simulcast",
+      "County": "Kent",
+      "Freqs": [
+        "851.075a",
+        "851.650",
+        "851.675",
+        "852.125",
+        "852.650",
+        "852.675",
+        "852.950",
+        "853.650a",
+        "853.750a",
+        "853.900c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Sussex Simulcast",
+      "County": "Sussex",
+      "Freqs": [
+        "851.100",
+        "851.3625",
+        "852.0875",
+        "852.350",
+        "852.600",
+        "852.8375",
+        "853.0875",
+        "853.1125a",
+        "853.350a",
+        "853.5875c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Wilmington City",
+      "County": "New Castle",
+      "Freqs": [
+        "856.2625",
+        "856.7625",
+        "857.2625",
+        "857.7625c",
+        "858.7625c",
+        "859.0875c",
+        "859.7625c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Hartly IR",
+      "County": "Kent",
+      "Freqs": [
+        "851.1625c",
+        "851.7625a",
+        "852.975a",
+        "853.6125",
+        "853.8625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Winterthur IR",
+      "County": "New Castle",
+      "Freqs": [
+        "851.300",
+        "851.650",
+        "851.825",
+        "852.125",
+        "852.300",
+        "852.6625",
+        "853.325",
+        "853.500c"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Hockessin IR",
+      "County": "New Castle",
+      "Freqs": [
+        "851.5375",
+        "851.7875",
+        "852.2625",
+        "852.425",
+        "852.775",
+        "853.0875",
+        "853.575c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5712 ",
+      "HEX ": "165 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SW-SWGUARD",
+      "Description": "Statewide National Guard ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5744 ",
+      "HEX ": "167 ",
+      "Mode  ": "D",
+      "Alpha Tag": "N-NGUARD",
+      "Description": "National Guard (NCC) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5776 ",
+      "HEX ": "169 ",
+      "Mode  ": "D",
+      "Alpha Tag": "K-NGUARD",
+      "Description": "National Guard (Kent) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5808 ",
+      "HEX ": "16b ",
+      "Mode  ": "D",
+      "Alpha Tag": "S-NGUARD",
+      "Description": "National Guard (Sussex) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5840 ",
+      "HEX ": "16d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SW-SWGTAC",
+      "Description": "National Guard TAC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "6128 ",
+      "HEX ": "17f ",
+      "Mode  ": "D",
+      "Alpha Tag": "N-GTAC",
+      "Description": "National Guard-NCC TAC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "6160 ",
+      "HEX ": "181 ",
+      "Mode  ": "D",
+      "Alpha Tag": "K-GTAC",
+      "Description": "National Guard-Kent TAC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "6192 ",
+      "HEX ": "183 ",
+      "Mode  ": "D",
+      "Alpha Tag": "S-GTAC",
+      "Description": "National Guard-Sussex TAC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7600 ",
+      "HEX ": "1db ",
+      "Mode  ": "D",
+      "Alpha Tag": "N-AIRGRD",
+      "Description": "Air National Guard (NCC Airport ops) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7760 ",
+      "HEX ": "1e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "N-KILGDNG",
+      "Description": "Air National Guard (NCC) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "24720 ",
+      "HEX ": "609 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DNG-OPS",
+      "Description": "National Guard (NCC) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "24784 ",
+      "HEX ": "60d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DNG-OPS",
+      "Description": "National Guard ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "24816 ",
+      "HEX ": "60f ",
+      "Mode  ": "D",
+      "Alpha Tag": "DNG-OPS",
+      "Description": "National Guard-(NCC) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "25008 ",
+      "HEX ": "61b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DNG -Ops-SSX",
+      "Description": "National Guard-Sussex ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "13680 ",
+      "HEX ": "357 ",
+      "Mode  ": "D",
+      "Alpha Tag": "S-S BETH PS",
+      "Description": "South Bethany Beach PD ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "System Name": "Action Communications",
+  "Location": "Various, OK KS",
+  "County": "8 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 7, 2019, 9:46 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "320"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Bartlesville VHF",
+      "County": "Washington, OK",
+      "Freqs": [
+        "150.890",
+        "151.6025",
+        "151.8425",
+        "152.8775"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Ketchum",
+      "County": "Craig, OK",
+      "Freqs": [
+        "151.5575",
+        "151.955",
+        "152.8775",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Sumner",
+      "County": "Noble, OK",
+      "Freqs": [
+        "151.5875",
+        "153.0275",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Coffeyville",
+      "County": "Montgomery, KS",
+      "Freqs": [
+        "460.100c",
+        "460.350c",
+        "463.125c",
+        "464.300c"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Bartlesville UHF",
+      "County": "Washington, OK",
+      "Freqs": [
+        "461.675",
+        "461.900",
+        "463.250",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Broken Arrow",
+      "County": "Tulsa, OK",
+      "Freqs": [
+        "451.0625c",
+        "451.200",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "New Prue",
+      "County": "Osage, OK",
+      "Freqs": [
+        "461.600",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Independence",
+      "County": "Montgomery, KS",
+      "Freqs": [
+        "451.800c",
+        "453.300c",
+        "453.6875c",
+        "460.625c"
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Caney",
+      "County": "Montgomery, KS",
+      "Freqs": [
+        "453.200c",
+        "453.600c",
+        "460.575c",
+        "461.225c"
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Nowata",
+      "County": "Nowata, OK",
+      "Freqs": [
+        "460.550",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Cherryvale",
+      "County": "Montgomery, KS",
+      "Freqs": [
+        "453.350c",
+        "453.775c",
+        "460.025c",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "40008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Montgomery Co SO",
+      "Description": "Sheriff Dispatch -- Ops 6 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "40006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCo Law",
+      "Description": "County Wide Law -- Ops 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "40003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoOps1",
+      "Description": "Sheriff Private -- Ops 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "40004 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontgomeryCoOps2",
+      "Description": "Sheriff Encrypted -- Ops 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "40005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoOps3",
+      "Description": "Interop -- Ops 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "40041 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoFire",
+      "Description": "Countywide Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40031 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoFD N",
+      "Description": "Fire North ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "40032 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoFD S",
+      "Description": "Fire South ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "40033 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgmryCoFDAdmn",
+      "Description": "Fire Administration ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40034 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Independence FD",
+      "Description": "Independence Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40035 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cherryvale Fire",
+      "Description": "Cherryvale Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40036 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sycamore Fire",
+      "Description": "Sycamore Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40037 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Havana Fire",
+      "Description": "Havana Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40038 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Liberty Fire",
+      "Description": "Liberty Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40039 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dearing Fire",
+      "Description": "Dearing Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40040 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Tryo Fire",
+      "Description": "Tyro Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40042 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoEMS",
+      "Description": "Countywide EMS ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "40018 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCo EM",
+      "Description": "Emergency Management -- Ops 9 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "40007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomeryCoOps5",
+      "Description": "Weather Watch -- Ops 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "40020 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontgomryCoOps10",
+      "Description": "Disaster -- Ops 10 ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "56 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OsageLandfillAdm",
+      "Description": "Osage Landfill Administration ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OsageLandfillTrk",
+      "Description": "Osage Landfill Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "703 ",
+      "Mode  ": "D",
+      "Alpha Tag": "O'ReilyAutoParts",
+      "Description": "O'Riellys Store 149 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ActionCommunicat",
+      "Description": "Action Communications ",
+      "Tag  ": "Business "
+    }
+  ]
+}

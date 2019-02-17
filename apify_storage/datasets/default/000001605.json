@@ -1,0 +1,77 @@
+{
+  "System Name": "Graybill Electronics (LTR)",
+  "Location": "Cedar Rapids, IA",
+  "County": "Linn",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 7, 2018, 1:08 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 860.6125 ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 859.6125 ",
+        "06 N/A ",
+        "07 N/A "
+      ],
+      "Data": [
+        "08 N/A ",
+        "09 858.6125 ",
+        "10 N/A ",
+        "11 N/A ",
+        "12 859.5625 ",
+        "13 857.6125 ",
+        "14 858.5625 ",
+        "15 N/A ",
+        "16 857.5625 ",
+        "17 856.6125 ",
+        "18 856.5625 ",
+        "19 N/A ",
+        "20 853.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-13-098 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Century Base",
+      "Description": "Dispatcher to Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-13-099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CenturyTaxis",
+      "Description": "Taxi to Dispatcher ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-09-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DarrahTowing",
+      "Description": "Darrah's Towing Co ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-080 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Airport Shut",
+      "Description": "Airport Shuttle ",
+      "Tag  ": "Business "
+    }
+  ]
+}

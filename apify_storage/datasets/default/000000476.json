@@ -1,0 +1,154 @@
+{
+  "System Name": "California Institution for Men",
+  "Location": "Chino, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "October 22, 2011, 9:43 pm (Updated Talkgroups (14 Updated))",
+  "System ID List": [
+    {
+      "System ID": "2426",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Fleetmap": [],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "On Site",
+      "Freqs": [
+        "866.4625",
+        "867.4625",
+        "868.4625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1072 ",
+      "HEX ": "043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1072",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1168",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "1248 ",
+      "HEX ": "04e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1248",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "2144 ",
+      "HEX ": "086 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2144",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "2544 ",
+      "HEX ": "09f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2544",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "3152 ",
+      "HEX ": "0c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3152",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3216",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "3568 ",
+      "HEX ": "0df ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3568",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "4224 ",
+      "HEX ": "108 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1080",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "4352 ",
+      "HEX ": "110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1100",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "4528 ",
+      "HEX ": "11b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 4528",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "4544 ",
+      "HEX ": "11c ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 4544",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "4560 ",
+      "HEX ": "11d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 4560",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "55840 ",
+      "HEX ": "da2 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 55840",
+      "Description": "Prison Ops ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

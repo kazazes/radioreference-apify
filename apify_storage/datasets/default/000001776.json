@@ -1,0 +1,21 @@
+{
+  "System Name": "Sensing Communications",
+  "Location": "Paducah, KY",
+  "County": "McCracken",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 24, 2007, 8:58 pm (Changed Site-01)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "STARR HILL",
+        "01 150.905 ",
+        "02 151.670 ",
+        "03 151.790 ",
+        "04 153.635 ",
+        "05 157.485 "
+      ]
+    }
+  ]
+}

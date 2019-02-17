@@ -1,0 +1,76 @@
+{
+  "System Name": "Federal Bureau of Prisons - Marion",
+  "Location": "Marion, IL",
+  "County": "Williamson",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 11, 2017, 11:39 pm ((5) Talkgroups Updated (FBOP Marion))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "E722",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Marion",
+      "Freqs": [
+        "407.0125c",
+        "408.2125c",
+        "409.2125",
+        "406.2125",
+        "412.650"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FBOP Ops 1",
+      "Description": "Operations 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FBOP Ops 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FBOP Ops 3",
+      "Description": "Operations 3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FBOP Ops 4",
+      "Description": "Operations 4 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FBOP Ops 5",
+      "Description": "Operations 5 ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

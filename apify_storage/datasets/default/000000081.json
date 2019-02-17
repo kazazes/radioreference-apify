@@ -1,0 +1,251 @@
+{
+  "System Name": "COM Rents",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 13, 2017, 2:32 am (Added Talkgroup 16464 Bus)",
+  "System ID List": [
+    {
+      "System ID": "0426",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "South Mountain",
+      "Freqs": [
+        "851.2375",
+        "852.2625",
+        "852.9875",
+        "853.3125",
+        "853.5875",
+        "854.2625a",
+        "855.0875",
+        "860.1875",
+        "860.5625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttle",
+      "Description": "Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "DaysInnShutt",
+      "Description": "Days Inn & Super 8 Van Buren Shuttle & Ops ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "2320 ",
+      "HEX ": "091 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construct 01",
+      "Description": "Construction Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3664 ",
+      "HEX ": "0e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construct 02",
+      "Description": "Construction Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4432 ",
+      "HEX ": "115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery",
+      "Description": "Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5968 ",
+      "HEX ": "175 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Aprt Shuttle",
+      "Description": "Hotel Airport Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "7376 ",
+      "HEX ": "1cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Agricultural",
+      "Description": "Agricultural ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10736 ",
+      "HEX ": "29f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sand/Gravel",
+      "Description": "Sand & Gravel Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15440 ",
+      "HEX ": "3c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GolfCart Svc",
+      "Description": "Golf Cart Service & Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21632 ",
+      "HEX ": "548 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bottling 01",
+      "Description": "Bottling Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21648 ",
+      "HEX ": "549 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bottling 02",
+      "Description": "Bottling Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21664 ",
+      "HEX ": "54a ",
+      "Mode  ": "A",
+      "Alpha Tag": "Local Dlvry",
+      "Description": "Local Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25280 ",
+      "HEX ": "62c ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tfc Baricad1",
+      "Description": "Traffic Barricades ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25296 ",
+      "HEX ": "62d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tfc Baricad2",
+      "Description": "Traffic Barricades ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28224 ",
+      "HEX ": "6e4 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Salt River01",
+      "Description": "Salt River Reservation Home Builder ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28256 ",
+      "HEX ": "6e6 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Salt River02",
+      "Description": "Salt River Reservation Home Builder ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28896 ",
+      "HEX ": "70e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Airline Ramp",
+      "Description": "Airline Ramp Ops ",
+      "Tag  ": "Aircraft "
+    },
+    {
+      "DEC ": "28912 ",
+      "HEX ": "70f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Airline Bags",
+      "Description": "Airline Luggage Ops ",
+      "Tag  ": "Aircraft "
+    },
+    {
+      "DEC ": "31712 ",
+      "HEX ": "7be ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construct 03",
+      "Description": "Construction Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36992 ",
+      "HEX ": "908 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish 01",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "37008 ",
+      "HEX ": "909 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spansh 02",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49664 ",
+      "HEX ": "c20 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Motorcoach",
+      "Description": "Motorcoach/Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "49680 ",
+      "HEX ": "c21 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Phx SchlSked",
+      "Description": "Phoenix School Buses - Scheduling ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49696 ",
+      "HEX ": "c22 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Motorcoach2",
+      "Description": "Motorcoach/Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "49712 ",
+      "HEX ": "c23 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Phx SchlTrfc",
+      "Description": "Phoenix School Buses - Traffic Reports ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49728 ",
+      "HEX ": "c24 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Phx SchlDisp",
+      "Description": "Phoenix School Buses - Dispatch ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16464 ",
+      "HEX ": "405 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WESD Bus",
+      "Description": "Bus ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

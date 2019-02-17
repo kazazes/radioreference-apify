@@ -1,0 +1,218 @@
+{
+  "System Name": "North Miami Beach",
+  "Location": "North Miami Beach, FL",
+  "County": "Miami-Dade",
+  "System Type": "EDACS Standard",
+  "System Voice": "ProVoice and Analog",
+  "Last Updated": "August 19, 2016, 10:53 am (Updated Function Tag assignments for 11 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site-000a",
+        "01 N/A ",
+        "02 856.250 ",
+        "03 857.225 ",
+        "04 858.250 ",
+        "05 859.250 ",
+        "06 859.550 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1297 ",
+      "AFS ": "10-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD MAIN",
+      "Description": "Main (Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1298 ",
+      "AFS ": "10-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD INFO",
+      "Description": "Information ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1299 ",
+      "AFS ": "10-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD CAR",
+      "Description": "Talk-Around ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1300 ",
+      "AFS ": "10-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD MALL",
+      "Description": "Mall Patrol ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1302 ",
+      "AFS ": "10-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD TAC 1",
+      "Description": "Tactical 1  ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1303 ",
+      "AFS ": "10-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD TAC 3",
+      "Description": "Tactical 3  ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1305 ",
+      "AFS ": "10-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD TRAFFIC",
+      "Description": "Traffic ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1306 ",
+      "AFS ": "10-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD FLT",
+      "Description": "Police FLT ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1307 ",
+      "AFS ": "10-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD TRAIN",
+      "Description": "Training ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1308 ",
+      "AFS ": "10-034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD BIKE",
+      "Description": "Bike Patrol ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1309 ",
+      "AFS ": "10-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD EVENT 1",
+      "Description": "Events 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1310 ",
+      "AFS ": "10-036 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD EVENT 2",
+      "Description": "Events 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1335 ",
+      "AFS ": "10-067 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "APD SCD",
+      "Description": "Street Crimes Division ",
+      "Tag  ": "Deprecated "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1361 ",
+      "AFS ": "10-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K-9",
+      "Description": "Joint K-9 Ops (Aventura and North Miami Beach) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1362 ",
+      "AFS ": "10-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "COM TAC3",
+      "Description": "Joint Tactical (Aventura and North Miami Beach) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1553 ",
+      "AFS ": "12-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD MAIN",
+      "Description": "F1-Main Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1554 ",
+      "AFS ": "12-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD INFO",
+      "Description": "F2-Information ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1555 ",
+      "AFS ": "12-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD CAR",
+      "Description": "F3-Talk-Around ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1556 ",
+      "AFS ": "12-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD TAC1",
+      "Description": "F4-Tactical 1  ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1557 ",
+      "AFS ": "12-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD TAC2",
+      "Description": "Tactical 2  ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1558 ",
+      "AFS ": "12-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD 5",
+      "Description": "F5-Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1559 ",
+      "AFS ": "12-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD 6",
+      "Description": "F6-Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1561 ",
+      "AFS ": "12-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD 7",
+      "Description": "F7-Police ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1562 ",
+      "AFS ": "12-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NMBPD 8",
+      "Description": "F8-Police ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

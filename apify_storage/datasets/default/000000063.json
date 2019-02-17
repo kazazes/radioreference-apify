@@ -1,0 +1,143 @@
+{
+  "System Name": "Flagstaff Regional Public Safety Cooperative System",
+  "Location": "Flagstaff, AZ",
+  "County": "Coconino",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 7, 2018, 10:13 pm ((3) Talkgroups Updated (Flagstaff Fire Department))",
+  "System ID List": [
+    {
+      "System ID": "487",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Riley Hall",
+      "Freqs": [
+        "854.7125a",
+        "855.4875",
+        "855.7375",
+        "856.2125a",
+        "856.4375c",
+        "856.4875",
+        "857.2125a",
+        "857.4875",
+        "858.4625",
+        "859.4625a",
+        "860.4625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Mount Elden",
+      "Freqs": [
+        "854.9875",
+        "855.4625",
+        "855.7375",
+        "855.9875",
+        "856.2625a",
+        "856.4375c",
+        "857.7125c",
+        "858.4875a",
+        "859.3875a",
+        "860.4375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Devils Head",
+      "Freqs": [
+        "854.9625a",
+        "855.2125a",
+        "855.2375",
+        "856.2375",
+        "856.9625",
+        "857.2375a",
+        "858.2375",
+        "859.2375a",
+        "859.8125c",
+        "860.2375c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Fire Station",
+      "Freqs": [
+        "856.7125",
+        "856.9625",
+        "857.2625",
+        "857.4375a",
+        "857.7125c",
+        "858.2125",
+        "858.9875a",
+        "859.4375a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8100 ",
+      "HEX ": "1fa4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Flag FD DP",
+      "Description": "Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "8101 ",
+      "HEX ": "1fa5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Flag FD Ops1",
+      "Description": "Fire Ops-1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8103 ",
+      "HEX ": "1fa7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Flag FD Ops-",
+      "Description": "Fire Ops-3 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8311 ",
+      "HEX ": "2077 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAU MAINT 1",
+      "Description": "Maintenance 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8312 ",
+      "HEX ": "2078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAU MAINT 2",
+      "Description": "Maintenance 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8314 ",
+      "HEX ": "207a ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAU MAINT 4",
+      "Description": "Maintenance 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8321 ",
+      "HEX ": "2081 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAU BUS",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

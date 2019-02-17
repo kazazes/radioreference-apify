@@ -1,0 +1,301 @@
+{
+  "System Name": "Seminole County",
+  "Location": "Sanford, FL",
+  "County": "Seminole",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 9, 2017, 2:51 pm ((149) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "4CF",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "6 (6)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "854.5625",
+        "854.8375",
+        "855.4875",
+        "855.6625",
+        "856.1375c",
+        "856.2375a",
+        "856.4625",
+        "857.1875",
+        "857.2375",
+        "857.4625",
+        "857.5375a",
+        "857.9875",
+        "858.2375",
+        "858.4625",
+        "858.9875",
+        "859.2375",
+        "859.4625a",
+        "859.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8225 ",
+      "HEX ": "2021 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49A FR1",
+      "Description": "Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "8226 ",
+      "HEX ": "2022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49B FR2",
+      "Description": "Medical 1 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "8227 ",
+      "HEX ": "2023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49C FR3",
+      "Description": "Medical 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8228 ",
+      "HEX ": "2024 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49D FR4",
+      "Description": "Fire Ground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8229 ",
+      "HEX ": "2025 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49E FR5",
+      "Description": "Fire Command  FR5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8230 ",
+      "HEX ": "2026 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49F FR6",
+      "Description": "Fire Command FR6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8231 ",
+      "HEX ": "2027 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49G FR7",
+      "Description": "Fire Command FR7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8232 ",
+      "HEX ": "2028 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49H FR8",
+      "Description": "Airport Fire Command / Fire Ground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8233 ",
+      "HEX ": "2029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49I FR9",
+      "Description": "Unicom ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8234 ",
+      "HEX ": "202a ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49J FR10",
+      "Description": "Juliet ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8235 ",
+      "HEX ": "202b ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49K FR11",
+      "Description": "Events / Tactical Command FR11 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8236 ",
+      "HEX ": "202c ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49L FR12\t",
+      "Description": "Events / Tactical Command FR12 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8237 ",
+      "HEX ": "202d ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49M FR13",
+      "Description": "Special Events ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8238 ",
+      "HEX ": "202e ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49N FR14",
+      "Description": "Tactical ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8239 ",
+      "HEX ": "202f ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49O FR15",
+      "Description": "Major Events / Training 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "8240 ",
+      "HEX ": "2030 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D49P FR16",
+      "Description": "Major Events / Training 2 ",
+      "Tag  ": "Fire-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8200 ",
+      "HEX ": "2008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8A OV1\t",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8201 ",
+      "HEX ": "2009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8B OV2\t",
+      "Description": "Teletype ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8202 ",
+      "HEX ": "200a ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8C OV3",
+      "Description": "Events ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8203 ",
+      "HEX ": "200b ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8D OV4",
+      "Description": "Investigations ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8204 ",
+      "HEX ": "200c ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8E OV5",
+      "Description": "Training ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8205 ",
+      "HEX ": "200d ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8F OV6",
+      "Description": "Talk Around OV6 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8206 ",
+      "HEX ": "200e ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8G OV7",
+      "Description": "Talk Around OV7 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8207 ",
+      "HEX ": "200f ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8H OV8",
+      "Description": "Talk Around OV8 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8208 ",
+      "HEX ": "2010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8I OV9",
+      "Description": "Talk Around OV9 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8209 ",
+      "HEX ": "2011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8J OV10",
+      "Description": "Talk Around OV10 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8210 ",
+      "HEX ": "2012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8K OV11",
+      "Description": "Public Works OV11 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8211 ",
+      "HEX ": "2013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8L OV12",
+      "Description": "Public Works OV12 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8212 ",
+      "HEX ": "2014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8M OV13",
+      "Description": "Public Works OV13 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8213 ",
+      "HEX ": "2015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8N OV14",
+      "Description": "Public Works OV14 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8214 ",
+      "HEX ": "2016 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8O OV15",
+      "Description": "Public Works OV15 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8215 ",
+      "HEX ": "2017 ",
+      "Mode  ": "D",
+      "Alpha Tag": "D8P OV16",
+      "Description": "Public Works ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

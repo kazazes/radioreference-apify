@@ -1,0 +1,76 @@
+{
+  "System Name": "Air Comm",
+  "Location": "Various, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 27, 2017, 5:57 am (Updated Function Tag assignments for 1 talkgroups(Roadhaven Resort))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Usery Pass",
+        "01 461.4625 ",
+        "02 461.8125 ",
+        "03 463.4875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Shaw Butte",
+        "01 461.6625 ",
+        "02 462.0125 ",
+        "03 463.2875 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "White Tanks",
+        "01 462.1625 ",
+        "02 464.3125 ",
+        "03 464.6625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security Co.",
+      "Description": "Security Company ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Med Tnsp ",
+      "Description": "Medical Transport Co (Non-Emergency) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "230 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Barricade Co",
+      "Description": "Barricade Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "247 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OffsiteSweep",
+      "Description": "Offsite Sweeping ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RonFasslAuto",
+      "Description": "Ron Fassl Automotive ",
+      "Tag  ": "Business "
+    }
+  ]
+}

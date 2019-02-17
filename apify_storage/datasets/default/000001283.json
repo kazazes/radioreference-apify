@@ -1,0 +1,89 @@
+{
+  "System Name": "J and K Communications Diga Talk",
+  "Location": "Various, IN",
+  "County": "5 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "October 9, 2018, 12:04 am (Changed Site # 002 (Kendallville) to 002 (Kendallville))",
+  "System ID List": [
+    {
+      "System ID": "107"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fort Wayne",
+      "County": "Allen",
+      "Freqs": [
+        "451.425",
+        "451.550",
+        "451.900",
+        "452.3875c",
+        "452.4375c",
+        "451.4125"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Kendallville",
+      "County": "Noble",
+      "Freqs": [
+        "463.4125c",
+        "463.5125",
+        "463.5875",
+        "463.9125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Angola",
+      "County": "Steuben",
+      "Freqs": [
+        "463.3625c",
+        "463.6875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Shipshewana",
+      "County": "Lagrange",
+      "Freqs": [
+        "461.9375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Columbia City",
+      "County": "Whitley",
+      "Freqs": [
+        "452.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ROADSIDE ASSIST ",
+      "Description": "Roadside Assistance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

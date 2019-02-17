@@ -1,0 +1,127 @@
+{
+  "System Name": "American Electric Power (OpenSky) System",
+  "Location": "Varies, MI IN",
+  "County": "15 counties",
+  "System Type": "OpenSky 9600 baud",
+  "System Voice": "TDMA Digital",
+  "Last Updated": "April 21, 2018, 11:46 pm (Changed News Entry ID=6211)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Benton Harbor, MI",
+      "County": "Berrien, MI",
+      "Freqs": [
+        "855.9375",
+        "856.2875",
+        "857.2875",
+        "858.2875",
+        "859.2875",
+        "860.2875"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Three Rivers, MI",
+      "County": "St. Joseph, MI",
+      "Freqs": [
+        "854.8625",
+        "855.4125",
+        "855.8625",
+        "857.3875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Lawton, MI",
+      "County": "Van Buren, MI",
+      "Freqs": [
+        "858.3875",
+        "859.3875",
+        "860.3875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "New Buffalo, MI",
+      "County": "Berrien, MI",
+      "Freqs": [
+        "855.7875",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "New Carlisle",
+      "County": "St. Joseph, IN",
+      "Freqs": [
+        "855.6125",
+        "856.8875",
+        "857.8875",
+        "858.8875",
+        "859.8875",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Goshen, IN",
+      "County": "Elkhart, IN",
+      "Freqs": [
+        "855.3625",
+        "855.6375",
+        "855.6875",
+        "855.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Avilla, IN",
+      "County": "Noble, IN",
+      "Freqs": [
+        "855.1875",
+        "855.4375",
+        "856.8875",
+        "857.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Butler, IN",
+      "County": "DeKalb, IN",
+      "Freqs": [
+        "855.1625",
+        "858.3875",
+        "859.2875",
+        "860.2875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Fort Wayne, IN",
+      "County": "Allen, IN",
+      "Freqs": [
+        "855.3875",
+        "855.6625",
+        "856.7875",
+        "857.7875",
+        "858.7875",
+        "859.7875"
+      ]
+    }
+  ]
+}

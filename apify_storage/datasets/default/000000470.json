@@ -1,0 +1,82 @@
+{
+  "System Name": "University of California (Davis)",
+  "Location": "Davis, CA",
+  "County": "2 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "July 7, 2018, 2:41 am (Changed Talkgroup Category: Fire/EMS to Fire/EMS(Fire/EMS))",
+  "System ID List": [
+    {
+      "System ID": "390F",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "County": "Yolo",
+      "Freqs": [
+        "851.075",
+        "851.4875",
+        "851.9875c",
+        "852.4875c",
+        "852.9875c",
+        "853.2375",
+        "853.4875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UCD PD 1",
+      "Description": "Police Patrol 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UCD PD 2",
+      "Description": "Police Patrol 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3088 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UCD PD 3",
+      "Description": "Police Car To Car ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3664 ",
+      "HEX ": "0e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "YOLOBUS COM",
+      "Description": "Common ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3696 ",
+      "HEX ": "0e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "YOLOBUS SVC",
+      "Description": "Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "4976 ",
+      "HEX ": "137 ",
+      "Mode  ": "A",
+      "Alpha Tag": "YOLOBUS SPV",
+      "Description": "Supervisors ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

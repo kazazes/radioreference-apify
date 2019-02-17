@@ -1,0 +1,38 @@
+{
+  "System Name": "Redding (City Services)",
+  "Location": "Redding, CA",
+  "County": "Shasta",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 19, 2013, 8:30 am (Changed System ID: [7a09 | 116.13 | ] to [7A09 | 116.13 | ])",
+  "System ID List": [
+    {
+      "System ID": "7A09",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "854.0375c",
+        "856.4375",
+        "857.4375c",
+        "858.4375c",
+        "859.4375c",
+        "860.4375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "58352 ",
+      "HEX ": "e3f ",
+      "Mode  ": "D",
+      "Alpha Tag": "TG 58352",
+      "Description": "Unknown Use ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

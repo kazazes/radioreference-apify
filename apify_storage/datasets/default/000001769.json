@@ -1,0 +1,188 @@
+{
+  "System Name": "Blue Grass Army Depot P25-IP",
+  "Location": "Richmond, KY",
+  "County": "Madison",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 14, 2019, 8:45 pm (Updated encryption settings for 1 talkgroups(Depot Operations))",
+  "System ID List": [
+    {
+      "System ID": "1F4",
+      "WACN": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "BGAD Central",
+      "Freqs": [
+        "386.150",
+        "386.300",
+        "386.450c",
+        "386.600a",
+        "386.750a",
+        "388.125a",
+        "388.275",
+        "388.425",
+        "388.575"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2028 ",
+      "HEX ": "7ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "BGAD FD DISP",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2014 ",
+      "HEX ": "7de ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2014",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2023 ",
+      "HEX ": "7e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2023",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2024 ",
+      "HEX ": "7e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2024",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2025 ",
+      "HEX ": "7e9 ",
+      "Mode  ": "De",
+      "Alpha Tag": "TGRP 2025",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2038 ",
+      "HEX ": "7f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2038",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2039 ",
+      "HEX ": "7f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2039",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2040 ",
+      "HEX ": "7f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2040",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2049 ",
+      "HEX ": "801 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2049",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2083 ",
+      "HEX ": "823 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2083",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2084 ",
+      "HEX ": "824 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2084",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2090 ",
+      "HEX ": "82a ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2090",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2132 ",
+      "HEX ": "854 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2132",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2133 ",
+      "HEX ": "855 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2133",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2137 ",
+      "HEX ": "859 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2137",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2138 ",
+      "HEX ": "85a ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2138",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2139 ",
+      "HEX ": "85b ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2139",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2140 ",
+      "HEX ": "85c ",
+      "Mode  ": "De",
+      "Alpha Tag": "TGRP 2140",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2155 ",
+      "HEX ": "86b ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGRP 2155",
+      "Description": "Depot Operations ",
+      "Tag  ": "Military "
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "System Name": "Linn-Mar School District",
+  "Location": "Marion, IA",
+  "County": "Linn",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 22, 2016, 9:51 pm (Changed Site # 001 (Site 1) to 001 (Site 1))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.300 ",
+        "02 451.900 ",
+        "03 464.950 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LinnMar TG3",
+      "Description": "Linn-Mar TG3 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LinnMar TG5",
+      "Description": "Linn-Mar TG5 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LinnMar TG6",
+      "Description": "Linn-Mar TG6 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LinnMar TG9",
+      "Description": "Linn-Mar TG9 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LinnMar TG11",
+      "Description": "Linn-Mar TG11 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

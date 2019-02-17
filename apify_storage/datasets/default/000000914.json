@@ -1,0 +1,148 @@
+{
+  "System Name": "Federal Correctional Institution Tallahassee",
+  "Location": "Tallahassee, FL",
+  "County": "Leon",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "November 24, 2017, 4:02 pm (Updated Function Tag assignments for 2 talkgroups(All))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.61250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "A734",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "406.6125c",
+        "408.250c",
+        "408.8125c",
+        "409.8125c",
+        "410.525"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Announce",
+      "Description": "FCI Announcement ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Ch 1",
+      "Description": "FCI Ch 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Ch 2",
+      "Description": "FCI Ch 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Ch 3",
+      "Description": "Perimeter Patrol Vehicles ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilities 1",
+      "Description": "Facilities 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilities 2",
+      "Description": "Facilities 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Ch 6",
+      "Description": "FCI Ch 6 Food Service ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UNICOR",
+      "Description": "UNICOR ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Admin",
+      "Description": "Administration ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI Body Alarm",
+      "Description": "FCI Body Alarm ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FDC Announce",
+      "Description": "FDC Announcement ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16032 ",
+      "HEX ": "3ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "FDC Ch 1",
+      "Description": "FDC Ch 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "FDC Ch 2",
+      "Description": "FDC C 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16304 ",
+      "HEX ": "3fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "FDC Body Alarm",
+      "Description": "FDC Body Alarm ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

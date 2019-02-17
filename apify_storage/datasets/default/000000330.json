@@ -1,0 +1,325 @@
+{
+  "System Name": "Long Beach Container Terminal",
+  "Location": "Long Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 30, 2018, 2:45 am (Added Talkgroup 58 Dock Operations(LBCT))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "LBCT",
+        "01 451.475 ",
+        "02 451.6375 ",
+        "03 451.875 ",
+        "04 452.0375 ",
+        "05 452.1875 ",
+        "06 452.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT SEC",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Admin ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "32 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "35 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "37 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "38 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "40 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "43 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "46 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "55 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "63 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "67 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "68 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "81 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "87 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "89 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LBCT",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

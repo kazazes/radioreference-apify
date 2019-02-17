@@ -1,0 +1,111 @@
+{
+  "System Name": "Argocy Casino - Alton",
+  "Location": "St Louis , IL",
+  "County": "Madison",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 10, 2019, 11:04 pm (Added Talkgroup 1012 Housekeeping (Buffet area)(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Casino",
+        "00 153.110 ",
+        "01 151.685 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Unidentifed LCN",
+        "10 153.485 ",
+        "11 152.270 ",
+        "13 153.185 ",
+        "14 153.635 ",
+        "15 153.665 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Management",
+      "Description": "Management / Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security Operations ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-01-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Valet Ops",
+      "Description": "Valet Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1007",
+      "Description": "Operations (Printers) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1008",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Food Ops 1009",
+      "Description": "Food Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Food Ops 1010",
+      "Description": "Food Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1011",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-012 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeeping B",
+      "Description": "Housekeeping (Buffet area) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

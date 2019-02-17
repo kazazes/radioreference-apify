@@ -1,0 +1,42 @@
+{
+  "System Name": "Fox River Valley Park District - Aurora IL",
+  "Location": "Aurora, IL",
+  "County": "Kane",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 2, 2018, 2:50 pm (Changed Site # 001 (Primary) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 155.6325 ",
+        "02 155.5275 ",
+        "03 154.1975 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Park District 1",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Park District 2",
+      "Description": "Operations (Enc?) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Park District 10",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

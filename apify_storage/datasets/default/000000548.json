@@ -1,0 +1,220 @@
+{
+  "System Name": "Levi's Stadium",
+  "Location": "Santa Clara, CA",
+  "County": "Santa Clara",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 4, 2017, 4:46 am ((28) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Levi",
+        "01 451.7875 ",
+        "02 452.2875 ",
+        "03 461.375 ",
+        "04 462.400 ",
+        "05 463.825 ",
+        "06 464.975 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 1",
+      "Description": "Command ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 2",
+      "Description": "UC Coordination ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 3",
+      "Description": "Stadium Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 4",
+      "Description": "Logistics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 5",
+      "Description": "Loading Docks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 6",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 7",
+      "Description": "Medical I-Teams ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 8",
+      "Description": "Medical R-Teams ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 14",
+      "Description": "SST ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 15",
+      "Description": "SST Tac ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 16",
+      "Description": "Landmark Interior ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 17",
+      "Description": "Landmark Gates-Field ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 20",
+      "Description": "Landmark ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 21",
+      "Description": "IMPARK ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 27",
+      "Description": "ABM Inside ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 28",
+      "Description": "ABM Outside ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 31",
+      "Description": "Mobility Tac ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 38",
+      "Description": "Video Board ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "32 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 41",
+      "Description": "Centerplate ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 42",
+      "Description": "Suites FB ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 44",
+      "Description": "Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 52",
+      "Description": "Culinary Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 54",
+      "Description": "Field Medical ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 55",
+      "Description": "Tours ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 61",
+      "Description": "Field Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 62",
+      "Description": "Test 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 63",
+      "Description": "Test 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "61 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Levis 64",
+      "Description": "Code Of Conduct ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "System Name": "Calvert Cliffs Nuclear Power Plant (Capacity Plus)",
+  "Location": "Lusby, MD",
+  "County": "Calvert",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 3, 2017, 10:57 pm (Changed Site # 001 (Unconfirmed LCN) to 001 (Unconfirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 856.8875 ",
+        "02 857.8875 ",
+        "03 858.8875 ",
+        "04 859.8875 ",
+        "05 860.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CCNPP Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

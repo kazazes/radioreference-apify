@@ -1,0 +1,126 @@
+{
+  "System Name": "La Rue Communications (Rescue)",
+  "Location": "Rescue, CA",
+  "County": "El Dorado",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "June 11, 2016, 9:16 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "501B",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Pine Hill",
+      "Freqs": [
+        "936.150",
+        "936.375",
+        "936.7375c",
+        "937.2375c",
+        "937.725c",
+        "939.650"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Checker Cab",
+      "Description": "Checker Cab ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 32",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lawn Svc 64",
+      "Description": "Lawn / yard service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "224 ",
+      "HEX ": "00e ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Rep 224",
+      "Description": "HVAC repair ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "03f ",
+      "Mode  ": "A",
+      "Alpha Tag": "PestCtl 1008",
+      "Description": "Animal/pest Control ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 1040",
+      "Description": "Tow trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1088 ",
+      "HEX ": "044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 1088",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1104 ",
+      "HEX ": "045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 1104",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1248 ",
+      "HEX ": "04e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cement 1248",
+      "Description": "Cement trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1296 ",
+      "HEX ": "051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Recycle 1296",
+      "Description": "Recycling trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1328 ",
+      "HEX ": "053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage 1328",
+      "Description": "Dumpster service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1344 ",
+      "HEX ": "054 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 1344",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    }
+  ]
+}

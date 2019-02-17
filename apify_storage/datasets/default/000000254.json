@@ -1,0 +1,227 @@
+{
+  "System Name": "Crystal Communications (El Dorado)",
+  "Location": ", CA",
+  "County": "El Dorado",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 8, 2018, 1:51 am ((2) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "El Dorado Hill",
+        "02 463.625 ",
+        "08 452.2875 ",
+        "09 452.3125 ",
+        "10 452.4125 ",
+        "11 452.4875 ",
+        "14 452.7625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Bus",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-02-018 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Electrician",
+      "Description": "Electrician ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Atlas Disp RO",
+      "Description": "Atlas Disposal Roll Off ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Atlas Disp FL",
+      "Description": "Atlas Disposal Front Load ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Bus",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-02-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DWB Security",
+      "Description": "DWB Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-02-074 ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Bus",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-02-092 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-093 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SecurityAdmn",
+      "Description": "Security Company - Administration (with 0-02-094) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-02-094 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SecurityMain",
+      "Description": "Security Company - Main (with 0-02-093) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-02-105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security Co",
+      "Description": "Security Company ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-02-117 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage Trks",
+      "Description": "Garbage Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-152 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Limo Svc",
+      "Description": "Limosine Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-06-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage Trks",
+      "Description": "Garbage Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage Trks",
+      "Description": "Garbage Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security Co",
+      "Description": "Security Company ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-06-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Propane Delv",
+      "Description": "Propane Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-062 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dump Trucks",
+      "Description": "Dump Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Maint",
+      "Description": "HVAC Repair ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-068 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi Co",
+      "Description": "Taxi Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-078 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FirstRespndr",
+      "Description": "First Responder Ambulance - Sacramento ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "0-06-105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Engine Maint",
+      "Description": "Engine Repairs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PortoPotties",
+      "Description": "Portable Toilets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MedicTrnsprt",
+      "Description": "Medical Transports (Sac Area) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Propane Delv",
+      "Description": "Propane Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-068 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NationalTaxi",
+      "Description": "National Taxi ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-078 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AmbRoseville",
+      "Description": "Ambulance - Roseville Area ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "0-14-118 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage Trks",
+      "Description": "Garbage Trucks ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "System Name": "Eastern Municipal Water District",
+  "Location": "Hemet, CA",
+  "County": "Riverside",
+  "System Type": "EDACS Narrowband",
+  "System Voice": "Analog",
+  "Last Updated": "July 2, 2009, 12:37 am (Updated Talkgroups (1 Updated, 0 Deleted))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 938.3875 ",
+        "02 938.400c ",
+        "03 938.4125 ",
+        "04 938.425 ",
+        "05 938.4375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "273 ",
+      "AFS ": "02-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMWD Control",
+      "Description": "Central Control ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "289 ",
+      "AFS ": "02-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMWD Water",
+      "Description": "Water Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "370 ",
+      "AFS ": "02-142 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMWD New",
+      "Description": "New Business ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "371 ",
+      "AFS ": "02-143 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMWD Billing",
+      "Description": "Billing ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "372 ",
+      "AFS ": "02-144 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMWD Meters",
+      "Description": "Meter Reads ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

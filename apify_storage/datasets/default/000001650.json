@@ -1,0 +1,130 @@
+{
+  "System Name": "Ellis County",
+  "Location": "Hays, KS",
+  "County": "Ellis",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 13, 2017, 11:42 am ((2) Talkgroups Updated (Common))",
+  "System ID List": [
+    {
+      "System ID": "C232",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.2125",
+        "857.2125",
+        "858.2125",
+        "859.2125",
+        "856.7625c",
+        "857.7625c",
+        "858.7625c",
+        "859.7625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1600 ",
+      "HEX ": "064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co Law Enf",
+      "Description": "Sheriff /  Hays Police -- Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2560 ",
+      "HEX ": "0a0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co Law Pvt",
+      "Description": "Sheriff / Hays Police -- Private (talkaround) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2016 ",
+      "HEX ": "07e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co SO Pvt",
+      "Description": "Sheriff -- Private (talkaround) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2144 ",
+      "HEX ": "086 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EllisCo Law Tac4",
+      "Description": "County Law Tac 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2368 ",
+      "HEX ": "094 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EllisCo Fire Ops",
+      "Description": "County Fire -- Operations ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2336 ",
+      "HEX ": "092 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EllisCo Fire Pvt",
+      "Description": "County Fire -- Private (talkaround) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co EMS",
+      "Description": "EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "2208 ",
+      "HEX ": "08a ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co EMS Pvt",
+      "Description": "EMS Private (talkaround) ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "58016 ",
+      "HEX ": "e2a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Ellis Co EMS-ER",
+      "Description": "EMS to hospital for patient reports ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "2240 ",
+      "HEX ": "08c ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ellis Co EMS-ER",
+      "Description": "EMS to hospital for patient reports (before digital) ",
+      "Tag  ": "Hospital "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "57584 ",
+      "HEX ": "e0f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Common Pvt 1",
+      "Description": "Common Private 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "57616 ",
+      "HEX ": "e11 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Common Pvt 2",
+      "Description": "Common Private 2 ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

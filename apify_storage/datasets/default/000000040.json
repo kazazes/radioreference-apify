@@ -1,0 +1,108 @@
+{
+  "System Name": "Hyundai Motor Manufacturing Alabama",
+  "Location": "Hope Hull, AL",
+  "County": "Montgomery",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "November 27, 2010, 7:02 am (Changed Talkgroup Category assignments for 2 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Hyundai Hope Hull",
+      "Freqs": [
+        "936.3875",
+        "936.400c",
+        "936.4125",
+        "936.425",
+        "936.4375",
+        "936.450",
+        "936.4625",
+        "936.475"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6448 ",
+      "HEX ": "193 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HyudaiSafety",
+      "Description": "Safety/Medical ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6512 ",
+      "HEX ": "197 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyudai Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyudai GA",
+      "Description": "General Assembly ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "HyudaiEngine",
+      "Description": "Engine Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "HyudaiGAMtce",
+      "Description": "General Assembly Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "HyudaiPaintM",
+      "Description": "Paint Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyudai GA QC",
+      "Description": "General Assembly Quality Control ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HyudaiBodyQC",
+      "Description": "Body and Paint Quality Control ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3408 ",
+      "HEX ": "0d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyudai PC",
+      "Description": "Production Control ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4880 ",
+      "HEX ": "131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyudai Body",
+      "Description": "Body Shop Production ",
+      "Tag  ": "Business "
+    }
+  ]
+}

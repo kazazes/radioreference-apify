@@ -1,0 +1,113 @@
+{
+  "System Name": "Battles Communications (NXDN-173)",
+  "Location": "SEMO / NE AR, MO AR",
+  "County": "7 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "July 29, 2018, 11:19 am (Changed Site # 005 (Marmaduke, AR) to 005 (Marmaduke, AR))",
+  "System ID List": [
+    {
+      "System ID": "173"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Zalma, MO ",
+      "County": "Bollinger, MO",
+      "Freqs": [
+        "453.0125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Dexter, MO ",
+      "County": "Stoddard, MO",
+      "Freqs": [
+        "451.575",
+        "452.150c",
+        "461.175",
+        "462.225",
+        "462.425",
+        "463.4125",
+        "463.600"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Rombauer, MO",
+      "County": "Butler, MO",
+      "Freqs": [
+        "451.275c",
+        "452.3375",
+        "452.6875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Miner, MO ",
+      "County": "New Madrid, MO",
+      "Freqs": [
+        "452.3625c",
+        "452.8875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Marmaduke, AR",
+      "County": "Greene, AR",
+      "Freqs": [
+        "462.0375",
+        "463.625",
+        "464.450",
+        "464.8625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Steele, MO",
+      "County": "Pemiscot, MO",
+      "Freqs": [
+        "452.3875",
+        "462.100c",
+        "463.500",
+        "464.125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Malden",
+      "County": "Dunklin, MO",
+      "Freqs": [
+        "451.650",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

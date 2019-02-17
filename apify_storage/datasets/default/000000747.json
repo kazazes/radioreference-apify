@@ -1,0 +1,196 @@
+{
+  "System Name": "DMRVA Amateur Radio Network",
+  "Location": "Various, VA DC",
+  "County": "10 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "April 10, 2018, 7:10 pm (Deleted Site # 001 (Arlington ))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Wallops Island",
+      "County": [
+        "Accomack, VA",
+        "444.880 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Alexandria",
+      "County": [
+        "Alexandria, VA",
+        "442.4125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Fredericksburg",
+      "County": [
+        "Fredericksburg, VA",
+        "442.1125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Charlottesville",
+      "County": [
+        "Charlottesville, VA",
+        "444.9125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Roanoke",
+      "County": [
+        "Roanoke, VA",
+        "444.775 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Richmond",
+      "County": [
+        "Richmond, VA",
+        "443.5875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Washington",
+      "County": [
+        "Washington DC, DC",
+        "444.1625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Linden",
+      "County": [
+        "Fauquier, VA",
+        "443.1625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Harrisonburg",
+      "County": [
+        "Harrisonburg, VA",
+        "444.6625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Petersburg",
+      "County": [
+        "Petersburg, VA",
+        "442.6875 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PRN WIDE*",
+      "Description": "PRN Network Wide* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "310 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC 310*",
+      "Description": "Wide Area Tac 310* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3100 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DCI BRIDGE*",
+      "Description": "Bridge to DCI system* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3151 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VA STATE",
+      "Description": "VA Statewide ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3154 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WV Statewide",
+      "Description": "West Virginia Statewide ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3173 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MID-ATL REG*",
+      "Description": "Mid-Atlantic Regional* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3174 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SE REGION*",
+      "Description": "Southeast Regional* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8802 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DELMARVA",
+      "Description": "Delmarva Regional ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8951 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC 1*",
+      "Description": "Wide Area Tac 1* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "27500 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RPTR LOCAL",
+      "Description": "Repeater Local ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "27501 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VA TAC A*",
+      "Description": "Virginia Tac A* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "27502 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VA TAC B*",
+      "Description": "Virginia Tac B* ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "316272 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NASA-WIDE*",
+      "Description": "NASA Agency-Wide* ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

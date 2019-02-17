@@ -1,0 +1,119 @@
+{
+  "System Name": "Southern California Gas Company",
+  "Location": "Various, CA",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 13, 2018, 3:00 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Oat Mtn",
+      "County": [
+        "Los Angeles",
+        "01 153.410 ",
+        "02 153.725 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Sunset Ridge",
+      "County": [
+        "Los Angeles",
+        "01 153.1175 ",
+        "02 153.2975 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Oat Mtn 2",
+      "County": [
+        "Los Angeles",
+        "01 153.515 ",
+        "02 153.710 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Santiago Peak",
+      "County": [
+        "Orange",
+        "01 153.320 ",
+        "02 153.620 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Malibu",
+      "County": [
+        "Los Angeles",
+        "01 153.470 ",
+        "02 153.650 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Site 6",
+      "County": [
+        "",
+        "01 153.695 ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Site 8",
+      "County": [
+        "",
+        "01 153.200 ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Sunset Ridge 2",
+      "County": [
+        "Los Angeles",
+        "01 153.440 ",
+        "02 153.485 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "202",
+      "Description": "202 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "203",
+      "Description": "203 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "204",
+      "Description": "204 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "213 ",
+      "Mode  ": "T",
+      "Alpha Tag": "213",
+      "Description": "213 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "214 ",
+      "Mode  ": "T",
+      "Alpha Tag": "214",
+      "Description": "214 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

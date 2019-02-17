@@ -1,0 +1,109 @@
+{
+  "System Name": "Broward County Local Government",
+  "Location": "Fort Lauderdale, FL",
+  "County": "Broward",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "January 16, 2019, 4:22 pm (Added System ID: 00001)",
+  "System ID List": [
+    {
+      "System ID": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Region": "001",
+      "Site": "001 (1)",
+      "Name": "Fort Lauderdale",
+      "Freqs": [
+        "460.1875",
+        "460.025c",
+        " "
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "002 (2)",
+      "Name": "Coconut Creek",
+      "Freqs": [
+        "453.5625",
+        "453.300",
+        "460.550c"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "003 (3)",
+      "Name": "Pembroke Park",
+      "Freqs": [
+        "453.650",
+        "453.3375c",
+        " "
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "004 (4)",
+      "Name": "Sunrise ",
+      "Freqs": [
+        "451.625",
+        "472.850c",
+        " "
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "005 (5)",
+      "Name": "Miramar",
+      "Freqs": [
+        "453.450",
+        "453.6875",
+        "453.4875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "200051 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water",
+      "Description": "Water ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "200053 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Gas",
+      "Description": "Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "200056 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Mini-Bus Service",
+      "Description": "Mini-Bus Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "200057 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Leisure Services",
+      "Description": "Leisure Services  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "200061 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PW 200061",
+      "Description": "Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "200062 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Utilities ",
+      "Description": "Utilities  ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

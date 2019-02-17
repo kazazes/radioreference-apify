@@ -1,0 +1,80 @@
+{
+  "System Name": "Polk County",
+  "Location": "Various, GA",
+  "County": "Polk",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 9, 2017, 2:04 am (Changed Site # 002 (Rockmart) to 002 (Rockmart))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cedartown",
+        "01 460.050c ",
+        "02 460.150 ",
+        "03 460.3125 ",
+        "04 460.350 ",
+        "05 460.475 ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Rockmart",
+        "01 453.275c ",
+        "02 453.6375 ",
+        "03 453.7875 ",
+        "04 453.925 ",
+        "05 460.400 ",
+        "06 460.4375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCFD DISP",
+      "Description": "County Fire/EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 104",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "118 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 118",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 121",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "123 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 123",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "500 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 500",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Other "
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "System Name": "St Alphonsus Regional Medical Center",
+  "Location": "Boise, ID",
+  "County": "Ada",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 3, 2016, 10:14 pm (Updated Talkgroups (2 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hospital",
+        "01 451.325 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "StAlphRMCDis",
+      "Description": "Security Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "StAlphRMCGnd",
+      "Description": "Grounds/Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "StAlphRMCTac",
+      "Description": "Security Tac ",
+      "Tag  ": "Security "
+    }
+  ]
+}

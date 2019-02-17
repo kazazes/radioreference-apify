@@ -1,0 +1,44 @@
+{
+  "System Name": "Communication Innovations",
+  "Location": "Oat Mountain, CA",
+  "County": "Los Angeles",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 3, 2010, 3:58 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 461.825 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-05-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SchBusM05001",
+      "Description": "School Buses - Mobiles (Van Nuys/Pacoima areas, with 1-05-002) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-05-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SchBusB05002",
+      "Description": "School buses - Base (Van Nuys/Pacoima areas, with 1-05-001) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-05-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 05100",
+      "Description": "Towing (Moorpark, Thousand Oaks areas) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

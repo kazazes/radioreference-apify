@@ -1,0 +1,43 @@
+{
+  "System Name": "Comtronics, Inc.",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 17, 2013, 8:29 pm (Changed Site # 002 (System Freqs) to 002 (System Freqs))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed HR Order",
+        "01 464.275 ",
+        "03 461.950 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "System Freqs",
+        "01 461.750 ",
+        "02 463.225 ",
+        "03 463.400 ",
+        "04 463.700 ",
+        "05 463.775 ",
+        "06 463.950 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RurMtroAmb",
+      "Description": "Rural Metro Ambulance Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ]
+}

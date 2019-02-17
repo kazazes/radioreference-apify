@@ -1,0 +1,26 @@
+{
+  "System Name": "San Bernardino County 15",
+  "Location": "Needles, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 26, 2015, 2:05 am (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "470B",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "866.1625c",
+        "867.8625c",
+        "867.1875c",
+        "867.6125c"
+      ]
+    }
+  ]
+}

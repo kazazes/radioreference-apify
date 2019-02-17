@@ -1,0 +1,292 @@
+{
+  "System Name": "DeKalb County Public Safety P25",
+  "Location": "DeKalb County, GA",
+  "County": "DeKalb",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 21, 2018, 2:06 am (Added Talkgroup 6299 Emory Midtown Hospital Facilities Maintenance(Emory Hospitals))",
+  "System ID List": [
+    {
+      "System ID": "1F5",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "854.0125",
+        "854.3125a",
+        "854.6125c",
+        "854.6375a",
+        "855.0125",
+        "855.0625",
+        "855.6875",
+        "855.7125",
+        "856.0125",
+        "856.3125",
+        "856.3375",
+        "856.7125",
+        "856.9625",
+        "857.3125",
+        "857.6375",
+        "857.7125",
+        "857.9625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6001 ",
+      "HEX ": "1771 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 1 NC Disp",
+      "Description": "1 North Central Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "6002 ",
+      "HEX ": "1772 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 2 NC TAC",
+      "Description": "2 North Central Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6005 ",
+      "HEX ": "1775 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 3 South",
+      "Description": "3 South Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "6006 ",
+      "HEX ": "1776 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 4 S TAC",
+      "Description": "4 South Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6009 ",
+      "HEX ": "1779 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 5 Tucker",
+      "Description": "5 Tucker Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "6010 ",
+      "HEX ": "177a ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 6 T TAC",
+      "Description": "6 Tucker Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6007 ",
+      "HEX ": "1777 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 7 East",
+      "Description": "7 East Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "6008 ",
+      "HEX ": "1778 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 8 E TAC",
+      "Description": "8 East Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6011 ",
+      "HEX ": "177b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 11 Info",
+      "Description": "11 Info / Records ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6012 ",
+      "HEX ": "177c ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 12 Spec Op",
+      "Description": "12 Special Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6013 ",
+      "HEX ": "177d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Tac 13",
+      "Description": "13 DKPD Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6014 ",
+      "HEX ": "177e ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Tac 14",
+      "Description": "14 Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6015 ",
+      "HEX ": "177f ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD 15 MCD",
+      "Description": "15 Major Crimes Division Detectives ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6069 ",
+      "HEX ": "17b5 ",
+      "Mode  ": "De",
+      "Alpha Tag": "DKPD SWAT",
+      "Description": "SWAT Team ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6003 ",
+      "HEX ": "1773 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Tac 6003",
+      "Description": "Tac 6003 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6004 ",
+      "HEX ": "1774 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Tac 6004",
+      "Description": "Tac 6004 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6018 ",
+      "HEX ": "1782 ",
+      "Mode  ": "De",
+      "Alpha Tag": "DKPD Narc",
+      "Description": "Narcotics ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6021 ",
+      "HEX ": "1785 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Interop",
+      "Description": "Interop ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "6023 ",
+      "HEX ": "1787 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD Gangs",
+      "Description": "Gang Task Force ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6030 ",
+      "HEX ": "178e ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD HSO",
+      "Description": "Homeland Security Office ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6032 ",
+      "HEX ": "1790 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DKPD C2C",
+      "Description": "County Law Enforcement Interagency ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "6287 ",
+      "HEX ": "188f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory PD Dis",
+      "Description": "Police Main and EMS Ops ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "6288 ",
+      "HEX ": "1890 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory PD Tac",
+      "Description": "Police Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6290 ",
+      "HEX ": "1892 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Oxford PD",
+      "Description": "Emory Oxford College PD ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "6292 ",
+      "HEX ": "1894 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory EMS",
+      "Description": "Emory EMS Alerts ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "6294 ",
+      "HEX ": "1896 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory Fire Safty",
+      "Description": "Fire Safety Division ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6306 ",
+      "HEX ": "18a2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory FM",
+      "Description": "Facilities Management ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "6307 ",
+      "HEX ": "18a3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory Custod",
+      "Description": "Custodial ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "6310 ",
+      "HEX ": "18a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory Pkg",
+      "Description": "Parking Office ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "6312 ",
+      "HEX ": "18a8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Library Sec",
+      "Description": "Emory Woodruff Library Security ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "6314 ",
+      "HEX ": "18aa ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emory Events",
+      "Description": "Events ",
+      "Tag  ": "Other "
+    }
+  ]
+}

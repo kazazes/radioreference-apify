@@ -1,0 +1,56 @@
+{
+  "System Name": "South Bend Public Works",
+  "Location": "South Bend, IN",
+  "County": "St. Joseph",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 12, 2019, 1:19 pm (Updated Function Tag assignments for 1 talkgroups(South Bend Public Works))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "South Bend",
+        "01 150.995 ",
+        "02 155.880 ",
+        "03 155.250 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HA & Codes",
+      "Description": "Housing Authority & Codes Enforcement ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parks",
+      "Description": "Parks Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Refuse",
+      "Description": "Refuse and Sanitation Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "166 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Street & Sewer",
+      "Description": "Street & Sewer Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "191 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water",
+      "Description": "Water Department ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

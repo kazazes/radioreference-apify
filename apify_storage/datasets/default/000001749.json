@@ -1,0 +1,21 @@
+{
+  "System Name": "Columbia Sportswear",
+  "Location": "Robards, KY",
+  "County": "Henderson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 10, 2007, 12:35 pm (Changed Site-001)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Robards",
+        "01 461.850 ",
+        "02 462.175 ",
+        "03 462.4875 ",
+        "04 463.4625 ",
+        "05 463.800 "
+      ]
+    }
+  ]
+}

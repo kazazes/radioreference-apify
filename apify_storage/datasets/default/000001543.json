@@ -1,0 +1,80 @@
+{
+  "System Name": "Scott Air Force Base",
+  "Location": "Mascoutah, IL",
+  "County": "St. Clair",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 2, 2018, 3:28 am (Updated encryption settings for 1 talkgroups(Scott AFB LMR Nets))",
+  "System ID List": [
+    {
+      "System ID": "019",
+      "WACN": "77478"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Scott AFB",
+      "Freqs": [
+        "385.975c",
+        "387.175c",
+        "387.325c",
+        "387.475c",
+        "387.625c",
+        "387.775c",
+        "387.950c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1025 ",
+      "HEX ": "401 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TWR",
+      "Description": "ATC Tower / Ground/Airfield  ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1030 ",
+      "HEX ": "406 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FIRE-1",
+      "Description": "Fire / Crash Net ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1032 ",
+      "HEX ": "408 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SFS-1",
+      "Description": "Security / Law Enforcement [Ch. 1] ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1038 ",
+      "HEX ": "40e ",
+      "Mode  ": "De",
+      "Alpha Tag": "CES-1",
+      "Description": "Civil Engineering [Ch. 1] (Mobiles Encrypted) ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1053 ",
+      "HEX ": "41d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Maint-A",
+      "Description": "Aircraft Maintenance [Ch. A] ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1056 ",
+      "HEX ": "420 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "126 MOC",
+      "Description": "126ARW Maintenance Operations Center ",
+      "Tag  ": "Military "
+    }
+  ]
+}

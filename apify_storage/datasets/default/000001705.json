@@ -1,0 +1,170 @@
+{
+  "System Name": "Jackson Purchase Two-Way Radio UHF",
+  "Location": "Various, KY",
+  "County": "6 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 3, 2016, 11:36 am (Updated 2 Talkgroup Categories)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1 (*Paducah)",
+      "County": [
+        "McCracken",
+        "01 464.275 ",
+        "05 463.350 ",
+        "07 452.275 ",
+        "09 461.525 ",
+        "11 452.625 ",
+        "13 460.675 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Site 2 (*Benton)",
+      "County": [
+        "Marshall",
+        "01 452.475 ",
+        "05 452.725 ",
+        "09 452.225 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Site 3 (*Cadiz)",
+      "County": [
+        "Trigg",
+        "01 451.9375 ",
+        "09 452.2625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Site 4 (*Mayfield)",
+      "County": [
+        "Graves",
+        "01 452.825 ",
+        "09 461.4125 ",
+        "13 452.425 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Site 105 (Crider)",
+      "County": [
+        "Caldwell",
+        "01 451.5875 ",
+        "02 451.7625 ",
+        "03 452.0125 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Falcon Cbl",
+      "Description": "Falcon Cable TV ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Briz Cabz",
+      "Description": "Briz Cabz, Murray ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sanders Nrsy",
+      "Description": "James Sanders Nursery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 1",
+      "Description": "Auto Towing Company - Channel 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 2",
+      "Description": "Auto Towing Company - Channel 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pad Water",
+      "Description": "City of Paducah Water Department 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pad Water",
+      "Description": "City of Paducah Water Department 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-054 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Logging",
+      "Description": "Logging/Sawmill Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tree Trmng",
+      "Description": "Tree Trimming Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-074 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pad Sun Dlvr",
+      "Description": "Paducah Sun Newspaper Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PadTrnsTaxi",
+      "Description": "Paducah Area Transit Authority Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-05-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "York HtgClng",
+      "Description": "York Heating & Cooling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-09-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bell's",
+      "Description": "Bells Auto World ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "System Name": "Jennings Communications",
+  "Location": "Various, KY",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 30, 2015, 9:26 pm (Changed Site # 002 (Murray) to 002 (Murray))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Cadiz",
+      "County": [
+        "Trigg",
+        "01 460.950 ",
+        "02 461.8875 ",
+        "03 462.4875 ",
+        "04 N/A ",
+        "05 N/A "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Murray",
+      "County": [
+        "Calloway",
+        "01 451.9125 ",
+        "02 452.4625 ",
+        "03 461.4875 ",
+        "04 462.0875 ",
+        "05 463.4875 "
+      ]
+    }
+  ]
+}

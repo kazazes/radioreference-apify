@@ -1,0 +1,213 @@
+{
+  "System Name": "Gem State Communications (Motorola)",
+  "Location": "Boise, ID",
+  "County": "Ada",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "July 31, 2016, 1:19 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "8D32",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "2",
+      "B1": "",
+      "B2": "",
+      "B3": "2",
+      "B4": "2",
+      "B5": "",
+      "B6": "",
+      "B7": "2"
+    },
+    {
+      "Type": "TT",
+      "B0": "S0",
+      "B1": "",
+      "B2": "",
+      "B3": "S0",
+      "B4": "S0",
+      "B5": "",
+      "B6": "",
+      "B7": "S0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.8375c",
+        "853.2875c",
+        "853.7125",
+        "854.6875",
+        "855.3125c",
+        "855.4125",
+        "855.7625",
+        "855.9375",
+        "857.2875c",
+        "860.7875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17472 ",
+      "HEX ": "444 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17488 ",
+      "HEX ": "445 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17504 ",
+      "HEX ": "446 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17520 ",
+      "HEX ": "447 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17536 ",
+      "HEX ": "448 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17552 ",
+      "HEX ": "449 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17568 ",
+      "HEX ": "44a ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17584 ",
+      "HEX ": "44b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "17984 ",
+      "HEX ": "464 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Boise Taxi",
+      "Description": "Boise City Taxi ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Traffic Helo",
+      "Description": "Skywatch Traffic Helicopter ",
+      "Tag  ": "Media "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "2128 ",
+      "HEX ": "085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "2704 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Auto Rental",
+      "Description": "Auto Rental ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "28224 ",
+      "HEX ": "6e4 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttle",
+      "Description": "Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "57344 ",
+      "HEX ": "e00 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BV Towing",
+      "Description": "Boise Valley Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "57408 ",
+      "HEX ": "e04 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "57456 ",
+      "HEX ": "e07 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AP Shuttle",
+      "Description": "Airport Shuttle or another Taxi Company ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "57872 ",
+      "HEX ": "e21 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AAMCO",
+      "Description": "AAMCO ",
+      "Tag  ": "Business "
+    }
+  ]
+}

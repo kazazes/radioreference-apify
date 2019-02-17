@@ -1,0 +1,820 @@
+{
+  "System Name": "Mid-Atlantic Digital Radio Network",
+  "Location": "Various, PA NJ MD DE",
+  "County": "36 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 15, 2019, 4:11 pm (Changed Site # 033 (Ogletown / Pleasantville) to 033 (Ogletown / Pleasantville))",
+  "System ID List": [
+    {
+      "System ID": "141"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Harrisburg North",
+      "County": [
+        "Dauphin, PA",
+        "01 454.600c ",
+        "02 451.550 ",
+        "03 451.925 ",
+        "05 461.425 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Cornwall",
+      "County": [
+        "Lancaster, PA",
+        "01 463.500 ",
+        "02 462.150 ",
+        "05 454.250c ",
+        "06 463.475 ",
+        "09 464.000 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Malvern",
+      "County": [
+        "Chester, PA",
+        "01 452.825c ",
+        "02 461.675 ",
+        "03 463.925 ",
+        "05 452.875 ",
+        "12 502.8625c ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "York",
+      "County": [
+        "York, PA",
+        "01 454.625c ",
+        "02 463.9375 ",
+        "04 461.950 ",
+        "06 464.750 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Honeybrook",
+      "County": [
+        "Chester, PA",
+        "01 502.8875c ",
+        "02 462.125 ",
+        "06 461.625 ",
+        "07 461.650 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "New Holland",
+      "County": [
+        "Lancaster, PA",
+        "01 502.9625c ",
+        "02 451.725 ",
+        "04 464.3625 ",
+        "07 463.450 ",
+        "08 464.300 ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "New Cumberland",
+      "County": [
+        "York, PA",
+        "01 454.475c ",
+        "02 461.875 ",
+        "04 452.300 ",
+        "08 464.100 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Hanover",
+      "County": [
+        "York, PA",
+        "01 454.350c ",
+        "02 451.825 ",
+        "03 461.6625 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Shippensburg",
+      "County": [
+        "Franklin, PA",
+        "01 452.325c ",
+        "02 461.750 ",
+        "04 461.575 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Summit Station",
+      "County": [
+        "Schuylkill, PA",
+        "01 451.600 ",
+        "02 463.350c ",
+        "04 464.175 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Rawlinsville",
+      "County": [
+        "Lancaster, PA",
+        "02 452.625 ",
+        "05 454.275c ",
+        "06 461.450 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Northumberland",
+      "County": [
+        "Northumberland, PA",
+        "01 453.0125c ",
+        "02 462.0625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Concordville",
+      "County": [
+        "Delaware, PA",
+        "01 502.9125c ",
+        "02 454.250 ",
+        "03 452.000 ",
+        "04 451.875 ",
+        "05 451.500 ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Reading",
+      "County": [
+        "Berks, PA",
+        "01 461.600c ",
+        "03 461.175 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Allentown",
+      "County": [
+        "Lehigh, PA",
+        "01 502.9375c ",
+        "02 462.100 ",
+        "03 464.650 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Red Lion",
+      "County": [
+        "York, PA",
+        "01 454.200c ",
+        "03 461.475 ",
+        "10 464.2375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Philadelphia",
+      "County": [
+        "Philadelphia, PA",
+        "01 454.275c ",
+        "02 454.25625 ",
+        "03 451.875 ",
+        "04 464.025 ",
+        "05 461.525 ",
+        "08 452.5625 "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Black Moshannon",
+      "County": [
+        "Centre, PA",
+        "01 454.23125c ",
+        "02 464.750 ",
+        "03 452.125 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Lewistown",
+      "County": [
+        "Mifflin, PA",
+        "01 454.20625c ",
+        "03 463.575 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Williamsport",
+      "County": [
+        "Lycoming, PA",
+        "01 452.825c ",
+        "03 452.100 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Lancaster City",
+      "County": [
+        "Lancaster, PA",
+        "01 454.2625c ",
+        "03 452.350 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Newport",
+      "County": [
+        "Perry, PA",
+        "01 454.34375c ",
+        "02 451.950c ",
+        "03 462.425 ",
+        "04 463.875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Tannersville",
+      "County": [
+        "Monroe, PA",
+        "01 454.21875c ",
+        "02 463.875 ",
+        "03 454.550 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Altoona",
+      "County": [
+        "Blair, PA",
+        "01 454.31875c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Blairsville",
+      "County": [
+        "Indiana, PA",
+        "01 454.34375c ",
+        "03 462.025 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Johnstown",
+      "County": [
+        "Cambria, PA",
+        "01 454.53125c ",
+        "02 461.725c ",
+        "03 463.850c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Rochester Mills",
+      "County": [
+        "Indiana, PA",
+        "01 454.19375c ",
+        "03 462.250c ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "State College",
+      "County": [
+        "Centre, PA",
+        "01 454.075c ",
+        "02 461.300 ",
+        "03 464.950 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "031 (1F)",
+      "Name": "Site 31",
+      "County": [
+        ", ",
+        "01 454.51875c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "032 (20)",
+      "Name": "Rockton",
+      "County": [
+        "Clearfield, PA",
+        "01 454.35625c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "033 (21)",
+      "Name": "Ogletown / Pleasantville",
+      "County": [
+        "Somerset, PA",
+        "01 454.29375c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "041 (29)",
+      "Name": "Dupont",
+      "County": [
+        "Luzerne, PA",
+        "01 451.575c ",
+        "02 451.325 ",
+        "03 461.8125 ",
+        "04 462.350 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "043 (2B)",
+      "Name": "Waynesboro",
+      "County": [
+        "Franklin, PA",
+        "01 454.250c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "044 (2C)",
+      "Name": "Wilkes-Barre",
+      "County": [
+        "Luzerne, PA",
+        "01 451.100c ",
+        "02 451.650 ",
+        "03 452.800 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "045 (2D)",
+      "Name": "Boyertown",
+      "County": [
+        "Berks, PA",
+        "01 454.250c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "047 (2F)",
+      "Name": "Hazleton",
+      "County": [
+        "Luzerne, PA",
+        "01 454.21875c ",
+        "02 464.1625 ",
+        "05 461.950 ",
+        "06 454.550 ",
+        "07 451.950 ",
+        "08 454.550 "
+      ]
+    },
+    {
+      "Site": "049 (31)",
+      "Name": "Egg Harbor City",
+      "County": [
+        "Atlantic, NJ",
+        "01 454.24375c ",
+        "02 464.850 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "051 (33)",
+      "Name": "Dover",
+      "County": [
+        "Kent, DE",
+        "01 454.26875c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "052 (34)",
+      "Name": "Dagsboro",
+      "County": [
+        "Sussex, DE",
+        "01 461.8875c ",
+        "03 463.250 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "053 (35)",
+      "Name": "Salisbury",
+      "County": [
+        "Wicomico, MD",
+        "01 461.375c ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "054 (36)",
+      "Name": "Church Hill",
+      "County": [
+        "Queen Anne's, MD",
+        "01 454.24375c ",
+        "02 463.2625 ",
+        "03 463.775 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "055 (37)",
+      "Name": "Catawissa",
+      "County": [
+        "Columbia, PA",
+        "01 454.21875c ",
+        "02 463.6125 ",
+        "03 464.8875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "056 (38)",
+      "Name": "Waymart",
+      "County": [
+        "Wayne, PA",
+        "01 452.450 ",
+        "02 452.725c ",
+        "03 452.975 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "057 (39)",
+      "Name": "McConnellsburg",
+      "County": [
+        "Fulton, PA",
+        "01 454.450c ",
+        "02 463.325 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "060 (3C)",
+      "Name": "Tremont",
+      "County": [
+        "Schuylkill, PA",
+        "01 454.625 ",
+        "02 461.450c ",
+        "03 464.6375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "061 (3D)",
+      "Name": "Scranton",
+      "County": [
+        "Lackawanna, PA",
+        "01 454.200c ",
+        "02 461.6125 ",
+        "03 464.1625 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 20",
+      "Description": "Radio Technicians (20) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "200 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 200",
+      "Description": "Radio Technicians (200) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 206",
+      "Description": "Radio Technicians (206) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "214 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 214",
+      "Description": "Radio Technicians (214) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 216",
+      "Description": "Radio Technicians (216) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "223 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 223",
+      "Description": "Radio Technicians (223) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11610 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Delmarva Techs",
+      "Description": "Delmarva Radio Techs ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "30 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 30",
+      "Description": "Radio Technicians (30) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 101",
+      "Description": "Radio Technicians (101) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 102",
+      "Description": "Radio Technicians (102) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 210",
+      "Description": "Radio Technicians (210) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 212",
+      "Description": "Radio Technicians (212) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "213 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 213",
+      "Description": "Radio Technicians (213) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "215 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 215",
+      "Description": "Radio Technicians (215) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 2117",
+      "Description": "Radio Technicians (2117) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 2125",
+      "Description": "Radio Technicians (2125) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2218 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 2218",
+      "Description": "Radio Technicians (2218) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2223 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Techs 2223",
+      "Description": "Radio Technicians (2223) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2350 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts 2350",
+      "Description": "Auto Parts delivery (Central PA) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5059 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RoadConst 5059",
+      "Description": "Road Construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5061 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RoadConst 5061",
+      "Description": "Road Construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11050 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Delivery 11050",
+      "Description": "Delivery company (multi-county) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11170 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Delivery 11170",
+      "Description": "Delivery company (multi-county) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Delivery 11210",
+      "Description": "Delivery company (multi-county) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11213 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts W LV",
+      "Description": "Auto Parts Delivery (Western Lehigh Valley) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11215 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts Mo Co",
+      "Description": "Auto Parts Delivery (Montgomery Co) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts LV",
+      "Description": "Auto Parts Delivery (Lehigh Valley) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11221 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts 11221",
+      "Description": "Auto Parts Delivery (Phila area) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11223 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Auto Parts 11223",
+      "Description": "Auto Parts Delivery (multi-county) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

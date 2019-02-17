@@ -1,0 +1,29 @@
+{
+  "System Name": "Mobilecom",
+  "Location": "Evansville, IN",
+  "County": "Vanderburgh",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 4, 2012, 3:52 am (Changed Site # 001 (Site-1) to 001 (Evansville))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Evansville",
+        "05 859.1625 ",
+        "09 858.1625 ",
+        "13 857.1625 ",
+        "17 856.1625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-09-151 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 151",
+      "Description": "Unidentified User ",
+      "Tag  ": "Business "
+    }
+  ]
+}

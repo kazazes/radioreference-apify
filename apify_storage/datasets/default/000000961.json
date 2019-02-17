@@ -1,0 +1,49 @@
+{
+  "System Name": "Radio One",
+  "Location": "Kissimmee, FL",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 8, 2018, 10:22 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Wyndham Lake Buena Vista",
+      "County": [
+        "Orange",
+        "01 461.4875 ",
+        "02 461.525 ",
+        "03 461.900 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Gaylord Palms Resort & Convention Center",
+      "County": [
+        "Osceola",
+        "01 461.7875 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Rosen Center Hotel",
+      "County": [
+        "Orange",
+        "01 461.6125 ",
+        "02 461.9125 ",
+        "03 463.9625 ",
+        "04 464.825 ",
+        "05 464.875 ",
+        "06 464.975 "
+      ]
+    }
+  ]
+}

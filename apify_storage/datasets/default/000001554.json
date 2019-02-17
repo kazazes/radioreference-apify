@@ -1,0 +1,171 @@
+{
+  "System Name": "Will County (P25)",
+  "Location": "Joliet, IL",
+  "County": "Will",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 23, 2019, 7:23 am ((1) Talkgroups Updated (Government/Public Works))",
+  "System ID List": [
+    {
+      "System ID": "011",
+      "WACN": "000C5"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "854.3375c",
+        "855.0375c",
+        "855.6625c",
+        "856.0875",
+        "856.3875c",
+        "857.3875",
+        "859.0125",
+        "859.4125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "311 ",
+      "HEX ": "137 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Homer Glen EMA",
+      "Description": "Homer Glen EMA ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "321 ",
+      "HEX ": "141 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lemont EMA",
+      "Description": "Lemont EMA ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "341 ",
+      "HEX ": "155 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Manhattan EMA",
+      "Description": "Manhattan EMA: Local ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "351 ",
+      "HEX ": "15f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Mokena ESDA",
+      "Description": "Mokena ESDA: Local ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "371 ",
+      "HEX ": "173 ",
+      "Mode  ": "D",
+      "Alpha Tag": "New Lenox EMA",
+      "Description": "New Lenox EMA: Local ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "381 ",
+      "HEX ": "17d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Romeoville EMA",
+      "Description": "Romeoville EMA: Local ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "391 ",
+      "HEX ": "187 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Braidwood ESDA",
+      "Description": "Braidwood ESDA ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "10301 ",
+      "HEX ": "283d ",
+      "Mode  ": "D",
+      "Alpha Tag": "WC EMA Main",
+      "Description": "Will County EMA: Main ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "10303 ",
+      "HEX ": "283f ",
+      "Mode  ": "D",
+      "Alpha Tag": "WC EMA Tac 1",
+      "Description": "Will County EMA: Tac-1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "15021 ",
+      "HEX ": "3aad ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMA Countywide 1",
+      "Description": "EMA Countywide 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "15022 ",
+      "HEX ": "3aae ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMA Countywide 2",
+      "Description": "EMA Countywide 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "15502 ",
+      "HEX ": "3c8e ",
+      "Mode  ": "D",
+      "Alpha Tag": "IFERN Patch",
+      "Description": "IFERN Patch ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "15503 ",
+      "HEX ": "3c8f ",
+      "Mode  ": "D",
+      "Alpha Tag": "ISPERN Patch",
+      "Description": "ISPERN Patch ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "15061 ",
+      "HEX ": "3ad5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRMA",
+      "Description": "Three Rivers Manufacture's Association ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "15095 ",
+      "HEX ": "3af7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WillWarn EMA",
+      "Description": "WillWarn EMA ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "15099 ",
+      "HEX ": "3afb ",
+      "Mode  ": "D",
+      "Alpha Tag": "911 Emergencies",
+      "Description": "Emergencies ",
+      "Tag  ": "Multi-Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Testing ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

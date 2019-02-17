@@ -1,0 +1,37 @@
+{
+  "System Name": "Intermountain Communications",
+  "Location": "Silver City, ID",
+  "County": "2 counties",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 13, 2018, 2:59 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "8834",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "War Eagle Mtn",
+      "County": "Owyhee",
+      "Freqs": [
+        "859.0625c",
+        "858.0625",
+        "857.0625",
+        "856.0625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farm",
+      "Description": "Farm ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "System Name": "California Science Center (Exposition Park)",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 23, 2018, 3:46 pm (Added Talkgroup 194 194(Museum))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "CA Science Ctr",
+        "01 451.650 ",
+        "02 451.9375 ",
+        "03 452.725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "181 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GUEST SVC 1",
+      "Description": "Guest Services - Ch.1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "182 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GUEST SVC 2",
+      "Description": "Guest Services - Ch.2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "183 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IMAX USHERS",
+      "Description": "IMAX Theater Ushers - Ch.3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "184 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CUSTODIAL",
+      "Description": "Custudial ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "185 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CONCESSIONS",
+      "Description": "Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "186 ",
+      "Mode  ": "T",
+      "Alpha Tag": "186",
+      "Description": "186 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "187 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RESTAURANT",
+      "Description": "Restaurant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "188 ",
+      "Mode  ": "T",
+      "Alpha Tag": "188",
+      "Description": "188 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "189 ",
+      "Mode  ": "T",
+      "Alpha Tag": "KIDS CAMP",
+      "Description": "Kids day camp programs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "190 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MAINTENANCE",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "191 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES 1",
+      "Description": "Facilities Ch.1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "192 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES 2",
+      "Description": "Facilities Ch.2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "193 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES 3",
+      "Description": "Facilities Ch.3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "194 ",
+      "Mode  ": "T",
+      "Alpha Tag": "194",
+      "Description": "194 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

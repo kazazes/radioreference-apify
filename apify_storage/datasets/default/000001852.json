@@ -1,0 +1,41 @@
+{
+  "System Name": "R.E. Michel",
+  "Location": "Glen Burnie, MD",
+  "County": "Anne Arundel",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 13, 2016, 11:47 pm ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 452.225 ",
+        "02 463.400 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "231 ",
+      "Mode  ": "T",
+      "Alpha Tag": "REMichWarehs",
+      "Description": "Warehouse ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "232 ",
+      "Mode  ": "T",
+      "Alpha Tag": "REMichRecv?",
+      "Description": "Receiving? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "233 ",
+      "Mode  ": "T",
+      "Alpha Tag": "REMichShip?",
+      "Description": "Shipping? ",
+      "Tag  ": "Business "
+    }
+  ]
+}

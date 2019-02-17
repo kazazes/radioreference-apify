@@ -1,0 +1,54 @@
+{
+  "System Name": "NBC 6 South Florida",
+  "Location": "Miramar, FL",
+  "County": "2 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "May 23, 2018, 10:43 am (Changed Site # 001 (North Miami) to 001 (North Miami))",
+  "System ID List": [
+    {
+      "System ID": "129"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "North Miami",
+      "County": "Miami-Dade",
+      "Freqs": [
+        "450.100a",
+        "450.1125a",
+        "450.125c",
+        "450.375",
+        "450.3875",
+        "450.400"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Homestead",
+      "County": "Miami-Dade",
+      "Freqs": [
+        "450.09375c",
+        "450.10625a",
+        "450.11875a",
+        "450.36875",
+        "450.38125",
+        "450.39375"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Downtown Miami",
+      "County": "Miami-Dade",
+      "Freqs": [
+        "450.075c",
+        "450.06875a",
+        "450.325",
+        "450.3375",
+        "450.575",
+        "450.600"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "System Name": "Hyatt Regency Atlanta MOT",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:28 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "4F29",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "935.175",
+        "935.1875c",
+        "937.225c",
+        "938.225c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Hskp",
+      "Description": "Housekeeping - Public Areas ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Hskp",
+      "Description": "Housekeeping - Guest Rooms ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Banq",
+      "Description": "Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Banq",
+      "Description": "Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt 8 Conv",
+      "Description": "Convention Services (Channel 8) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt Food",
+      "Description": "Receiving - Food & Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hyatt 12",
+      "Description": "Channel 12 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

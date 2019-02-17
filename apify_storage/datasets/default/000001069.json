@@ -1,0 +1,22 @@
+{
+  "System Name": "Cherokee County",
+  "Location": "Canton, GA",
+  "County": "Cherokee",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 29, 2018, 6:36 pm (Changed Site # 001 (Canton) to 001 (Canton))",
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Canton",
+      "Freqs": [
+        "851.250",
+        "851.775",
+        "853.150",
+        "853.475",
+        "853.950"
+      ]
+    }
+  ]
+}

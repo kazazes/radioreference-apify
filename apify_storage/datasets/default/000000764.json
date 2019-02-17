@@ -1,0 +1,17 @@
+{
+  "System Name": "Knollwood",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 17, 2016, 12:20 am (Changed Site # 001 (Site 1) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 464.8625 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "System Name": "Treasure Coast Regional Communication System",
+  "Location": "St. Lucie County, FL",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 11, 2018, 11:29 pm (Updated Function Tag assignments for 1 talkgroups(Saint Lucie County))",
+  "System ID List": [
+    {
+      "System ID": "8B4",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Saint Lucie County",
+      "County": "St. Lucie",
+      "Freqs": [
+        "851.3125a",
+        "851.700a",
+        "852.125c",
+        "852.200a",
+        "852.275",
+        "852.600",
+        "852.700",
+        "852.750",
+        "852.775",
+        "852.8375",
+        "853.050",
+        "853.275"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Martin County",
+      "County": "Martin",
+      "Freqs": [
+        "851.0375",
+        "851.2625a",
+        "851.4125",
+        "851.5625a",
+        "851.7875",
+        "851.9125",
+        "852.175a",
+        "852.6375",
+        "853.5375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10011 ",
+      "HEX ": "271b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Martin 10011",
+      "Description": "Martin County Local Government ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10012 ",
+      "HEX ": "271c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Road Maint 012",
+      "Description": "Road Maintenance - Flaggers ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10014 ",
+      "HEX ": "271e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Road Maint 014",
+      "Description": "Road Maintenance  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10026 ",
+      "HEX ": "272a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Martin 10026",
+      "Description": "Martin County Local Government ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10042 ",
+      "HEX ": "273a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Golf Course",
+      "Description": "County Golf Course ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10053 ",
+      "HEX ": "2745 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Solid Waste",
+      "Description": "Solid Waste ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10055 ",
+      "HEX ": "2747 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Martin 10055",
+      "Description": "Martin County Local Govenment ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10206 ",
+      "HEX ": "27de ",
+      "Mode  ": "D",
+      "Alpha Tag": "JD SP",
+      "Description": "Jonathan Dickinson State Park ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "10211 ",
+      "HEX ": "27e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSD Bus-A",
+      "Description": "School Buses A - Dispatch  ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10212 ",
+      "HEX ": "27e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSD Bus-B",
+      "Description": "School Buses B - Garage ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10213 ",
+      "HEX ": "27e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSD Bus-C",
+      "Description": "School Buses C ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10216 ",
+      "HEX ": "27e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSD Bus-F",
+      "Description": "School Buses F ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5100 ",
+      "HEX ": "13ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fort Pierce AC",
+      "Description": "Fort Pierce Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5110 ",
+      "HEX ": "13f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Parks",
+      "Description": "Parks ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5114 ",
+      "HEX ": "13fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "St. Lucie 5114",
+      "Description": "St. Lucie Local Government  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5306 ",
+      "HEX ": "14ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "St. Lucie 5306",
+      "Description": "St. Lucie Local Government  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5310 ",
+      "HEX ": "14be ",
+      "Mode  ": "D",
+      "Alpha Tag": "Community Transi",
+      "Description": "Community Transit ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5317 ",
+      "HEX ": "14c5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "St. Lucie 5317",
+      "Description": "St. Lucie Local Government  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5327 ",
+      "HEX ": "14cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "Road and Bridge",
+      "Description": "Road and Bridge Division ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5330 ",
+      "HEX ": "14d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Solid Waste ",
+      "Description": "Solid Waste  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5336 ",
+      "HEX ": "14d8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSL AC",
+      "Description": "Port Saint Lucie Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5341 ",
+      "HEX ": "14dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lifeguards",
+      "Description": "Lifeguards ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "5411 ",
+      "HEX ": "1523 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS LRMC",
+      "Description": "EMS-to-Lawnwood Regional Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "5502 ",
+      "HEX ": "157e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLPS South ",
+      "Description": "School Buses - South Dispatch ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5505 ",
+      "HEX ": "1581 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLPS Garage",
+      "Description": "School Buses - Garage ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

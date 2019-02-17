@@ -1,0 +1,133 @@
+{
+  "System Name": "Mishawaka Public Safety",
+  "Location": "Mishawaka, IN",
+  "County": "St. Joseph",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 10, 2018, 4:35 pm ((2) Talkgroups Updated (Police))",
+  "System ID List": [
+    {
+      "System ID": "1BE",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "MIshawaka Simulcast",
+      "Freqs": [
+        "854.6875",
+        "856.0375",
+        "856.4375",
+        "856.9875",
+        "857.4375",
+        "857.9875",
+        "858.4375c",
+        "858.9875",
+        "859.4375a",
+        "859.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "7001 ",
+      "HEX ": "1b59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MFD DISP",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "7003 ",
+      "HEX ": "1b5b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MFD FG 1",
+      "Description": "Fireground 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7005 ",
+      "HEX ": "1b5d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MFD FG 2",
+      "Description": "Fireground 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MFD INSP",
+      "Description": "Fire Arson/Inspections ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7015 ",
+      "HEX ": "1b67 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MFD EMS 1",
+      "Description": "EMS Administration ",
+      "Tag  ": "EMS-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "4001 ",
+      "HEX ": "fa1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW ELEC A",
+      "Description": "DPW Electric CH A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4003 ",
+      "HEX ": "fa3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW ELEC B",
+      "Description": "DPW Electric CH B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4007 ",
+      "HEX ": "fa7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW ADMIN",
+      "Description": "DPW Administration ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9001 ",
+      "HEX ": "2329 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW STREET",
+      "Description": "DPW Street Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10001 ",
+      "HEX ": "2711 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW PARKS",
+      "Description": "DPW Parks Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16001 ",
+      "HEX ": "3e81 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW WTR A",
+      "Description": "DPW Water CH A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16003 ",
+      "HEX ": "3e83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPW WTR B",
+      "Description": "DPW Water CH B ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

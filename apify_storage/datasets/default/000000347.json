@@ -1,0 +1,97 @@
+{
+  "System Name": "Loyola Marymount University",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 6, 2017, 6:17 pm (Added Talkgroup 205 Facilities)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "LMU",
+        "01 461.475 ",
+        "02 464.400 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DPS",
+      "Description": "Department of Public Safety ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking Enf",
+      "Description": "Parking Enforcement ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities / Traffic  ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "205 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LMU",
+      "Description": "LMU ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LMU",
+      "Description": "LMU ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "209 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LMU",
+      "Description": "LMU ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Custodial",
+      "Description": "Custodial ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LMU",
+      "Description": "LMU ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IT Services",
+      "Description": "Information Technology Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EOC",
+      "Description": "Emergency Operations Center ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "System Name": "CALTrans (District 04 - North)",
+  "Location": "None, CA",
+  "County": "3 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 15, 2016, 10:21 pm (Changed Site # 001 (Big Rock Ridge (Rcvr Voting)) to 001 (Big Rock Ridge (Rcvr Voting)))",
+  "System ID List": [
+    {
+      "System ID": "2B13",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Big Rock Ridge (Rcvr Voting)",
+      "County": "Marin",
+      "Freqs": [
+        "856.7625",
+        "857.0875c",
+        "857.7625",
+        "858.7625c",
+        "859.7625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1104 ",
+      "HEX ": "045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-OAKLAND",
+      "Description": "Oakland Area ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-AUX-A",
+      "Description": "Auxillary A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-COCO",
+      "Description": "Conta Costa Area ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-CONST",
+      "Description": "Construction ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-STRUCT",
+      "Description": "Bridge Structural Crews ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "592 ",
+      "HEX ": "025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-PAINT",
+      "Description": "Bridge Paint Crews ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-TOW",
+      "Description": "Bay Bridge Tow ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-BR-MAINT",
+      "Description": "Bridge Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "688 ",
+      "HEX ": "02b ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-ELECT-A",
+      "Description": "Electrical A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "720 ",
+      "HEX ": "02d ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-ELECT-B",
+      "Description": "Electrical B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-ELECT-SP",
+      "Description": "Electrical Special ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-SHOP 4",
+      "Description": "Shop 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-TOPS-A",
+      "Description": "Traffic Operation A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-TOPS-B",
+      "Description": "Traffic Operation B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-BAY-A",
+      "Description": "Maintenance A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N-BAY-B",
+      "Description": "Maintenance B ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

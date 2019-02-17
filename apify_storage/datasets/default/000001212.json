@@ -1,0 +1,27 @@
+{
+  "System Name": "Island SMR (Kula)",
+  "Location": "Kula, HI",
+  "County": "Maui",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 7, 2006, 9:54 pm (Updated General System Info)",
+  "System ID List": [
+    {
+      "System ID": "7F16",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "851.1125c",
+        "851.4875",
+        "852.1125",
+        "853.0375",
+        "854.0125c"
+      ]
+    }
+  ]
+}

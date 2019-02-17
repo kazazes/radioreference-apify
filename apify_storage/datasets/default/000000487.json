@@ -1,0 +1,77 @@
+{
+  "System Name": "San Bernardino County 10",
+  "Location": "San Bernardino, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 10, 2017, 8:48 am ((7) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "3F0C",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Little Mountain",
+      "Freqs": [
+        "856.275",
+        "856.850c",
+        "858.275c",
+        "859.425c",
+        "860.250c",
+        "860.425",
+        "866.475",
+        "866.975",
+        "867.475",
+        "867.975",
+        "868.475"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "10-ATac-1",
+      "Description": "Area Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "10-ATac-2",
+      "Description": "Area Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10-CTac-1",
+      "Description": "Countywide Tac 1 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10-CTac-2",
+      "Description": "Countywide Tac 2 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "23088 ",
+      "HEX ": "5a3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Patton",
+      "Description": "Patton State Hospital Security ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

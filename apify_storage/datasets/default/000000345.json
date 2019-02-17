@@ -1,0 +1,76 @@
+{
+  "System Name": "Marriott Courtyard / Residence Inn LA Live",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 8, 2019, 6:50 pm ((1) Talkgroups Updated (Hotel Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hotel",
+        "01 452.3625 ",
+        "02 452.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "10",
+      "Description": "10 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ENGINEERING",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HOUSEKEEP SUP",
+      "Description": "Housekeeping Supervisors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HOUSEKEEPING",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES / IT",
+      "Description": "Facilities / Information Techology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "21",
+      "Description": "21 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VALET",
+      "Description": "Valet Parking ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "System Name": "Next Connect (International Drive)",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 1, 2008, 2:41 pm (Updated Function Tag assignments for 2 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-070 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Star Taxi B",
+      "Description": "Star Taxi - Dispatcher ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1-01-071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Star Taxi M",
+      "Description": "Star Taxi - Mobiles ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

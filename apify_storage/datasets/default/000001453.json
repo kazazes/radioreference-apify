@@ -1,0 +1,23 @@
+{
+  "System Name": "RadiLink (Chicago)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "December 1, 2017, 6:28 am (Changed Site # 101 (Chicago [Unidentified LCN)) to 101 (Chicago [Unidentified LCN)))",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Chicago [Unidentified LCN)",
+        "00 453.0125 ",
+        "00 452.2625 ",
+        "00 452.2357 ",
+        "00 451.8375 ",
+        "00 451.9875 ",
+        "00 451.9625 ",
+        "00 451.7875 "
+      ]
+    }
+  ]
+}

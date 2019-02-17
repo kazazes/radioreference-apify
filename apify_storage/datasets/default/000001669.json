@@ -1,0 +1,113 @@
+{
+  "System Name": "Kansas State University",
+  "Location": "Manhattan, KS",
+  "County": "Riley",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 14, 2017, 1:00 pm ((3) Talkgroups Updated (KSU Telecom))",
+  "System ID List": [
+    {
+      "System ID": "4029",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "854.0375",
+        "854.9625",
+        "855.7125",
+        "856.7125",
+        "857.7125c",
+        "858.7125",
+        "859.7125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "49296 ",
+      "HEX ": "c09 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU Police",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "49312 ",
+      "HEX ": "c0a ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU Police 2",
+      "Description": "Car to Car ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49328 ",
+      "HEX ": "c0b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Riley Co PD Link",
+      "Description": "Link to Riley County Police ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "49344 ",
+      "HEX ": "c0c ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU PD Project 1",
+      "Description": "Project 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49360 ",
+      "HEX ": "c0d ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU PD Project 2",
+      "Description": "Project 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49376 ",
+      "HEX ": "c0e ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU PD Event 1",
+      "Description": "Event 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "49392 ",
+      "HEX ": "c0f ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU PD Event 2",
+      "Description": "Event 2 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "49152 ",
+      "HEX ": "c00 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU Technicians",
+      "Description": "Technicians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49168 ",
+      "HEX ": "c01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU Network",
+      "Description": "Network ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49184 ",
+      "HEX ": "c02 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KSU Cable TV",
+      "Description": "Cable TV ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "System Name": "New Albany - Floyd County Consolidated Schools",
+  "Location": "New Albany, IN",
+  "County": "Floyd",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 25, 2018, 4:12 am (Changed Site # 005 (Highland Hills Middle School) to 005 (Highland Hills Middle School))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Floyds Knob",
+        "01 461.550c ",
+        "02 451.075 ",
+        "03 464.925 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Floyd Central High School",
+        "01 451.475 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Georgetown Elementary School",
+        "01 452.000 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Hazelwood Middle Scdhool",
+        "01 461.175 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "Highland Hills Middle School",
+        "01 462.025 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Admin",
+      "Description": "Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Admin Central",
+      "Description": "Admin Central ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transportation 1",
+      "Description": "School Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transportation 2",
+      "Description": "Special Needs Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "65535 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bus GPS Data",
+      "Description": "Bus GPS Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

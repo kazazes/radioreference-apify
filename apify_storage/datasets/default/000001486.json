@@ -1,0 +1,108 @@
+{
+  "System Name": "Egyptian Electric Cooperative (S IL)",
+  "Location": "Steeleville, IL",
+  "County": "8 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "July 23, 2018, 4:14 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Steeleville",
+      "County": [
+        "Randolph",
+        "153.1025 (CC 2)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Goreville",
+      "County": [
+        "Union",
+        "153.065 (CC 2)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Bay City",
+      "County": [
+        "Pope",
+        "152.2775 (CC 10)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Vergennes",
+      "County": [
+        "Perry",
+        "159.5625 (CC 13)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Elco",
+      "County": [
+        "Union",
+        "158.235 (CC 2)"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Jacob 1",
+      "County": [
+        "Jackson",
+        "153.1625 (CC )"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Oakdale",
+      "County": [
+        "Washington",
+        "153.0725 (CC 11)"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Modoc",
+      "County": [
+        "Randolph",
+        "152.3075 (CC )"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Jacob 2",
+      "County": [
+        "Jackson",
+        "152.3975 (CC )"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Vergennes",
+      "County": [
+        "Perry",
+        "152.9225 (CC )"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Carbondale",
+      "County": [
+        "Jackson",
+        "153.0875 (CC 14)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1000 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 1000 ops",
+      "Description": "Operations ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

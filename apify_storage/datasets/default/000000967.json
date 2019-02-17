@@ -1,0 +1,40 @@
+{
+  "System Name": "Diamond Cab Company",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "June 1, 2008, 2:50 pm (Updated Talkgroups (1 Updated, 0 Deleted))",
+  "System ID List": [
+    {
+      "System ID": "8A1A",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Orlando",
+      "Freqs": [
+        "937.925",
+        "937.9375",
+        "937.950",
+        "937.9625",
+        "937.975",
+        "939.475",
+        "939.4875c",
+        "939.500"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Buses / Vans",
+      "Description": "Buses / Vans ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

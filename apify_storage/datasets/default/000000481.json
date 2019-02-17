@@ -1,0 +1,104 @@
+{
+  "System Name": "Federal Correctional Complex Victorville",
+  "Location": "Adelanto, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "January 28, 2016, 11:29 pm (General text description deleted)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "407.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "711C",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Prison",
+      "Freqs": [
+        "407.0125c",
+        "408.0125c",
+        "408.2125c",
+        "408.8125c",
+        "409.0125",
+        "409.4125",
+        "410.700"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI I AC",
+      "Description": "All Call ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH 1",
+      "Description": "Control ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH 4",
+      "Description": "Alternate ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH 3",
+      "Description": "Alternate ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH 2",
+      "Description": "Perimeter Patrol ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "320 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO TEST",
+      "Description": "System Radio Testing ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16320 ",
+      "HEX ": "3fc ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO TEST",
+      "Description": "System Radio Testing ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "32320 ",
+      "HEX ": "7e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO TEST",
+      "Description": "System Radio Testing ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

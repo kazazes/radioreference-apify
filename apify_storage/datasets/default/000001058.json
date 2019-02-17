@@ -1,0 +1,18 @@
+{
+  "System Name": "Great American Enterprises LTR",
+  "Location": "Carrollton, GA",
+  "County": "Carroll",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:25 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Carrollton",
+        "01 152.7125 ",
+        "02 152.1425 "
+      ]
+    }
+  ]
+}

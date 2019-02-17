@@ -1,0 +1,137 @@
+{
+  "System Name": "Bristol",
+  "Location": "Bristol, CT",
+  "County": "Hartford",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 4, 2019, 6:51 pm (Added Talkgroup 17205 Fire Incident 3(Fire))",
+  "System ID List": [
+    {
+      "System ID": "941",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "855.4375",
+        "855.7375",
+        "856.4125",
+        "857.3875",
+        "858.9625",
+        "859.9625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "17101 ",
+      "HEX ": "42cd ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 1",
+      "Description": "Police 1 Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "17102 ",
+      "HEX ": "42ce ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 2",
+      "Description": "Police 2 Patrol ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17103 ",
+      "HEX ": "42cf ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 3",
+      "Description": "Police 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17104 ",
+      "HEX ": "42d0 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 4",
+      "Description": "Police 4 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17105 ",
+      "HEX ": "42d1 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 5",
+      "Description": "Police 5 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17106 ",
+      "HEX ": "42d2 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 6",
+      "Description": "Police 6 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17107 ",
+      "HEX ": "42d3 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 7",
+      "Description": "Police 7 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17108 ",
+      "HEX ": "42d4 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Police 8",
+      "Description": "Police 8 ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "17305 ",
+      "HEX ": "4399 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water Department",
+      "Description": "Water Department ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "17312 ",
+      "HEX ": "43a0 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tech Services",
+      "Description": "Techincal Services ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17401 ",
+      "HEX ": "43f9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DPW Supervisors",
+      "Description": "Supervisors ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17402 ",
+      "HEX ": "43fa ",
+      "Mode  ": "T",
+      "Alpha Tag": "DPW Operations",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17403 ",
+      "HEX ": "43fb ",
+      "Mode  ": "T",
+      "Alpha Tag": "DPW Waste Removl",
+      "Description": "Waste Removal ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

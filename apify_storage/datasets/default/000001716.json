@@ -1,0 +1,41 @@
+{
+  "System Name": "Baptist Health Med Center",
+  "Location": "Hopkinsville, KY",
+  "County": "Christian",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2013, 11:42 pm (Changed Site # 001 (Jennie Stuart Med Center) to 001 (Hopkinsville))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hopkinsville",
+        "03 451.500 ",
+        "10 452.100 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BHMC Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BHMC Hskping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-145 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BHMC CNAs",
+      "Description": "Nurses Aides ",
+      "Tag  ": "Business "
+    }
+  ]
+}

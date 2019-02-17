@@ -1,0 +1,46 @@
+{
+  "System Name": "Mid-Coast Maine LTR",
+  "Location": "Midcoast, ME",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 16, 2016, 11:16 pm (Added Talkgroup 4250 Claybrook Landscaping(Plowing))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Confirmed LCN",
+      "County": [
+        "Knox",
+        "02 152.510 ",
+        "04 152.630 ",
+        "06 152.750 ",
+        "08 152.375 ",
+        "10 152.390 ",
+        "12 152.405 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-203 ",
+      "Mode  ": "A",
+      "Alpha Tag": "St.GeorgeMSU",
+      "Description": "St. George Municipal School Union ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-02-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown",
+      "Description": "Unknown ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-04-250 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Claybrook",
+      "Description": "Claybrook Landscaping(Plowing) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

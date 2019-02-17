@@ -1,0 +1,18 @@
+{
+  "System Name": "Valley Industrial Communications (Dyer Mountain 1)",
+  "Location": "Westwood, CA",
+  "County": "Lassen",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 6:27 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 453.000 ",
+        "02 461.075 "
+      ]
+    }
+  ]
+}

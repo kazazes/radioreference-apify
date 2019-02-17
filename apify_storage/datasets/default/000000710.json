@@ -1,0 +1,120 @@
+{
+  "System Name": "Greenwich",
+  "Location": "Greenwich, CT",
+  "County": "Fairfield",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "June 13, 2018, 8:48 pm ((2) Talkgroups Updated (Fire))",
+  "System ID List": [
+    {
+      "System ID": "2D10",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.7875",
+        "852.0625",
+        "852.450",
+        "853.150a",
+        "853.400a",
+        "853.700c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "14032 ",
+      "HEX ": "36d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Patrol 1",
+      "Description": "Patrol 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "14160 ",
+      "HEX ": "375 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Patrol 2",
+      "Description": "Patrol 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "14256 ",
+      "HEX ": "37b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Narcotics 1",
+      "Description": "Narcotics 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "14288 ",
+      "HEX ": "37d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Narcotics 2",
+      "Description": "Narcotics 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "14064 ",
+      "HEX ": "36f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Detectives",
+      "Description": "Detectives ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "14096 ",
+      "HEX ": "371 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD SWAT",
+      "Description": "SWAT ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "14128 ",
+      "HEX ": "373 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PD Marine",
+      "Description": "Marine ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "14512 ",
+      "HEX ": "38b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FAPERN",
+      "Description": "FAPERN Link ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1360 ",
+      "HEX ": "055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RC Admin",
+      "Description": "Administration ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RC Call-Ride",
+      "Description": "Call-A-Ride ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RC Ops",
+      "Description": "Operations ",
+      "Tag  ": "Emergency Ops "
+    }
+  ]
+}

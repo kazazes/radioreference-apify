@@ -1,0 +1,117 @@
+{
+  "System Name": "Nextel (Phoenix 2)",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 5:55 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "937.6625c",
+        "938.2375a",
+        "936.6875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3184 ",
+      "HEX ": "0c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PARK LOT SWP",
+      "Description": "Parking Lot Sweeps ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3232 ",
+      "HEX ": "0ca ",
+      "Mode  ": "A",
+      "Alpha Tag": "LANDSCAPER",
+      "Description": "Residential Landscape Installation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4784 ",
+      "HEX ": "12b ",
+      "Mode  ": "A",
+      "Alpha Tag": "APT OPS/MNT",
+      "Description": "Apartment Operations and Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6224 ",
+      "HEX ": "185 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW SVC",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6800 ",
+      "HEX ": "1a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PROP MGMT",
+      "Description": "Rental Property Management and Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8208 ",
+      "HEX ": "201 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "15248 ",
+      "HEX ": "3b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GCU SECURITY",
+      "Description": "Grand Canyon University Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "20624 ",
+      "HEX ": "509 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOCKSMITH",
+      "Description": "Locksmith ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24016 ",
+      "HEX ": "5dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOME BLDR",
+      "Description": "Home Builder ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24096 ",
+      "HEX ": "5e2 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LANDSCAPER2",
+      "Description": "Landscaping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "29392 ",
+      "HEX ": "72d ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONST/MAINT",
+      "Description": "Construction/Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "32208 ",
+      "HEX ": "7dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW MOTO AST",
+      "Description": "Towing and Motorist Assistance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

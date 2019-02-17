@@ -1,0 +1,19 @@
+{
+  "System Name": "Eli Lilly Clinton",
+  "Location": "Clinton, IN",
+  "County": "Vermillion",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 24, 2017, 5:32 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Clinton",
+        "01 463.4125 ",
+        "02 463.5625 ",
+        "03 463.9125 "
+      ]
+    }
+  ]
+}

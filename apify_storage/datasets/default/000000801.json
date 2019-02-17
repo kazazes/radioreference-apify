@@ -1,0 +1,27 @@
+{
+  "System Name": "Gulf Coast Regional Medical Center",
+  "Location": "Panama City, FL",
+  "County": "Bay",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 5, 2018, 10:46 pm (Updated encryption settings for 1 talkgroups(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 462.175 ",
+        "02 461.100 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "125 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Ops 125",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

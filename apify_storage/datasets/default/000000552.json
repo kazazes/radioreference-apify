@@ -1,0 +1,30 @@
+{
+  "System Name": "NASA Ames Research Center",
+  "Location": "Moffett Field, CA",
+  "County": "Santa Clara",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 3, 2018, 12:39 am (Changed Site # 001 (Moffett Field) to 001 (Moffett Field))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "57BB0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Moffett Field",
+      "Freqs": [
+        "406.2375a",
+        "406.4375c",
+        "406.8375a",
+        "407.0375a",
+        "407.2375a",
+        "407.4375a",
+        "407.6375a"
+      ]
+    }
+  ]
+}

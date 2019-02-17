@@ -1,0 +1,27 @@
+{
+  "System Name": "Motorola (Schaumburg)",
+  "Location": "Schaumburg, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "November 10, 2010, 6:54 pm (Default Location Data Updated to 41.877741 / -87.764282 / 11)",
+  "System ID List": [
+    {
+      "System ID": "2C24",
+      "Connect Tone": "97.30"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "938.650",
+        "938.6625",
+        "938.675c",
+        "938.6875c",
+        "938.700"
+      ]
+    }
+  ]
+}

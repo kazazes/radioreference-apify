@@ -1,0 +1,64 @@
+{
+  "System Name": "Altamaha REMC DMR",
+  "Location": "Various, GA",
+  "County": "5 counties",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 5, 2016, 2:16 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Swainsboro",
+      "County": [
+        "Emanuel",
+        "01 452.3875 ",
+        "02 461.7875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Dublin",
+      "County": [
+        "Laurens",
+        "01 461.075 ",
+        "02 463.450 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Kibbee",
+      "County": [
+        "Montgomery",
+        "01 461.200 ",
+        "02 461.825 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Lyons 1",
+      "County": [
+        "Toombs",
+        "01 462.100 ",
+        "02 464.525 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lyons 2",
+      "County": [
+        "Toombs",
+        "01 453.0125 ",
+        "02 461.125 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Soperton",
+      "County": [
+        "Treutlen",
+        "01 461.775 ",
+        "02 463.600 "
+      ]
+    }
+  ]
+}

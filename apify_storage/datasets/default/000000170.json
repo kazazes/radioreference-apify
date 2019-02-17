@@ -1,0 +1,119 @@
+{
+  "System Name": "Jonesboro Public Safety",
+  "Location": "Jonesboro, AR",
+  "County": "Craighead",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 20, 2011, 4:57 am (Changed Site # 001 (Site-1) to 001 (Site-1))",
+  "System ID List": [
+    {
+      "System ID": "5B05",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "856.4875",
+        "857.4875c",
+        "858.4875c",
+        "859.4875c",
+        "860.4875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro FD",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsbro FD Ad",
+      "Description": "Fire Administration ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro FG",
+      "Description": "Fireground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsbro FCom",
+      "Description": "Fire Comm ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro FG2",
+      "Description": "Fireground 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsbro FTac",
+      "Description": "Fire Tactical ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro FG3",
+      "Description": "Fireground 3 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro PD",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro PD 1",
+      "Description": "PD 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsbro PDsk",
+      "Description": "Desk ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "608 ",
+      "HEX ": "026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jnsboro PDCm",
+      "Description": "Comm ",
+      "Tag  ": "Law Talk "
+    }
+  ]
+}

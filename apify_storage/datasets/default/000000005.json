@@ -1,0 +1,295 @@
+{
+  "System Name": "Fort Rucker",
+  "Location": "Various, AL",
+  "County": "Dale",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 9, 2015, 12:58 pm (Changed Site # 005 (Site 5) to 005 (Site 5))",
+  "System ID List": [
+    {
+      "System ID": "629",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "138.0875",
+        "138.1625a",
+        "138.2375",
+        "138.3125",
+        "138.3875",
+        "138.5375c",
+        "138.6375",
+        "138.7375",
+        "139.4875",
+        "139.6375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "Freqs": [
+        "138.2625a",
+        "138.4125a",
+        "139.9375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Site 3",
+      "Freqs": [
+        "138.0625a",
+        "138.2125a",
+        "138.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Site 4",
+      "Freqs": [
+        "138.5125a",
+        "138.6875a",
+        "139.3375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Site 5",
+      "Freqs": [
+        "138.5625a",
+        "138.7125c",
+        "139.7875a",
+        "140.6625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Site 6",
+      "Freqs": [
+        "140.6625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Site 7",
+      "Freqs": [
+        "138.0375a",
+        "138.1875a",
+        "139.7875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4001 ",
+      "HEX ": "fa1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fuel Disp",
+      "Description": "Fuel Truck Dispatch ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4100 ",
+      "HEX ": "1004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ordinance",
+      "Description": "Ordinance Handling ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4101 ",
+      "HEX ": "1005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 1",
+      "Description": "Aircraft Maintenance 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4102 ",
+      "HEX ": "1006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 2",
+      "Description": "Aircraft Maintenance 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4103 ",
+      "HEX ": "1007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 3",
+      "Description": "Aircraft Maintenance 3 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4104 ",
+      "HEX ": "1008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 4",
+      "Description": "Aircraft Maintenance 4 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4105 ",
+      "HEX ": "1009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 5",
+      "Description": "Aircraft Maintenance 5 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4107 ",
+      "HEX ": "100b ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 6",
+      "Description": "Aircraft Maintenance 6 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4108 ",
+      "HEX ": "100c ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/C Maint 7",
+      "Description": "Aircraft Maintenance 7 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4109 ",
+      "HEX ": "100d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fuel Truck 1",
+      "Description": "Fuel Trucks 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4112 ",
+      "HEX ": "1010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fuel Truck 2",
+      "Description": "Fuel Trucks 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4207 ",
+      "HEX ": "106f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cairns Tower",
+      "Description": "Cairns AAF Tower ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4220 ",
+      "HEX ": "107c ",
+      "Mode  ": "D",
+      "Alpha Tag": "RangeControl",
+      "Description": "Range Control ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4309 ",
+      "HEX ": "10d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rucker Tower",
+      "Description": "Rucker Tower ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4403 ",
+      "HEX ": "1133 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 1",
+      "Description": "Transportation ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4418 ",
+      "HEX ": "1142 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Training 1",
+      "Description": "Training 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4419 ",
+      "HEX ": "1143 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Training 2",
+      "Description": "Training 2 ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "4210 ",
+      "HEX ": "1072 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Crash Truck",
+      "Description": "Crash Truck ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4213 ",
+      "HEX ": "1075 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Military PD",
+      "Description": "Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4221 ",
+      "HEX ": "107d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BaseSecurity",
+      "Description": "Base Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "4407 ",
+      "HEX ": "1137 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MedCtrl",
+      "Description": "EMS Medical Control ",
+      "Tag  ": "EMS-Tac "
+    }
+  ]
+}

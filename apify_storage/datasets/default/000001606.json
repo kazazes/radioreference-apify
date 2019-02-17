@@ -1,0 +1,61 @@
+{
+  "System Name": "Artistic Waste",
+  "Location": "Des Moines, IA",
+  "County": "Polk",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "November 26, 2012, 2:01 am (Changed Site # 001 (Site 1) to 001 (Site 1))",
+  "System ID List": [
+    {
+      "System ID": "511E",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "938.7625c",
+        "938.7875a",
+        "938.8125a",
+        "938.8375a",
+        "938.8625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "57568 ",
+      "HEX ": "e0e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Waste 1",
+      "Description": "Artistic Waste ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57584 ",
+      "HEX ": "e0f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Waste 2",
+      "Description": "Artistic Waste ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57600 ",
+      "HEX ": "e10 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Waste 3",
+      "Description": "Artistic Waste ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57616 ",
+      "HEX ": "e11 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Waste 4",
+      "Description": "Artistic Waste ",
+      "Tag  ": "Business "
+    }
+  ]
+}

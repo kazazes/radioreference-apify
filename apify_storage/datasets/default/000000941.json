@@ -1,0 +1,420 @@
+{
+  "System Name": "Hialeah Public Safety",
+  "Location": "Hialeah, FL",
+  "County": "Miami-Dade",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "April 20, 2015, 11:33 pm (Updated Talkgroups (3 Updated))",
+  "System ID List": [
+    {
+      "System ID": "680B",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.1625",
+        "851.250",
+        "851.7875",
+        "852.1625",
+        "852.200",
+        "852.5875",
+        "852.850c",
+        "853.300a",
+        "853.325a",
+        "853.825a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Announce",
+      "Description": "Announcement ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 1A Main",
+      "Description": "Main ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 2A",
+      "Description": "Fire 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "16112 ",
+      "HEX ": "3ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 3A",
+      "Description": "Fire 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "16144 ",
+      "HEX ": "3f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 4A",
+      "Description": "Fire 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "16176 ",
+      "HEX ": "3f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 6A Admin1",
+      "Description": "Administration 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "16208 ",
+      "HEX ": "3f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 7A Admin2",
+      "Description": "Administration 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "16240 ",
+      "HEX ": "3f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 9A/PD 7",
+      "Description": "Public Safety Common ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "16272 ",
+      "HEX ": "3f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 10A/PD 8A",
+      "Description": "City Common ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "16304 ",
+      "HEX ": "3fb ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 15A Metro",
+      "Description": "Metro 1 - Link to MDFR ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "16368 ",
+      "HEX ": "3ff ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD11B Medcom",
+      "Description": "Medcom Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "16400 ",
+      "HEX ": "401 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD12B Medcom",
+      "Description": "Medcom Hialeah Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16432 ",
+      "HEX ": "403 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD13B Medcom",
+      "Description": "Medcom Palm Springs Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16464 ",
+      "HEX ": "405 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD14B Medcom",
+      "Description": "Medcom Palmetto Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16496 ",
+      "HEX ": "407 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD15B Medcom",
+      "Description": "Medcom Ryder Trama ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16528 ",
+      "HEX ": "409 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD16B Medcom",
+      "Description": "Medcom Miami Children's Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16560 ",
+      "HEX ": "40b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 1C Medcom",
+      "Description": "Medcom JMH ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16592 ",
+      "HEX ": "40d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 2C Medcom",
+      "Description": "Medcom Mount Sinai Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "16624 ",
+      "HEX ": "40f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 5A Commnd",
+      "Description": "FD 5A Command ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "18544 ",
+      "HEX ": "487 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 2A Mia 1",
+      "Description": "FD 2A Miami 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "18672 ",
+      "HEX ": "48f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD 2D MB 2",
+      "Description": "FD 2D Miami Beach 2 ",
+      "Tag  ": "Fire-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16656 ",
+      "HEX ": "411 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Solid Waste ",
+      "Description": "Solid Waste Main ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16688 ",
+      "HEX ": "413 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Building Mnt",
+      "Description": "Building Maintenance 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16720 ",
+      "HEX ": "415 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water/Sew 1",
+      "Description": "Water & Sewer 1 Main ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16752 ",
+      "HEX ": "417 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec1",
+      "Description": "Parks & Recreation 1 Main ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16784 ",
+      "HEX ": "419 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Streets ",
+      "Description": "Streets Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16816 ",
+      "HEX ": "41b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec2",
+      "Description": "Parks & Recreation 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16880 ",
+      "HEX ": "41f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec3",
+      "Description": "Parks & Recreation 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16912 ",
+      "HEX ": "421 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec",
+      "Description": "Parks & Recreation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16944 ",
+      "HEX ": "423 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec4",
+      "Description": "Parks & Recreation 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17040 ",
+      "HEX ": "429 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Building Mai",
+      "Description": "Building Maintenance 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17104 ",
+      "HEX ": "42d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Solid Waste1",
+      "Description": "Solid Waste 1 Main ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17136 ",
+      "HEX ": "42f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Solid Waste2",
+      "Description": "Solid Waste 2 Supervisors ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17168 ",
+      "HEX ": "431 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water & Sew2",
+      "Description": "Water & Sewer 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17200 ",
+      "HEX ": "433 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water & Sew1",
+      "Description": "Water & Sewer 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17264 ",
+      "HEX ": "437 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Service",
+      "Description": "Bus Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17392 ",
+      "HEX ": "43f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water Lift",
+      "Description": "Water Lift Station ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17456 ",
+      "HEX ": "443 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Occupation L",
+      "Description": "Occupation Licensing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17520 ",
+      "HEX ": "447 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bldg Insp 1",
+      "Description": "Building Insp CH-1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17552 ",
+      "HEX ": "449 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bldg Insp 2",
+      "Description": "Building Insp CH-2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17584 ",
+      "HEX ": "44b ",
+      "Mode  ": "A",
+      "Alpha Tag": "BuildingDep2",
+      "Description": "Building Department 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "18416 ",
+      "HEX ": "47f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Shop M",
+      "Description": "Radio Shop Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "18736 ",
+      "HEX ": "493 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Common",
+      "Description": "Common ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "18800 ",
+      "HEX ": "497 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Code Enforce",
+      "Description": "Code Enforcement ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "18832 ",
+      "HEX ": "499 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Child Care",
+      "Description": "Child Care ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "19184 ",
+      "HEX ": "4af ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Bus2",
+      "Description": "Transit Buses - 2 Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "19216 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Bus1",
+      "Description": "Transit Buses - 1 Car to Car ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "19344 ",
+      "HEX ": "4b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SolidWaste C",
+      "Description": "Solid Waste Car to Car ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

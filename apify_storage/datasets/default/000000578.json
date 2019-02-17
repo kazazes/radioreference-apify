@@ -1,0 +1,40 @@
+{
+  "System Name": "Ventura County",
+  "Location": "Various, CA",
+  "County": "Ventura",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 29, 2018, 3:56 am (Changed Site # 002 (Site 2) to 002 (Site 2))",
+  "System ID List": [
+    {
+      "System ID": "962",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "769.83125c",
+        "770.08125a",
+        "770.28125",
+        "770.34375",
+        "770.78125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "Freqs": [
+        "769.53125",
+        "769.78125",
+        "771.20625",
+        "771.50625a",
+        "773.95625c"
+      ]
+    }
+  ]
+}

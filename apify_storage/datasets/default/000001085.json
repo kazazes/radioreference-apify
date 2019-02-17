@@ -1,0 +1,50 @@
+{
+  "System Name": "Lockheed Martin Marietta VHF P25",
+  "Location": "Marietta, GA",
+  "County": "Cobb",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 5, 2016, 2:35 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "015",
+      "WACN": "0000A"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "Marietta",
+      "Freqs": [
+        "153.0575",
+        "153.0725",
+        "153.0875",
+        "153.1025c",
+        "153.1325",
+        "153.1475c",
+        "153.1625",
+        "153.1925",
+        "153.3725"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TG 100",
+      "Description": "Radio Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TG 103",
+      "Description": "Radio Testing ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "System Name": "CALTrans (District 04 - South)",
+  "Location": "None, CA",
+  "County": "9 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 15, 2016, 10:21 pm (Changed Site # 001 (San Leandro Hill (Rcvr Voting)) to 001 (San Leandro Hill (Rcvr Voting)))",
+  "System ID List": [
+    {
+      "System ID": "2B14",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "San Leandro Hill (Rcvr Voting)",
+      "County": "Alameda",
+      "Freqs": [
+        "856.7375",
+        "857.9875c",
+        "858.9875c",
+        "859.9875c",
+        "857.1625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1360 ",
+      "HEX ": "055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-OAKLAND",
+      "Description": "East Bay Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-AUX-A",
+      "Description": "Auxiliary A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-AUX-B",
+      "Description": "Auxiliary B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-CONST",
+      "Description": "Construction ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-STRUCT",
+      "Description": "Bridge Structural Crews ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-PAINT",
+      "Description": "Bridge Paint Crews ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-TOW",
+      "Description": "Bridge Tow Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-BR-MAINT",
+      "Description": "Bridge Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-ELECT-A",
+      "Description": "Electrical A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-ELECT-B",
+      "Description": "Electrical B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "03f ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-ELECT-SP",
+      "Description": "Electrical Special ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1072 ",
+      "HEX ": "043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-SHOP 4",
+      "Description": "Shop 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1200 ",
+      "HEX ": "04b ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-TOPS-A",
+      "Description": "Traffic Operations A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-TOPS-B",
+      "Description": "Traffic Operations B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "W-BAY-A",
+      "Description": "San Francisco Maintenance A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "W-BAY-B",
+      "Description": "San Francisco Maintenance B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-BAY-A",
+      "Description": "South Bay Maintenance A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S-BAY-B",
+      "Description": "South Bay Maintenance B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "E-BAY-A",
+      "Description": "East Bay Maintenance A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "E-BAY-B",
+      "Description": "East Bay Maintenance B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "PEN-A",
+      "Description": "Penininsula Maintenance A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PEN-B",
+      "Description": "Penininsula Maintenance B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5584 ",
+      "HEX ": "15d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Irrig Data",
+      "Description": "Irrigation Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

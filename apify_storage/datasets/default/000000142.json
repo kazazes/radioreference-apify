@@ -1,0 +1,57 @@
+{
+  "System Name": "Raytheon Missile Systems",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 1, 2016, 5:06 pm (Added Talkgroup 1002 Security)",
+  "System ID List": [
+    {
+      "System ID": "418"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Raytheon",
+        "01 935.200c ",
+        "02 936.200 ",
+        "03 937.200 ",
+        "04 938.200 ",
+        "05 939.200 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Hemisphere Loop",
+        "01 935.700c ",
+        "02 936.700 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Rita Rd",
+        "01 937.700c ",
+        "02 938.700c ",
+        "03 939.700 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1002 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

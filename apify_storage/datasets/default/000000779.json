@@ -1,0 +1,628 @@
+{
+  "System Name": "Delaware Wireless Interoperability Network (DELWIN)",
+  "Location": "Varies, DE",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 14, 2019, 2:58 am (Updated encryption settings for 1 talkgroups(DOC))",
+  "System ID List": [
+    {
+      "System ID": "001",
+      "WACN": "9254A"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Claymont",
+      "County": "New Castle",
+      "Freqs": [
+        "769.33125c",
+        "769.83125c",
+        "770.83125c",
+        "772.93125"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Wilmington",
+      "County": "New Castle",
+      "Freqs": [
+        "772.14375",
+        "772.53125c",
+        "772.90625c",
+        "773.73475c"
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "005 (5)",
+      "Name": "Newark",
+      "County": "New Castle",
+      "Freqs": [
+        "771.13125",
+        "771.38125a",
+        "771.80625",
+        "774.15625c"
+      ]
+    },
+    {
+      "RFSS": "7 (7)",
+      "Site": "007 (7)",
+      "Name": "Middletown",
+      "County": "New Castle",
+      "Freqs": [
+        "772.13125c",
+        "772.48125",
+        "772.75625",
+        "773.73125c"
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "009 (9)",
+      "Name": "Dover / DSP HQ",
+      "County": "Kent",
+      "Freqs": [
+        "769.15625c",
+        "769.40625c",
+        "769.65625",
+        "769.90625"
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "011 (B)",
+      "Name": "Hartly",
+      "County": "Kent",
+      "Freqs": [
+        "769.08125",
+        "769.35625c",
+        "770.08125c",
+        "770.60625"
+      ]
+    },
+    {
+      "RFSS": "13 (D)",
+      "Site": "013 (D)",
+      "Name": "Felton",
+      "County": "Kent",
+      "Freqs": [
+        "771.25625c",
+        "772.18125c",
+        "772.58125c",
+        "773.23125"
+      ]
+    },
+    {
+      "RFSS": "15 (F)",
+      "Site": "015 (F)",
+      "Name": "Seaford",
+      "County": "Sussex",
+      "Freqs": [
+        "770.80625c",
+        "771.35625",
+        "771.90625",
+        "773.70625"
+      ]
+    },
+    {
+      "RFSS": "17 (11)",
+      "Site": "017 (11)",
+      "Name": "Milton",
+      "County": "Sussex",
+      "Freqs": [
+        "773.03125c",
+        "773.28125c",
+        "773.53125c",
+        "773.78125c"
+      ]
+    },
+    {
+      "RFSS": "19 (13)",
+      "Site": "019 (13)",
+      "Name": "Dagsboro",
+      "County": "Sussex",
+      "Freqs": [
+        "771.78125",
+        "772.60625",
+        "772.88125",
+        "773.15625"
+      ]
+    },
+    {
+      "RFSS": "21 (15)",
+      "Site": "021 (15)",
+      "Name": "Georgetown SBA",
+      "County": "Sussex",
+      "Freqs": [
+        "770.15625c",
+        "770.40625",
+        "770.65625c",
+        "770.90625"
+      ]
+    },
+    {
+      "RFSS": "35 (23)",
+      "Site": "035 (23)",
+      "Name": "JTVCC ",
+      "County": "Kent",
+      "Freqs": [
+        "770.19375c",
+        "770.96875a",
+        "774.09375",
+        "774.59375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gander Ops",
+      "Description": "Gander HIll Ops (Wilmington) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gander Maint",
+      "Description": "Gander HIll Maint ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gander HIll ",
+      "Description": "Gander HIll  ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-3",
+      "Description": "DOC-3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-4",
+      "Description": "DOC-4 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gander HIll ",
+      "Description": "Gander HIll  ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Baylor Insid",
+      "Description": "Baylor Inside Control ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-7",
+      "Description": "DOC-7 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-8",
+      "Description": "DOC-8 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-9",
+      "Description": "DOC-9 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "D",
+      "Alpha Tag": "JTVCC ops",
+      "Description": "JTVCC ops (Smyrna) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "JTVCC maint",
+      "Description": "JTVCC Maintenance ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JTVCC",
+      "Description": "JTVCC ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JTVCC bldg15",
+      "Description": "JTVCC Bldg 15 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-14",
+      "Description": "DOC-14 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-15",
+      "Description": "DOC-15 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "116 ",
+      "HEX ": "074 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-16",
+      "Description": "DOC-16 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "117 ",
+      "HEX ": "075 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-17",
+      "Description": "DOC-17 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "118 ",
+      "HEX ": "076 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-18",
+      "Description": "DOC-18 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "119 ",
+      "HEX ": "077 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-19",
+      "Description": "DOC-19 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "120 ",
+      "HEX ": "078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-20",
+      "Description": "DOC-20 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "121 ",
+      "HEX ": "079 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-21",
+      "Description": "DOC-21 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "122 ",
+      "HEX ": "07a ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-22",
+      "Description": "DOC-22 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "123 ",
+      "HEX ": "07b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-23",
+      "Description": "DOC-23 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "124 ",
+      "HEX ": "07c ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-24",
+      "Description": "DOC-24 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "125 ",
+      "HEX ": "07d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-25",
+      "Description": "DOC-25 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "126 ",
+      "HEX ": "07e ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-26",
+      "Description": "DOC-26 Uid ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "127 ",
+      "HEX ": "07f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "S-SCI-OPS",
+      "Description": "SCI Operations (Georgetown) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "080 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-28",
+      "Description": "DOC-28 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "129 ",
+      "HEX ": "081 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-29",
+      "Description": "DOC-29 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "130 ",
+      "HEX ": "082 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-30",
+      "Description": "DOC-30 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "131 ",
+      "HEX ": "083 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-31",
+      "Description": "DOC-31 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-32",
+      "Description": "DOC-32 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "133 ",
+      "HEX ": "085 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-33",
+      "Description": "DOC-33 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "134 ",
+      "HEX ": "086 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-34",
+      "Description": "DOC-34 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "135 ",
+      "HEX ": "087 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-35",
+      "Description": "DOC-35 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "136 ",
+      "HEX ": "088 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-36",
+      "Description": "DOC-36 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "137 ",
+      "HEX ": "089 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-37",
+      "Description": "DOC-37 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "138 ",
+      "HEX ": "08a ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-38",
+      "Description": "DOC-38 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "139 ",
+      "HEX ": "08b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-39",
+      "Description": "DOC-39 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "140 ",
+      "HEX ": "08c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCI Control",
+      "Description": "SCI Control  ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "141 ",
+      "HEX ": "08d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-41",
+      "Description": "DOC-41 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "090 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-44",
+      "Description": "DOC-44 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "146 ",
+      "HEX ": "092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-46",
+      "Description": "DOC-46 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "148 ",
+      "HEX ": "094 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-48",
+      "Description": "DOC-48 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "154 ",
+      "HEX ": "09a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SW-PMA patch",
+      "Description": "SW PMA patch from 800Mhz system ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "155 ",
+      "HEX ": "09b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSX FD 7-IOP-2",
+      "Description": "Sussex Fire Interops 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "0a0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-60",
+      "Description": "DOC-60 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "165 ",
+      "HEX ": "0a5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-65",
+      "Description": "DOC-65 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "166 ",
+      "HEX ": "0a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-66",
+      "Description": "DOC-66 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "167 ",
+      "HEX ": "0a7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-67",
+      "Description": "DOC-67 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "168 ",
+      "HEX ": "0a8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-68",
+      "Description": "DOC-68 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "169 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-69",
+      "Description": "DOC-69 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "170 ",
+      "HEX ": "0aa ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-70",
+      "Description": "DOC-70 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "171 ",
+      "HEX ": "0ab ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOC-71",
+      "Description": "DOC-71 ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "209 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Group 2",
+      "Description": "Test group 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9001 ",
+      "HEX ": "2329 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test group 3",
+      "Description": "Test group 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9099 ",
+      "HEX ": "238b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test group 1",
+      "Description": "Test group 1 / (Pre-recorded voice) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

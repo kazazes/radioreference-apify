@@ -1,0 +1,27 @@
+{
+  "System Name": "Southern Komfort Luxury Sedan",
+  "Location": "Daytona Beach, FL",
+  "County": "Volusia",
+  "System Type": "EDACS Standard",
+  "System Voice": "AEGIS Exclusive",
+  "Last Updated": "July 31, 2014, 10:49 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Daytona Beach",
+        "01 463.9125c "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "273 ",
+      "AFS ": "02-021 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DISP1",
+      "Description": "Dispatch ",
+      "Tag  ": "Business "
+    }
+  ]
+}

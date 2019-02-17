@@ -1,0 +1,35 @@
+{
+  "System Name": "Rialto Unified School District",
+  "Location": "Rialto, CA",
+  "County": "San Bernardino",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 16, 2016, 3:20 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "RUSD",
+        "03 453.5375 ",
+        "04 453.2875 ",
+        "06 451.9375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Safety",
+      "Description": "Safety and Security ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transport",
+      "Description": "Transportation ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

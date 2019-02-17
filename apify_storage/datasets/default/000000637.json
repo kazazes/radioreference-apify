@@ -1,0 +1,1905 @@
+{
+  "System Name": "Metro Area Radio Cooperative (MARC)",
+  "Location": "Various, CO",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 28, 2018, 5:22 pm ((1) Talkgroups Updated (Denver Fire))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "924B3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Green Mountain",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.250c",
+        "851.7125c",
+        "851.9125c",
+        "852.225c",
+        "852.6875c",
+        "852.9125c",
+        "853.300c",
+        "853.5375c"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Mount Morrison (Lakewood)",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.0875c",
+        "851.3375c",
+        "852.4375c",
+        "852.750c",
+        "853.2125c",
+        "854.6375c",
+        "855.4125c",
+        "856.6125c"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "North Table Mountain",
+      "County": "Jefferson",
+      "Freqs": [
+        "852.0625c",
+        "852.325c",
+        "853.750c",
+        "854.1875c",
+        "854.3875c",
+        "854.6125c",
+        "855.1375c",
+        "856.5375c"
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "Mount Morrison (Denver Only)",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.5625c",
+        "852.125c",
+        "852.375c",
+        "852.775c",
+        "853.0625c",
+        "853.150c",
+        "853.275c",
+        "853.425c",
+        "853.725c",
+        "853.8625c",
+        "857.0625c",
+        "858.1375c",
+        "859.6125c"
+      ]
+    },
+    {
+      "RFSS": "21 (15)",
+      "Site": "021 (15)",
+      "Name": "Arvada Simulcast",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.3125c",
+        "854.7375c",
+        "856.0875c",
+        "857.5375c",
+        "858.1875c",
+        "858.5625c",
+        "859.0625c",
+        "859.5375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2286 ",
+      "HEX ": "8ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red NE",
+      "Description": "Red NE - Fire Mutual Aid NE Denver Metro ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2287 ",
+      "HEX ": "8ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue NE",
+      "Description": "Blue NE - Law Enforcement Mutual Aid NE Denver Metro ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2297 ",
+      "HEX ": "8f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red SE",
+      "Description": "Red SE - Fire Mutual Aid SE Denver Metro ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2298 ",
+      "HEX ": "8fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue SE",
+      "Description": "Blue SE - Law Enforcement Mutual Aid SE Denver Metro ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2288 ",
+      "HEX ": "8f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red SW",
+      "Description": "Red SW - Fire Mutual Aid SW Denver Metro ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2290 ",
+      "HEX ": "8f2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue SW",
+      "Description": "Blue SW - Law Enforcement Mutual Aid SW Denver Metro ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2295 ",
+      "HEX ": "8f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red NW",
+      "Description": "Red NW - Fire Mutual Aid NW Denver Metro (Linked to 155.25 in Boulder) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2296 ",
+      "HEX ": "8f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue NW",
+      "Description": "Blue NW - Law Enforcement Mutual Aid NW Denver Metro (Linked to 156.03 in Boulder) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "34903 ",
+      "HEX ": "8857 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gold-1",
+      "Description": "Gold-1 - Denver Metro Command/Control 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2299 ",
+      "HEX ": "8fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gold-2",
+      "Description": "Gold-2 - Denver Metro Command/Control 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2289 ",
+      "HEX ": "8f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green-1",
+      "Description": "Green-1 - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2294 ",
+      "HEX ": "8f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green NW",
+      "Description": "Green NW - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2282 ",
+      "HEX ": "8ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green NE",
+      "Description": "Green NE - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2291 ",
+      "HEX ": "8f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green SE",
+      "Description": "Green SE - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3030 ",
+      "HEX ": "bd6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green SW",
+      "Description": "Green SW - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2292 ",
+      "HEX ": "8f4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Silver",
+      "Description": "Silver - Denver/Auraria/Glendale Mutual Aid ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2293 ",
+      "HEX ": "8f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Grey",
+      "Description": "Grey - Denver Metro Federal Mutual Aid ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3997 ",
+      "HEX ": "f9d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metro Net",
+      "Description": "Metro Net ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "38064 ",
+      "HEX ": "94b0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CLEER-Arvada",
+      "Description": "Colorado Law Enforcement Emergency Radio - Arvada Link ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "37385 ",
+      "HEX ": "9209 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CLEER-Lakewd",
+      "Description": "Colorado Law Enforcement Emergency Radio - Lakewood Link ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "37817 ",
+      "HEX ": "93b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WM-FERN-1",
+      "Description": "Fire Emergency Radio Network 1 (Link to 154.280) - West Metro Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37818 ",
+      "HEX ": "93ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "WM-FERN-2",
+      "Description": "Fire Emergency Radio Network 2 (Link to 154.295) - West Metro Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37819 ",
+      "HEX ": "93bb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WM-FERN-3",
+      "Description": "Fire Emergency Radio Network 3 (Link to 154.265) - West Metro Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37866 ",
+      "HEX ": "93ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "WM-AirGrnd1",
+      "Description": "Air/Ground 1 - Primary (Link to 169.400) - West Metro Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37865 ",
+      "HEX ": "93e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WM-AirGrnd2",
+      "Description": "Air/Ground 2 - Secondary (Link to 172.225) - West Metro Fire ",
+      "Tag  ": "Fire-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 100 Patch",
+      "Description": "SAID 100 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 101 Patch",
+      "Description": "SAID 101 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 102 Patch",
+      "Description": "SAID 102 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 103 Patch",
+      "Description": "SAID 103 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 104 Patch",
+      "Description": "SAID 104 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 105 Patch",
+      "Description": "SAID 105 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 106 Patch",
+      "Description": "SAID 106 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 107 Patch",
+      "Description": "SAID 107 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 108 Patch",
+      "Description": "SAID 108 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 109 Patch",
+      "Description": "SAID 109 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 110 Patch",
+      "Description": "SAID 110 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 111 Patch",
+      "Description": "SAID 111 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 112 Patch",
+      "Description": "SAID 112 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 113 Patch",
+      "Description": "SAID 113 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 114 Patch",
+      "Description": "SAID 114 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 115 Patch",
+      "Description": "SAID 115 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "116 ",
+      "HEX ": "074 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 116 Patch",
+      "Description": "SAID 116 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "117 ",
+      "HEX ": "075 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 117 Patch",
+      "Description": "SAID 117 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "118 ",
+      "HEX ": "076 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 118 Patch",
+      "Description": "SAID 118 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "119 ",
+      "HEX ": "077 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 119 Patch",
+      "Description": "SAID 119 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "120 ",
+      "HEX ": "078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 120 Patch",
+      "Description": "SAID 120 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "121 ",
+      "HEX ": "079 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 121 Patch",
+      "Description": "SAID 121 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "122 ",
+      "HEX ": "07a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 122 Patch",
+      "Description": "SAID 122 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "123 ",
+      "HEX ": "07b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 123 Patch",
+      "Description": "SAID 123 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "124 ",
+      "HEX ": "07c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 124 Patch",
+      "Description": "SAID 124 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "125 ",
+      "HEX ": "07d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 125 Patch",
+      "Description": "SAID 125 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "126 ",
+      "HEX ": "07e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 126 Patch",
+      "Description": "SAID 126 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "127 ",
+      "HEX ": "07f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 127 Patch",
+      "Description": "SAID 127 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "080 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 128 Patch",
+      "Description": "SAID 128 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "129 ",
+      "HEX ": "081 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 129 Patch",
+      "Description": "SAID 129 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "130 ",
+      "HEX ": "082 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 130 Patch",
+      "Description": "SAID 130 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "131 ",
+      "HEX ": "083 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 131 Patch",
+      "Description": "SAID 131 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 132 Patch",
+      "Description": "SAID 132 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "133 ",
+      "HEX ": "085 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 133 Patch",
+      "Description": "SAID 133 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "134 ",
+      "HEX ": "086 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 134 Patch",
+      "Description": "SAID 134 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "135 ",
+      "HEX ": "087 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 135 Patch",
+      "Description": "SAID 135 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "136 ",
+      "HEX ": "088 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 136 Patch",
+      "Description": "SAID 136 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "137 ",
+      "HEX ": "089 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 137 Patch",
+      "Description": "SAID 137 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "138 ",
+      "HEX ": "08a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 138 Patch",
+      "Description": "SAID 138 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "139 ",
+      "HEX ": "08b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 139 Patch",
+      "Description": "SAID 139 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "140 ",
+      "HEX ": "08c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 140 Patch",
+      "Description": "SAID 140 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "141 ",
+      "HEX ": "08d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 141 Patch",
+      "Description": "SAID 141 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "142 ",
+      "HEX ": "08e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 142 Patch",
+      "Description": "SAID 142 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "143 ",
+      "HEX ": "08f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 143 Patch",
+      "Description": "SAID 143 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "090 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 144 Patch",
+      "Description": "SAID 144 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "145 ",
+      "HEX ": "091 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 145 Patch",
+      "Description": "SAID 145 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "146 ",
+      "HEX ": "092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 146 Patch",
+      "Description": "SAID 146 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "147 ",
+      "HEX ": "093 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 147 Patch",
+      "Description": "SAID 147 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "148 ",
+      "HEX ": "094 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 148 Patch",
+      "Description": "SAID 148 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "149 ",
+      "HEX ": "095 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 149 Patch",
+      "Description": "SAID 149 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "150 ",
+      "HEX ": "096 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 150 Patch",
+      "Description": "SAID 150 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "151 ",
+      "HEX ": "097 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 151 Patch",
+      "Description": "SAID 151 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "152 ",
+      "HEX ": "098 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 152 Patch",
+      "Description": "SAID 152 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "153 ",
+      "HEX ": "099 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 153 Patch",
+      "Description": "SAID 153 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "154 ",
+      "HEX ": "09a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 154 Patch",
+      "Description": "SAID 154 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "155 ",
+      "HEX ": "09b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 155 Patch",
+      "Description": "SAID 155 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "156 ",
+      "HEX ": "09c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 156 Patch",
+      "Description": "SAID 156 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "157 ",
+      "HEX ": "09d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 157 Patch",
+      "Description": "SAID 157 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "158 ",
+      "HEX ": "09e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 158 Patch",
+      "Description": "SAID 158 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "159 ",
+      "HEX ": "09f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 159 Patch",
+      "Description": "SAID 159 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "0a0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 160 Patch",
+      "Description": "SAID 160 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "161 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 161 Patch",
+      "Description": "SAID 161 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "162 ",
+      "HEX ": "0a2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 162 Patch",
+      "Description": "SAID 162 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "163 ",
+      "HEX ": "0a3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 163 Patch",
+      "Description": "SAID 163 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "164 ",
+      "HEX ": "0a4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 164 Patch",
+      "Description": "SAID 164 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "165 ",
+      "HEX ": "0a5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 165 Patch",
+      "Description": "SAID 165 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "166 ",
+      "HEX ": "0a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 166 Patch",
+      "Description": "SAID 166 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "167 ",
+      "HEX ": "0a7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 167 Patch",
+      "Description": "SAID 167 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "168 ",
+      "HEX ": "0a8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 168 Patch",
+      "Description": "SAID 168 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "169 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 169 Patch",
+      "Description": "SAID 169 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "170 ",
+      "HEX ": "0aa ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 170 Patch",
+      "Description": "SAID 170 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "171 ",
+      "HEX ": "0ab ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 171 Patch",
+      "Description": "SAID 171 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "172 ",
+      "HEX ": "0ac ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 172 Patch",
+      "Description": "SAID 172 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "173 ",
+      "HEX ": "0ad ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 173 Patch",
+      "Description": "SAID 173 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "174 ",
+      "HEX ": "0ae ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 174 Patch",
+      "Description": "SAID 174 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "175 ",
+      "HEX ": "0af ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 175 Patch",
+      "Description": "SAID 175 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "0b0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 176 Patch",
+      "Description": "SAID 176 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "177 ",
+      "HEX ": "0b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 177 Patch",
+      "Description": "SAID 177 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "178 ",
+      "HEX ": "0b2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 178 Patch",
+      "Description": "SAID 178 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "179 ",
+      "HEX ": "0b3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 179 Patch",
+      "Description": "SAID 179 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "180 ",
+      "HEX ": "0b4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 180 Patch",
+      "Description": "SAID 180 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "181 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 181 Patch",
+      "Description": "SAID 181 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "182 ",
+      "HEX ": "0b6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 182 Patch",
+      "Description": "SAID 182 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "183 ",
+      "HEX ": "0b7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 183 Patch",
+      "Description": "SAID 183 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "184 ",
+      "HEX ": "0b8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 184 Patch",
+      "Description": "SAID 184 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "185 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 185 Patch",
+      "Description": "SAID 185 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "186 ",
+      "HEX ": "0ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 186 Patch",
+      "Description": "SAID 186 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "187 ",
+      "HEX ": "0bb ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 187 Patch",
+      "Description": "SAID 187 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "188 ",
+      "HEX ": "0bc ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 188 Patch",
+      "Description": "SAID 188 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "189 ",
+      "HEX ": "0bd ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 189 Patch",
+      "Description": "SAID 189 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "190 ",
+      "HEX ": "0be ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 190 Patch",
+      "Description": "SAID 190 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "191 ",
+      "HEX ": "0bf ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 191 Patch",
+      "Description": "SAID 191 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "192 ",
+      "HEX ": "0c0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 192 Patch",
+      "Description": "SAID 192 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "193 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 193 Patch",
+      "Description": "SAID 193 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "194 ",
+      "HEX ": "0c2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 194 Patch",
+      "Description": "SAID 194 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "195 ",
+      "HEX ": "0c3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 195 Patch",
+      "Description": "SAID 195 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "196 ",
+      "HEX ": "0c4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 196 Patch",
+      "Description": "SAID 196 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "197 ",
+      "HEX ": "0c5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 197 Patch",
+      "Description": "SAID 197 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "198 ",
+      "HEX ": "0c6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 198 Patch",
+      "Description": "SAID 198 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "199 ",
+      "HEX ": "0c7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 199 Patch",
+      "Description": "SAID 199 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "190 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 400 Patch",
+      "Description": "Denver SAID 400 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "401 ",
+      "HEX ": "191 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 401 Patch",
+      "Description": "Denver SAID 401 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "402 ",
+      "HEX ": "192 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 402 Patch",
+      "Description": "Denver SAID 402 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "403 ",
+      "HEX ": "193 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 403 Patch",
+      "Description": "Denver SAID 403 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "404 ",
+      "HEX ": "194 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 404 Patch",
+      "Description": "Denver SAID 404 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "405 ",
+      "HEX ": "195 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 405 Patch",
+      "Description": "Denver SAID 405 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "406 ",
+      "HEX ": "196 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 406 Patch",
+      "Description": "Denver SAID 406 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "407 ",
+      "HEX ": "197 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 407 Patch",
+      "Description": "Denver SAID 407 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "408 ",
+      "HEX ": "198 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 408 Patch",
+      "Description": "Denver SAID 408 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "409 ",
+      "HEX ": "199 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 409 Patch",
+      "Description": "Denver SAID 409 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "410 ",
+      "HEX ": "19a ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 410 Patch",
+      "Description": "Denver SAID 410 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "411 ",
+      "HEX ": "19b ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 411 Patch",
+      "Description": "Denver SAID 411 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "412 ",
+      "HEX ": "19c ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 412 Patch",
+      "Description": "Denver SAID 412 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "413 ",
+      "HEX ": "19d ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 413 Patch",
+      "Description": "Denver SAID 413 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "414 ",
+      "HEX ": "19e ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 414 Patch",
+      "Description": "Denver SAID 414 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "415 ",
+      "HEX ": "19f ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 415 Patch",
+      "Description": "Denver SAID 415 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "416 ",
+      "HEX ": "1a0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 416 Patch",
+      "Description": "Denver SAID 416 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "417 ",
+      "HEX ": "1a1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 417 Patch",
+      "Description": "Denver SAID 417 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "418 ",
+      "HEX ": "1a2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 418 Patch",
+      "Description": "Denver SAID 418 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "419 ",
+      "HEX ": "1a3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 419 Patch",
+      "Description": "Denver SAID 419 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "420 ",
+      "HEX ": "1a4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 420 Patch",
+      "Description": "Denver SAID 420 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "421 ",
+      "HEX ": "1a5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 421 Patch",
+      "Description": "Denver SAID 421 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "422 ",
+      "HEX ": "1a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 422 Patch",
+      "Description": "Denver SAID 422 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "423 ",
+      "HEX ": "1a7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 423 Patch",
+      "Description": "Denver SAID 423 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "424 ",
+      "HEX ": "1a8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 424 Patch",
+      "Description": "Denver SAID 424 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "425 ",
+      "HEX ": "1a9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 425 Patch",
+      "Description": "Denver SAID 425 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "426 ",
+      "HEX ": "1aa ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 426 Patch",
+      "Description": "Denver SAID 426 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "427 ",
+      "HEX ": "1ab ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 427 Patch",
+      "Description": "Denver SAID 427 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "428 ",
+      "HEX ": "1ac ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 428 Patch",
+      "Description": "Denver SAID 428 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "429 ",
+      "HEX ": "1ad ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 429 Patch",
+      "Description": "Denver SAID 429 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "430 ",
+      "HEX ": "1ae ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 430 Patch",
+      "Description": "Denver SAID 430 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "431 ",
+      "HEX ": "1af ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 431 Patch",
+      "Description": "Denver SAID 431 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "1b0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 432 Patch",
+      "Description": "Denver SAID 432 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "433 ",
+      "HEX ": "1b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 433 Patch",
+      "Description": "Denver SAID 433 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "434 ",
+      "HEX ": "1b2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 434 Patch",
+      "Description": "Denver SAID 434 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "435 ",
+      "HEX ": "1b3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 435 Patch",
+      "Description": "Denver SAID 435 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "436 ",
+      "HEX ": "1b4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 436 Patch",
+      "Description": "Denver SAID 436 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "437 ",
+      "HEX ": "1b5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 437 Patch",
+      "Description": "Denver SAID 437 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "438 ",
+      "HEX ": "1b6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 438 Patch",
+      "Description": "Denver SAID 438 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "439 ",
+      "HEX ": "1b7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 439 Patch",
+      "Description": "Denver SAID 439 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "440 ",
+      "HEX ": "1b8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 440 Patch",
+      "Description": "Denver SAID 440 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "441 ",
+      "HEX ": "1b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 441 Patch",
+      "Description": "Denver SAID 441 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "442 ",
+      "HEX ": "1ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 442 Patch",
+      "Description": "Denver SAID 442 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "443 ",
+      "HEX ": "1bb ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 443 Patch",
+      "Description": "Denver SAID 443 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "444 ",
+      "HEX ": "1bc ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 444 Patch",
+      "Description": "Denver SAID 444 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "445 ",
+      "HEX ": "1bd ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 445 Patch",
+      "Description": "Denver SAID 445 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "446 ",
+      "HEX ": "1be ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 446 Patch",
+      "Description": "Denver SAID 446 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "447 ",
+      "HEX ": "1bf ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 447 Patch",
+      "Description": "Denver SAID 447 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "448 ",
+      "HEX ": "1c0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 448 Patch",
+      "Description": "Denver SAID 448 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "449 ",
+      "HEX ": "1c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 449 Patch",
+      "Description": "Denver SAID 449 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "450 ",
+      "HEX ": "1c2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 450 Patch",
+      "Description": "Denver SAID 450 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "451 ",
+      "HEX ": "1c3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 451 Patch",
+      "Description": "Denver SAID 451 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "452 ",
+      "HEX ": "1c4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 452 Patch",
+      "Description": "Devner SAID 452 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "453 ",
+      "HEX ": "1c5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 453 Patch",
+      "Description": "Denver SAID 453 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "454 ",
+      "HEX ": "1c6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 454 Patch",
+      "Description": "Denver SAID 454 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "455 ",
+      "HEX ": "1c7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 455 Patch",
+      "Description": "Denver SAID 455 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "456 ",
+      "HEX ": "1c8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 456 Patch",
+      "Description": "Denver SAID 456 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "457 ",
+      "HEX ": "1c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 457 Patch",
+      "Description": "Denver SAID 457 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "458 ",
+      "HEX ": "1ca ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 458 Patch",
+      "Description": "Denver SAID 458 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "459 ",
+      "HEX ": "1cb ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 459 Patch",
+      "Description": "Denver SAID 459 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "460 ",
+      "HEX ": "1cc ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 460 Patch",
+      "Description": "Denver SAID 460 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "461 ",
+      "HEX ": "1cd ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 461 Patch",
+      "Description": "Denver SAID 461 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "462 ",
+      "HEX ": "1ce ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 462 Patch",
+      "Description": "Denver SAID 462 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "463 ",
+      "HEX ": "1cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "SAID 463 Patch",
+      "Description": "Denver SAID 463 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "1d0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 464 Patch",
+      "Description": "Denver SAID 464 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "465 ",
+      "HEX ": "1d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 465 Patch",
+      "Description": "Denver SAID 465 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "466 ",
+      "HEX ": "1d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 466 Patch",
+      "Description": "Denver SAID 466 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "467 ",
+      "HEX ": "1d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 467 Patch",
+      "Description": "Denver SAID 467 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "468 ",
+      "HEX ": "1d4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 468 Patch",
+      "Description": "Denver SAID 468 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "469 ",
+      "HEX ": "1d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 469 Patch",
+      "Description": "Denver SAID 469 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "470 ",
+      "HEX ": "1d6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 470 Patch",
+      "Description": "Denver SAID 470 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "471 ",
+      "HEX ": "1d7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 471 Patch",
+      "Description": "Denver SAID 471 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "472 ",
+      "HEX ": "1d8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 472 Patch",
+      "Description": "Denver SAID 472 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "473 ",
+      "HEX ": "1d9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 473 Patch",
+      "Description": "Denver SAID 473 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "474 ",
+      "HEX ": "1da ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 474 Patch",
+      "Description": "Denver SAID 474 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "475 ",
+      "HEX ": "1db ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 475 Patch",
+      "Description": "Denver SAID 475 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "476 ",
+      "HEX ": "1dc ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 476 Patch",
+      "Description": "Denver SAID 476 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "477 ",
+      "HEX ": "1dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 477 Patch",
+      "Description": "Denver SAID 477 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "478 ",
+      "HEX ": "1de ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 478 Patch",
+      "Description": "Denver SAID 478 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "479 ",
+      "HEX ": "1df ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 479 Patch",
+      "Description": "Denver SAID 479 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "480 ",
+      "HEX ": "1e0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 480 Patch",
+      "Description": "Denver SAID 480 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "481 ",
+      "HEX ": "1e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 481 Patch",
+      "Description": "Denver SAID 481 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "482 ",
+      "HEX ": "1e2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 482 Patch",
+      "Description": "Denver SAID 481 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "483 ",
+      "HEX ": "1e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 483 Patch",
+      "Description": "Denver SAID 483 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "484 ",
+      "HEX ": "1e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 484 Patch",
+      "Description": "Denver SAID 484 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "485 ",
+      "HEX ": "1e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 485 Patch",
+      "Description": "Denver SAID 485 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "486 ",
+      "HEX ": "1e6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 486 Patch",
+      "Description": "Denver SAID 486 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "487 ",
+      "HEX ": "1e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 487 Patch",
+      "Description": "Denver SAID 487 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "488 ",
+      "HEX ": "1e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 488 Patch",
+      "Description": "Denver SAID 488 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "489 ",
+      "HEX ": "1e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 489 Patch",
+      "Description": "Denver SAID 489 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "490 ",
+      "HEX ": "1ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 490 Patch",
+      "Description": "Denver SAID 490 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "491 ",
+      "HEX ": "1eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 491 Patch",
+      "Description": "Denver SAID 491 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "492 ",
+      "HEX ": "1ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 492 Patch",
+      "Description": "Denver SAID 492 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "493 ",
+      "HEX ": "1ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 493 Patch",
+      "Description": "Denver SAID 493 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "494 ",
+      "HEX ": "1ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 494 Patch",
+      "Description": "Denver SAID 494 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "495 ",
+      "HEX ": "1ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 495 Patch",
+      "Description": "Denver SAID 495 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "1f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 496 Patch",
+      "Description": "Denver SAID 496 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "497 ",
+      "HEX ": "1f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 497 Patch",
+      "Description": "Denver SAID 497 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "498 ",
+      "HEX ": "1f2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 498 Patch",
+      "Description": "Denver SAID 498 Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "499 ",
+      "HEX ": "1f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSAID 499 Patch",
+      "Description": "Denver SAID 499 Patch ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

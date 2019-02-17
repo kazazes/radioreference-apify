@@ -1,0 +1,77 @@
+{
+  "System Name": "Commerce City Services",
+  "Location": "Commerce, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 24, 2016, 11:14 pm (Added Talkgroup 14 City of Commerce)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "City of Commerce",
+        "01 453.750 ",
+        "02 461.525 ",
+        "03 461.5125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MEDI-RIDE",
+      "Description": "Medi-Ride Dial-a-Ride Services ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BUS LINES",
+      "Description": "Municipal Bus Lines / Citadel Express ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CSO ANIMAL",
+      "Description": "Community Services Officers / Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PUBLICWORKS",
+      "Description": "Public Works  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "9",
+      "Description": "City of Commerce ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "10",
+      "Description": "City of Commerce ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "12",
+      "Description": "City of Commerce ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "14",
+      "Description": "City of Commerce ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

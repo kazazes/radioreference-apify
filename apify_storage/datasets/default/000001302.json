@@ -1,0 +1,126 @@
+{
+  "System Name": "Mobile Radio Cooperative",
+  "Location": "Auburn, IN",
+  "County": "DeKalb",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 26, 2016, 1:00 pm (Changed Site # 001 (Auburn) to 001 (Auburn))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Auburn",
+        "01 158.2875 ",
+        "02 158.4075 ",
+        "03 158.400 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SW EVENT 1",
+      "Description": "System-wide Event 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SW EVENT 2",
+      "Description": "System-wide Event 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SHARED DISP",
+      "Description": "Mobile Radio Cooperative shared dispatch service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EMERGENCY",
+      "Description": "Mobile Radio Cooperative emergency buttons ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VEH LOCAT",
+      "Description": "Mobile Radio Cooperative vehicle location ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ORDER MDT",
+      "Description": "Mobile Radio Cooperative work order MDTs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BAUM FARMS",
+      "Description": "Baumgardner Farms ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BAUM ELECT",
+      "Description": "Baumgardner Electrical ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BAUM PI",
+      "Description": "Baumgardner Private Investigators ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "BAUM ENCRYPT",
+      "Description": "Encrypted (Baumgardner?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MIRAFREY",
+      "Description": "Mirafrey, Inc. ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MIRAFFREYAIR",
+      "Description": "Mirafrey Aviation Dept. ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "T",
+      "Alpha Tag": "50TH VA CO D",
+      "Description": "50th Virginia Company D (Civil War Re-enactors) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MRC TECH",
+      "Description": "MRC Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RL NET SEC",
+      "Description": "RL Networks Corp Security Dept ",
+      "Tag  ": "Security "
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "System Name": "Sierra Conservation Center",
+  "Location": "Jamestown, CA",
+  "County": "Tuolumne",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "November 2, 2010, 6:54 am (Default Location Data Updated to 37.893008 / -120.538044 / .5)",
+  "System ID List": [
+    {
+      "System ID": "1A15",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "M",
+      "B7": "M"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S12",
+      "B7": "S12"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "858.2625",
+        "859.2625",
+        "860.2625c"
+      ]
+    }
+  ]
+}

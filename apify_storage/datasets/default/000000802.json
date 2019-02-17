@@ -1,0 +1,21 @@
+{
+  "System Name": "Redi-Call Communications (Millsboro)",
+  "Location": "Millsboro, DE",
+  "County": "Sussex",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "August 19, 2009, 1:02 pm (Changed Site # 001 (Primary) to 2 (Unconfirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 461.975 ",
+        "02 462.050 ",
+        "03 462.150 ",
+        "04 462.325 ",
+        "05 462.375 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "System Name": "Jonesboro Public Safety (MOTOTRBO)",
+  "Location": "Jonesboro, AR",
+  "County": "Craighead",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 20, 2011, 5:02 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 856.4875 ",
+        "02 857.4875 ",
+        "03 858.4875 ",
+        "04 859.4875 ",
+        "05 860.4875c "
+      ]
+    }
+  ]
+}

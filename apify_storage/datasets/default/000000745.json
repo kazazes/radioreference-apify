@@ -1,0 +1,34 @@
+{
+  "System Name": "DC Correctional Treatment Facility",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 3, 2017, 11:14 pm (Added Talkgroup 2 Ch. 2)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "03 460.025 ",
+        "04 460.100 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DC CTF 1",
+      "Description": "Ch. 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DC CTF 2",
+      "Description": "Ch. 2 ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

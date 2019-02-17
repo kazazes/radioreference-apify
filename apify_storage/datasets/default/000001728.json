@@ -1,0 +1,187 @@
+{
+  "System Name": "Lexington-Fayette Urban County Government (P25)",
+  "Location": "Lexington, KY",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 27, 2018, 1:47 pm (Updated encryption settings for 11 talkgroups(Lexington Fire))",
+  "System ID List": [
+    {
+      "System ID": "41E",
+      "WACN": "926B4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "WLEX",
+      "County": "Fayette",
+      "Freqs": [
+        "851.0625a",
+        "851.3125",
+        "851.5375c",
+        "851.9875",
+        "852.250",
+        "852.750",
+        "853.2875",
+        "853.5375",
+        "853.7875"
+      ]
+    },
+    {
+      "RFSS": "0 (0)",
+      "Site": "002 (2)",
+      "Name": "Blue Grass Airport",
+      "County": "Fayette",
+      "Freqs": [
+        "851.2875c",
+        "851.5625",
+        "852.0375",
+        "852.5375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "0 (0)",
+      "Site": "003 (3)",
+      "Name": "Site 3 (Proposed)",
+      "County": "Fayette",
+      "Freqs": [
+        "851.725",
+        "852.3375",
+        "852.5625",
+        "852.7875",
+        "853.4125",
+        "853.5625",
+        "853.825"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LPD All Call",
+      "Description": "All Call ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPD Info",
+      "Description": "Information  ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPDCentral",
+      "Description": "Central Sector ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPD East",
+      "Description": "East Sector ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPD West",
+      "Description": "West Sector ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LPD C2C A",
+      "Description": "Ch. 5 Car to Car A ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LPD C2C B",
+      "Description": "Ch. 6 Car to Car B ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPD Ch 7",
+      "Description": "Ch. 7 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "D",
+      "Alpha Tag": "LexPD Intero",
+      "Description": "8Call90 Interoperability? ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPDEvent A",
+      "Description": "Event A ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPDEvent B",
+      "Description": "Event B ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPDEvent C",
+      "Description": "Event C ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LexPDEvent D",
+      "Description": "Event D ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LPD Sec Evt",
+      "Description": "Secure Event ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1840 ",
+      "HEX ": "730 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FC School PD",
+      "Description": "Fayette County Public Schools Police (Patch) ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

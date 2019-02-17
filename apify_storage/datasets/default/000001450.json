@@ -1,0 +1,32 @@
+{
+  "System Name": "Metro Water Reclamation District of Greater Chicago",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "EDACS Narrowband",
+  "System Voice": "ProVoice Exclusive",
+  "Last Updated": "December 15, 2012, 5:30 pm (Added a new news entry)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 - Unidentified LCN",
+        "01 476.9375 ",
+        "02 477.4875 ",
+        "03 477.5375 ",
+        "04 476.9125 ",
+        "05 476.8875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Site 2 - Unidentified LCN",
+        "01 478.2375 ",
+        "02 477.625 ",
+        "03 477.075 ",
+        "04 478.600 ",
+        "05 478.3875 "
+      ]
+    }
+  ]
+}

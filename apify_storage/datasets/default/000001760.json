@@ -1,0 +1,214 @@
+{
+  "System Name": "Ford Motor Company (Westport RD, Louisville)",
+  "Location": "Louisville, KY",
+  "County": "Jefferson",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "February 21, 2011, 8:55 am (Updated Function Tag assignments for 1 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "2F16",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1 (Westport RD)",
+      "Freqs": [
+        "854.0875",
+        "854.5875",
+        "855.1125",
+        "855.6125",
+        "856.3375",
+        "856.6375",
+        "857.3375c",
+        "858.3375c",
+        "859.3375c",
+        "859.3625",
+        "859.8125",
+        "860.3125",
+        "860.3375c",
+        "860.3625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trim",
+      "Description": "Trim ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Frame Line",
+      "Description": "Frame Line ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Incoming Qua",
+      "Description": "Incoming Quality ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cl Prd",
+      "Description": "Cl Prd ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Body Mainten",
+      "Description": "Body Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Body Product",
+      "Description": "Body Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4848 ",
+      "HEX ": "12f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Union/Centra",
+      "Description": "Union/Central ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4880 ",
+      "HEX ": "131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plant Servic",
+      "Description": "Plant Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4912 ",
+      "HEX ": "133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Final Mainte",
+      "Description": "Final Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4944 ",
+      "HEX ": "135 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Clp Mt",
+      "Description": "Clp Mt ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4976 ",
+      "HEX ": "137 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PVT/PD",
+      "Description": "PVT/PD ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6448 ",
+      "HEX ": "193 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Material Han",
+      "Description": "Material Handling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6512 ",
+      "HEX ": "197 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tugs",
+      "Description": "Tugs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6544 ",
+      "HEX ": "199 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kt Swt",
+      "Description": "Kt Swt ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8048 ",
+      "HEX ": "1f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Paint Produc",
+      "Description": "Paint Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8080 ",
+      "HEX ": "1f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emergency Br",
+      "Description": "Emergency Breakdown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9648 ",
+      "HEX ": "25b ",
+      "Mode  ": "A",
+      "Alpha Tag": "System",
+      "Description": "System ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9680 ",
+      "HEX ": "25d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sys Wk",
+      "Description": "Sys Wk ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11248 ",
+      "HEX ": "2bf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "11280 ",
+      "HEX ": "2c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "137 Paint",
+      "Description": "137 Paint ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11344 ",
+      "HEX ": "2c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Medical",
+      "Description": "Medical ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12848 ",
+      "HEX ": "323 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IQ",
+      "Description": "Incoming Quality ",
+      "Tag  ": "Business "
+    }
+  ]
+}

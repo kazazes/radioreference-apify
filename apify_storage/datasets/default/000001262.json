@@ -1,0 +1,21 @@
+{
+  "System Name": "University of Idaho (Moscow)",
+  "Location": "Moscow, ID",
+  "County": "Latah",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "September 1, 2004, 9:22 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 856.7625 ",
+        "02 857.7625 ",
+        "03 858.7625 ",
+        "04 859.7625 ",
+        "05 860.7625 "
+      ]
+    }
+  ]
+}

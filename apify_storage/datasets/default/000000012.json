@@ -1,0 +1,21 @@
+{
+  "System Name": "International Paper (Florence)",
+  "Location": "Florence, AL",
+  "County": "Lauderdale",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 2, 2007, 3:02 pm (Changed Site-001)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Florence",
+        "01 452.275 ",
+        "02 461.975 ",
+        "03 463.300 ",
+        "04 464.125 ",
+        "05 464.575 "
+      ]
+    }
+  ]
+}

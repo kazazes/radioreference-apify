@@ -1,0 +1,21 @@
+{
+  "System Name": "Hussey Communications (York Hill-New Sharon)",
+  "Location": "York Hill-New Sharon, ME",
+  "County": "Franklin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 29, 2005, 10:01 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.6875 ",
+        "02 452.2875 ",
+        "03 462.0625 ",
+        "04 463.5375 ",
+        "05 464.4375 "
+      ]
+    }
+  ]
+}

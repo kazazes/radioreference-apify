@@ -1,0 +1,227 @@
+{
+  "System Name": "VEI Communications (NXDN-35)",
+  "Location": "Various, IN KY IL",
+  "County": "11 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "September 20, 2018, 10:38 pm (Added Site # 17 (Elizabethtown))",
+  "System ID List": [
+    {
+      "System ID": "35"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Vincennes, IN",
+      "County": "Knox, IN",
+      "Freqs": [
+        "452.2625",
+        "461.4875",
+        "461.9875",
+        "462.275",
+        "452.7375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Hazelton, IN",
+      "County": "Pike, IN",
+      "Freqs": [
+        "461.6625",
+        "462.4875",
+        "464.6625c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Hazleton?, IN",
+      "County": "Pike, IN",
+      "Freqs": [
+        "462.4875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Graysville, IN",
+      "County": "Sullivan, IN",
+      "Freqs": [
+        "462.0625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Bicknell, IN",
+      "County": "Knox, IN",
+      "Freqs": [
+        "461.6875",
+        "463.3375",
+        "464.5875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Farmersburg, IN",
+      "County": "Sullivan, IN",
+      "Freqs": [
+        "461.025c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Russellville, KY",
+      "County": "Logan, KY",
+      "Freqs": [
+        "460.675",
+        "461.075",
+        "463.625c",
+        "464.350",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Franklin, KY",
+      "County": "Simpson, KY",
+      "Freqs": [
+        "452.375c",
+        "461.100",
+        "463.675",
+        "463.850",
+        "464.075",
+        "464.425",
+        "464.950"
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Rockfield, KY",
+      "County": "Warren, KY",
+      "Freqs": [
+        "460.800",
+        "461.750",
+        "461.950",
+        "463.800",
+        "463.950",
+        "464.000c",
+        "464.200"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Evansville, IN",
+      "County": "Vanderburgh, IN",
+      "Freqs": [
+        "451.1125c",
+        "451.425c",
+        "451.2125",
+        "452.225",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Louisville, KY",
+      "County": "Jefferson, KY",
+      "Freqs": [
+        "451.00625",
+        "462.5375",
+        "462.7375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Dundas, IL",
+      "County": "Richland, IL",
+      "Freqs": [
+        "464.100c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Elizabethtown",
+      "County": ", ",
+      "Freqs": [
+        "452.575c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "Madisonville",
+      "County": "Hopkins, KY",
+      "Freqs": [
+        "461.4625c",
+        "463.650",
+        "464.425",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "330 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TG 330",
+      "Description": "Tree Trimming Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "333 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TG 333",
+      "Description": "Auto Parts Distribution Warehouse ",
+      "Tag  ": "Business "
+    }
+  ]
+}

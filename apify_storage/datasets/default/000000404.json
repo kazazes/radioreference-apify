@@ -1,0 +1,71 @@
+{
+  "System Name": "University of California (Los Angeles)",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 6, 2017, 6:59 am (Changed Talkgroup Category assignments for 1 talkgroups(Police Department (UCPD)))",
+  "System ID List": [
+    {
+      "System ID": "6301",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.4875",
+        "851.9875c",
+        "852.4875c",
+        "852.9875c",
+        "853.4875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UCLA PD 1",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CSO",
+      "Description": "Community Service Officers ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "UCLA PD 2",
+      "Description": "Tac 2 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "6864 ",
+      "HEX ": "1ad ",
+      "Mode  ": "A",
+      "Alpha Tag": "OSD VANPOOL",
+      "Description": "OSD Vanpool ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "18960 ",
+      "HEX ": "4a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRAFFIC",
+      "Description": "Traffic ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

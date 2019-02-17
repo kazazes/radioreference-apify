@@ -1,0 +1,155 @@
+{
+  "System Name": "Hollywood Casino (Lawrenceburg, IN)",
+  "Location": "Lawrenceburg, IN",
+  "County": "Dearborn",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 1, 2014, 6:19 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "163"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lawrenceburg",
+        "01 463.3375c ",
+        "02 461.8875 ",
+        "03 462.1375 ",
+        "04 462.5125 ",
+        "05 464.000 ",
+        "06 461.6375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Surveillance",
+      "Description": "Surveillance Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cage Cash",
+      "Description": "Cage Cashiers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Food-Bev",
+      "Description": "Food & Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Concessions",
+      "Description": "Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hotel Hskp",
+      "Description": "Hotel Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Boat Hskp",
+      "Description": "Boat Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IGC Ops",
+      "Description": "Indiana Gaming Commission ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Marine Ops",
+      "Description": "Marine Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security 1",
+      "Description": "Security 1 - Boat ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Guest Relat",
+      "Description": "Guest Relations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slot Tech",
+      "Description": "Slot Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security 2",
+      "Description": "Security 2 - Landing ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security 3",
+      "Description": "Security 3 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Table Games",
+      "Description": "Table Games ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Shuttle Bus",
+      "Description": "Shuttle Bus ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10006 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slot Attend1",
+      "Description": "Slot Attendants 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10007 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slot Attend2",
+      "Description": "Slot Attendants 2 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

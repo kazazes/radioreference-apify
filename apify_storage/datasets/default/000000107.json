@@ -1,0 +1,80 @@
+{
+  "System Name": "RadioLink Corporation",
+  "Location": "Phoenix, AZ",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 12, 2018, 9:56 pm (Changed Site # 001 (Litchfield Park) to 001 (White Tanks Mountain))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "White Tanks Mountain",
+      "County": [
+        "Maricopa",
+        "08 151.850 ",
+        "10 173.275 ",
+        "11 151.910 ",
+        "14 151.970 ",
+        "17 173.375 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Towers Mountain",
+      "County": [
+        "Yavapai",
+        "04 173.225 ",
+        "16 173.325 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-14-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pumping",
+      "Description": "Concrete Pumping Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-17-052 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trucking",
+      "Description": "Sand, Gravel, Asphalt Haulers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-17-188 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dealership",
+      "Description": "Dealership Shuttle / Delivery ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-00-057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fowler SD Bus",
+      "Description": "Bus Dispatch - Fowler Elementary School District ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-00-059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Augua Fria Bus",
+      "Description": "Bus Dispatch - Agua Fria Union High School District ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-00-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Union Bus Disp",
+      "Description": "Bus Dispatch - Union Elementary School District - Tolleson ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

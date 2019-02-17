@@ -1,0 +1,44 @@
+{
+  "System Name": "Bigbie Electronics Fleming MOT",
+  "Location": "Fleming, GA",
+  "County": "Liberty",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:30 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "7200",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fleming",
+      "Freqs": [
+        "854.7625",
+        "859.7875",
+        "857.7875c",
+        "858.7875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "17408 ",
+      "HEX ": "440 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hinesville Y",
+      "Description": "Hinesville Yellow Cab #? ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "17412 ",
+      "HEX ": "440 ",
+      "Mode  ": "A",
+      "Alpha Tag": "YellowCab B",
+      "Description": "Hinesville Yellow Cab Dispatch ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

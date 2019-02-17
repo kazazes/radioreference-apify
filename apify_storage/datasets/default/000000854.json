@@ -1,0 +1,47 @@
+{
+  "System Name": "Pelican Bay Foundation",
+  "Location": "Naples, FL",
+  "County": "Collier",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 8, 2018, 12:17 pm ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 461.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "31 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PelicanBayTramN",
+      "Description": "Tram North (call-box enabled) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "32 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PelicanBayTramS",
+      "Description": "Tram South (call-box enabled) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PelicanBaySec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "35 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PelicanBayOps",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

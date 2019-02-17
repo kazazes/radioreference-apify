@@ -1,0 +1,71 @@
+{
+  "System Name": "JW Marriott Tucson Starr Pass Resort and Spa",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 23, 2016, 4:25 am (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Starr Pass",
+        "01 462.450 ",
+        "02 463.650 ",
+        "03 464.250 ",
+        "04 452.625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Golf Shop",
+      "Description": "Golf Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Valet/Shuttl",
+      "Description": "Valet/Shuttle/Checkin-out ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Catering",
+      "Description": "Catering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plans",
+      "Description": "Plans ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

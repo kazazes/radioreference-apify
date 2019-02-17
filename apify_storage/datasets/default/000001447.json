@@ -1,0 +1,49 @@
+{
+  "System Name": "Lutheral General Hospital (Advocate Health Care)",
+  "Location": "Park Ridge, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 23, 2018, 7:39 am ((3) Talkgroups Updated (Lutheran General Hospital))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lutheran General Hospital",
+        "01 464.675 ",
+        "02 463.900 ",
+        "03 463.3625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LGH PublicSafety",
+      "Description": "Public Safety ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "163 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LGH Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "185 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LGH Shuttle",
+      "Description": "Campus Shuttle Bus ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LGH 207",
+      "Description": "Operations [Valet Parking?] ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

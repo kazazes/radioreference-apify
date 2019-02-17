@@ -1,0 +1,221 @@
+{
+  "System Name": "Citrus County Public Services",
+  "Location": "Citrus County, FL",
+  "County": "Citrus",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "July 3, 2014, 1:54 am (Changed System ID: [4B2B | | ] to [4B2B | 138.46 | ])",
+  "System ID List": [
+    {
+      "System ID": "4B2B",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "854.5625",
+        "855.2125",
+        "855.2375",
+        "855.6875",
+        "856.9375c",
+        "857.5125",
+        "858.1625",
+        "858.7125a",
+        "859.0875a",
+        "859.7125a",
+        "860.7125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO OPS E.",
+      "Description": "Special Operations - East ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO OPS W.",
+      "Description": "Special Operations - West ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO EMERG",
+      "Description": "Emergency Button ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3440 ",
+      "HEX ": "0d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO  EAST",
+      "Description": "East Dispatch (Tac-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3472 ",
+      "HEX ": "0d9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO WEST",
+      "Description": "West Dispatch (Tac-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3504 ",
+      "HEX ": "0db ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO CP",
+      "Description": "Community Patrol ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3536 ",
+      "HEX ": "0dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO TTY1",
+      "Description": "Teletype 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3568 ",
+      "HEX ": "0df ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO TTY2",
+      "Description": "Teletype 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3696 ",
+      "HEX ": "0e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO PATROL",
+      "Description": "Patrol ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3856 ",
+      "HEX ": "0f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO SURV",
+      "Description": "Surveillance ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4496 ",
+      "HEX ": "119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Warrant",
+      "Description": "Warrant Service/Court Bailiffs ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4976 ",
+      "HEX ": "137 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Unid1",
+      "Description": "Sheriff ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "5296 ",
+      "HEX ": "14b ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Unid2",
+      "Description": "Sheriff ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "6672 ",
+      "HEX ": "1a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Crisis",
+      "Description": "Crisis Channel ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5616 ",
+      "HEX ": "15f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Lecanto",
+      "Description": "School Bus-Lecanto Base ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5648 ",
+      "HEX ": "161 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl inver",
+      "Description": "School Bus-Inverness Base ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5712 ",
+      "HEX ": "165 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Cr Rvr",
+      "Description": "School Bus- Crystal River Base ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "5744 ",
+      "HEX ": "167 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Maint1A",
+      "Description": "County Schools Maintenance Channel-1a ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5808 ",
+      "HEX ": "16b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Port1",
+      "Description": "County Schools Portables ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5840 ",
+      "HEX ": "16d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Port2",
+      "Description": "County Schools Portables ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5872 ",
+      "HEX ": "16f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Maint1C",
+      "Description": "County Schools Maintenance Channel-1c ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6032 ",
+      "HEX ": "179 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Schl Bus",
+      "Description": "School Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "6064 ",
+      "HEX ": "17b ",
+      "Mode  ": "A",
+      "Alpha Tag": "SchlIntercom",
+      "Description": "County Schools Intercom Channel ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

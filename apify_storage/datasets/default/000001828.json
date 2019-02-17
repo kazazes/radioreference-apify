@@ -1,0 +1,28 @@
+{
+  "System Name": "Champion Communication (Baltimore)",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 9, 2014, 6:58 pm (General text description deleted)",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 488.4625 ",
+        "02 489.8125 ",
+        "03 489.8625 ",
+        "04 495.7125 ",
+        "05 495.9125 ",
+        "06 496.2375 ",
+        "07 496.2625 "
+      ],
+      "Data": [
+        "08 496.7625 ",
+        "09 496.8125 ",
+        "10 496.9375 "
+      ]
+    }
+  ]
+}

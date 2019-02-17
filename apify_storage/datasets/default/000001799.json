@@ -1,0 +1,414 @@
+{
+  "System Name": "Central Maine Power",
+  "Location": "Various, ME",
+  "County": "Statewide",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "September 27, 2017, 10:11 pm (Changed Site # 026 (Skowhegan) to 026 (Skowhegan))",
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "Augusta",
+      "County": [
+        "Kennebec",
+        "01 860.3375 ",
+        "09 858.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Berlin",
+      "County": [
+        "Oxford",
+        "10 854.6375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Biddeford",
+      "County": [
+        "York",
+        "01 858.7875 ",
+        "05 855.3125 ",
+        "10 859.3375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Caratuck",
+      "County": [
+        "Somerset",
+        "10 852.3875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Denmark",
+      "County": [
+        "Oxford",
+        "05 856.3125 ",
+        "10 860.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Dixmont 1",
+      "County": [
+        "Penobscot",
+        "05 856.3375 ",
+        "13 860.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Dixmont 2",
+      "County": [
+        "Penobscot",
+        "01 856.2875 ",
+        "17 857.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Dresden",
+      "County": [
+        "Lincoln",
+        "05 859.3375 ",
+        "10 856.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Falmouth",
+      "County": [
+        "Cumberland",
+        "01 857.2875 ",
+        "03 859.3375 ",
+        "09 856.2875 ",
+        "17 856.3125 "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Frankfort",
+      "County": [
+        "Waldo",
+        "05 858.3125 ",
+        "13 857.2875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Gray",
+      "County": [
+        "Cumberland",
+        "01 855.7875 ",
+        "02 855.8375 ",
+        "03 856.8375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Greenville",
+      "County": [
+        "Piscataquis",
+        "10 853.1375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Greenwood",
+      "County": [
+        "Oxford",
+        "11 851.6375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Guilford",
+      "County": [
+        "Piscataquis",
+        "10 851.6375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Hebron 1",
+      "County": [
+        "Oxford",
+        "01 857.3375 ",
+        "09 856.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Hebron 2",
+      "County": [
+        "Oxford",
+        "05 856.2875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Isleboro",
+      "County": [
+        "Waldo",
+        "05 855.7875 ",
+        "10 855.8375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Litchfield",
+      "County": [
+        "Kennebec",
+        "02 858.3125 ",
+        "10 859.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "New Sharon",
+      "County": [
+        "Franklin",
+        "03 856.3125 ",
+        "09 857.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Rockport",
+      "County": [
+        "Knox",
+        "03 855.3125 ",
+        "08 855.5125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Rumford",
+      "County": [
+        "Oxford",
+        "10 853.8875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Sebago",
+      "County": [
+        "Cumberland",
+        "10 860.3125 ",
+        "13 856.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Shapleigh 1",
+      "County": [
+        "York",
+        "01 858.3375 ",
+        "09 858.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Shapleigh 2",
+      "County": [
+        "York",
+        "01 859.9125 ",
+        "10 860.7875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Skowhegan",
+      "County": [
+        "Somerset",
+        "01 856.2875 ",
+        "17 857.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Union",
+      "County": [
+        "Knox",
+        "02 857.3375 ",
+        "10 859.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Winthrop",
+      "County": [
+        "Kennebec",
+        "02 854.9625 ",
+        "14 855.7125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Wiscasset/Westport",
+      "County": [
+        "Lincoln",
+        "01 860.3375 ",
+        "02 857.3125 ",
+        "10 856.3125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Yarmouth",
+      "County": [
+        "Cumberland",
+        "03 859.3125 ",
+        "14 858.3125 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "031 (1F)",
+      "Name": "York",
+      "County": [
+        "York",
+        "01 858.3375 ",
+        "09 857.3125 ",
+        "10 860.9125 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-09-079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TG:1-09-079",
+      "Description": "Unknown Use ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telemetry",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1-09-103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telemetry",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1-09-115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Augusta(A.H)",
+      "Description": "Augusta Afterhours ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-149 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Augusta Comm",
+      "Description": "Augusta Comm ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-152 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Augusta Line",
+      "Description": "Augusta Line ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-156 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TG: 1-09-156",
+      "Description": "Unknown Use ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-157 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meter",
+      "Description": "Meter ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1-09-166 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Control",
+      "Description": "Control ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1-18-115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ID:1-18-115",
+      "Description": "Unknown Useage ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

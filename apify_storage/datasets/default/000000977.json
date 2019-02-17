@@ -1,0 +1,158 @@
+{
+  "System Name": "Orlando ALUMA Trailer",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 3, 2018, 11:03 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "2FC",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "851.2625c",
+        "853.6375c",
+        "854.7375c",
+        "858.1625c",
+        "859.1375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 1",
+      "Description": "ALUMA 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 2",
+      "Description": "ALUMA 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 3",
+      "Description": "ALUMA 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 4",
+      "Description": "ALUMA 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 5",
+      "Description": "ALUMA 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 6",
+      "Description": "ALUMA 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 7",
+      "Description": "ALUMA 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 8",
+      "Description": "ALUMA 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 9",
+      "Description": "ALUMA 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 10",
+      "Description": "ALUMA 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 11",
+      "Description": "ALUMA 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 12",
+      "Description": "ALUMA 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 13",
+      "Description": "ALUMA 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 14",
+      "Description": "ALUMA 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "21 ",
+      "HEX ": "015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 15",
+      "Description": "ALUMA 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "22 ",
+      "HEX ": "016 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALUMA 16",
+      "Description": "ALUMA 16 ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

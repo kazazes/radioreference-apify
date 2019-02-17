@@ -1,0 +1,244 @@
+{
+  "System Name": "Allen County Government Services",
+  "Location": "Fort Wayne, IN",
+  "County": "Allen",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "April 24, 2013, 12:45 am (Updated 5 Talkgroup Categories)",
+  "System ID List": [
+    {
+      "System ID": "1A0A",
+      "Connect Tone": "90"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fort Wayne",
+      "Freqs": [
+        "856.9375",
+        "857.7625",
+        "857.9375a",
+        "858.7625",
+        "858.9375a",
+        "859.7625",
+        "859.9375",
+        "860.7625",
+        "860.9375a",
+        "856.5125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "14096 ",
+      "HEX ": "371 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ACPD Info",
+      "Description": "Allen Co PD Info BU (Community Corrections BU) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "14256 ",
+      "HEX ": "37b ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Fire",
+      "Description": "Allen Co Fire BU ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWPD AC",
+      "Description": "Animal Care & Control Backup ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "17456 ",
+      "HEX ": "443 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Tac 1",
+      "Description": "Tactical 1 BU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17488 ",
+      "HEX ": "445 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Tac 2",
+      "Description": "Tactical 2 BU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17520 ",
+      "HEX ": "447 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Tac 3",
+      "Description": "Tactical 3 BU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17552 ",
+      "HEX ": "449 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Tac 4",
+      "Description": "Tactical 4 BU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17616 ",
+      "HEX ": "44d ",
+      "Mode  ": "A",
+      "Alpha Tag": "ACPD Disp",
+      "Description": "Allen Co PD Dispatch BU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "17648 ",
+      "HEX ": "44f ",
+      "Mode  ": "A",
+      "Alpha Tag": "ACPD Car/Car",
+      "Description": "Allen Co PD Car/Car BU ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17680 ",
+      "HEX ": "451 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AC Jail",
+      "Description": "Jail ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "19216 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWPD North",
+      "Description": "Fort Wayne PD North BU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "19248 ",
+      "HEX ": "4b3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWPD SW DISP",
+      "Description": "Fort Wayne PD Southwest BU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "19280 ",
+      "HEX ": "4b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWPD Info",
+      "Description": "Fort Wayne PD Info BU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "19824 ",
+      "HEX ": "4d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWPD SE DISP",
+      "Description": "Fort Wayne PD Southeast BU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "20720 ",
+      "HEX ": "50f ",
+      "Mode  ": "A",
+      "Alpha Tag": "IPFW POLICE",
+      "Description": "IPFW University PD Backup ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "20816 ",
+      "HEX ": "515 ",
+      "Mode  ": "A",
+      "Alpha Tag": "New Haven PD",
+      "Description": "New Haven PD BU ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "24016 ",
+      "HEX ": "5dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWFD Fire 1",
+      "Description": "Fort Wayne Fire BU 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24048 ",
+      "HEX ": "5df ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWFD Fire 2",
+      "Description": "Fort Wayne Fire BU 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24080 ",
+      "HEX ": "5e1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FWFD Fire 3",
+      "Description": "Fort Wayne Fire BU 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24144 ",
+      "HEX ": "5e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3-Rivers Amb",
+      "Description": "Three Rivers Amb BU ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19664 ",
+      "HEX ": "4cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Zoo 1",
+      "Description": "Fort Wayne Childrens Zoo 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "19696 ",
+      "HEX ": "4cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Zoo 2",
+      "Description": "Fort Wayne Childrens Zoo 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "20240 ",
+      "HEX ": "4f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Parks 1",
+      "Description": "Fort Wayne Parks Department Ch 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "20272 ",
+      "HEX ": "4f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Parks 2",
+      "Description": "Fort Wayne Parks Department Ch 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "20304 ",
+      "HEX ": "4f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Parks 3",
+      "Description": "Fort Wayne Parks Department Ch 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "20336 ",
+      "HEX ": "4f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FW Parks 4",
+      "Description": "Fort Wayne Parks Department Ch 5 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "System Name": "Grundy County Public Safety",
+  "Location": "Grundy County, IL",
+  "County": "Grundy",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "June 24, 2018, 11:47 pm (Added Site # 15 (Morris 10))",
+  "System ID List": [
+    {
+      "System ID": "7B1C",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.825",
+        "852.1875",
+        "852.6625c",
+        "853.0875c",
+        "853.6625c",
+        "854.1625",
+        "854.2375"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Morris",
+      "Freqs": [
+        "854.1625",
+        "854.2375",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Minooka/Dwight",
+      "Freqs": [
+        "854.2375",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Gardner",
+      "Freqs": [
+        "854.5375",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Morris 9",
+      "Freqs": [
+        "854.3625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Morris 10",
+      "Freqs": [
+        "854.7125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMAAuxillary",
+      "Description": "EMA Auxillary [AUX / EMA] ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1200 ",
+      "HEX ": "04b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ISPERN Patch",
+      "Description": "ISPERN Patch (155.475) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "IREACH Patch",
+      "Description": "I-REACH Patch (155.055) (Not is use 10/08) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1296 ",
+      "HEX ": "051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMA/Mrrs EMS",
+      "Description": "Emergency Management Agency / Morris Ambulance [ESDA / EMA] ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1264 ",
+      "HEX ": "04f ",
+      "Mode  ": "A",
+      "Alpha Tag": "GE 170 Ops",
+      "Description": "GE 170 (GE Nuclear Waste Storage) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1936 ",
+      "HEX ": "079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1",
+      "Description": "Ops 1 [OPS.- 1] ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1968 ",
+      "HEX ": "07b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2",
+      "Description": "Ops 2 [OPS.- 2] ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2000 ",
+      "HEX ": "07d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3",
+      "Description": "Ops 3 [OPS.- 3] ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2032 ",
+      "HEX ": "07f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Work 1",
+      "Description": "Work 1 [WORK - 1] ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2064 ",
+      "HEX ": "081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Work 2",
+      "Description": "Work 2 [WORK - 2]  South Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2096 ",
+      "HEX ": "083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Work 3",
+      "Description": "Work 3 [WORK - 3] ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2256 ",
+      "HEX ": "08d ",
+      "Mode  ": "A",
+      "Alpha Tag": "WauponseTwp ",
+      "Description": "Wauponsee Township or Central Grundy - Public Works / Snow Plows ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2288 ",
+      "HEX ": "08f ",
+      "Mode  ": "A",
+      "Alpha Tag": "DispPW Commn",
+      "Description": "Grundy Dispatch and Public Works: Common ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2320 ",
+      "HEX ": "091 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S Twp PubWks",
+      "Description": "Southern Townships - Snow Plows / Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2352 ",
+      "HEX ": "093 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N Twp PubWks",
+      "Description": "Northern Townships - Snow Plows / Public Works (Nettle Creek, AuxSable, Saratoga Twps) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2384 ",
+      "HEX ": "095 ",
+      "Mode  ": "A",
+      "Alpha Tag": "C Twp PubWks",
+      "Description": "Gooselak Twp or Felix Twp or Central Grundy Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2416 ",
+      "HEX ": "097 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Goodfarm Twp",
+      "Description": "Possibly Goodfarm Township? / Grundy South Public Works? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2448 ",
+      "HEX ": "099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Morris PublicWrk",
+      "Description": "Morris Public Works ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

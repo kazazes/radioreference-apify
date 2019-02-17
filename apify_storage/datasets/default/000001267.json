@@ -1,0 +1,21 @@
+{
+  "System Name": "Lamb Weston, Inc.",
+  "Location": "Twin Falls, ID",
+  "County": "Twin Falls",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 14, 2005, 10:30 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.3375",
+        "857.3375",
+        "858.3375",
+        "859.3375c",
+        "860.3375"
+      ]
+    }
+  ]
+}

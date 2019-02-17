@@ -1,0 +1,190 @@
+{
+  "System Name": "United States Marine Corps (00A)",
+  "Location": "Various, GA VA SC",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 28, 2018, 8:28 pm (Updated encryption settings for 1 talkgroups(MCB Quantico))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "86451"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "21 (15)",
+      "Site": "021 (15)",
+      "Name": "MCB Quantico - Camp Upshur",
+      "County": "Prince William, VA",
+      "Freqs": [
+        "385.675c",
+        "386.2875a",
+        "386.4875a",
+        "386.7375",
+        "387.575",
+        "387.9875"
+      ]
+    },
+    {
+      "RFSS": "22 (16)",
+      "Site": "022 (16)",
+      "Name": "MCB Quantico - Camp Barrett",
+      "County": "Stafford, VA",
+      "Freqs": [
+        "385.9375c",
+        "386.4125a",
+        "386.950a",
+        "387.450",
+        "388.5625",
+        "389.575"
+      ]
+    },
+    {
+      "RFSS": "23 (17)",
+      "Site": "023 (17)",
+      "Name": "MCB Quantico - Mainside",
+      "County": "Prince William, VA",
+      "Freqs": [
+        "385.625c",
+        "386.1375a",
+        "386.4375a",
+        "386.9125",
+        "387.950",
+        "389.3375a"
+      ]
+    },
+    {
+      "RFSS": "25 (19)",
+      "Site": "025 (19)",
+      "Name": "Site 25",
+      "County": "Prince William, VA",
+      "Freqs": [
+        "385.350",
+        "385.8375",
+        "386.1125",
+        "386.4625",
+        "386.725",
+        "387.350"
+      ]
+    },
+    {
+      "RFSS": "31 (1F)",
+      "Site": "031 (1F)",
+      "Name": "MCAS Beaufort - Laurel Bay",
+      "County": "Beaufort, SC",
+      "Freqs": [
+        "380.275",
+        "385.350c",
+        "385.625",
+        "386.2125",
+        "386.6625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "32 (20)",
+      "Site": "032 (20)",
+      "Name": "MCAS Beaufort - Mainside",
+      "County": "Beaufort, SC",
+      "Freqs": [
+        "380.075",
+        "386.1375c",
+        "386.2875",
+        "386.5125",
+        "386.725",
+        "386.9625"
+      ]
+    },
+    {
+      "RFSS": "51 (33)",
+      "Site": "051 (33)",
+      "Name": "MCLB Albany",
+      "County": "Dougherty, GA",
+      "Freqs": [
+        "380.125c",
+        "380.325a",
+        "380.4875a",
+        "380.625a",
+        "380.775a",
+        "380.9375a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2601 ",
+      "HEX ": "a29 ",
+      "Mode  ": "De",
+      "Alpha Tag": "MCBQ ProvMarshal",
+      "Description": "Provost Marshal ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2602 ",
+      "HEX ": "a2a ",
+      "Mode  ": "De",
+      "Alpha Tag": "MCBQ ProvMar Alt",
+      "Description": "Provost Marshal Alternate ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3601 ",
+      "HEX ": "e11 ",
+      "Mode  ": "De",
+      "Alpha Tag": "MCBQ Fire Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "9610 ",
+      "HEX ": "258a ",
+      "Mode  ": "D",
+      "Alpha Tag": "KNYG AirfieldOps",
+      "Description": "Airfield Operations ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1517 ",
+      "HEX ": "5ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCRDPI Training",
+      "Description": "Recruit Training ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7501 ",
+      "HEX ": "1d4d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCRDPI RangeCtrl",
+      "Description": "Range Control ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7511 ",
+      "HEX ": "1d57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCRDPI Range7511",
+      "Description": "Range ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7513 ",
+      "HEX ": "1d59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCRDPI Range7513",
+      "Description": "Range ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "7517 ",
+      "HEX ": "1d5d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCRDPI Range7517",
+      "Description": "Range ",
+      "Tag  ": "Military "
+    }
+  ]
+}

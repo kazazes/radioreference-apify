@@ -1,0 +1,118 @@
+{
+  "System Name": "Roy Walker Communications (DMR)",
+  "Location": "Makanda, IL",
+  "County": "11 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "July 4, 2017, 2:48 am (Added Site # 107 (Dry Hollow))",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": "Harrisburg",
+      "County": [
+        "Pope",
+        "150.935 (CC 2)",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Dry Hollow",
+      "County": [
+        "Alexander",
+        "153.665 (CC 2)",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Cobden",
+      "County": [
+        "Union",
+        "152.405 (CC 4)",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Phillipstown",
+      "County": [
+        "White",
+        "152.960 (CC 7)",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Metropolis",
+      "County": [
+        "Massac",
+        "151.9175 (CC 9)",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Mt Vernon",
+      "County": [
+        "Jefferson",
+        "160.095 (CC 10)",
+        " "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Makanda",
+      "County": [
+        "Jackson",
+        "153.1175 (CC 0)",
+        "152.870 (CC 0)"
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "New Grand Chain",
+      "County": [
+        "Pulaski",
+        "153.500 (CC 0)",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Alto Pass",
+      "County": [
+        "Union",
+        "152.3525 (CC 0)",
+        " "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Dry Hollow",
+      "County": [
+        "Alexander",
+        "152.3225 (CC 0)",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Slot ": "0 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LMayTrucking",
+      "Description": "Lindell May Trucking: Dispatch / Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "242 ",
+      "Slot ": "0 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RW Techs 242",
+      "Description": "Roy Walker: Radio Technicians ",
+      "Tag  ": "Business "
+    }
+  ]
+}

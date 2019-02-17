@@ -1,0 +1,342 @@
+{
+  "System Name": "Countywide Coordinated Communications System (CCCS)",
+  "Location": "Orange County, CA",
+  "County": "Orange",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "February 1, 2019, 6:38 pm ((1) Talkgroups Updated (Yorba Linda))",
+  "System ID List": [
+    {
+      "System ID": "6C3F",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Countywide",
+      "Freqs": [
+        "859.5625",
+        "855.7125",
+        "856.2125",
+        "856.7125c",
+        "856.9625",
+        "857.2125",
+        "857.4625c",
+        "857.7125",
+        "857.9625",
+        "858.2125",
+        "858.4625",
+        "858.7125",
+        "858.9625",
+        "859.2125",
+        "859.4625",
+        "859.7125",
+        "859.9625",
+        "860.2125",
+        "860.4625",
+        "860.7125",
+        "860.9625"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "South",
+      "Freqs": [
+        "851.125",
+        "851.175",
+        "851.375",
+        "851.625",
+        "851.875",
+        "852.125",
+        "852.375",
+        "852.625",
+        "852.825",
+        "852.875",
+        "853.125",
+        "853.375a",
+        "853.625a",
+        "853.675a",
+        "853.925c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "North",
+      "Freqs": [
+        "851.150",
+        "851.400",
+        "851.650",
+        "851.675",
+        "851.900",
+        "852.150",
+        "852.175",
+        "852.400",
+        "852.650",
+        "852.675",
+        "852.900",
+        "853.150a",
+        "853.175a",
+        "853.400a",
+        "853.650c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Northwest",
+      "Freqs": [
+        "851.325",
+        "851.700",
+        "851.850",
+        "852.325a",
+        "852.700",
+        "852.850a",
+        "853.325a",
+        "853.700c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Southwest",
+      "Freqs": [
+        "851.200",
+        "851.350",
+        "851.825",
+        "852.200",
+        "852.350a",
+        "853.200a",
+        "853.350c",
+        "853.825a"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Silverado",
+      "Freqs": [
+        "851.350c",
+        "851.850c",
+        "852.350",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Laguna",
+      "Freqs": [
+        "851.150",
+        "851.2125",
+        "851.400c",
+        "851.650a",
+        "851.900",
+        "852.175",
+        "852.2125",
+        "852.500",
+        "852.900a",
+        "853.2125",
+        "853.9625"
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Moorhead",
+      "Freqs": [
+        "866.325",
+        "866.825c",
+        "867.325",
+        "867.675",
+        "868.175a",
+        "868.200",
+        "868.400",
+        "868.825"
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Carbon Canyon",
+      "Freqs": [
+        "852.2125c",
+        "853.3125c",
+        "851.2125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Crystal Cove",
+      "Freqs": [
+        "851.7125",
+        "852.7125",
+        "853.3125a",
+        "853.7125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "57600 ",
+      "HEX ": "e10 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD N YEL1",
+      "Description": "Dispatch North - Yellow 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57632 ",
+      "HEX ": "e12 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SW YEL2",
+      "Description": "Dispatch Southwest - Yellow 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57664 ",
+      "HEX ": "e14 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SE YEL3",
+      "Description": "Dispatch Southeast - Yellow 3 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57696 ",
+      "HEX ": "e16 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SC YEL4",
+      "Description": "Dispatch South Coast - Yellow 4 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57728 ",
+      "HEX ": "e18 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SP YEL5",
+      "Description": "Special - Yellow 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57760 ",
+      "HEX ": "e1a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD HBR",
+      "Description": "Dispatch Harbor Patrol - Yellow 6 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57792 ",
+      "HEX ": "e1c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SNA ",
+      "Description": "Dispatch John Wayne Airport - Yellow 7 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "58400 ",
+      "HEX ": "e42 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SP YEL8",
+      "Description": "Special - Yellow 8 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57824 ",
+      "HEX ": "e1e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD CW Tac1",
+      "Description": "Countywide Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57856 ",
+      "HEX ": "e20 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD CW Tac2",
+      "Description": "Countywide Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "58432 ",
+      "HEX ": "e44 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD CW Tac3",
+      "Description": "Countywide Tactical 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57888 ",
+      "HEX ": "e22 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD N Tac1",
+      "Description": "North Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57920 ",
+      "HEX ": "e24 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD N Tac2",
+      "Description": "North Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57952 ",
+      "HEX ": "e26 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD S Tac1",
+      "Description": "South Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57984 ",
+      "HEX ": "e28 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD S Tac2",
+      "Description": "South Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "58016 ",
+      "HEX ": "e2a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OCSD SNA Tac",
+      "Description": "Airport Tactical ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "6736 ",
+      "HEX ": "1a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AIRCALL",
+      "Description": "Aircraft Dispatching/Hailing ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "20800 ",
+      "HEX ": "514 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PIO-PIO",
+      "Description": "Public Information Officer Coordination ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "27200 ",
+      "HEX ": "6a4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DSP-DSP",
+      "Description": "Dispatch Center Coordination ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

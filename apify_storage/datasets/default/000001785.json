@@ -1,0 +1,126 @@
+{
+  "System Name": "Bowling Green-Warren County",
+  "Location": "Bowling Green, KY",
+  "County": "Warren",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 23, 2017, 12:27 pm (Added Talkgroup 2057 BGPD PD Announce)",
+  "System ID List": [
+    {
+      "System ID": "65A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Bowling Green",
+      "Freqs": [
+        "854.6375",
+        "855.9875",
+        "856.2375",
+        "856.9625",
+        "857.1375",
+        "857.2375",
+        "857.9625",
+        "858.2375a",
+        "858.9625a",
+        "859.2375a",
+        "859.9625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1050 ",
+      "HEX ": "41a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA1 PD",
+      "Description": "Warren County Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1051 ",
+      "HEX ": "41b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA2 SO",
+      "Description": "Warren County Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1052 ",
+      "HEX ": "41c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA3 EMS",
+      "Description": "Warren County Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1053 ",
+      "HEX ": "41d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA4 FIRE",
+      "Description": "Warren County Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1054 ",
+      "HEX ": "41e ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA5 DOT",
+      "Description": "Warren County Mutual Aid 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1055 ",
+      "HEX ": "41f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA6 WKU",
+      "Description": "Warren County Mutual Aid 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1056 ",
+      "HEX ": "420 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA7",
+      "Description": "Warren County Mutual Aid 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2055 ",
+      "HEX ": "807 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA Announce",
+      "Description": "Mutual Aid Announcement ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2020 ",
+      "HEX ": "7e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WKUPD DISP",
+      "Description": "WKU Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2021 ",
+      "HEX ": "7e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WKUPD SE",
+      "Description": "WKU Police Event ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2060 ",
+      "HEX ": "80c ",
+      "Mode  ": "D",
+      "Alpha Tag": "WKU Announce",
+      "Description": "WKU Announcement ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

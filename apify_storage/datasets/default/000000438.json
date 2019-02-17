@@ -1,0 +1,28 @@
+{
+  "System Name": "Squaw Valley Resort",
+  "Location": "Squaw Valley, CA",
+  "County": "Placer",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 3, 2012, 5:28 am (Changed Site # 001 (Olympic Valley) to 001 (High Camp))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "High Camp",
+        "01 464.075 ",
+        "02 464.750 ",
+        "03 464.950 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Ward Peak",
+        "01 462.400 ",
+        "02 463.2625 ",
+        " "
+      ]
+    }
+  ]
+}

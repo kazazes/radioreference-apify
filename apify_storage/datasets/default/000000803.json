@@ -1,0 +1,31 @@
+{
+  "System Name": "Bay County Public Services (P25)",
+  "Location": "Bay County, FL",
+  "County": "Bay",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 8, 2019, 8:49 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "924B5"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "13 (D)",
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "Freqs": [
+        "854.9375c",
+        "854.9625a",
+        "855.4625a",
+        "855.9375a",
+        "855.9875a",
+        "856.4875a",
+        "856.9875a",
+        "857.4875a"
+      ]
+    }
+  ]
+}

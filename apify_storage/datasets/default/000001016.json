@@ -1,0 +1,226 @@
+{
+  "System Name": "Wireless Technology Equipment Company, Inc.",
+  "Location": "Lakeland, FL",
+  "County": "Polk",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "September 5, 2012, 1:59 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "0519",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "",
+      "B2": "B",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "",
+      "B7": "2"
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "",
+      "B2": "S2",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "",
+      "B7": "S0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Highland City",
+      "Freqs": [
+        "851.7875",
+        "855.7625",
+        "856.5125",
+        "857.5125",
+        "858.5125c",
+        "859.5125c",
+        "860.5125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "001-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing com",
+      "Description": "Plumbing company - Residential ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "002-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing Compa",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "003-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing Com",
+      "Description": "Plumbing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "004-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing com",
+      "Description": "Plumbing company - Commercial ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "015-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Carpet Clean",
+      "Description": "Carpet Cleaners ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "019-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing Compa",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "023-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Company",
+      "Description": "HVAC Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "028-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concrete Com",
+      "Description": "Concrete Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "029-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "Subfleet ": "031-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concrete com",
+      "Description": "Concrete company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "038-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Service",
+      "Description": "HVAC Service Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Newspaper Co",
+      "Description": "Newspaper Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery/Cou",
+      "Description": "Delivery/Courier Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "203-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi Service",
+      "Description": "Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "205-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing Compa",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "207-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Road constru",
+      "Description": "Road construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "208-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Independent ",
+      "Description": "Independent Community Transport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "208-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "data",
+      "Description": "data ",
+      "Tag  ": "Data "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "65488 ",
+      "HEX ": "ffd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Juice/Drink ",
+      "Description": "Juice/Drink Processing Plant ",
+      "Tag  ": "Business "
+    }
+  ]
+}

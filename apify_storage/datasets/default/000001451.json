@@ -1,0 +1,219 @@
+{
+  "System Name": "Metropolitan Pier and Exposition Authority (Chicago)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 27, 2018, 9:23 pm ((2) Talkgroups Updated (All))",
+  "System ID List": [
+    {
+      "System ID": "4BD",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "McCormick Place",
+      "Freqs": [
+        "477.725",
+        "477.750",
+        "477.875",
+        "477.8875",
+        "477.9375",
+        "477.975",
+        "478.000c",
+        "478.550c",
+        "478.625a",
+        "478.7375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BldgEngineer",
+      "Description": "Building Engineers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MP Sec/Fire",
+      "Description": "McCormick Place: Security / Fire Safety ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 3",
+      "Description": "Operations (Security?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 4",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Landscaping",
+      "Description": "Landscaping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Custodians",
+      "Description": "Custodians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 7",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 8",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Parking",
+      "Description": "Parking Lot Attendants ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 10",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 11",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "HEX ": "00c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 12",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Stewards",
+      "Description": "McCormick Place: Stewards ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Food Service",
+      "Description": "McCormick Place: Food Service Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 15",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ControlBooth",
+      "Description": "Control Booth (lighting and sound) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "HEX ": "017 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 23",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "HEX ": "019 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 25",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Hotel Eng 35",
+      "Description": "Hotel Engineering (Hyatt Regency McCormick Place?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "37 ",
+      "HEX ": "025 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ALL CALL",
+      "Description": "ALL CALL ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "43 ",
+      "HEX ": "02b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 43",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49 ",
+      "HEX ": "031 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 49",
+      "Description": "Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "HEX ": "03c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MP Sec/Fire 60",
+      "Description": "McCormick Place: Security / Fire Safety ",
+      "Tag  ": "Multi-Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "System Name": "California State University (Chico)",
+  "Location": "Chico, CA",
+  "County": "Butte",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 15, 2018, 5:52 pm ((1) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "CSU Chico",
+        "01 464.575 ",
+        "02 464.425 ",
+        "03 464.775 ",
+        "04 464.925 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Admin",
+      "Description": "Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Shuttles",
+      "Description": "Shuttles ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Mechanics",
+      "Description": "Mechanics ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Boiler/Chill",
+      "Description": "Boiler/Chiller Plant ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Carpenters",
+      "Description": "Carpenters ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMS Office",
+      "Description": "Facilities Management & Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Custodians",
+      "Description": "Custodians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "T",
+      "Alpha Tag": "25 Unknown",
+      "Description": "Unknown use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Electricians",
+      "Description": "Electricians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Groundskeepe",
+      "Description": "Groundskeepers ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Irrigation",
+      "Description": "Irrigation ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "35 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Unknown Use ",
+      "Description": "Unknown Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "37 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Key Shop",
+      "Description": "Key Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "39 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Masonry",
+      "Description": "Masonry ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Metal Shop",
+      "Description": "Metal Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "43 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Movers",
+      "Description": "Movers ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "45 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Painters",
+      "Description": "Painters ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "47 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Plumbers",
+      "Description": "Plumbers ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Property Mgt",
+      "Description": "Property Management ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "51 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Shipping",
+      "Description": "Shipping ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

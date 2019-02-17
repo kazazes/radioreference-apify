@@ -1,0 +1,144 @@
+{
+  "System Name": "Deere and Company - DMR (IL/IA)",
+  "Location": "Multiple, IL IA",
+  "County": "3 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 28, 2018, 2:20 pm (Added Talkgroup 91 Emergency Response Team(John Deere Harvester Works (East Moline)))",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": "Moline",
+      "County": [
+        "Rock Island, IL",
+        "01 462.1375 ",
+        "02 463.650 ",
+        "03 451.400 ",
+        "04 452.3625 ",
+        "05 464.950 "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "East Moline",
+      "County": [
+        "Rock Island, IL",
+        "01 463.6125 ",
+        "02 464.7625 ",
+        "03 462.500 ",
+        "04 462.425 ",
+        "05 462.225 "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Davenport IA",
+      "County": [
+        "Scott, IA",
+        "01 461.9375 ",
+        "02 463.6125 ",
+        "03 464.7125 ",
+        "04 464.9625 ",
+        " "
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Ottumwa IA",
+      "County": [
+        "Wapello, IA",
+        "01 462.200 ",
+        "02 462.425 ",
+        "03 463.950 ",
+        "04 464.650 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "30 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DW Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "91 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DW ERT Page",
+      "Description": "Emergency Response Team ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "651 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "655 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Maint 655",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "660 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Maint 660",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "661 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Prod Supp 661",
+      "Description": "Production Support ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "662 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Prod Supp 662",
+      "Description": "Production Support ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "664 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Prod Supp 664",
+      "Description": "Production Support ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "672 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Prod Line Sup",
+      "Description": "Paint Line Support ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "675 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Prod Supp 675",
+      "Description": "Production Support ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "676 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW Ship/Receive",
+      "Description": "Shipping and Receiving ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "691 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HW EmergResponse",
+      "Description": "Emergency Response Team ",
+      "Tag  ": "Business "
+    }
+  ]
+}

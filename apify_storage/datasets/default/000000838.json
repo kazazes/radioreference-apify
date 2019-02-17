@@ -1,0 +1,67 @@
+{
+  "System Name": "JetBlue Airways",
+  "Location": "Fort Lauderdale, FL",
+  "County": "Broward",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "October 11, 2018, 1:36 pm (Changed Site # 001 (Unconfirmed ) to 001 (Confirmed ))",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "001 (1)",
+      "Name": "Confirmed ",
+      "Freqs": [
+        "451.1125c",
+        "451.4125",
+        "451.7375",
+        "452.0625",
+        "460.875",
+        "461.8625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "176782 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Supervisors",
+      "Description": "Supervisors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176784 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176788 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Mechanics",
+      "Description": "Mechanics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176792 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Baggage",
+      "Description": "Baggage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176798 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Wheelchairs",
+      "Description": "Wheelchairs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176816 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ramp",
+      "Description": "Ramp ",
+      "Tag  ": "Business "
+    }
+  ]
+}

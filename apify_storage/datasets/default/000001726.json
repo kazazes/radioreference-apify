@@ -1,0 +1,66 @@
+{
+  "System Name": "Kenton Sanitation District 1",
+  "Location": "Highland Heights, KY",
+  "County": "2 counties",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 12:15 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1 (Highland Heights) ",
+      "County": [
+        "Campbell",
+        "01 851.225c ",
+        "02 852.675c ",
+        "04 853.050c ",
+        "05 853.650c "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Unknown LCN",
+      "County": [
+        "Campbell",
+        "00 851.825 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1056 ",
+      "AFS ": "08-040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1057 ",
+      "AFS ": "08-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1058 ",
+      "AFS ": "08-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "1059 ",
+      "AFS ": "08-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

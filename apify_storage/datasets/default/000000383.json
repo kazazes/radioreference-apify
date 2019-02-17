@@ -1,0 +1,69 @@
+{
+  "System Name": "SSA Marine Terminals - Pier C",
+  "Location": "Long Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 26, 2017, 2:52 am (Added Talkgroup 112 Dock Operations)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Port of Long Beach",
+        "01 452.8625 ",
+        "02 452.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 111",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 112",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 113",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 114",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 115",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "116 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 116",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA 117",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

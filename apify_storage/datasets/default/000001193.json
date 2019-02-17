@@ -1,0 +1,46 @@
+{
+  "System Name": "Pacific Wireless Communications",
+  "Location": "Honolulu, HI",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 3, 2019, 3:54 pm (Changed Site # 002 (Site 2 (Honolulu)) to 002 (Honolulu))",
+  "System ID List": [
+    {
+      "System ID": "230"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": "Honolulu",
+      "County": [
+        "Honolulu",
+        "01 856.0375 ",
+        "02 858.5375c ",
+        "03 860.5375 ",
+        "04 857.0375 "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Kailua Kona",
+      "County": [
+        "Hawaii",
+        "01 860.0875c ",
+        "02 856.0875 ",
+        "03 857.0875 ",
+        "04 859.0875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "655 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCC Transport",
+      "Description": "PCC Transportation ",
+      "Tag  ": "Business "
+    }
+  ]
+}

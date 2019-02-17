@@ -1,0 +1,26 @@
+{
+  "System Name": "Ready Mix Concrete",
+  "Location": "Eldorado Springs, CO",
+  "County": "Jefferson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 29, 2008, 9:18 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 860.6125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DELIVERY",
+      "Description": "Concrete Delivery ",
+      "Tag  ": "Business "
+    }
+  ]
+}

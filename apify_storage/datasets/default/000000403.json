@@ -1,0 +1,77 @@
+{
+  "System Name": "Waldorf Astoria Hotel Beverly Hills",
+  "Location": "Beverly Hills, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 11, 2017, 11:07 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hotel",
+        "01 464.350 ",
+        "02 464.175 ",
+        "03 464.025 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "131 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "133 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ENGINEERING",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "135 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FRONT DESK",
+      "Description": "Front Desk / Bellman ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ROOM SVC",
+      "Description": "Room Service Food Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "141 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VALET PARK",
+      "Description": "Valet / Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "144 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HOUSEKEEPING",
+      "Description": "Housekeeping  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "147 ",
+      "Mode  ": "T",
+      "Alpha Tag": "147",
+      "Description": "147 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "148 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    }
+  ]
+}

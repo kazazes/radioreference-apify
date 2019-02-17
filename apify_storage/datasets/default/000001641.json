@@ -1,0 +1,48 @@
+{
+  "System Name": "Tri-State Comm Climbing Hill",
+  "Location": "Climbing Hill, IA",
+  "County": "Woodbury",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 22, 2014, 8:49 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Climbing Hill",
+        "14 856.6875 ",
+        "18 857.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-14-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TS-CH Truck1",
+      "Description": "Trucking 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TS-CH Truck2",
+      "Description": "Trucking 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TS-CH Truck3",
+      "Description": "Trucking 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TS-CH Truck4",
+      "Description": "Trucking 4 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "System Name": "Tucson Electric Power Company",
+  "Location": "Tucson, AZ",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 7, 2018, 6:26 am ((1) Talkgroups Updated (Operations))",
+  "System ID List": [
+    {
+      "System ID": "1E5",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Tucson Mountain",
+      "County": "Pima",
+      "Freqs": [
+        "854.0125",
+        "854.3625",
+        "854.7875",
+        "855.0875",
+        "855.4125",
+        "855.9125c",
+        "856.4125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Madera Canyon (Elephant Head)",
+      "County": "Santa Cruz",
+      "Freqs": [
+        "854.1125",
+        "854.4125",
+        "854.7375",
+        "855.0375a",
+        "855.1625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Golden Hill Mountain - Nogales",
+      "County": "Santa Cruz",
+      "Freqs": [
+        "855.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Mount Bigelow",
+      "County": "Pima",
+      "Freqs": [
+        "854.7625",
+        "855.7875",
+        "857.3625",
+        "858.3125",
+        "859.3125a",
+        "859.6125c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Confidence Peak",
+      "County": "Pima",
+      "Freqs": [
+        "857.3375",
+        "858.3375a",
+        "859.3375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Hayden Peak",
+      "County": "Mohave",
+      "Freqs": [
+        "857.3625c",
+        "859.3625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Oatman Peak",
+      "County": "Mohave",
+      "Freqs": [
+        "854.9375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SECURITY PRI",
+      "Description": "Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SECURITY ALT",
+      "Description": "Alternate ",
+      "Tag  ": "Security "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "12 ",
+      "HEX ": "00c ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 12",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 14",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 17",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 18",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "HEX ": "015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 21",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "HEX ": "016 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 22",
+      "Description": "Motorola Engineers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "HEX ": "017 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 23",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "HEX ": "019 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 25",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28 ",
+      "HEX ": "01c ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 28",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "29 ",
+      "HEX ": "01d ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 29",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "34 ",
+      "HEX ": "022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 34",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 35",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36 ",
+      "HEX ": "024 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 36",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "37 ",
+      "HEX ": "025 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 37",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "38 ",
+      "HEX ": "026 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 38",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "39 ",
+      "HEX ": "027 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 39",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "40 ",
+      "HEX ": "028 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 40",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41 ",
+      "HEX ": "029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TESTING 41",
+      "Description": "Testing ",
+      "Tag  ": "Business "
+    }
+  ]
+}

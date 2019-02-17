@@ -1,0 +1,35 @@
+{
+  "System Name": "Gila River Casinos - Lone Butte",
+  "Location": "Chandler, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 1, 2016, 3:19 am (Added Talkgroup 15 Operations)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lone Butte",
+        "01 462.1375 ",
+        "02 463.650 ",
+        "03 463.975 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "System Name": "Ray's Radio Shop (DMR)",
+  "Location": "Modesto, CA",
+  "County": "3 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 21, 2018, 8:29 pm (Changed Site # 001 (Mt Oso) to 001 (Mt Oso))",
+  "System ID List": [
+    {
+      "System ID": "160"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mt Oso",
+      "County": [
+        "Stanislaus",
+        "01 452.025c ",
+        "02 452.150 ",
+        "03 462.225 ",
+        "04 462.325 ",
+        "05 464.825 ",
+        "06 452.975 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Cedar Ridge",
+      "County": [
+        "Tuolumne",
+        "01 451.7375c ",
+        "02 452.7875c ",
+        "03 461.5125 ",
+        "04 463.7625 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Mt Bullion",
+      "County": [
+        "Mariposa",
+        "01 451.3625c ",
+        "02 462.1375c ",
+        "03 461.1625 ",
+        "04 462.5125 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "14000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "taxi?",
+      "Description": "taxi? (sonora area) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "15000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "taxi?",
+      "Description": "taxi? (stockton area) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trans",
+      "Description": "Transportation Services ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

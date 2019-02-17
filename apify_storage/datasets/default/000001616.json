@@ -1,0 +1,116 @@
+{
+  "System Name": "Electronic Radio Services (Motorola)",
+  "Location": "Des Moines, IA",
+  "County": "Polk",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "May 7, 2018, 1:07 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "8A32",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "",
+      "B2": "B",
+      "B3": "",
+      "B4": "",
+      "B5": "C",
+      "B6": "K",
+      "B7": "2"
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "",
+      "B2": "S2",
+      "B3": "",
+      "B4": "",
+      "B5": "S3",
+      "B6": "S11",
+      "B7": "S0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "855.6875",
+        "858.0375c",
+        "859.0375c",
+        "860.0375c",
+        "860.7875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "600-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Sec A",
+      "Description": "Principal Financial Group Security-A ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "500-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Sec B",
+      "Description": "Principal Financial Group Security-B ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "002-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Cleaners",
+      "Description": "Principal Financial Group Cleaners ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "500-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Courier",
+      "Description": "Principal Financial Group Courier Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "600-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Engineer",
+      "Description": "Principal Financial Group Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "600-12  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG ConfSvcs",
+      "Description": "Principal Financial Group Conference Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "600-14  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PFG Food Svc",
+      "Description": "Principal Financial Group Food Service ",
+      "Tag  ": "Business "
+    }
+  ]
+}

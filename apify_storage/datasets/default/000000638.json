@@ -1,0 +1,139 @@
+{
+  "System Name": "Grazi Communications",
+  "Location": "Denver Metro, CO",
+  "County": "Denver",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "October 6, 2018, 4:44 pm (Changed Site # 002 (Downtown Denver) to 002 (Downtown Denver))",
+  "System ID List": [
+    {
+      "System ID": "392"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Lookout Mountain",
+      "Freqs": [
+        "451.850",
+        "461.425",
+        "461.5875",
+        "464.200",
+        "464.7125c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Downtown Denver",
+      "Freqs": [
+        "452.2625c",
+        "461.1625",
+        "461.350",
+        "461.8375",
+        "462.500"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Supervisors",
+      "Description": "Supervisors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilites",
+      "Description": "Facilites ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A/V Techs",
+      "Description": "A/V Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Misc Ch",
+      "Description": "Misc Ch 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "D",
+      "Alpha Tag": "IT Department",
+      "Description": "IT Department ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Events",
+      "Description": "Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Exhibits",
+      "Description": "Exhibits ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Education",
+      "Description": "Education ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CS Hosts",
+      "Description": "Customer Service Hosts ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Outdoor Plaza",
+      "Description": "Outdoor Plaza ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Group Events",
+      "Description": "Group Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Night Security",
+      "Description": "Night Security ",
+      "Tag  ": "Security "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "43 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Action Care EMS",
+      "Description": "Action Care EMS ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ]
+}

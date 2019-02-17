@@ -1,0 +1,360 @@
+{
+  "System Name": "Mid American Energy",
+  "Location": "Various, IA IL NE",
+  "County": "23 counties",
+  "System Type": "MPT-1327 Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 11, 2015, 4:44 pm (Changed Site # 24969 (Plainfield) to 24969 (Plainfield))",
+  "System Frequencies": [
+    {
+      "Site": "24705 (6081)",
+      "Name": "Des Moines",
+      "County": "Polk, IA",
+      "Freqs": [
+        "452.975",
+        "461.050",
+        "451.275",
+        "451.500",
+        "451.7875",
+        "452.0125c"
+      ]
+    },
+    {
+      "Site": "24729 (6099)",
+      "Name": "Adel",
+      "County": "Dallas, IA",
+      "Freqs": [
+        "452.625",
+        "461.300",
+        "451.750",
+        "451.925",
+        "452.3875c",
+        "452.175"
+      ]
+    },
+    {
+      "Site": "24737 (60A1)",
+      "Name": "Atlantic",
+      "County": "Cass, IA",
+      "Freqs": [
+        "451.1625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24745 (60A9)",
+      "Name": "Avoca",
+      "County": "Pottawattamie, IA",
+      "Freqs": [
+        "451.750c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24753 (60B1)",
+      "Name": "Altoona",
+      "County": "Polk, IA",
+      "Freqs": [
+        "451.075",
+        "454.600",
+        "451.375c",
+        "463.275",
+        "464.700",
+        "454.200"
+      ]
+    },
+    {
+      "Site": "24769 (60C1)",
+      "Name": "Castana",
+      "County": "Monona, IA",
+      "Freqs": [
+        "451.1375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24785 (60D1)",
+      "Name": "Denison",
+      "County": "Crawford, IA",
+      "Freqs": [
+        "451.550c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24801 (60E1)",
+      "Name": "Colfax",
+      "County": "Jasper, IA",
+      "Freqs": [
+        "451.100",
+        "462.475",
+        "452.825",
+        "454.100c",
+        "454.400",
+        "452.475"
+      ]
+    },
+    {
+      "Site": "24809 (60E9)",
+      "Name": "Council Bluffs (North)",
+      "County": "Pottawattamie, IA",
+      "Freqs": [
+        "451.150c",
+        "451.375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24817 (60F1)",
+      "Name": "Bettendorf",
+      "County": "Scott, IA",
+      "Freqs": [
+        "463.2125",
+        "452.3375c",
+        "451.1375",
+        "451.8375",
+        "452.150",
+        "463.6875"
+      ]
+    },
+    {
+      "Site": "24825 (60F9)",
+      "Name": "Urbandale",
+      "County": "Polk, IA",
+      "Freqs": [
+        "451.050",
+        "451.900",
+        "452.850",
+        "454.300",
+        "463.925",
+        "451.650"
+      ]
+    },
+    {
+      "Site": "24849 (6111)",
+      "Name": "Fort Dodge",
+      "County": "Webster, IA",
+      "Freqs": [
+        "452.3625",
+        "461.350",
+        "462.075",
+        "451.250",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24857 (6119)",
+      "Name": "Glenwood",
+      "County": "Mills, IA",
+      "Freqs": [
+        "451.1125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24865 (6121)",
+      "Name": "Gray",
+      "County": "Audubon, IA",
+      "Freqs": [
+        "452.3375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24913 (6151)",
+      "Name": "Knoxville",
+      "County": "Marion, IA",
+      "Freqs": [
+        "451.1125c",
+        "464.250",
+        "454.025",
+        "461.8875",
+        "451.8375",
+        "454.225"
+      ]
+    },
+    {
+      "Site": "24937 (6169)",
+      "Name": "Missouri Valley",
+      "County": "Harrison, IA",
+      "Freqs": [
+        "452.975c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24945 (6171)",
+      "Name": "Montezuma",
+      "County": "Poweshiek, IA",
+      "Freqs": [
+        "451.1625c",
+        "452.3375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24953 (6179)",
+      "Name": "Oskaloosa",
+      "County": "Mahaska, IA",
+      "Freqs": [
+        "451.050",
+        "451.600",
+        "451.9625",
+        "452.4625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "24969 (6189)",
+      "Name": "Plainfield",
+      "County": "Bremer, IA",
+      "Freqs": [
+        "451.250c",
+        "451.750",
+        "452.250",
+        "452.475",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "25017 (61B9)",
+      "Name": "St Marys",
+      "County": "Warren, IA",
+      "Freqs": [
+        "464.175",
+        "452.700",
+        "464.7375",
+        "451.9125c",
+        "463.6875",
+        "451.1375"
+      ]
+    },
+    {
+      "Site": "25049 (61D9)",
+      "Name": "Waterloo",
+      "County": "Black Hawk, IA",
+      "Freqs": [
+        "451.200",
+        "451.575",
+        "461.450",
+        "461.950",
+        "451.025c",
+        " "
+      ]
+    },
+    {
+      "Site": "25057 (61E1)",
+      "Name": "Council Bluffs (South)",
+      "County": "Pottawattamie, IA",
+      "Freqs": [
+        "451.050c",
+        "451.000",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "26000 (6590)",
+      "Name": "Sergeant Bluff, IA",
+      "County": "Woodbury, IA",
+      "Freqs": [
+        "462.0875",
+        "462.525c",
+        "463.7375",
+        "463.8625",
+        "464.025",
+        " "
+      ]
+    },
+    {
+      "Site": "26005 (6595)",
+      "Name": "Le Mars, IA",
+      "County": "Plymouth, IA",
+      "Freqs": [
+        "451.250c",
+        "452.325",
+        "452.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "26010 (659A)",
+      "Name": "South Sioux City, NE",
+      "County": "Dakota, NE",
+      "Freqs": [
+        "451.075",
+        "451.2625c",
+        "462.100",
+        "463.275",
+        "463.775",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16306 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Elec QC16306",
+      "Description": "Electrical Operations (Quad Cities) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16312 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Elec QC16312",
+      "Description": "Electrical Operations (Quad Cities) ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16351 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RIServiceCnt",
+      "Description": "Rock Island Service Center ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

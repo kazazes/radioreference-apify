@@ -1,0 +1,334 @@
+{
+  "System Name": "Pima County Wireless Integrated Network (PCWIN)",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 8, 2019, 11:13 pm ((2) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "3BB",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast A (Metro Tucson)",
+      "Freqs": [
+        "851.075",
+        "851.1375",
+        "851.4375",
+        "851.5875",
+        "851.675",
+        "851.950",
+        "852.100",
+        "852.200",
+        "852.350",
+        "852.875",
+        "853.375a",
+        "853.625a",
+        "853.7125a",
+        "853.900c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Simulcast B (Metro Tucson)",
+      "Freqs": [
+        "851.1875",
+        "851.3125",
+        "851.5625",
+        "851.6125",
+        "851.925",
+        "852.125",
+        "852.450",
+        "852.925",
+        "853.175",
+        "853.425",
+        "853.5375a",
+        "853.650a",
+        "853.850a",
+        "853.925c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "North Simulcast (NW Side of Tucson)",
+      "Freqs": [
+        "851.0375",
+        "851.3625c",
+        "851.6375a",
+        "851.7875a",
+        "852.725a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Arivaca Govnet",
+      "Freqs": [
+        "851.2375",
+        "851.2625",
+        "851.5375c",
+        "852.0375a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Childs Mountain",
+      "Freqs": [
+        "851.4625",
+        "852.775a",
+        "853.400a",
+        "853.6875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Confidence Peak",
+      "Freqs": [
+        "851.975a",
+        "852.325c",
+        "852.800a",
+        "853.575a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Haystack Mountain",
+      "Freqs": [
+        "851.2125",
+        "853.200a",
+        "853.7375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Keystone Peak",
+      "Freqs": [
+        "851.1625",
+        "851.8625",
+        "852.225a",
+        "852.850a",
+        "853.3125a",
+        "853.7875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Mt Bigelow",
+      "Freqs": [
+        "851.2875",
+        "851.700a",
+        "852.700c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Golder Fire Station",
+      "Freqs": [
+        "851.3375",
+        "851.8375c",
+        "852.150a",
+        "852.650a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "18005 ",
+      "HEX ": "4655 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCSO BldgSct",
+      "Description": "Building Security ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18008 ",
+      "HEX ": "4658 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCSO Courts",
+      "Description": "Courthouse Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "18018 ",
+      "HEX ": "4662 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Jud Security",
+      "Description": "Judicial Security ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18027 ",
+      "HEX ": "466b ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Off Duty1",
+      "Description": "Off Duty 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18028 ",
+      "HEX ": "466c ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Off Duty2",
+      "Description": "Off Duty 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18029 ",
+      "HEX ": "466d ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Off Duty3",
+      "Description": "Off Duty 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18042 ",
+      "HEX ": "467a ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Train 1",
+      "Description": "Training 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18043 ",
+      "HEX ": "467b ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Train 2",
+      "Description": "Training 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18044 ",
+      "HEX ": "467c ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Train 3",
+      "Description": "Training 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18045 ",
+      "HEX ": "467d ",
+      "Mode  ": "T",
+      "Alpha Tag": "SO Train 4",
+      "Description": "Training 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "21200 ",
+      "HEX ": "52d0 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Constables",
+      "Description": "Constables ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT A",
+      "Description": "A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT B",
+      "Description": "B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT C",
+      "Description": "C ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT D",
+      "Description": "D ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT E",
+      "Description": "E ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT F",
+      "Description": "F ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT G",
+      "Description": "G ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "T",
+      "Alpha Tag": "PCWIN IT H",
+      "Description": "H ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

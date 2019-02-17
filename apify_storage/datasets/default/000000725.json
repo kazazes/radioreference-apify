@@ -1,0 +1,68 @@
+{
+  "System Name": "Newington",
+  "Location": "Newington, CT",
+  "County": "Hartford",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 28, 2013, 2:09 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 460.375 ",
+        "02 460.425 ",
+        "03 461.6125 ",
+        "04 461.9375 ",
+        "05 463.7375 ",
+        "06 463.9875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TW Routine",
+      "Description": "Townwide Routine (EMS uses for paging second crews) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "0-03-123 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TW Emergency",
+      "Description": "Townwide Emergency ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-03-131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Public Works",
+      "Description": "Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-03-133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks & Rec",
+      "Description": "Parks & Recreation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-03-134 ",
+      "Mode  ": "A",
+      "Alpha Tag": "P&R Events",
+      "Description": "Parks & Recreation Events ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-03-135 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Elderly Van",
+      "Description": "Elderly Van ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

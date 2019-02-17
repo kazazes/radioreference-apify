@@ -1,0 +1,17 @@
+{
+  "System Name": "Team One Communications",
+  "Location": "Pensacola, FL",
+  "County": "Escambia",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 28, 2016, 8:03 pm (Changed Site # 001 (Pensacola) to 001 (Pensacola))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Pensacola",
+        "04 463.3125 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "System Name": "S and P Communications",
+  "Location": "Various, AL",
+  "County": "4 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "September 21, 2018, 3:02 am (Updated Function Tag assignments for 2 talkgroups(Coffee County))",
+  "System ID List": [
+    {
+      "System ID": "337"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Andalusia",
+      "County": "Covington",
+      "Freqs": [
+        "154.75625",
+        "154.1525c",
+        "155.0925",
+        "155.955",
+        "153.650a",
+        "153.2975",
+        "151.5875",
+        "159.105",
+        "151.715",
+        "153.2825"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Opp",
+      "County": "Covington",
+      "Freqs": [
+        "152.885c",
+        "153.125a",
+        "151.550",
+        "151.715",
+        "153.2825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Florala",
+      "County": "Covington",
+      "Freqs": [
+        "152.915",
+        "153.665",
+        "153.170a",
+        "153.230c",
+        "153.560",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Dozier",
+      "County": "Crenshaw",
+      "Freqs": [
+        "151.895c",
+        "153.530",
+        "154.490",
+        "151.655",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Luverne",
+      "County": "Crenshaw",
+      "Freqs": [
+        "152.9375",
+        "153.3425",
+        "151.5275",
+        "151.6625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "South West Covington County",
+      "County": "Covington",
+      "Freqs": [
+        "152.975",
+        "151.865",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Elba",
+      "County": "Coffee",
+      "Freqs": [
+        "151.775",
+        "153.0125",
+        "152.360",
+        "153.365",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Troy",
+      "County": "Pike",
+      "Freqs": [
+        "152.300",
+        "153.185",
+        "153.035",
+        "151.835",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "North Covington County",
+      "County": "Covington",
+      "Freqs": [
+        "153.605",
+        "153.2075",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Enterprise",
+      "County": "Coffee",
+      "Freqs": [
+        "153.260",
+        "153.485",
+        "152.285",
+        "152.960",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Game Warden",
+      "Description": "Game Warden ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Game Warden Tac",
+      "Description": "Game Warden Tactical ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3050 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FarmersCoop 3050",
+      "Description": "Farmers Co-op ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3051 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FarmersCoop 3051",
+      "Description": "Farmers Co-op ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5251 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Regency Realty",
+      "Description": "Regency Realty of Enterprise ",
+      "Tag  ": "Business "
+    }
+  ]
+}

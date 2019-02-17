@@ -1,0 +1,295 @@
+{
+  "System Name": "Business Radio Sales and Service (NXDN 4800)",
+  "Location": "Iowa City, IA",
+  "County": "Johnson",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "November 5, 2018, 6:18 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "232"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Iowa City",
+      "Freqs": [
+        "452.0125",
+        "452.2625c",
+        "463.9125",
+        "464.7625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 1",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 2",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 3",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 4",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 5",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 6",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 7",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Ops 8",
+      "Description": "ICCSD Plant Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "West High 1",
+      "Description": "Iowa City West High Ops 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Roam 1",
+      "Description": "TG shared ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "D",
+      "Alpha Tag": "West High 2",
+      "Description": "Iowa City West High Ops 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Tate High",
+      "Description": "Iowa City Elizabeth Tate High Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Hills ELE",
+      "Description": "Hills Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "32 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lincoln ELE",
+      "Description": "Lincoln Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Wickham ELE",
+      "Description": "Wickham Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CVcntrl ELE",
+      "Description": "Coralville Central Ele Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "35 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Mann ELE",
+      "Description": "Mann Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "36 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shimek ELE",
+      "Description": "Shimek Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "37 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Weber ELE",
+      "Description": "Weber Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "38 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Hoover ELE",
+      "Description": "Hoover Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "39 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lucas ELE",
+      "Description": "Lucas Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "40 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TREC Sp Cntr ",
+      "Description": "Theodor Roosevelt Edu Center ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "City High 1",
+      "Description": "Iowa City City High Ops 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "44 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NrthWest Jr",
+      "Description": "Northwest Jr. High Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "45 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Lemme ELE",
+      "Description": "Lemme Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "46 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SothEast Jr",
+      "Description": "Southeast Jr. High Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "47 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Penn ELE",
+      "Description": "Penn Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "48 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Borlaug ELE",
+      "Description": "Borlaug Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Garner ELE",
+      "Description": "Garner Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Kirkwood ELE",
+      "Description": "Kirkwood Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "51 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Twain ELE",
+      "Description": "Twain Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Van Alan ELE",
+      "Description": "Van Allan Elementary Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NrthCntrl Jr",
+      "Description": "North Central Jr. High Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "D",
+      "Alpha Tag": "City High 2",
+      "Description": "Iowa City City High Ops 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "55 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICCSD Bus 1",
+      "Description": "ICCSD Bus Ch 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Alxander ELE",
+      "Description": "Alexander Elementary Ops ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "81 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ICBRSS Ops 1",
+      "Description": "Radio Sales Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "101 Taxi",
+      "Description": "Taxi Business ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

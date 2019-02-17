@@ -1,0 +1,253 @@
+{
+  "System Name": "West Basin Container Terminal (WBCT)",
+  "Location": "San Pedro, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 2, 2018, 4:41 pm (Added Talkgroup 9 Dock Operations(Port Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "WBCT",
+        "01 463.200 ",
+        "02 463.975 ",
+        "03 463.5375 ",
+        "04 464.5875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 2",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 4",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 6",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 9",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 21",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "43 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 43",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 50",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 52",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 53",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 58",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 60",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "62 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 62",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "74 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 74 ",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "84 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 84",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "85 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 85",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "90 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 90",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "91 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 91",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "97 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 97",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "99 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 99",
+      "Description": "Equipment Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 103",
+      "Description": "Facilities Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 106",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 107",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 109",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 110",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 111",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 112",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 113",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 117",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 122",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "127 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 127",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "134 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 134",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "135 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 135",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WBCT 136",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

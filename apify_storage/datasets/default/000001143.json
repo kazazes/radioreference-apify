@@ -1,0 +1,92 @@
+{
+  "System Name": "Robins Air Force Base P25",
+  "Location": "Warner-Robins, GA",
+  "County": "Houston",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 21, 2018, 12:54 pm (Updated encryption settings for 48 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "542E",
+      "WACN": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Robins AFB",
+      "Freqs": [
+        "406.3625c",
+        "406.7625c",
+        "407.1625c",
+        "407.3625",
+        "407.9625",
+        "408.1625",
+        "408.7625",
+        "409.1625",
+        "409.5625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4912 ",
+      "HEX ": "1330 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB OPS",
+      "Description": "Airfield Operations ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "4944 ",
+      "HEX ": "1350 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB CRASH",
+      "Description": "Crash/Fire ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "4976 ",
+      "HEX ": "1370 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB CRASH",
+      "Description": "Crash/Fire ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "6448 ",
+      "HEX ": "1930 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB SCRTY",
+      "Description": "Security Control ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "6480 ",
+      "HEX ": "1950 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB POLICE",
+      "Description": "Police Control ",
+      "Tag  ": "Deprecated "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2544 ",
+      "HEX ": "9f0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB Museum",
+      "Description": "Museum of Aviation ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2576 ",
+      "HEX ": "a10 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RAFB Museum",
+      "Description": "Museum of Aviation ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

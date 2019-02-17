@@ -1,0 +1,37 @@
+{
+  "System Name": "University of Central Florida (DMR)",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 25, 2018, 10:23 pm ((1) Talkgroups Updated (College of Business))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.5625 ",
+        "02 461.8875 ",
+        "03 462.1625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAC Staff",
+      "Description": "AAC Staff ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "49 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCF GLOBAL",
+      "Description": "Global ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

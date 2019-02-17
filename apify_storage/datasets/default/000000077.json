@@ -1,0 +1,86 @@
+{
+  "System Name": "Christopher F Salgot",
+  "Location": "Mt. Union, AZ",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "August 15, 2016, 4:11 pm (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Confirmed LCN",
+      "County": [
+        "Yavapai",
+        "02 855.5125 ",
+        "07 857.5375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-07-153 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WingfieldDis",
+      "Description": "Wingfield Disposal ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1-07-058 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD Mnt C",
+      "Description": "District wide maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-062 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD HMS Op",
+      "Description": "Heritage Middle School Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD DR ES",
+      "Description": "Del Rio Elemetary School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD TES Op",
+      "Description": "Territorial Elemetary School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD CVHS",
+      "Description": "Chino Valley High School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD Distrt",
+      "Description": "District Office ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD Bus",
+      "Description": "School Busses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1-07-083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVUSD Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

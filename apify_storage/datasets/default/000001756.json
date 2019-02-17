@@ -1,0 +1,135 @@
+{
+  "System Name": "Jefferson County Public Schools",
+  "Location": "Fairdale, KY",
+  "County": "Jefferson",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 24, 2018, 2:05 pm (Changed Site # 001 (Fairdale) to 001 (Fairdale))",
+  "System ID List": [
+    {
+      "System ID": "132"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fairdale",
+      "Freqs": [
+        "451.2625",
+        "452.3875",
+        "452.4375",
+        "453.0125",
+        "453.2875",
+        "453.3125",
+        "453.5875c",
+        "453.7625c",
+        "460.4625",
+        "460.5875c",
+        "460.6375",
+        "461.5625",
+        "461.8375",
+        "463.5625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID1",
+      "Description": "Blankenbaker ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID2",
+      "Description": "Bluelick ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID3",
+      "Description": "Burkes ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID4",
+      "Description": "Deatrick ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID5",
+      "Description": "Hoke ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID6",
+      "Description": "Jacobs ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID7",
+      "Description": "J-Town ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID8",
+      "Description": "Lee's Lane ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID9",
+      "Description": "Moore ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID10",
+      "Description": "Nichols ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID11",
+      "Description": "Spc Needs E ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID12",
+      "Description": "Spc Needs W ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID13",
+      "Description": "Wilhoit ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TGID14",
+      "Description": "Security ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

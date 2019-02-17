@@ -1,0 +1,26 @@
+{
+  "System Name": "General Motors Corporation - Bedford",
+  "Location": "Bedford, IN",
+  "County": "Lawrence",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 27, 2017, 1:28 pm (Changed Site # 001 (Bedford) to 001 (Bedford))",
+  "System ID List": [
+    {
+      "System ID": "611B"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bedford",
+        "01 938.1625 ",
+        "02 938.175 ",
+        "03 938.1875 ",
+        "04 938.200 ",
+        "05 938.2125 "
+      ]
+    }
+  ]
+}

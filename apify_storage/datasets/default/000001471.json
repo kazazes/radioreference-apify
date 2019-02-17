@@ -1,0 +1,48 @@
+{
+  "System Name": "Pepperidge Farm",
+  "Location": "Downers Grove, IL",
+  "County": "DuPage",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 29, 2019, 11:27 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bakery",
+        "01 452.6875 ",
+        "02 463.375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "PepperidgeFarm11",
+      "Description": "Pepperidge Farm: Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "PepperidgeFarm21",
+      "Description": "Pepperidge Farm: Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "PepperidgeFarm22",
+      "Description": "Pepperidge Farm: Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "PepperidgeFarm24",
+      "Description": "Pepperidge Farm: Ops ",
+      "Tag  ": "Business "
+    }
+  ]
+}

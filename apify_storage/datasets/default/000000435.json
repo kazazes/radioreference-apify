@@ -1,0 +1,115 @@
+{
+  "System Name": "Resort at Pelican Hill (Newport Beach)",
+  "Location": "Newport Beach, CA",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 26, 2018, 5:35 pm (Added Talkgroup 9 Housekeeping 3(Resort Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Pelican Hills",
+        "01 451.400 ",
+        "02 451.9375 ",
+        "03 452.050 ",
+        "04 452.2125 ",
+        "05 452.350 ",
+        "06 452.700 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "1",
+      "Description": "1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "4",
+      "Description": "4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bellman",
+      "Description": "Bellman ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "6",
+      "Description": "6 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping 1",
+      "Description": "Housekeeping 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping 2",
+      "Description": "Housekeeping 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping 3",
+      "Description": "Housekeeping 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "11",
+      "Description": "11 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "12",
+      "Description": "12 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "13",
+      "Description": "13 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "15",
+      "Description": "15 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

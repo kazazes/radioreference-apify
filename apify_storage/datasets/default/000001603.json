@@ -1,0 +1,30 @@
+{
+  "System Name": "WRC Communications",
+  "Location": "Marshalltown, IA",
+  "County": "Marshall",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "February 21, 2013, 3:39 pm (Changed Site # 000 (Marshalltown) to 000 (Marshalltown))",
+  "System ID List": [
+    {
+      "System ID": "1837",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "Marshalltown",
+      "Freqs": [
+        "852.0875",
+        "853.0875",
+        "855.0875c",
+        "856.0875a",
+        "857.0875",
+        "858.0875",
+        "859.0875",
+        "860.0875"
+      ]
+    }
+  ]
+}

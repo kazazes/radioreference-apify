@@ -1,0 +1,21 @@
+{
+  "System Name": "Palm Beach County Convention Center",
+  "Location": "West Palm Beach, FL",
+  "County": "Palm Beach",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 10, 2018, 10:32 am (Changed Site # 001 (Confirmed ) to 001 (Confirmed ))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed ",
+        "01 460.3625 ",
+        "02 460.1625 ",
+        "03 461.950 ",
+        "04 461.975 ",
+        "05 462.325 "
+      ]
+    }
+  ]
+}

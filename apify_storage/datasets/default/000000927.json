@@ -1,0 +1,43 @@
+{
+  "System Name": "Adrienne Arsht Center For The Performing Arts",
+  "Location": "Miami, FL",
+  "County": "Miami-Dade",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 7, 2017, 1:47 am ((3) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed",
+        "01 461.450 ",
+        "02 462.325 ",
+        "03 462.400 ",
+        "04 464.7875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EventService",
+      "Description": "Event Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

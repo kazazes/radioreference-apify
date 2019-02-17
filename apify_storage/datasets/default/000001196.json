@@ -1,0 +1,17 @@
+{
+  "System Name": "Queens Medical Center",
+  "Location": "Honolulu, HI, HI",
+  "County": "Honolulu",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 23, 2016, 8:59 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Honolulu",
+        "02 464.775 "
+      ]
+    }
+  ]
+}

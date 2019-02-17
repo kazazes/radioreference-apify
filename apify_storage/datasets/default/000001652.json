@@ -1,0 +1,63 @@
+{
+  "System Name": "Kansas Crossing Casino",
+  "Location": "Pittsburg, KS",
+  "County": "Crawford",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 14, 2017, 2:45 am ((6) Talkgroups Updated (Casino))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed LCN",
+        "00 451.325 ",
+        "00 451.625 ",
+        "00 451.950 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Casino Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Casino SlotTechs",
+      "Description": "Slot Machine Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Casino Food",
+      "Description": "Food and Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Pittsburg Police",
+      "Description": "Pittsburg Police Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Pittsburg Fire",
+      "Description": "Pittsburg Fire Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Pittsburg EMS",
+      "Description": "Pittsburg EMS patch ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

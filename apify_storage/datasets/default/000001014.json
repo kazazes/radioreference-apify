@@ -1,0 +1,21 @@
+{
+  "System Name": "Southeastern University (NXDN)",
+  "Location": "Lakeland, FL",
+  "County": "Polk",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 7, 2018, 11:48 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "461.900",
+        "462.100",
+        "462.300",
+        "463.350",
+        "463.750"
+      ]
+    }
+  ]
+}

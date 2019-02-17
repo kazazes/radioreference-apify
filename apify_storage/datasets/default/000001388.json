@@ -1,0 +1,27 @@
+{
+  "System Name": "Vanderburgh County Detention Center",
+  "Location": "Evansville, IN",
+  "County": "Vanderburgh",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 4, 2012, 3:52 am (Changed Site # 001 (Primary) to 001 (Evansville))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Evansville",
+        "01 460.025 ",
+        "05 460.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops Ch 1",
+      "Description": "Operations Ch 1 ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

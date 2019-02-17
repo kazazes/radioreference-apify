@@ -1,0 +1,59 @@
+{
+  "System Name": "Denver Water",
+  "Location": "Denver Metro, CO",
+  "County": "5 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 18, 2018, 5:18 pm (Changed Site # 001 (Site 1) to 001 (West Metro))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "West Metro",
+      "County": [
+        "Jefferson",
+        "01 173.375 ",
+        "02 150.980 ",
+        "03 153.3275 ",
+        "04 153.620 ",
+        "05 173.225 ",
+        "06 173.325 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "East Metro",
+      "County": [
+        "Adams",
+        "01 150.8525 ",
+        "02 153.0425 ",
+        "03 153.2825 ",
+        "04 153.7325 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "103 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Start/Stop",
+      "Description": "Start/Stop Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Repair Ops",
+      "Description": "Repair Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Load Control",
+      "Description": "Load Control ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

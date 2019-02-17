@@ -1,0 +1,64 @@
+{
+  "System Name": "Peoria Disposal Company",
+  "Location": "Groveland, IL",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "September 19, 2017, 1:54 am ((1) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Confirmed LCN",
+      "County": [
+        "Tazewell",
+        "01 452.975 ",
+        "02 464.7875 ",
+        "03 464.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pekin Ops",
+      "Description": "Operations - Pekin ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Peoria Ops 101",
+      "Description": "Operations - Peoria / E Peoria ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shop Ops",
+      "Description": "Operations - Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disposal3104",
+      "Description": "Operations (Large Container?) - Eureka / Metamora ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disposal3105",
+      "Description": "Operations (E Peoria) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-109 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disposal3109",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

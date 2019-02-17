@@ -1,0 +1,37 @@
+{
+  "System Name": "Ball State University",
+  "Location": "Muncie, IN",
+  "County": "Delaware",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 29, 2018, 12:22 pm ((2) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Campus Repeater",
+        "01 452.3625 ",
+        "02 461.9625 ",
+        "03 463.6625 ",
+        "04 463.8875 ",
+        "05 464.7375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "26 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BSU NORTH GRNDS",
+      "Description": "North Groundskeeping ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "47 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BSU SPORTS FAC",
+      "Description": "Sports Facilities ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

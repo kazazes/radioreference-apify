@@ -1,0 +1,236 @@
+{
+  "System Name": "Ocala Public Safety",
+  "Location": "Ocala, FL",
+  "County": "Marion",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 5, 2018, 12:11 am (Updated encryption settings for 13 talkgroups(Ocala Fire/Rescue))",
+  "System ID List": [
+    {
+      "System ID": "462",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Ocala",
+      "Freqs": [
+        "854.9625",
+        "856.2125",
+        "857.2125",
+        "857.9375",
+        "858.2125a",
+        "858.9375",
+        "859.2125a",
+        "859.5375a",
+        "859.9375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "50 ",
+      "HEX ": "032 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Dispatch",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "54 ",
+      "HEX ": "036 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Admin",
+      "Description": "Fire Administration ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "55 ",
+      "HEX ": "037 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Training",
+      "Description": "Fire Training ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "61 ",
+      "HEX ": "03d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Tac-1",
+      "Description": "Fire Tac-1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "62 ",
+      "HEX ": "03e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Tac-2",
+      "Description": "Fire Tac-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63 ",
+      "HEX ": "03f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Tac-3",
+      "Description": "Fire Tac-3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "73 ",
+      "HEX ": "049 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR HELO",
+      "Description": "Helicopter (Landing Zone Coordination) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "81 ",
+      "HEX ": "051 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station1",
+      "Description": "Station 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "82 ",
+      "HEX ": "052 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station2",
+      "Description": "Station 2 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "83 ",
+      "HEX ": "053 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station3",
+      "Description": "Station 3 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "84 ",
+      "HEX ": "054 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station4",
+      "Description": "Station 4 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "85 ",
+      "HEX ": "055 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station5",
+      "Description": "Station 5 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "86 ",
+      "HEX ": "056 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "OFR Station6",
+      "Description": "Station 6 ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Electric Uti",
+      "Description": "Electric Utilities ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Water Dept",
+      "Description": "Water Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cable",
+      "Description": "Cable ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "146 ",
+      "HEX ": "092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sanitation1",
+      "Description": "Sanitation-1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "147 ",
+      "HEX ": "093 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sanitation2",
+      "Description": "Sanitation-2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "151 ",
+      "HEX ": "097 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Court Mnt",
+      "Description": "Courthouse Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "161 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Signs/Traffc",
+      "Description": "Signs and Traffic Bureau ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "171 ",
+      "HEX ": "0ab ",
+      "Mode  ": "D",
+      "Alpha Tag": "ParkRangers1",
+      "Description": "Park Rangers-1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "172 ",
+      "HEX ": "0ac ",
+      "Mode  ": "D",
+      "Alpha Tag": "ParkRangers2",
+      "Description": "Park Rangers-2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "181 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Water Plant",
+      "Description": "Water Plant ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "183 ",
+      "HEX ": "0b7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Water",
+      "Description": "Water ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "221 ",
+      "HEX ": "0dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "Suntran",
+      "Description": "Suntran Buses ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

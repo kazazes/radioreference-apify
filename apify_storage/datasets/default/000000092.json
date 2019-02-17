@@ -1,0 +1,123 @@
+{
+  "System Name": "Nextel (Phoenix 3)",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 5:55 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "502B",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Phoenix",
+      "Freqs": [
+        "935.9625",
+        "936.1875",
+        "936.200",
+        "936.225",
+        "936.650",
+        "937.4125",
+        "937.450",
+        "937.4625a",
+        "937.475c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4832 ",
+      "HEX ": "12e ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW - A",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12400 ",
+      "HEX ": "307 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CAR DEALER",
+      "Description": "Car Dealership Dispatch ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22960 ",
+      "HEX ": "59b ",
+      "Mode  ": "A",
+      "Alpha Tag": "AUTO SVC A",
+      "Description": "Automotive Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23360 ",
+      "HEX ": "5b4 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AUTO SVC B",
+      "Description": "Automotive Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24896 ",
+      "HEX ": "614 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW - B",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25744 ",
+      "HEX ": "649 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CAR DLR DLVY",
+      "Description": "Car Dealership Delivery ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "9168 ",
+      "HEX ": "23d ",
+      "Mode  ": "A",
+      "Alpha Tag": "DUMP TRUCK",
+      "Description": "Dump Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12784 ",
+      "HEX ": "31f ",
+      "Mode  ": "A",
+      "Alpha Tag": "LG LOAD HAUL",
+      "Description": "Large Load Hauling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22736 ",
+      "HEX ": "58d ",
+      "Mode  ": "A",
+      "Alpha Tag": "QUARRY TRK A",
+      "Description": "Quarry Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22784 ",
+      "HEX ": "590 ",
+      "Mode  ": "A",
+      "Alpha Tag": "QUARRY TRK B",
+      "Description": "Quarry Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25264 ",
+      "HEX ": "62b ",
+      "Mode  ": "A",
+      "Alpha Tag": "GRAVEL TRK",
+      "Description": "Gravel Trucks ",
+      "Tag  ": "Business "
+    }
+  ]
+}

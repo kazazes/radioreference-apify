@@ -1,0 +1,29 @@
+{
+  "System Name": "KOAK People Mover",
+  "Location": "Oakland, CA",
+  "County": "Alameda",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "September 11, 2017, 8:22 am (Added Talkgroup 2 People Mover)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "464.7875 (CC 9)",
+        "463.5125 (CC 9)",
+        "452.4375 (CC 9)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "KOAK PeopleMover",
+      "Description": "People Mover ",
+      "Tag  ": "Business "
+    }
+  ]
+}

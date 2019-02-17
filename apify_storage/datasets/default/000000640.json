@@ -1,0 +1,76 @@
+{
+  "System Name": "Hyatt Regency Denver at Colorado Convention Center",
+  "Location": "Denver, CO",
+  "County": "Denver",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 12, 2018, 9:28 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hyatt Regency",
+        "01 461.8875 ",
+        "02 463.3875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Bellmen",
+      "Description": "Bellmen ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Concierge",
+      "Description": "Concierge ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Catering",
+      "Description": "Catering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Conferences",
+      "Description": "Conferences ",
+      "Tag  ": "Business "
+    }
+  ]
+}

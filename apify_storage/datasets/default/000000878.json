@@ -1,0 +1,48 @@
+{
+  "System Name": "United States Sugar Corporation (Clewiston)",
+  "Location": "Clewiston, FL",
+  "County": "Hendry",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "November 13, 2013, 4:55 am (Changed System ID: [0E0D | | ] to [0E0D | 76.6 | ])",
+  "System ID List": [
+    {
+      "System ID": "0E0D",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Clewiston",
+      "Freqs": [
+        "860.8875c",
+        "854.8125",
+        "855.0125",
+        "855.5125",
+        "859.9125",
+        "857.8875",
+        "857.9125",
+        "856.9125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "24624 ",
+      "HEX ": "603 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 624",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58752 ",
+      "HEX ": "e58 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Loading 752",
+      "Description": "Loading ",
+      "Tag  ": "Business "
+    }
+  ]
+}

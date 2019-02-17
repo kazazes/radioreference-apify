@@ -1,0 +1,386 @@
+{
+  "System Name": "St Lucie County Public Safety",
+  "Location": "Fort Pierce, FL",
+  "County": "St. Lucie",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "March 3, 2018, 2:16 am (Changed Site # 001 (East) to 001 (East))",
+  "System ID List": [
+    {
+      "System ID": "783c",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "East",
+      "Freqs": [
+        "851.200",
+        "853.0875",
+        "853.200",
+        "853.250",
+        "853.300c",
+        "853.675a",
+        "853.750a",
+        "853.7875a"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "West",
+      "Freqs": [
+        "860.4625",
+        "860.2375",
+        "859.4625",
+        "859.2375c",
+        "858.4625",
+        "858.2375",
+        "857.2375",
+        "856.4625",
+        "856.2375a",
+        "855.4625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1264 ",
+      "HEX ": "04f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD COM 1",
+      "Description": "FIRE COMMUNICATIONS 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1296 ",
+      "HEX ": "051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD COM 2",
+      "Description": "FIRE COMMUNICATIONS 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1520 ",
+      "HEX ": "05f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Fire 1",
+      "Description": "FIRE 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2096 ",
+      "HEX ": "083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Fire 2",
+      "Description": "FIRE 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1328 ",
+      "HEX ": "053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS 1",
+      "Description": "EMS 1 ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "1360 ",
+      "HEX ": "055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS 2",
+      "Description": "EMS 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 1",
+      "Description": "FIRE TAC 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 2",
+      "Description": "FIRE TAC 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1456 ",
+      "HEX ": "05b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 3",
+      "Description": "FIRE TAC 3 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1488 ",
+      "HEX ": "05d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 4",
+      "Description": "FIRE TAC 4 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1904 ",
+      "HEX ": "077 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 5",
+      "Description": "FIRE TAC 5 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1936 ",
+      "HEX ": "079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 6",
+      "Description": "FIRE TAC 6 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1968 ",
+      "HEX ": "07b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TAC 7",
+      "Description": "FIRE TAC 7 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2000 ",
+      "HEX ": "07d ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS MARTINW",
+      "Description": "EMS-To-Martin West ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "2032 ",
+      "HEX ": "07f ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS TMC",
+      "Description": "EMS-To-Tradition Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "2064 ",
+      "HEX ": "081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS DARWIN",
+      "Description": "EMS-To-Darwin Square ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Med 1",
+      "Description": "Med 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1712 ",
+      "HEX ": "06b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Med 2",
+      "Description": "Med 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2128 ",
+      "HEX ": "085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Med 3",
+      "Description": "Med 3 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1584 ",
+      "HEX ": "063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD HAZ/ADMIN",
+      "Description": "FIRE HAZMAT/ADMINISTRATION ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS LMC",
+      "Description": "EMS-TO-Lawnwood Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS PSL",
+      "Description": "EMS-TO-Port Saint Lucie Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1840 ",
+      "HEX ": "073 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS IRMH",
+      "Description": "EMS-TO-Indian River Medical Center ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1872 ",
+      "HEX ": "075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS MMMC",
+      "Description": "EMS-TO-Martin Memorial Medical Center ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1744 ",
+      "HEX ": "06d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TRNG 1",
+      "Description": "FIRE TRAINING 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TRNG 2",
+      "Description": "FIRE TRAINING 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD TRNG 3",
+      "Description": "FIRE TRAINING 3 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1552 ",
+      "HEX ": "061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD OPS",
+      "Description": "FIRE OPERATIONS ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1808 ",
+      "HEX ": "071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD MAINT",
+      "Description": "FIRE MAINTENANCE ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "42576 ",
+      "HEX ": "a65 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AIR RESCUE",
+      "Description": "AIR RESCUE ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8080 ",
+      "HEX ": "1f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC MOT 1",
+      "Description": "MOTOROLA COMMUNICATIONS ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35280 ",
+      "HEX ": "89d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC MOT 2",
+      "Description": "MOTOROLA COMMUNICATIONS ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "7920 ",
+      "HEX ": "1ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC TECH SVS",
+      "Description": "SLC TECH. SERVICE ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35120 ",
+      "HEX ": "893 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC RADIO 4",
+      "Description": "SLC TECH. SERVICE ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "7952 ",
+      "HEX ": "1f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC COMMS",
+      "Description": "COMMUNICATIONS - Jail Maintenance ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "7984 ",
+      "HEX ": "1f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC RADIO 1",
+      "Description": "RADIO SERVICE 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "8016 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC RADIO 2",
+      "Description": "RADIO SERVICE 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "8048 ",
+      "HEX ": "1f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SLC RADIO 3",
+      "Description": "RADIO SERVICE 3 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35152 ",
+      "HEX ": "895 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC RADIO 5",
+      "Description": "COMMUNICATIONS ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35184 ",
+      "HEX ": "897 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC RADIO 6",
+      "Description": "RADIO SERVICE 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35216 ",
+      "HEX ": "899 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC RADIO 7",
+      "Description": "RADIO SERVICE 2 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "35248 ",
+      "HEX ": "89b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC RADIO 8",
+      "Description": "RADIO SERVICE 3 ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

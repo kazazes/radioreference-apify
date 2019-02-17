@@ -1,0 +1,85 @@
+{
+  "System Name": "Waikiki Beach Marriott",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 14, 2017, 3:34 pm (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "03 461.525 ",
+        "07 463.3125 ",
+        "11 464.275 ",
+        "15 462.775 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Security",
+      "Description": "Security [Old] ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-03-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Hskpng",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Food/Bev",
+      "Description": "Food and Beverages ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Room Svc",
+      "Description": "Room Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Bellman",
+      "Description": "Bellman ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Guest",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Security 1",
+      "Description": "Security: Primary ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-07-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WBM Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

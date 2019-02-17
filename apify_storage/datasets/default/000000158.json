@@ -1,0 +1,18 @@
+{
+  "System Name": "Stuttgart Fire and Rescue",
+  "Location": "Stuttgart, AR",
+  "County": "Arkansas",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 20, 2018, 12:03 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 453.1875 ",
+        "02 460.600 "
+      ]
+    }
+  ]
+}

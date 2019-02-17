@@ -1,0 +1,34 @@
+{
+  "System Name": "Gila River Casinos - Vee Quiva",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 4, 2016, 11:10 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Vee Quiva",
+        "01 461.025 ",
+        "02 461.325 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "System Name": "Business Radio Sales & Service (LTR)",
+  "Location": "Iowa City, IA",
+  "County": "Johnson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 12:26 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "02 860.6875 ",
+        "06 859.6875 ",
+        "10 858.6875 ",
+        "14 857.6875 ",
+        "18 856.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-06-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Constr 056",
+      "Description": "Construction Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CampusTowing",
+      "Description": "Campus Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 076",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-06-091 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hauling 091",
+      "Description": "Materials Hauling Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-10-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Marcos Taxi",
+      "Description": "Marcos Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-10-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 042",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-10-048 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 048",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-10-057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 057",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-10-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CoravilleBus",
+      "Description": "Coralville Transit Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-11-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 001",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-11-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 002",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-11-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 005",
+      "Description": "Unidentified Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-18-009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage 009",
+      "Description": "Trash Removal ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 115",
+      "Description": "Snow Removal ",
+      "Tag  ": "Business "
+    }
+  ]
+}

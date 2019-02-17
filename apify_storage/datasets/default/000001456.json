@@ -1,0 +1,114 @@
+{
+  "System Name": "NorthShore University HealthSystem",
+  "Location": "Various, IL",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 30, 2018, 7:09 pm (Changed Site # 004 (Skokie Hospital) to 004 (Skokie Hospital))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Evanston Hospital",
+      "County": [
+        "Cook",
+        "01 464.325 ",
+        "02 451.9375 ",
+        "03 463.2875 ",
+        "04 462.1125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Glenbrook Hospital",
+      "County": [
+        "Cook",
+        "01 452.125 ",
+        "02 452.400 ",
+        "03 452.625 ",
+        "04 452.750 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Highland Park Hospital",
+      "County": [
+        "Lake",
+        "01 464.325 ",
+        "02 451.8375 ",
+        "03 463.9125 ",
+        "04 463.3375 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Skokie Hospital",
+      "County": [
+        "Cook",
+        "01 463.2375 ",
+        "02 463.6625 ",
+        "03 462.0875 ",
+        "04 463.5125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Evstn Hosp PS",
+      "Description": "Public Safety: Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Evstn Hosp Maint",
+      "Description": "Operations: Maintenance/Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Evstn Hosp Valet",
+      "Description": "Operations: Valet Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Evstn Hosp 113",
+      "Description": "Operations: Electricians ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "192 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Skokie Hosp PS",
+      "Description": "Public Safety: Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "197 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Skokie Hosp 197",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "198 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Skokie Hosp Mntc",
+      "Description": "Operations: Maintenance/Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "199 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Skokie Hosp 199",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

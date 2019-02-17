@@ -1,0 +1,176 @@
+{
+  "System Name": "West Hartford",
+  "Location": "West Hartford, CT",
+  "County": "Hartford",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 30, 2013, 4:37 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "6F21",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.075",
+        "851.325",
+        "851.800c",
+        "852.550c",
+        "853.2875c",
+        "853.8125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-All-Talk",
+      "Description": "Police All-Talk ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Dispatch",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Patrol",
+      "Description": "Police Patrol Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Traffic",
+      "Description": "Police Traffic ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Supervsr",
+      "Description": "Police Supervisory ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Ops-1",
+      "Description": "Police Special Operations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD-Hotline",
+      "Description": "Hotline Link ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5616 ",
+      "HEX ": "15f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks-ATG",
+      "Description": "Parks Department All-Talk ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5648 ",
+      "HEX ": "161 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks-Admin",
+      "Description": "Parks Department Administration ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5712 ",
+      "HEX ": "165 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks-Common",
+      "Description": "Parks Department Common ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7216 ",
+      "HEX ": "1c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Util-ATG",
+      "Description": "Utilities - Facilities All Talk ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7248 ",
+      "HEX ": "1c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Util-Admin",
+      "Description": "Utilities - Facilities Administration ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7344 ",
+      "HEX ": "1cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Util-Common",
+      "Description": "Utilities - Facilities Common ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8816 ",
+      "HEX ": "227 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Citywide-ATG",
+      "Description": "Citywide All-Talk ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8848 ",
+      "HEX ": "229 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Citywide-Com",
+      "Description": "Citywide Common ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "12016 ",
+      "HEX ": "2ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "Citywide-Cmd",
+      "Description": "Citywide Command ",
+      "Tag  ": "Multi-Tac "
+    },
+    {
+      "DEC ": "15216 ",
+      "HEX ": "3b7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "E911-Safety",
+      "Description": "Citywide 911 Help Channel (Public Safety) ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "16000 ",
+      "HEX ": "3e8 ",
+      "Mode  ": "A",
+      "Alpha Tag": "E911-Service",
+      "Description": "Citywide 911 Help Channel (Non-Public Safety) ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

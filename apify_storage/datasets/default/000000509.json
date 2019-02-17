@@ -1,0 +1,28 @@
+{
+  "System Name": "San Diego County System 72",
+  "Location": "Santee, CA",
+  "County": "San Diego",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 15, 2018, 7:16 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "6A5",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Las Colinas Detention and Reentry Facility",
+      "Freqs": [
+        "769.08125",
+        "769.35625c",
+        "769.85625",
+        "770.10625",
+        "770.35625"
+      ]
+    }
+  ]
+}

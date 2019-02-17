@@ -1,0 +1,39 @@
+{
+  "System Name": "Memorial Medical Center MOT",
+  "Location": "Savannah, GA",
+  "County": "Chatham",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:37 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "3E3C",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "854.2125",
+        "855.2875c",
+        "856.2625c",
+        "857.2625",
+        "858.2625",
+        "859.2625c",
+        "860.2625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8336 ",
+      "HEX ": "209 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

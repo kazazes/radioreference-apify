@@ -1,0 +1,50 @@
+{
+  "System Name": "Forsyth County",
+  "Location": "Forsyth County, GA",
+  "County": "Forsyth",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 18, 2019, 9:18 pm (Changed Site # 005 (Simulcast) to 007 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "17D",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.100a",
+        "851.650c",
+        "852.6625a",
+        "852.8625a",
+        "853.275",
+        "853.600",
+        "853.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "35017 ",
+      "HEX ": "88c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Event 4",
+      "Description": "Event 4 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "35018 ",
+      "HEX ": "88ca ",
+      "Mode  ": "DE",
+      "Alpha Tag": "CPD Dispatch",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

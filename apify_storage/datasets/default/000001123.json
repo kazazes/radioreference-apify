@@ -1,0 +1,49 @@
+{
+  "System Name": "Westin Peachtree Plaza Hotel LTR",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:44 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Atlanta",
+        "01 464.900 ",
+        "05 463.450 ",
+        "10 451.500 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WPP Bellmen",
+      "Description": "Bellmen ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WPP Engineer",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WPP Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-05-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WPP Requests",
+      "Description": "Room Requests ",
+      "Tag  ": "Business "
+    }
+  ]
+}

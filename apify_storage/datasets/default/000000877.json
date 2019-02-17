@@ -1,0 +1,23 @@
+{
+  "System Name": "Robert C Crews II",
+  "Location": "Avon Park, FL",
+  "County": "Highlands",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 6, 2004, 9:03 pm (Changed Site-001)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.200 ",
+        "02 N/A ",
+        "03 461.300 ",
+        "04 N/A ",
+        "05 N/A ",
+        "06 N/A ",
+        "07 461.250 "
+      ]
+    }
+  ]
+}

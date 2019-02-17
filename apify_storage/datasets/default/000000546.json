@@ -1,0 +1,22 @@
+{
+  "System Name": "Hewlett Packard",
+  "Location": "Palo Alto, CA",
+  "County": "Santa Clara",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 13, 2018, 3:02 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Black Mtn.",
+        "01 938.8875 ",
+        "02 938.900 ",
+        "03 938.9125 ",
+        "04 938.925 ",
+        "06 938.9375c ",
+        "07 938.950 "
+      ]
+    }
+  ]
+}

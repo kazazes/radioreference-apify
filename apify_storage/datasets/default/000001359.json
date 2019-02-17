@@ -1,0 +1,104 @@
+{
+  "System Name": "Indiana University",
+  "Location": "Bloomington, IN",
+  "County": "Monroe",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 26, 2017, 11:40 pm (Changed Site # 002 (Campus 800 Mhz System) to 002 (Campus 800 Mhz System))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Campus Bus System",
+        "01 461.5625 ",
+        "03 464.8625 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Campus 800 Mhz System",
+        "01 856.8875 ",
+        "09 858.8875 ",
+        "13 859.8875 ",
+        "17 860.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Shuttle",
+      "Description": "Campus Shuttle Bus - Main Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-03-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Maint B",
+      "Description": "Maintenance - Base (Duplex with TG: 0-03-151) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-03-151 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Maint M",
+      "Description": "Maintenance - Mobiles (Duplex with TG: 0-03-150) ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Maint DSP",
+      "Description": "Building Maintenance Dispatch ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-05-151 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Parking",
+      "Description": "Parking Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-09-145 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU UITS/RITS",
+      "Description": "UITS/RITS Technology Service Centers ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-17-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Maint 1",
+      "Description": "Maintenance/Custodial 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-17-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU Maint 2",
+      "Description": "Maintenance/Custodial 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-17-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU RPS 1",
+      "Description": "Residential Programs and Services Catering 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-17-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IU RPS 2",
+      "Description": "Residential Programs and Services Catering 2 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

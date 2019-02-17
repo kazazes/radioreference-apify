@@ -1,0 +1,36 @@
+{
+  "System Name": "Highland Wireless (Fort Lauderdale-Hollywood International Airport)",
+  "Location": "Fort Lauderdale, FL",
+  "County": "Broward",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 9, 2018, 2:36 am (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 471.750 ",
+        "02 471.800 ",
+        "03 472.450 ",
+        "04 472.550 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MenziesAviation1",
+      "Description": "Menzies Aviation 1 (Norwegian Airlines contractor) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MenziesAviation2",
+      "Description": "Menzies Aviation 2 (Norwegian Airlines contractor) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

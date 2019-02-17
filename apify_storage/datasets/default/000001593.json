@@ -1,0 +1,162 @@
+{
+  "System Name": "Iowa City",
+  "Location": "Iowa City, IA",
+  "County": "Johnson",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 2, 2013, 9:57 am (Changed Site # 001 (Iowa City) to 001 (Iowa City))",
+  "System ID List": [
+    {
+      "System ID": "3323",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Iowa City",
+      "Freqs": [
+        "856.2625",
+        "857.2625",
+        "858.2625a",
+        "859.2625",
+        "855.7125",
+        "856.9375a",
+        "860.2625a",
+        "860.9875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6768 ",
+      "HEX ": "1a7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Public Woks 1",
+      "Description": "Public Works 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6800 ",
+      "HEX ": "1a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Public Woks 2",
+      "Description": "Public Works 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6864 ",
+      "HEX ": "1ad ",
+      "Mode  ": "A",
+      "Alpha Tag": "Street Dept",
+      "Description": "Street Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6896 ",
+      "HEX ": "1af ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water Dept",
+      "Description": "Water Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7088 ",
+      "HEX ": "1bb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Inspections",
+      "Description": "Inspection Department ",
+      "Tag  ": "Public Works "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "13488 ",
+      "HEX ": "34b ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI DPS Ops",
+      "Description": "Dept of Public Safety Operations ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "13520 ",
+      "HEX ": "34d ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI DPS Info",
+      "Description": "Dept of Public Safety Info ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "13552 ",
+      "HEX ": "34f ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI DPS C/C",
+      "Description": "Dept of Public Safety Car-to-Car ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "13584 ",
+      "HEX ": "351 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI DPS Tac",
+      "Description": "Dept of Public Safety Tactical ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "13616 ",
+      "HEX ": "353 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Security",
+      "Description": "Security Officers ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "13712 ",
+      "HEX ": "359 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Security",
+      "Description": "Security Officers ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "12816 ",
+      "HEX ": "321 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Ops 12816",
+      "Description": "Campus Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "12848 ",
+      "HEX ": "323 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Ops 12848",
+      "Description": "Campus Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "12880 ",
+      "HEX ": "325 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Ops 12880",
+      "Description": "Campus Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "12944 ",
+      "HEX ": "329 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI Parking",
+      "Description": "Parking Control ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "13104 ",
+      "HEX ": "333 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI MotorPool",
+      "Description": "Motor Pool ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

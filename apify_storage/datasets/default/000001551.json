@@ -1,0 +1,138 @@
+{
+  "System Name": "Citgo Refinery (Romeoville)",
+  "Location": "Romeoville, IL",
+  "County": "Will",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "August 9, 2011, 7:46 pm (Changed System ID: [562D | | ] to [562D | 83.72 | ])",
+  "System ID List": [
+    {
+      "System ID": "562D",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "935.1875",
+        "936.9125c",
+        "936.725",
+        "937.1375",
+        "937.6375c",
+        "938.2125c",
+        "938.6375c",
+        "939.175c",
+        "938.8875c",
+        "935.4875c"
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Romeoville (Will)",
+      "Freqs": [
+        "935.4625",
+        "935.4875",
+        "936.9125",
+        "938.8875",
+        "938.900",
+        "939.450c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "65535 ",
+      "HEX ": "fff ",
+      "Mode  ": "A",
+      "Alpha Tag": "All Call",
+      "Description": "Systemwide All Call ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spng Coker1",
+      "Description": "Sponge Coker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Udex/Unisar",
+      "Description": "Udex/Unisar ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6608 ",
+      "HEX ": "19d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCC",
+      "Description": "FCC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6736 ",
+      "HEX ": "1a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sulfer",
+      "Description": "Sulfer ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6864 ",
+      "HEX ": "1ad ",
+      "Mode  ": "A",
+      "Alpha Tag": "Crude/Gas",
+      "Description": "Crude/Gas ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6992 ",
+      "HEX ": "1b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hydrotreat",
+      "Description": "Hydrotreat ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7120 ",
+      "HEX ": "1bd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cat Reformer",
+      "Description": "Cat Reformer ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7248 ",
+      "HEX ": "1c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Needle Coker",
+      "Description": "Needle Coker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7376 ",
+      "HEX ": "1cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Conservation",
+      "Description": "Conservation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7504 ",
+      "HEX ": "1d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Alky",
+      "Description": "Alky ",
+      "Tag  ": "Business "
+    }
+  ]
+}

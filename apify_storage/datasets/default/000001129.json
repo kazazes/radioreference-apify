@@ -1,0 +1,90 @@
+{
+  "System Name": "Habersham County",
+  "Location": "Clarkesville, GA",
+  "County": "Habersham",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 23, 2018, 11:08 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "196"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Ivy Mtn (N of Clarkesville)",
+        "01 152.7725c ",
+        "02 152.0525 ",
+        "03 152.5925 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Central County",
+        "01 152.5025c ",
+        "02 152.2025 ",
+        "03 152.8025 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Tallulah Falls",
+        "01 152.1575c ",
+        "02 152.8175 ",
+        "03 152.6525 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "West County",
+        "01 152.7875c ",
+        "02 152.5175 ",
+        "03 152.2175 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "300 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Disp",
+      "Description": "Fire & EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "301 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire North",
+      "Description": "Fire North - Fireground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "302 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Central",
+      "Description": "Fire Central - Fireground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "303 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire South",
+      "Description": "Fire South - Fireground ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "604 ",
+      "Mode  ": "T",
+      "Alpha Tag": "School Bus",
+      "Description": "School Bus Dispatch ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

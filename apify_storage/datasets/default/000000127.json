@@ -1,0 +1,149 @@
+{
+  "System Name": "Action Communications 2",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "June 6, 2009, 8:27 pm (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "5a3e",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.875",
+        "857.875c",
+        "858.875c",
+        "859.875c",
+        "860.875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1552 ",
+      "HEX ": "061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CAR RENTAL",
+      "Description": "Car Rental ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2704 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PLUMBING",
+      "Description": "Plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BUILD/PAINT",
+      "Description": "Homebuilder-Painters ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3792 ",
+      "HEX ": "0ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "CARPET CLEAN",
+      "Description": "Carpet Cleaning ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4624 ",
+      "HEX ": "121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECT MAINT",
+      "Description": "Electrical Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6160 ",
+      "HEX ": "181 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY",
+      "Description": "Private Security (Portefino? Apartments) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12352 ",
+      "HEX ": "304 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOME BUILD",
+      "Description": "Home Builder ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12912 ",
+      "HEX ": "327 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRUCKING 1",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26752 ",
+      "HEX ": "688 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRUCKING 2",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26800 ",
+      "HEX ": "68b ",
+      "Mode  ": "A",
+      "Alpha Tag": "CLEANERS",
+      "Description": "Cleaners ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26896 ",
+      "HEX ": "691 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRUCKING 3",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26912 ",
+      "HEX ": "692 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CAR REPAIR",
+      "Description": "Car Repair ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41376 ",
+      "HEX ": "a1a ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONSTRUCTION",
+      "Description": "Construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42272 ",
+      "HEX ": "a52 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRANSPORT",
+      "Description": "Transportation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42416 ",
+      "HEX ": "a5b ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRSH REMOVAL",
+      "Description": "Commercial Trash Removal ",
+      "Tag  ": "Business "
+    }
+  ]
+}

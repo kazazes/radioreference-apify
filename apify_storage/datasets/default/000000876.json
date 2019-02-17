@@ -1,0 +1,172 @@
+{
+  "System Name": "Hernando County",
+  "Location": "Hernando County, FL",
+  "County": "Hernando",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 25, 2018, 9:46 am ((3) Talkgroups Updated (Hernando County Fire))",
+  "System ID List": [
+    {
+      "System ID": "4F3B",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "852.3375",
+        "853.3375",
+        "854.9875",
+        "855.9875",
+        "856.4875",
+        "856.9875",
+        "857.4875c",
+        "858.4875a",
+        "859.4875a",
+        "860.4875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMA-PRIMARY",
+      "Description": "Emergency Management Agency ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4592 ",
+      "HEX ": "11f ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-DISASTER",
+      "Description": "Countywide Disaster / Drills ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "5552 ",
+      "HEX ": "15b ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-E911-I/A",
+      "Description": "Interagency Public Safety ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "14448 ",
+      "HEX ": "387 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-FIRE-AID",
+      "Description": "Fire Mutual Aid ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "54272 ",
+      "HEX ": "d40 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-INTEROP-1",
+      "Description": "Interagency Ch-1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "54784 ",
+      "HEX ": "d60 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-INTEROP-2",
+      "Description": "Interagency Ch-2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "55808 ",
+      "HEX ": "da0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-INTEROP-3",
+      "Description": "Interagency Ch-3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "60928 ",
+      "HEX ": "ee0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-E911-DISP",
+      "Description": "E911 Dispatch ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "62976 ",
+      "HEX ": "f60 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-EMERGNCY1",
+      "Description": "Emergency One ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "63488 ",
+      "HEX ": "f80 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-EMERGNCY2",
+      "Description": "Emergency Two ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "64000 ",
+      "HEX ": "fa0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-EMERGNCY3",
+      "Description": "Emergency Three ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "64512 ",
+      "HEX ": "fc0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-EMERGNCY4",
+      "Description": "Emergency Four ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "65024 ",
+      "HEX ": "fe0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HC-EMERGNCY5",
+      "Description": "Emergency Five ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brooksville FG",
+      "Description": "Fireground ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "832 ",
+      "HEX ": "034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brooksville PD-D",
+      "Description": "Police Detectives ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brooksville-1",
+      "Description": "Police / Fire Operations 1 ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "880 ",
+      "HEX ": "037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brooksville-2",
+      "Description": "Police / Fire Operations 2 ",
+      "Tag  ": "Multi-Talk "
+    }
+  ]
+}

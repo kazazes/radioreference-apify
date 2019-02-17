@@ -1,0 +1,21 @@
+{
+  "System Name": "Ark Encounter",
+  "Location": "Williamstown, KY",
+  "County": "Grant",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "August 17, 2016, 1:20 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "451.3125",
+        "451.7375",
+        "452.1125",
+        "452.6375"
+      ]
+    }
+  ]
+}

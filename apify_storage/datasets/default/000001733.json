@@ -1,0 +1,29 @@
+{
+  "System Name": "University of Kentucky Medical Center",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 17, 2013, 8:36 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lexington",
+        "01 461.8125 ",
+        "02 463.3875 ",
+        "03 464.075 ",
+        "04 464.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UKMC-Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

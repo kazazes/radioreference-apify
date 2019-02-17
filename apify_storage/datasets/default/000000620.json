@@ -1,0 +1,20 @@
+{
+  "System Name": "JTC Communications",
+  "Location": ", CO",
+  "County": "Clear Creek",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 2, 2009, 2:30 am (Added Site # 1 (JTC Communications))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "JTC Communications",
+        "05 462.1375 ",
+        "09 464.7375 ",
+        "13 464.6875 ",
+        "17 463.8875 "
+      ]
+    }
+  ]
+}

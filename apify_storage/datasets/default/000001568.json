@@ -1,0 +1,86 @@
+{
+  "System Name": "John Deere - Waterloo",
+  "Location": "Waterloo, IA",
+  "County": "Black Hawk",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 3, 2017, 5:24 pm (Added Talkgroup 622 Fire Brigade)",
+  "System ID List": [
+    {
+      "System ID": "112"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "112-1 (400 Westfield Ave)",
+        "01 856.3125c ",
+        "02 857.3125 ",
+        "03 858.3125 ",
+        "04 859.3125 ",
+        "05 860.3125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "112-2 (3500 E Donald)",
+        "01 856.4125 ",
+        "02 857.4125c ",
+        "03 858.4125 ",
+        "04 859.4125 ",
+        "05 860.4125 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "112-3 (2000 Westfield Ave)",
+        "01 854.7625 ",
+        "02 855.6375 ",
+        "03 858.3625 ",
+        "04 859.3625 ",
+        "05 860.8125 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "112-4 (675 Cedar Heights Dr)",
+        "01 857.3625c ",
+        "02 860.8875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "112-5 (3801 W Ridgeway Ave)",
+        "01 854.9125 ",
+        "02 855.6125 ",
+        "03 859.3875 ",
+        "04 860.3625c ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "621 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Brigade",
+      "Description": "Fire Brigade ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "622 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Brigade",
+      "Description": "Fire Brigade ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ]
+}

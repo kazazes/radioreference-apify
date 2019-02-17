@@ -1,0 +1,32 @@
+{
+  "System Name": "Vision Enterprises, Inc.",
+  "Location": "Kahului, HI",
+  "County": "Maui",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 22, 2007, 5:20 am (Added Site # 2 (Lahaina))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Kula",
+        "01 451.475 ",
+        "02 451.650 ",
+        "03 451.900 ",
+        "04 452.125 ",
+        "05 452.850 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Lahaina",
+        "01 451.725 ",
+        "02 452.175 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

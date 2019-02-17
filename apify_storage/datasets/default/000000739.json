@@ -1,0 +1,61 @@
+{
+  "System Name": "Dominion Nuclear (Millstone)",
+  "Location": "Waterford, CT",
+  "County": "New London",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 1, 2011, 12:13 am (Updated Talkgroups (4 Updated))",
+  "System ID List": [
+    {
+      "System ID": "441C",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Waterford",
+      "Freqs": [
+        "856.4625c",
+        "857.4625",
+        "858.4625",
+        "859.4625c",
+        "855.1375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Training",
+      "Description": "Training ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "System Name": "Lee County Public Safety (Motorola)",
+  "Location": "Lee County, FL",
+  "County": "Lee",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 25, 2019, 1:08 pm (Added Talkgroup 34608 Training (Lee County Fire))",
+  "System ID List": [
+    {
+      "System ID": "4A16",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.675",
+        "852.175",
+        "852.625",
+        "852.675",
+        "852.875",
+        "853.125",
+        "853.175",
+        "853.375",
+        "853.525c",
+        "853.625c",
+        "853.775c",
+        "853.875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9136 ",
+      "HEX ": "23b ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD DISP-1",
+      "Description": "Dispatch-1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "8656 ",
+      "HEX ": "21d ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD DISP-2",
+      "Description": "Dispatch-2 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "8688 ",
+      "HEX ": "21f ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD DISP-3",
+      "Description": "Dispatch-3 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "8864 ",
+      "HEX ": "22a ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD South",
+      "Description": "South ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "7792 ",
+      "HEX ": "1e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 1",
+      "Description": "Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7824 ",
+      "HEX ": "1e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 2",
+      "Description": "Tac 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7856 ",
+      "HEX ": "1eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 3",
+      "Description": "Tac 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7888 ",
+      "HEX ": "1ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 4",
+      "Description": "Tac 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7920 ",
+      "HEX ": "1ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 5",
+      "Description": "Tac 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7952 ",
+      "HEX ": "1f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 6",
+      "Description": "Tac 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "7984 ",
+      "HEX ": "1f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 7",
+      "Description": "Tac 7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8016 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 8",
+      "Description": "Tac 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8240 ",
+      "HEX ": "203 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 13",
+      "Description": "Tac 13 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8496 ",
+      "HEX ": "213 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 21",
+      "Description": "Tac 21 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8528 ",
+      "HEX ": "215 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 22",
+      "Description": "Tac 22 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8560 ",
+      "HEX ": "217 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 23",
+      "Description": "Tac 23 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8592 ",
+      "HEX ": "219 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 24",
+      "Description": "Tac 24 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8624 ",
+      "HEX ": "21b ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 25",
+      "Description": "Tac 25 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55664 ",
+      "HEX ": "d97 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 26",
+      "Description": "Tac 26 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55696 ",
+      "HEX ": "d99 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 27",
+      "Description": "Tac 27 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "56240 ",
+      "HEX ": "dbb ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 31",
+      "Description": "Tac 31 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "56272 ",
+      "HEX ": "dbd ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 32",
+      "Description": "Tac 32 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "56304 ",
+      "HEX ": "dbf ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 33",
+      "Description": "Tac 33 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "56336 ",
+      "HEX ": "dc1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 34",
+      "Description": "Tac 34 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "56368 ",
+      "HEX ": "dc3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Tac 35",
+      "Description": "Tac 35 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55504 ",
+      "HEX ": "d8d ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Alert",
+      "Description": "Alert ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "55536 ",
+      "HEX ": "d8f ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD AreaCom",
+      "Description": "Area Com ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9104 ",
+      "HEX ": "239 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD EmerOps",
+      "Description": "Emergency Ops ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "55568 ",
+      "HEX ": "d91 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD IC 2",
+      "Description": "IC-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55728 ",
+      "HEX ": "d9b ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD IC 3",
+      "Description": "IC 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55856 ",
+      "HEX ": "da3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD PLN/LG3",
+      "Description": "PLN/LG-3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "55600 ",
+      "HEX ": "d93 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Ops 2",
+      "Description": "Ops 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55760 ",
+      "HEX ": "d9d ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Ops 3",
+      "Description": "Ops 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55824 ",
+      "HEX ": "da1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Safety3",
+      "Description": "Safety 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55632 ",
+      "HEX ": "d95 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Stage 2",
+      "Description": "Stage 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "55792 ",
+      "HEX ": "d9f ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCFD Stage 3",
+      "Description": "Stage 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9040 ",
+      "HEX ": "235 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lee-Collier1",
+      "Description": "Lee-Collier 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9072 ",
+      "HEX ": "237 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lee-Collier2",
+      "Description": "Lee-Collier 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "29232 ",
+      "HEX ": "723 ",
+      "Mode  ": "A",
+      "Alpha Tag": "N FtMy FD T1",
+      "Description": "North Fort Myers Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "30128 ",
+      "HEX ": "75b ",
+      "Mode  ": "A",
+      "Alpha Tag": "B Spr FD T1",
+      "Description": "Bonita Springs Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "31024 ",
+      "HEX ": "793 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FMB FD Tac 1",
+      "Description": "Fort Myers Beach Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "32656 ",
+      "HEX ": "7f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Iona FD Tac1",
+      "Description": "Iona McGregor Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "33328 ",
+      "HEX ": "823 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tice FD Tac1",
+      "Description": "Tice Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "34576 ",
+      "HEX ": "871 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Leh Acres FD",
+      "Description": "Lehigh Acres Fire (Comm. Ch.) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "36528 ",
+      "HEX ": "8eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pine FD Ops1",
+      "Description": "Pine Island Fire - Ops 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "36528 ",
+      "HEX ": "8eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pine FD Ops",
+      "Description": "Pine Island Fire - Ops ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37776 ",
+      "HEX ": "939 ",
+      "Mode  ": "A",
+      "Alpha Tag": "S Trl FD T1",
+      "Description": "South Trail Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "39696 ",
+      "HEX ": "9b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCP FD Tac1",
+      "Description": "San Carlos Park Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "40976 ",
+      "HEX ": "a01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Usseppa FD",
+      "Description": "Usseppa Island Fire - Admin ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "43888 ",
+      "HEX ": "ab7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bayshore FD",
+      "Description": "Bayshore Fire - Ops ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "44496 ",
+      "HEX ": "add ",
+      "Mode  ": "A",
+      "Alpha Tag": "Alva FD Tac1",
+      "Description": "Alva Fire - Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "34608 ",
+      "HEX ": "873 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Training ",
+      "Description": "Training  ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "60432 ",
+      "HEX ": "ec1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lehigh FD",
+      "Description": "Lehigh Acres ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "LCPA Tac 1",
+      "Description": "LCPA Operations Tactical 1 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10608 ",
+      "HEX ": "297 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LC Red Cross",
+      "Description": "Lee County Red Cross ",
+      "Tag  ": "Other "
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "System Name": "Kahului Airport",
+  "Location": "Kahului, HI",
+  "County": "Maui",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "May 30, 2017, 7:23 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Airport",
+      "Freqs": [
+        "855.1125",
+        "856.9625a",
+        "857.9625a",
+        "858.9625a",
+        "859.9625c"
+      ]
+    }
+  ]
+}

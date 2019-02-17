@@ -1,0 +1,88 @@
+{
+  "System Name": "Macon-Bibb County P25",
+  "Location": "Macon, GA",
+  "County": "Bibb",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 2, 2019, 2:01 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1B6",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Macon",
+      "Freqs": [
+        "854.9125a",
+        "854.9875a",
+        "855.2125a",
+        "856.4875c",
+        "857.2375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "417 ",
+      "HEX ": "1a1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCSO SRO",
+      "Description": "School Resource Officer ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "531 ",
+      "HEX ": "213 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Macon Water",
+      "Description": "Macon Water Authority ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "607 ",
+      "HEX ": "25f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Macon Transit",
+      "Description": "Macon Transit Authority Buses ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3603 ",
+      "HEX ": "e13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MPD Control 1",
+      "Description": "Precinct 1/Precinct 2 Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "3605 ",
+      "HEX ": "e15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MPD Control 2",
+      "Description": "Precinct 3/Precinct 4 Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "3607 ",
+      "HEX ": "e17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MPD Talkaround",
+      "Description": "Talkaround ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "3609 ",
+      "HEX ": "e19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MPD NCIC 4",
+      "Description": "NCIC Records ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

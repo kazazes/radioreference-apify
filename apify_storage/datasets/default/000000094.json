@@ -1,0 +1,87 @@
+{
+  "System Name": "Peoria City Services",
+  "Location": "Peoria, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "October 22, 2011, 7:13 pm (Updated mode assignments for 4 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "1a2a",
+      "Connect Tone": "97.30"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.2125",
+        "855.4625c",
+        "855.7125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "100-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CITY SVCS",
+      "Description": "City Services ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "Subfleet ": "100-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "STREETS",
+      "Description": "Street Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "Subfleet ": "100-12  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DIAL-A-RIDE",
+      "Description": "Dial-A-Ride ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "100-2  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SANITATION",
+      "Description": "Sanitation ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

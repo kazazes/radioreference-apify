@@ -1,0 +1,45 @@
+{
+  "System Name": "Federal Bureau of Prisons (Aliceville, AL)",
+  "Location": "Aliceville, AL",
+  "County": "Pickens",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 28, 2016, 10:06 pm (Updated Talkgroups (2 Updated))",
+  "System ID List": [
+    {
+      "System ID": "4E9",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Aliceville",
+      "Freqs": [
+        "406.2125c",
+        "407.0125a",
+        "408.350a",
+        "409.0125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BOP Alice 7",
+      "Description": "Operations 7 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BOP Alice 8",
+      "Description": "Operations 8 ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

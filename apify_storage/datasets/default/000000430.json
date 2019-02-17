@@ -1,0 +1,30 @@
+{
+  "System Name": "Orange County Transportation Authority",
+  "Location": "Orange, CA",
+  "County": "Orange",
+  "System Type": "OpenSky 9600 baud",
+  "System Voice": "TDMA Digital",
+  "Last Updated": "August 30, 2015, 6:38 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Olinda Peak (Brea)",
+      "Freqs": "769.7875c"
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "San Clemente",
+      "Freqs": "770.2875c"
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Moorhead (Laguna Beach)",
+      "Freqs": "771.5375c"
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Black Jack (Catalina)",
+      "Freqs": "771.1625c"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "System Name": "Pinellas County",
+  "Location": "Pinellas County, FL",
+  "County": "Pinellas",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 6, 2019, 10:39 am ((1) Talkgroups Updated (Largo Police))",
+  "System ID List": [
+    {
+      "System ID": "802",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site-002",
+      "Freqs": [
+        "851.1625",
+        "851.300",
+        "851.5375c",
+        "851.900",
+        "852.150",
+        "853.075",
+        "853.200a",
+        "853.375",
+        "853.8625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Site-004",
+      "Freqs": [
+        "854.8625",
+        "856.2125",
+        "856.7125",
+        "856.9375c",
+        "857.2125",
+        "857.7125",
+        "857.8875",
+        "857.9375a",
+        "858.2125",
+        "858.7125",
+        "858.9375a",
+        "859.5375",
+        "859.7125",
+        "859.9375a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Site-005",
+      "Freqs": [
+        "851.0875",
+        "851.200c",
+        "851.3375",
+        "851.5875",
+        "851.6125a",
+        "851.850",
+        "852.0875",
+        "852.2875",
+        "852.3625",
+        "852.8375",
+        "852.8625",
+        "853.0375",
+        "853.1625",
+        "853.4125",
+        "853.6625",
+        "853.9125",
+        "856.1375",
+        "856.2375",
+        "856.7375",
+        "856.9625a",
+        "857.7375",
+        "857.9625",
+        "858.4625",
+        "858.5875",
+        "858.7375a",
+        "859.7375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Site-010",
+      "Freqs": [
+        "851.0875",
+        "851.850",
+        "852.8375",
+        "857.4625",
+        "858.2375a",
+        "859.4625",
+        "859.9625c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Site-012",
+      "Freqs": [
+        "769.10625c",
+        "769.50625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "46 ",
+      "HEX ": "02e ",
+      "Mode  ": "D",
+      "Alpha Tag": "DOCF A",
+      "Description": "Department of Children and Families Ch. A ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "310 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCW-1",
+      "Description": "Pinellas County Area PCW-1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "786 ",
+      "HEX ": "312 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCW-2",
+      "Description": "Pinellas County Area PCW-2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "800 ",
+      "HEX ": "320 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pinellas EOC",
+      "Description": "Emergency Operations Center ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1030 ",
+      "HEX ": "406 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE 1",
+      "Description": "Law Enforcement 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1032 ",
+      "HEX ": "408 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE-2",
+      "Description": "Law Enforcement 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1034 ",
+      "HEX ": "40a ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE-3",
+      "Description": "Law Enforcement 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1036 ",
+      "HEX ": "40c ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE-4",
+      "Description": "Law Enforcement 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1038 ",
+      "HEX ": "40e ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE-5",
+      "Description": "Law Enforcement 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "410 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SE-1",
+      "Description": "Special Events 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1042 ",
+      "HEX ": "412 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SE-2",
+      "Description": "Special Events 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1044 ",
+      "HEX ": "414 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SE-3",
+      "Description": "Special Events 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1046 ",
+      "HEX ": "416 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SE-4",
+      "Description": "Special Events 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1048 ",
+      "HEX ": "418 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SE-5",
+      "Description": "Special Events 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1062 ",
+      "HEX ": "426 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 1062",
+      "Description": "Encrypted 1062 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1064 ",
+      "HEX ": "428 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 1064",
+      "Description": "Encrypted 1064 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1066 ",
+      "HEX ": "42a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 1066",
+      "Description": "Encrypted 1066 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1090 ",
+      "HEX ": "442 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Events",
+      "Description": "Events ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1250 ",
+      "HEX ": "4e2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "State Att-1",
+      "Description": "State Attorney 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1274 ",
+      "HEX ": "4fa ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SO/PD Omega",
+      "Description": "PCSO / SPPD Omega Units ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2716 ",
+      "HEX ": "a9c ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE Shared 2716",
+      "Description": "LE Shared ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2718 ",
+      "HEX ": "a9e ",
+      "Mode  ": "D",
+      "Alpha Tag": "LE Shared 2718",
+      "Description": "Law Enforcement Shared ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "250 ",
+      "HEX ": "0fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "PIE Maint 250",
+      "Description": "PIE Maintenance 250 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "252 ",
+      "HEX ": "0fc ",
+      "Mode  ": "D",
+      "Alpha Tag": "PIE Maint 252",
+      "Description": "PIE Maintenance 252 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "254 ",
+      "HEX ": "0fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "PIE Ops",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "256 ",
+      "HEX ": "100 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PIE Maint 256",
+      "Description": "PIE Maintenance 256 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

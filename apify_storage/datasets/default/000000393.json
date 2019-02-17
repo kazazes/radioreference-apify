@@ -1,0 +1,114 @@
+{
+  "System Name": "Unidentified Media Production",
+  "Location": "Unknown, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 20, 2018, 5:01 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.8125 ",
+        "02 461.0375 ",
+        "03 461.1625 ",
+        "04 461.3625 ",
+        "05 462.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "105",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "106",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "107",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "108",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "109",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "110",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "111",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "112",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "113",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "114",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "115",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "116 ",
+      "Mode  ": "T",
+      "Alpha Tag": "116",
+      "Description": "Media Production ",
+      "Tag  ": "Business "
+    }
+  ]
+}

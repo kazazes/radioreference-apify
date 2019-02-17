@@ -1,0 +1,130 @@
+{
+  "System Name": "Apopka",
+  "Location": "Apopka, FL",
+  "County": "Orange",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 18, 2018, 2:02 pm (Changed Site # 003 (Maitland) to 003 (Maitland))",
+  "System ID List": [
+    {
+      "System ID": "35A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "4 (4)",
+      "Site": "001 (1)",
+      "Name": "Harmon Road",
+      "Freqs": [
+        "770.03125",
+        "770.35625",
+        "770.60625",
+        "855.7125c",
+        "855.9625c",
+        "857.9625",
+        "858.9625",
+        "859.9625"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "003 (3)",
+      "Name": "Maitland",
+      "Freqs": [
+        "769.08125c",
+        "769.33125a",
+        "770.85625a",
+        "771.10625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6963 ",
+      "HEX ": "1b33 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "6964 ",
+      "HEX ": "1b34 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Admin",
+      "Description": "Administration ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "6965 ",
+      "HEX ": "1b35 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 1",
+      "Description": "Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6966 ",
+      "HEX ": "1b36 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 2",
+      "Description": "Tactical 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6967 ",
+      "HEX ": "1b37 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 3",
+      "Description": "Tactical 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6968 ",
+      "HEX ": "1b38 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 4",
+      "Description": "Tactical 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6972 ",
+      "HEX ": "1b3c ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 5",
+      "Description": "Tactical 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6973 ",
+      "HEX ": "1b3d ",
+      "Mode  ": "TE",
+      "Alpha Tag": "AFD Tac 6 ",
+      "Description": "Tactical 6 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "7184 ",
+      "HEX ": "1c10 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WPPD DISP",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "7188 ",
+      "HEX ": "1c14 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WPPD TTY",
+      "Description": "Teletype ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

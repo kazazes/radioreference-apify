@@ -1,0 +1,43 @@
+{
+  "System Name": "Maine Radio (Lyman)",
+  "Location": "Lyman, ME",
+  "County": "York",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 6, 2013, 1:39 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lyman",
+        "01 464.750 ",
+        "02 N/A ",
+        "03 461.225 ",
+        "04 464.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Courier",
+      "Description": "Courier ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Earth Moving",
+      "Description": "Earth Moving ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Oil Delivery",
+      "Description": "Oil Delivery ",
+      "Tag  ": "Business "
+    }
+  ]
+}

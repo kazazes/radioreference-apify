@@ -1,0 +1,19 @@
+{
+  "System Name": "Sierra Pacific Power (Susanville)",
+  "Location": "Susanville, CA",
+  "County": "Lassen",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 31, 2008, 12:27 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 854.8375 ",
+        "02 855.2625 ",
+        "03 855.7875 "
+      ]
+    }
+  ]
+}

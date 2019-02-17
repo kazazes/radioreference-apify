@@ -1,0 +1,149 @@
+{
+  "System Name": "Telstar Communications",
+  "Location": "Various, CO WY",
+  "County": "7 counties",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "May 18, 2018, 10:07 pm (Changed Site # 005 (Lookout Mountain) to 005 (Lookout Mountain))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Buckhorn Mountain",
+      "County": "Larimer, CO",
+      "Freqs": [
+        "460.6625",
+        "460.8625c",
+        "463.725",
+        "463.975",
+        "464.7625",
+        "463.97812"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Erie",
+      "County": "Weld, CO",
+      "Freqs": [
+        "451.93125",
+        "451.94375c",
+        "451.95625",
+        "451.96875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Simpson Mesa",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "454.075c",
+        "454.125a",
+        "454.325",
+        "454.175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "North Colorado Medical Center",
+      "County": "Weld, CO",
+      "Freqs": [
+        "463.83125c",
+        "463.34375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lookout Mountain",
+      "County": "Jefferson, CO",
+      "Freqs": [
+        "452.23125",
+        "452.20625c",
+        "452.24375",
+        "452.21875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Sterling",
+      "County": "Logan, CO",
+      "Freqs": [
+        "454.125c",
+        "454.325",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Longmont",
+      "County": "Boulder, CO",
+      "Freqs": [
+        "451.98125",
+        "451.99375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Highway 257",
+      "County": "Weld, CO",
+      "Freqs": [
+        "451.24375",
+        "451.36875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Hardin",
+      "County": "Weld, CO",
+      "Freqs": [
+        "451.84375c",
+        "451.85625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Squaw Mountain",
+      "County": "Clear Creek, CO",
+      "Freqs": [
+        "451.88125",
+        "452.61875",
+        "452.73125",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "00-0001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "delete",
+      "Description": "Test ",
+      "Tag  ": "Business "
+    }
+  ]
+}

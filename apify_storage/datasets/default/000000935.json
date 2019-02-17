@@ -1,0 +1,69 @@
+{
+  "System Name": "Federal Correctional Institution Miami",
+  "Location": "Miami, FL",
+  "County": "Miami-Dade",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "February 26, 2018, 1:12 pm (Changed Talkgroup Category: Federal Correctional Institution Miami to Federal Correctional Institution Miami(Federal Correctiona)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "5936",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "406.8125a",
+        "407.0125a",
+        "406.950",
+        "408.150a",
+        "408.550",
+        "409.950c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCI MIA-1",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCI MIA-2",
+      "Description": "Inside Operations (food service, warehouse, laundry) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCI MIA-3",
+      "Description": "Outside Operations (garage, vehicles) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "192 ",
+      "HEX ": "00c ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCI MIA-4",
+      "Description": "Perimeter  ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

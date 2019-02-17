@@ -1,0 +1,172 @@
+{
+  "System Name": "Tri-State Comm Sioux City",
+  "Location": "Sioux City, IA",
+  "County": "Woodbury",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 31, 2015, 11:43 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Sioux City",
+        "04 856.6375 ",
+        "08 857.6375 ",
+        "12 858.6375 ",
+        "16 859.6375 ",
+        "20 860.6375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-04-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Waste Manage",
+      "Description": "Waste Management ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Western Disp",
+      "Description": "Western Disposal ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing",
+      "Description": "Plumbing Contractor ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construction",
+      "Description": "Construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LoveBrsTruck",
+      "Description": "Love Bros Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-14-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trucking 1",
+      "Description": "Trucking 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-16-009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mieir Towing",
+      "Description": "Mieir Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-16-012 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trucking 2",
+      "Description": "Trucking 2 ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-03-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown3-005",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown3-042",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown4-002",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown4-015",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown5-020",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown8-025",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-028 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown8-028",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown8-034",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknwn12-026",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-20-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknwn20-004",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-20-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknwn20-007",
+      "Description": "Unknown User (Ag?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-20-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknwn20-015",
+      "Description": "Unknown User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-20-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknwn20-050",
+      "Description": "Unknown User (Trucking?) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

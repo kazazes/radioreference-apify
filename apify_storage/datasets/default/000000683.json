@@ -1,0 +1,88 @@
+{
+  "System Name": "Lockheed Martin Space Systems",
+  "Location": "Waterton, CO",
+  "County": "Jefferson",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 15, 2018, 11:32 pm (Added Talkgroup 114 Telcom(Facilities & Maintenance))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 935.900 ",
+        "02 936.900 ",
+        "03 936.975 ",
+        "04 939.3875 ",
+        "05 939.9625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant Dispatch",
+      "Description": "Plant Protection Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant Tac",
+      "Description": "Plant Protection Tac (Alarm Testing) ",
+      "Tag  ": "Security "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Waste/Hazmat",
+      "Description": "Waste Treatment / Hazmat ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Grounds MX",
+      "Description": "Grounds Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ship & Rec",
+      "Description": "Shipping & Receiving ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bld MX A",
+      "Description": "Building Maintenance \"A\" - Primary ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bld MX B",
+      "Description": "Building Maintenance \"B\" - Tac ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Life Safety",
+      "Description": "Life Safety ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Telcom",
+      "Description": "Telcom ",
+      "Tag  ": "Business "
+    }
+  ]
+}

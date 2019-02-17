@@ -1,0 +1,34 @@
+{
+  "System Name": "Johns Hopkins Bayview Medical Center",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 22, 2016, 8:12 pm (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 464.7125 ",
+        "02 464.175 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JHBayvw Sec?",
+      "Description": "Security? ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JHBayvw Eng?",
+      "Description": "Engineering? ",
+      "Tag  ": "Business "
+    }
+  ]
+}

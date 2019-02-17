@@ -1,0 +1,332 @@
+{
+  "System Name": "Connecticut State Police",
+  "Location": "Statewide, CT",
+  "County": "Statewide",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 4, 2018, 6:42 pm (Added Talkgroup 22576 DEEP Lake Patrol(Department of Energy and Environmental Protection))",
+  "System ID List": [
+    {
+      "System ID": "4B16",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Troop G",
+      "County": "Fairfield",
+      "Freqs": [
+        "851.7125",
+        "852.200",
+        "852.5875",
+        "853.200a",
+        "853.500",
+        "853.750c",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Troop A / I",
+      "County": "Fairfield",
+      "Freqs": [
+        "851.275",
+        "851.6375",
+        "852.1375",
+        "852.700a",
+        "853.3125c",
+        "853.900",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Troop L",
+      "County": "Litchfield",
+      "Freqs": [
+        "855.7875",
+        "856.4875",
+        "857.4875",
+        "858.4875c",
+        "859.7625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Troop B",
+      "County": "Litchfield",
+      "Freqs": [
+        "851.1375",
+        "851.6125",
+        "851.8625",
+        "852.225a",
+        "853.6125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Troop F",
+      "County": "New Haven",
+      "Freqs": [
+        "851.300",
+        "851.750",
+        "852.075",
+        "852.6875",
+        "853.1625a",
+        "853.5625c",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Troop C / K",
+      "County": "Tolland",
+      "Freqs": [
+        "851.2125",
+        "851.4375",
+        "852.2625",
+        "852.650a",
+        "853.3875",
+        "853.9125c",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Troop D",
+      "County": "Windham",
+      "Freqs": [
+        "851.2875",
+        "851.7125",
+        "852.200c",
+        "852.5875a",
+        "853.200",
+        "853.750",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Troop E",
+      "County": "New London",
+      "Freqs": [
+        "853.3375c",
+        "852.625a",
+        "851.825",
+        "852.1625",
+        "851.1125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Troop H / W",
+      "County": "Hartford",
+      "Freqs": [
+        "853.725",
+        "853.2625c",
+        "852.7625a",
+        "852.4125",
+        "851.9375",
+        "851.400",
+        "851.0375"
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Bristol",
+      "County": "Hartford",
+      "Freqs": [
+        "860.4875c",
+        "859.4875a",
+        "858.7625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "ERV 1 Mobile Command Post",
+      "County": "Statewide",
+      "Freqs": [
+        "853.9625c",
+        "853.950",
+        "853.9875a",
+        "853.975",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Sharon",
+      "County": "Litchfield",
+      "Freqs": [
+        "855.2125",
+        "857.2375a",
+        "859.9375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Canaan",
+      "County": "Litchfield",
+      "Freqs": [
+        "853.200c",
+        "852.5875a",
+        "852.200",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Skiff Mountain",
+      "County": "Litchfield",
+      "Freqs": [
+        "852.650c",
+        "851.4125",
+        "851.2125",
+        "851.4375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "063 (3F)",
+      "Name": "ERV 2 Mobile Command Post",
+      "County": "Statewide",
+      "Freqs": [
+        "853.950",
+        "853.9375",
+        "853.9625c",
+        "853.975",
+        "853.9875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "080 (50)",
+      "Name": "Waramaug",
+      "County": "Litchfield",
+      "Freqs": [
+        "859.9375c",
+        "855.2125a",
+        "857.2375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "49 SW-COM-1",
+      "Description": "Statewide Common 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "50 SW-COM-2",
+      "Description": "Statewide Common 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "51 SW-COM-3",
+      "Description": "Statewide Common 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "32848 ",
+      "HEX ": "805 ",
+      "Mode  ": "D",
+      "Alpha Tag": "52 SPAN",
+      "Description": "State Police Access Node - Local Access to CSP ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "32432 ",
+      "HEX ": "7eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "75 PATCH 1",
+      "Description": "Crosspatch 1 ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "32464 ",
+      "HEX ": "7ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "76 PATCH 2",
+      "Description": "Crosspatch 2 ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "32496 ",
+      "HEX ": "7ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "77 PATCH 3",
+      "Description": "Crosspatch 3 ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "32784 ",
+      "HEX ": "801 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "122 State-E",
+      "Description": "Statewide Secure ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "48720 ",
+      "HEX ": "be5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EOC",
+      "Description": "State EOC ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "48464 ",
+      "HEX ": "bd5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55 MTA PD",
+      "Description": "MTA Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "48432 ",
+      "HEX ": "bd3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "56 MN Trans",
+      "Description": "Metro-North Transit Interoperability ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

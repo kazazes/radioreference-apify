@@ -1,0 +1,20 @@
+{
+  "System Name": "Ameren - Edwards Generation Plant (DMR)",
+  "Location": "Peoria, IL",
+  "County": "Peoria",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 22, 2017, 10:28 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Edwards Plant",
+        "01 461.5875c ",
+        "02 461.5875 ",
+        "03 464.150 ",
+        "04 464.150 "
+      ]
+    }
+  ]
+}

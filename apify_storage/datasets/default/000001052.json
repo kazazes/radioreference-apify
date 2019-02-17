@@ -1,0 +1,1104 @@
+{
+  "System Name": "United States Army (58A)",
+  "Location": "Various, GA NY SC MI",
+  "County": "9 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 31, 2018, 4:41 pm (Changed Site # 006 (Fort Jackson) to 006 (Fort Jackson))",
+  "System ID List": [
+    {
+      "System ID": "58A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Fort Gordon",
+      "County": "Richmond, GA",
+      "Freqs": [
+        "385.0625",
+        "385.3125",
+        "386.150",
+        "386.200",
+        "386.450",
+        "386.500",
+        "386.750c",
+        "386.800c",
+        "388.275c",
+        "388.3875c",
+        "388.575c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Fort Gordon",
+      "County": "Richmond, GA",
+      "Freqs": [
+        "388.425c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Fort Gordon",
+      "County": "Richmond, GA",
+      "Freqs": [
+        "386.650c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Fort Gordon",
+      "County": "Richmond, GA",
+      "Freqs": [
+        "388.2375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Fort Jackson",
+      "County": "Richland, SC",
+      "Freqs": [
+        "388.125",
+        "388.5375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Fort Jackson",
+      "County": "Richland, SC",
+      "Freqs": [
+        "380.0625",
+        "380.2125",
+        "380.425",
+        "380.625",
+        "380.775a",
+        "380.9375a",
+        "381.2375a",
+        "381.425c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Fort Jackson",
+      "County": "Richland, SC",
+      "Freqs": [
+        "380.725a",
+        "381.0875a",
+        "381.625a",
+        "381.850c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Fort Jackson",
+      "County": "Richland, SC",
+      "Freqs": [
+        "380.575a",
+        "380.875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Hunter Army Air Field",
+      "County": "Chatham, GA",
+      "Freqs": [
+        "386.1125",
+        "388.025c",
+        "388.175a",
+        "388.325a",
+        "388.475",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Fort Stewart - Post HQ",
+      "County": "Liberty, GA",
+      "Freqs": [
+        "388.250c",
+        "388.400a",
+        "388.550a",
+        "388.700a",
+        "388.850",
+        "389.4875",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "004 (4)",
+      "Name": "Fort Stewart - Richmond Hill",
+      "County": "Bryan, GA",
+      "Freqs": [
+        "388.3375a",
+        "388.4875c",
+        "388.6375a",
+        "388.7875a",
+        "388.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "005 (5)",
+      "Name": "Fort Stewart - Morgans Bridge",
+      "County": "Bryan, GA",
+      "Freqs": [
+        "385.0625c",
+        "385.3125a",
+        "385.625c",
+        "385.900a",
+        "386.050",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "006 (6)",
+      "Name": "Fort Stewart - Pembroke",
+      "County": "Bryan, GA",
+      "Freqs": [
+        "385.0125a",
+        "385.2125a",
+        "385.8875c",
+        "386.0375a",
+        "386.3375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "West Point - Ski Slope",
+      "County": "Orange, NY",
+      "Freqs": [
+        "385.8875c",
+        "386.1875a",
+        "386.4875",
+        "388.275",
+        "388.575",
+        "389.7625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "002 (2)",
+      "Name": "West Point - Bull Hill",
+      "County": "Orange, NY",
+      "Freqs": [
+        "385.900c",
+        "386.050a",
+        "386.225",
+        "386.800",
+        "387.2125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "West Point - J.I. O'Neill HS",
+      "County": "Orange, NY",
+      "Freqs": [
+        "385.9125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "001 (1)",
+      "Name": "Detroit Arsenal (TACOM)",
+      "County": "Macomb, MI",
+      "Freqs": [
+        "385.0125c",
+        "385.350a",
+        "386.1875a",
+        "386.7625a",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO All",
+      "Description": "Provost Marshals All Call ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO 1",
+      "Description": "Provost Marshals 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO 2",
+      "Description": "Provost Marshals 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO SRT",
+      "Description": "Provost Marshals S.R.T. ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO Sfty",
+      "Description": "Provost Marshals Safety ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PMO DOIM",
+      "Description": "Provost Marshals DOIM ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGPMODOIMDC",
+      "Description": "Provost Marshals DOIM DCO ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG Fire All",
+      "Description": "Fire All Call ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG Fire 1",
+      "Description": "Fire 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "12 ",
+      "HEX ": "00c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG Fire 2",
+      "Description": "Fire 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG Fire K9",
+      "Description": "K9 Unit ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGFireForst",
+      "Description": "Forestry and Environmental ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG MedE All",
+      "Description": "Medical Emergency All Call ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "53 ",
+      "HEX ": "035 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG EMS 53",
+      "Description": "EMS ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG MedE Amb",
+      "Description": "Ambulance ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG MedEInsp",
+      "Description": "InspectionFtG s ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG MedE RTS",
+      "Description": "RTS Med. ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG EAMCHosp",
+      "Description": "EAMC Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG VAMedCtr",
+      "Description": "V.A. Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG 249thGen",
+      "Description": "249th General Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "63 ",
+      "HEX ": "03f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency",
+      "Description": "Emergency ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "70 ",
+      "HEX ": "046 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency 1",
+      "Description": "Emergency 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "71 ",
+      "HEX ": "047 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency 2",
+      "Description": "Emergency 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "72 ",
+      "HEX ": "048 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency 3",
+      "Description": "Emergency 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "73 ",
+      "HEX ": "049 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency 4",
+      "Description": "Emergency 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "74 ",
+      "HEX ": "04a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Private Call",
+      "Description": "Private Call ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "36 ",
+      "HEX ": "024 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW All",
+      "Description": "Public Works All Call ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "37 ",
+      "HEX ": "025 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW Game",
+      "Description": "Game Warden ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "38 ",
+      "HEX ": "026 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "39 ",
+      "HEX ": "027 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW Facil",
+      "Description": "Facilities Maintenance and Repair ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "40 ",
+      "HEX ": "028 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW Roads",
+      "Description": "Roads and Bridges ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "41 ",
+      "HEX ": "029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW Safty",
+      "Description": "Safety and Quality ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "42 ",
+      "HEX ": "02a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGPWHousing",
+      "Description": "Housing Maintenance and Repair ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "43 ",
+      "HEX ": "02b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWSupply",
+      "Description": "Supply and Services ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "44 ",
+      "HEX ": "02c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGPWFacExEl",
+      "Description": "Facilities Exterior Electric ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "45 ",
+      "HEX ": "02d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWTransp",
+      "Description": "Transportation Motor Pool ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "46 ",
+      "HEX ": "02e ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWFacWrk",
+      "Description": "Facilities work ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "47 ",
+      "HEX ": "02f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG UMCS PW",
+      "Description": "UMCS Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "030 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWFacSup",
+      "Description": "Facilites Supply ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "49 ",
+      "HEX ": "031 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWFacEng",
+      "Description": "Facilities Engineer Branch ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50 ",
+      "HEX ": "032 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PWLogist",
+      "Description": "Logistics Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "51 ",
+      "HEX ": "033 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG PW DCA",
+      "Description": "Director Community Activities ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG REST All",
+      "Description": "REST All Call ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "21 ",
+      "HEX ": "015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG DPTM",
+      "Description": "DPTM ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "22 ",
+      "HEX ": "016 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG DPTM Cer",
+      "Description": "DPTM Ceremonies ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "23 ",
+      "HEX ": "017 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG 15th Sig",
+      "Description": "15th Signal BDE ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "24 ",
+      "HEX ": "018 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG 53rd Sig",
+      "Description": "53rd Signal BDE ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "25 ",
+      "HEX ": "019 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG DPTM II",
+      "Description": "DPTM II ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "26 ",
+      "HEX ": "01a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG CID",
+      "Description": "C.I.D. ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "27 ",
+      "HEX ": "01b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGRangeCtrl",
+      "Description": "Range control ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "28 ",
+      "HEX ": "01c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtGBattleCmd",
+      "Description": "Battle Command ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "29 ",
+      "HEX ": "01d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG IOC",
+      "Description": "I.O.C. ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "30 ",
+      "HEX ": "01e ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG GenDynam",
+      "Description": "General Dynamics ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "31 ",
+      "HEX ": "01f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG Env Comp",
+      "Description": "Environmental Compliance ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "020 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG AreaComm",
+      "Description": "Area Communications ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "33 ",
+      "HEX ": "021 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG RichCnty",
+      "Description": "Richmond County ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "34 ",
+      "HEX ": "022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG ColuCnty",
+      "Description": "Columbia County ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtG McDuCnty",
+      "Description": "McDuffie County ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA USCC",
+      "Description": "USCC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CGR",
+      "Description": "CGR ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "401 ",
+      "HEX ": "191 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA SkyKnig",
+      "Description": "2nd Aviation/Sky Knight Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "501 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA RngCtrl",
+      "Description": "Range Control ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "601 ",
+      "HEX ": "259 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 1",
+      "Description": "Cadet Summer Training 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "602 ",
+      "HEX ": "25a ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 2",
+      "Description": "Cadet Summer Training 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "603 ",
+      "HEX ": "25b ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 3",
+      "Description": "Cadet Summer Training 3 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "604 ",
+      "HEX ": "25c ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 4",
+      "Description": "Cadet Summer Training 4 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "605 ",
+      "HEX ": "25d ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 5",
+      "Description": "Cadet Summer Training 5 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "606 ",
+      "HEX ": "25e ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 6",
+      "Description": "Cadet Summer Training 6 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "607 ",
+      "HEX ": "25f ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 7",
+      "Description": "Cadet Summer Training 7 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "608 ",
+      "HEX ": "260 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 8",
+      "Description": "Cadet Summer Training 8 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "609 ",
+      "HEX ": "261 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 9",
+      "Description": "Cadet Summer Training 9 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "610 ",
+      "HEX ": "262 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 10",
+      "Description": "Cadet Summer Training 10 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "611 ",
+      "HEX ": "263 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 11",
+      "Description": "Cadet Summer Training 11/TOC ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "612 ",
+      "HEX ": "264 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 12",
+      "Description": "Cadet Summer Training 12 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "613 ",
+      "HEX ": "265 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 13",
+      "Description": "Cadet Summer Training 13 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "614 ",
+      "HEX ": "266 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 14",
+      "Description": "Cadet Summer Training 14 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "615 ",
+      "HEX ": "267 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 15",
+      "Description": "Cadet Summer Training 15 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "616 ",
+      "HEX ": "268 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 16",
+      "Description": "Cadet Summer Training 16 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "617 ",
+      "HEX ": "269 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 17",
+      "Description": "Cadet Summer Training 17 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "618 ",
+      "HEX ": "26a ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 18",
+      "Description": "Cadet Summer Training 18 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "619 ",
+      "HEX ": "26b ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 19",
+      "Description": "Cadet Summer Training 19 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "630 ",
+      "HEX ": "276 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 20",
+      "Description": "Cadet Summer Training 20 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "631 ",
+      "HEX ": "277 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 21",
+      "Description": "Cadet Summer Training 21 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "640 ",
+      "HEX ": "280 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 22",
+      "Description": "Cadet Summer Training 22 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "641 ",
+      "HEX ": "281 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 23",
+      "Description": "Cadet Summer Training 23 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "642 ",
+      "HEX ": "282 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 24",
+      "Description": "Cadet Summer Training 24 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "643 ",
+      "HEX ": "283 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 25",
+      "Description": "Cadet Summer Training 25 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "644 ",
+      "HEX ": "284 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 26",
+      "Description": "Cadet Summer Training 26 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "645 ",
+      "HEX ": "285 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 27",
+      "Description": "Cadet Summer Training 27 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "646 ",
+      "HEX ": "286 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 28",
+      "Description": "Cadet Summer Training 28 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "647 ",
+      "HEX ": "287 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 29",
+      "Description": "Cadet Summer Training 29 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "648 ",
+      "HEX ": "288 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 30",
+      "Description": "Cadet Summer Training 30 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "649 ",
+      "HEX ": "289 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 31",
+      "Description": "Cadet Summer Training 31 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "650 ",
+      "HEX ": "28a ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA CST 32",
+      "Description": "Cadet Summer Training 32 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "808 ",
+      "HEX ": "328 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "USMA Police",
+      "Description": "Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "901 ",
+      "HEX ": "385 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "USMA Firegrd",
+      "Description": "Fireground ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "902 ",
+      "HEX ": "386 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "USMA FD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA Keller",
+      "Description": "Keller Army Hospital ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1406 ",
+      "HEX ": "57e ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA Fac Mnt",
+      "Description": "Facility Maintenance ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1504 ",
+      "HEX ": "5e0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA MWR Ops",
+      "Description": "MWR Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1601 ",
+      "HEX ": "641 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA Logisti",
+      "Description": "Logistics ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1602 ",
+      "HEX ": "642 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA MtrPool",
+      "Description": "Motor Pool ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "2201 ",
+      "HEX ": "899 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USMA ComTech",
+      "Description": "Communications Technicians ",
+      "Tag  ": "Military "
+    }
+  ]
+}

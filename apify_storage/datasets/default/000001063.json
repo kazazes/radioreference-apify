@@ -1,0 +1,21 @@
+{
+  "System Name": "International Paper Savannah MOT",
+  "Location": "Savannah, GA",
+  "County": "Chatham",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:29 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Savannah",
+      "Freqs": [
+        "937.3875",
+        "937.400",
+        "937.4125",
+        "937.425",
+        "937.4375"
+      ]
+    }
+  ]
+}

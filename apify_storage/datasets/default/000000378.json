@@ -1,0 +1,100 @@
+{
+  "System Name": "Signal Hill",
+  "Location": "Signal Hill, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "September 19, 2013, 8:34 am (Changed System ID: [000c | 105.88 | ] to [000C | 105.88 | ])",
+  "System ID List": [
+    {
+      "System ID": "000C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "2",
+      "B1": "2",
+      "B2": "2",
+      "B3": "D",
+      "B4": "D",
+      "B5": "2",
+      "B6": "2",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S0",
+      "B1": "S0",
+      "B2": "S0",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S0",
+      "B6": "S0",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Signal Hill",
+      "Freqs": [
+        "853.6125",
+        "853.9375",
+        "856.2875c",
+        "857.2875a",
+        "858.2875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "40976 ",
+      "HEX ": "a01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SH Police 1",
+      "Description": "Patrol Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "40992 ",
+      "HEX ": "a02 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SH Police 2",
+      "Description": "Car-to-Car ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "41008 ",
+      "HEX ": "a03 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SH Police 3",
+      "Description": "Detectives ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "41024 ",
+      "HEX ": "a04 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SH Police 5",
+      "Description": "Common ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "45072 ",
+      "HEX ": "b01 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SH PW Ch4",
+      "Description": "Public Works ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

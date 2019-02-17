@@ -1,0 +1,114 @@
+{
+  "System Name": "Copper Mountain Ski Resort",
+  "Location": "Copper Mountain, CO",
+  "County": "Summit",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 23, 2017, 6:51 am (Changed Talkgroup Category: Operations to Operations(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "South Mountain",
+        "01 854.8375c ",
+        "02 858.8875 ",
+        "03 859.8875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Summit",
+        "01 855.0625c ",
+        "02 857.8875 ",
+        "03 860.8875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Base Village",
+        "01 854.9125c ",
+        "02 855.2625 ",
+        "03 855.6625 ",
+        "04 858.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Annocements",
+      "Description": "Announcements ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Facilities Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Lifts",
+      "Description": "Lift Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Painters/Carpenters ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski School O",
+      "Description": "Ski School - Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski School P",
+      "Description": "Ski School - Private Lessons ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "77 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slope Mainte",
+      "Description": "Slope Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Snow Cat",
+      "Description": "Snow Cat Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Twr Maint",
+      "Description": "Tower Maintenance ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bus",
+      "Description": "Buses ",
+      "Tag  ": "Business "
+    }
+  ]
+}

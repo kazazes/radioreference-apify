@@ -1,0 +1,20 @@
+{
+  "System Name": "Malone Communications (Buffalo)",
+  "Location": "Buffalo, KY",
+  "County": "Larue",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 27, 2014, 3:24 am (Changed Site # 001 (Confirmed LCN) to 001 (Buffalo))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Buffalo",
+        "01 451.9875 ",
+        "02 452.2625 ",
+        "03 451.8875 ",
+        "04 464.7375 "
+      ]
+    }
+  ]
+}

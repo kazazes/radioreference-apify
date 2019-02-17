@@ -1,0 +1,27 @@
+{
+  "System Name": "Pomona College",
+  "Location": "Claremont, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 4, 2017, 6:12 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 452.2125 ",
+        "02 461.4625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities Mgmt. ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

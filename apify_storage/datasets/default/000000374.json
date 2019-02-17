@@ -1,0 +1,54 @@
+{
+  "System Name": "Port of Los Angeles",
+  "Location": "San Pedro, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 23, 2016, 6:27 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "003",
+      "WACN": "92777"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "San Pedro",
+      "Freqs": [
+        "771.18125c",
+        "771.30625a",
+        "773.20625a",
+        "773.45625a",
+        "854.9625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1003 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "PORT IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2001 ",
+      "HEX ": "7d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PORT SEC PRI",
+      "Description": "Port Security Primary ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2002 ",
+      "HEX ": "7d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PORT SEC TAC",
+      "Description": "Port Security Tac ",
+      "Tag  ": "Security "
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "System Name": "Fannie Mae",
+  "Location": "Various, DC VA",
+  "County": "2 counties",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "September 29, 2011, 4:40 pm (Added Site # 4 (Washington - 3900 Wisconsin Ave. (Unconfirmed LCN)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Reston - 13150 Worldgate Dr. (Unconfirmed LCN)",
+      "County": [
+        "Fairfax, VA",
+        "01 461.7625 ",
+        "02 463.9875 ",
+        "03 464.4375 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Reston - 11600 American Dream Way (Unconfirmed LCN)",
+      "County": [
+        "Fairfax, VA",
+        "01 461.6625 ",
+        "02 463.7375 ",
+        "03 464.6875 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Washington - 4250 Connecticut Ave. (Unconfirmed LCN)",
+      "County": [
+        "Washington DC, DC",
+        "01 461.6375 ",
+        "02 462.0375 ",
+        "03 464.7625 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Washington - 3900 Wisconsin Ave. (Unconfirmed LCN)",
+      "County": [
+        "Washington DC, DC",
+        "01 463.3625 ",
+        "02 463.7875 ",
+        "03 464.6375 "
+      ]
+    }
+  ]
+}

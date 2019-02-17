@@ -1,0 +1,76 @@
+{
+  "System Name": "Diplomat Beach Resort Hollywood",
+  "Location": "Hollywood, FL",
+  "County": "Broward",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 9, 2018, 2:17 am ((8) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed ",
+        "01 451.350 ",
+        "02 452.675 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering 1",
+      "Description": "Engineering 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering 2",
+      "Description": "Engineering 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 14",
+      "Description": "Operations 14 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Banquets 1",
+      "Description": "Banquets 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Banquets 2",
+      "Description": "Banquets 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Food and Beverag",
+      "Description": "Food and Beverage ",
+      "Tag  ": "Business "
+    }
+  ]
+}

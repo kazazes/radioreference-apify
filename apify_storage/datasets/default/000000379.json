@@ -1,0 +1,234 @@
+{
+  "System Name": "StubHub Center",
+  "Location": "Carson, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 8, 2018, 10:30 pm ((1) Talkgroups Updated (StubHub Center))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.025 ",
+        "02 461.375 ",
+        "03 461.650 ",
+        "04 461.750 ",
+        "05 462.200 ",
+        "06 462.425 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PROD SVC",
+      "Description": "Production Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PROD SVC",
+      "Description": "Production Services - Cheerleader choreography ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PROD SVC",
+      "Description": "Production Services  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PROD SVC",
+      "Description": "Production Services  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PROD SVC",
+      "Description": "Production Services  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "151 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC Dock",
+      "Description": "Security - Dock/Vehicle Ramps ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC MainCon",
+      "Description": "Security - Main Concourse ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "153 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC Bleacher",
+      "Description": "Security - Bleachers ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC Bleacher",
+      "Description": "Security - Bleachers ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC Bleacher",
+      "Description": "Security - Bleachers ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SEC AllCall",
+      "Description": "Security - All Call ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "157 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES",
+      "Description": "Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "158 ",
+      "Mode  ": "T",
+      "Alpha Tag": "158",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GROUNDS",
+      "Description": "Grounds Keepers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "161 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ENGINEER",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "162 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CUSTODIAL",
+      "Description": "Custodial - Interior ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "164 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "167 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FIRST AID",
+      "Description": "First Aid ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "171 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PARKING",
+      "Description": "Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "172 ",
+      "Mode  ": "T",
+      "Alpha Tag": "172",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "174 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FIELD OPS",
+      "Description": "Field Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "177 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GUEST SERV",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "181 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CUSTODIAL",
+      "Description": "Custodial - Bleechers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "185 ",
+      "Mode  ": "T",
+      "Alpha Tag": "185",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "187 ",
+      "Mode  ": "T",
+      "Alpha Tag": "187",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "211",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "T",
+      "Alpha Tag": "212",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "230 ",
+      "Mode  ": "T",
+      "Alpha Tag": "230",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "250 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CONCESSIONS",
+      "Description": "Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "251 ",
+      "Mode  ": "T",
+      "Alpha Tag": "251",
+      "Description": "StubHub Center ",
+      "Tag  ": "Business "
+    }
+  ]
+}

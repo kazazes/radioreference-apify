@@ -1,0 +1,41 @@
+{
+  "System Name": "Miami Marriott Dadeland",
+  "Location": "Miami, FL",
+  "County": "Miami-Dade",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 1, 2017, 7:58 pm (Updated Function Tag assignments for 3 talkgroups(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Dadeland ",
+        "01 451.300 ",
+        "02 451.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Banquets",
+      "Description": "Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 105",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 108",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

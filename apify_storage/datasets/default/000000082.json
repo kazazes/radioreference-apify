@@ -1,0 +1,43 @@
+{
+  "System Name": "Desert Diamond Casino",
+  "Location": "Glendale, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 14, 2016, 10:25 pm (Added Talkgroup 70 Slot Technicians)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Desert Diamond",
+        "01 463.4375 ",
+        "02 463.7375 ",
+        "03 464.2875 ",
+        "04 463.9875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "70 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Slot Techs",
+      "Description": "Slot Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

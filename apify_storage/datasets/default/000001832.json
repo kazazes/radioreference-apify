@@ -1,0 +1,285 @@
+{
+  "System Name": "Central Maryland Area Regional Communications Committee (CMARC)",
+  "Location": "Various, MD",
+  "County": "6 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 29, 2018, 8:26 pm (Changed Site # 001 (Harford) to 001 (Harford))",
+  "System ID List": [
+    {
+      "System ID": "3DA",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Harford",
+      "County": "Harford",
+      "Freqs": [
+        "769.55625",
+        "769.80625",
+        "771.23125",
+        "771.48125a",
+        "772.15625a",
+        "772.45625c",
+        "772.73125a",
+        "772.98125",
+        "774.43125",
+        "774.66875",
+        "851.250",
+        "851.2875",
+        "851.775",
+        "852.2875",
+        "852.3625",
+        "852.7875",
+        "853.375",
+        "853.775",
+        "853.8125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Baltimore/Anne Arundel",
+      "County": "Baltimore",
+      "Freqs": [
+        "770.50625",
+        "770.80625",
+        "771.33125a",
+        "771.60625a",
+        "772.25625c",
+        "772.71875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Howard/Carroll",
+      "County": "Howard",
+      "Freqs": [
+        "771.20625",
+        "771.68125",
+        "771.95625a",
+        "772.33125c",
+        "772.75625a",
+        "772.85625",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11701 ",
+      "HEX ": "2db5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-AAF-LOCL",
+      "Description": "Anne Arundel Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11702 ",
+      "HEX ": "2db6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-AAF-ROAM",
+      "Description": "Anne Arundel Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11703 ",
+      "HEX ": "2db7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-AAL-LOCL",
+      "Description": "Anne Arundel Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11704 ",
+      "HEX ": "2db8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-AAL-ROAM",
+      "Description": "Anne Arundel Law Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11711 ",
+      "HEX ": "2dbf ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BCF-LOCL",
+      "Description": "Baltimore City Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11712 ",
+      "HEX ": "2dc0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BCF-ROAM",
+      "Description": "Baltimore City Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11713 ",
+      "HEX ": "2dc1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BCL-LOCL",
+      "Description": "Baltimore City Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11714 ",
+      "HEX ": "2dc2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BCL-ROAM",
+      "Description": "Baltimore City Law Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11721 ",
+      "HEX ": "2dc9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BAF-LOCL",
+      "Description": "Baltimore County Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11722 ",
+      "HEX ": "2dca ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BAF-ROAM",
+      "Description": "Baltimore County Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11723 ",
+      "HEX ": "2dcb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BAL-LOCL",
+      "Description": "Baltimore County Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11724 ",
+      "HEX ": "2dcc ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-BAL-ROAM",
+      "Description": "Baltimore County Law Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11731 ",
+      "HEX ": "2dd3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-CRF-LOCL",
+      "Description": "Carroll County Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11732 ",
+      "HEX ": "2dd4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-CRF-ROAM",
+      "Description": "Carroll County Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11733 ",
+      "HEX ": "2dd5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-CRL-LOCL",
+      "Description": "Carroll County Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11734 ",
+      "HEX ": "2dd6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-CRL-ROAM",
+      "Description": "Carroll County Law Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11741 ",
+      "HEX ": "2ddd ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HAF-LOCL",
+      "Description": "Harford County Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11742 ",
+      "HEX ": "2dde ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HAF-ROAM",
+      "Description": "Harford County Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11743 ",
+      "HEX ": "2ddf ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HAL-LOCL",
+      "Description": "Harford County Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11744 ",
+      "HEX ": "2de0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HAL-ROAM",
+      "Description": "Harford County Law Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11751 ",
+      "HEX ": "2de7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HOF-LOCL",
+      "Description": "Howard County Fire Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11752 ",
+      "HEX ": "2de8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HOF-ROAM",
+      "Description": "Howard County Fire Roam ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11753 ",
+      "HEX ": "2de9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HOL-LOCL",
+      "Description": "Howard County Law Local ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11754 ",
+      "HEX ": "2dea ",
+      "Mode  ": "D",
+      "Alpha Tag": "CM-HOL-ROAM",
+      "Description": "Howard County Law Roam ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "10651 ",
+      "HEX ": "299b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MSP D BelAir",
+      "Description": "Barrack D (Bel Air) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "10652 ",
+      "HEX ": "299c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MSP D Tac",
+      "Description": "Barrack D (Bel Air) Tac ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

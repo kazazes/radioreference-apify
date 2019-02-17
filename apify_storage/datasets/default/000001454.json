@@ -1,0 +1,27 @@
+{
+  "System Name": "Motorola C and E (Cook)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 10, 2017, 11:47 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1a29",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "938.125c",
+        "938.1125c",
+        "935.025c",
+        "935.0125",
+        "938.625"
+      ]
+    }
+  ]
+}

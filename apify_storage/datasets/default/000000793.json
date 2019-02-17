@@ -1,0 +1,36 @@
+{
+  "System Name": "Alachua County - Gainesville Regional Utilities (GRUCom Project 25) System",
+  "Location": "Gainesville, FL",
+  "County": "Alachua",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 19, 2013, 7:38 pm (Added Talkgroup 3637 Patch to High Springs PD CH1)",
+  "System ID List": [
+    {
+      "System ID": "4D9",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "852.1875",
+        "852.275a",
+        "853.1875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3637 ",
+      "HEX ": "e35 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GRU PATCH",
+      "Description": "Patch to High Springs PD CH1 ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "System Name": "Collins Communications",
+  "Location": "Fort Collins, CO",
+  "County": "3 counties",
+  "System Type": "LTR Standard and Passport",
+  "System Voice": "Analog",
+  "Last Updated": "April 2, 2014, 4:19 pm (Changed Site # 001 (Boulder) to 001 (Boulder))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fort Collins",
+      "County": [
+        "Larimer",
+        "01 461.3375 ",
+        "05 461.4125 ",
+        "09 463.4875 ",
+        "13 463.7875 ",
+        "17 463.9625 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Greeley",
+      "County": [
+        "Weld",
+        "01 461.800 ",
+        "17 461.2875 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Boulder",
+      "County": [
+        "Boulder",
+        "01 451.8875 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LarimerCoOS",
+      "Description": "Larimer County Open Space Patrol ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-09-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW ID",
+      "Description": "Morse Code ID ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "0-13-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW ID",
+      "Description": "Morse Code ID ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "0-17-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW ID",
+      "Description": "Morse Code ID ",
+      "Tag  ": "Other "
+    }
+  ]
+}

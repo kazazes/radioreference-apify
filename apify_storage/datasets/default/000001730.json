@@ -1,0 +1,155 @@
+{
+  "System Name": "Federal Medical Center Lexington",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 27, 2014, 8:19 am (Updated Function Tag assignments for 3 talkgroups)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.21250",
+      "Spacing": "12.5",
+      "Offset": "414"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "DA35",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "FMC-Lexington",
+      "Freqs": [
+        "406.2125c",
+        "406.8125c",
+        "407.4125c",
+        "408.250c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Opns-1",
+      "Description": "Operations Ch. 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Prmtr-2",
+      "Description": "Perimeter Ch.2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Fac-3",
+      "Description": "Facilities Ch. 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Opns-4",
+      "Description": "Operations Ch. 4 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FMC CH-5 ",
+      "Description": " Guards Ch. 5 (Encryption available) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC CH-6",
+      "Description": "Operations Ch. 6 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC CH-10",
+      "Description": "Operations Ch. 10 (Encryption available) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMCAlertBtn",
+      "Description": "Alert Button ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Control",
+      "Description": "Control ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Control",
+      "Description": "Control ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Counts",
+      "Description": "Inmate Counts ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Opns",
+      "Description": "Operations (Encryption available) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "00a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Opns",
+      "Description": "Operations ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMC Alert",
+      "Description": "Alert Tones ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "306 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMCAlertBtn",
+      "Description": "Alert Button ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

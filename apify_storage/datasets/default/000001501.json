@@ -1,0 +1,212 @@
+{
+  "System Name": "Abbott Laboratories (N Chicago)",
+  "Location": "North Chicago, IL",
+  "County": "Lake",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "April 1, 2010, 9:40 pm (Updated Talkgroups (22 Updated, 0 Deleted))",
+  "System ID List": [
+    {
+      "System ID": "302D",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "935.1875",
+        "936.1875",
+        "936.725",
+        "937.1375",
+        "938.1375",
+        "939.4625",
+        "939.475",
+        "939.8875",
+        "939.900c",
+        "939.9125c",
+        "939.925c",
+        "939.9375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 208",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 240",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 336",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 400",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 528",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "646 ",
+      "HEX ": "028 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 646",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 848",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 944",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1104 ",
+      "HEX ": "045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1104",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1392",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1424",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1584 ",
+      "HEX ": "063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1584",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1616",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1840 ",
+      "HEX ": "073 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1840",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1872 ",
+      "HEX ": "075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 1872",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2000 ",
+      "HEX ": "07d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2320 ",
+      "HEX ": "091 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2320",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2448 ",
+      "HEX ": "099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 2448",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3472 ",
+      "HEX ": "0d9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3472",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3888 ",
+      "HEX ": "0f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 3888",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4176 ",
+      "HEX ": "105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 4176",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "System Name": "Cargill - Bloomington, IL (DMR)",
+  "Location": "Bloomington, IL",
+  "County": "McLean",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 7, 2018, 1:22 am (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.550 ",
+        "02 462.075 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cargill Ops 1",
+      "Description": "Elevator Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cargill Ops 2",
+      "Description": "Elevator Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cargill Ops 4",
+      "Description": "Elevator Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cargill Ops 7",
+      "Description": "Elevator Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

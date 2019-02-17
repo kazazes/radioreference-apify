@@ -1,0 +1,20 @@
+{
+  "System Name": "Marcus Communications - Norwich",
+  "Location": "Norwich, CT",
+  "County": "New London",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 21, 2013, 5:09 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 461.450 ",
+        "02 462.0375 ",
+        "03 463.2625 ",
+        "04 463.300 "
+      ]
+    }
+  ]
+}

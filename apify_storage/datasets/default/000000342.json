@@ -1,0 +1,930 @@
+{
+  "System Name": "Los Angeles Regional Interoperable Communications System (LA-RICS)",
+  "Location": "Los Angeles County, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 16, 2017, 1:16 am ((1) Talkgroups Updated (Testing))",
+  "System ID List": [
+    {
+      "System ID": "69F",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Johnstone Peak",
+      "Freqs": [
+        "476.300",
+        "476.325",
+        "476.450",
+        "476.475",
+        "476.600",
+        "476.625",
+        "476.750",
+        "476.775",
+        "476.900a",
+        "476.925a",
+        "477.050c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Oat Mountain",
+      "Freqs": [
+        "476.350",
+        "476.375",
+        "476.500",
+        "476.525",
+        "476.650",
+        "476.675",
+        "476.800",
+        "476.825",
+        "476.950a",
+        "476.975a",
+        "477.100c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Rolling Hills",
+      "Freqs": [
+        "477.250",
+        "477.275",
+        "477.400",
+        "477.425",
+        "477.550",
+        "477.575",
+        "477.700",
+        "477.725",
+        "477.850a",
+        "477.875a",
+        "478.000c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Mt. McDill",
+      "Freqs": [
+        "477.200",
+        "477.225",
+        "477.350",
+        "477.375",
+        "477.500",
+        "477.525",
+        "477.650",
+        "477.675",
+        "477.800a",
+        "477.825a",
+        "477.950c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Rio Hondo",
+      "Freqs": [
+        "476.400",
+        "476.425",
+        "476.550",
+        "476.575",
+        "476.700",
+        "476.725",
+        "476.850",
+        "476.875",
+        "477.025a",
+        "477.300a",
+        "477.450c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Site On Wheels(SOW) aka Station B",
+      "Freqs": [
+        "478.050",
+        "478.200",
+        "478.350a",
+        "478.500",
+        "478.650c",
+        "478.800",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Site On Wheels(SOW) ",
+      "Freqs": [
+        "478.075",
+        "478.225",
+        "478.250",
+        "478.375",
+        "478.400",
+        "478.525",
+        "478.550",
+        "478.675a",
+        "478.700a",
+        "478.825a",
+        "478.850c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Johnstone Peak",
+      "Freqs": [
+        "771.98125",
+        "772.23125",
+        "772.48125",
+        "772.70625a",
+        "772.98125a",
+        "773.18125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Verdugo Peak",
+      "Freqs": [
+        "772.73125",
+        "773.43125",
+        "773.68125",
+        "773.93125a",
+        "774.18125a",
+        "774.43125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Rolling Hills",
+      "Freqs": [
+        "771.34375",
+        "771.58125",
+        "771.73125",
+        "771.95625a",
+        "772.20625a",
+        "772.45625c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD A",
+      "Description": "LASD A ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD B",
+      "Description": "LASD B ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD C",
+      "Description": "LASD C  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD D",
+      "Description": "LASD D  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LACoFD A",
+      "Description": "LACoFD A ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LACoFD B",
+      "Description": "LACoFD B ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LACoFD C",
+      "Description": "LACoFD C - patch with Blue 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "D",
+      "Alpha Tag": "LACoFD D",
+      "Description": "LACoFD D - patch with Blue 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 13",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 16",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "26 ",
+      "HEX ": "01a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MOTO 2",
+      "Description": "Motorola Test 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "41 ",
+      "HEX ": "029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MOTO",
+      "Description": "Motorola Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "42 ",
+      "HEX ": "02a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MOTO",
+      "Description": "Motorola Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "44 ",
+      "HEX ": "02c ",
+      "Mode  ": "D",
+      "Alpha Tag": "LACoFD ADP",
+      "Description": "LACoFD ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "47 ",
+      "HEX ": "02f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MOTO",
+      "Description": "Motorola Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "73 ",
+      "HEX ": "049 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD EOB BRN",
+      "Description": "LASD EOB Special Event - Brown ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "75 ",
+      "HEX ": "04b ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD EOB GLD",
+      "Description": "LASD EOB Special Event - Gold ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "77 ",
+      "HEX ": "04d ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD EOB GRN",
+      "Description": "LASD EOB Special Event - Green ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "79 ",
+      "HEX ": "04f ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD EOB RED",
+      "Description": "LASD EOB Special Event - Red ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "83 ",
+      "HEX ": "053 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 1",
+      "Description": "Event Ops 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "84 ",
+      "HEX ": "054 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 2",
+      "Description": "Event Ops 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "85 ",
+      "HEX ": "055 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 3",
+      "Description": "Event Ops 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "86 ",
+      "HEX ": "056 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 4",
+      "Description": "Event Ops 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "87 ",
+      "HEX ": "057 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 5",
+      "Description": "Event Ops 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "88 ",
+      "HEX ": "058 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 6",
+      "Description": "Event Ops 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "89 ",
+      "HEX ": "059 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 7",
+      "Description": "Event Ops 7 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "90 ",
+      "HEX ": "05a ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 8",
+      "Description": "Event Ops 8 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "91 ",
+      "HEX ": "05b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 9",
+      "Description": "Event Ops 9 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "92 ",
+      "HEX ": "05c ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 10",
+      "Description": "Event Ops 10 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "93 ",
+      "HEX ": "05d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 11",
+      "Description": "Event Ops 11 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "94 ",
+      "HEX ": "05e ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 12",
+      "Description": "Event Ops 12 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "95 ",
+      "HEX ": "05f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 13",
+      "Description": "Event Ops 13 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "060 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 14",
+      "Description": "Event Ops 14 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "97 ",
+      "HEX ": "061 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVENT 15",
+      "Description": "Event Ops 15 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CALL ZZ",
+      "Description": "Interop Calling ZZ ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CMD ZZ",
+      "Description": "Interop Command ZZ ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ3",
+      "Description": "Interop Tactical ZZ3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ4",
+      "Description": "Interop Tactical ZZ4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ5",
+      "Description": "Interop Tactical ZZ5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ6",
+      "Description": "Interop Tactical ZZ6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ7",
+      "Description": "Interop Tactical ZZ7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ8",
+      "Description": "Interop Tactical ZZ8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ9",
+      "Description": "Interop Tactical ZZ9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ10",
+      "Description": "Interop Tactical ZZ10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ11",
+      "Description": "Interop Tactical ZZ11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ12",
+      "Description": "Interop Tactical ZZ12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ13",
+      "Description": "Interop Tactical ZZ13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ14",
+      "Description": "Interop Tactical ZZ14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC ZZ15",
+      "Description": "Interop Tactical ZZ15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "116 ",
+      "HEX ": "074 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMER ZZ",
+      "Description": "Interop Emergency ZZ ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "201 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CALL YY",
+      "Description": "Interop Calling YY ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "202 ",
+      "HEX ": "0ca ",
+      "Mode  ": "D",
+      "Alpha Tag": "CMD YY",
+      "Description": "Interop Command YY ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "203 ",
+      "HEX ": "0cb ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY3",
+      "Description": "Interop Tactical YY3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "204 ",
+      "HEX ": "0cc ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY4",
+      "Description": "Interop Tactical YY4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "205 ",
+      "HEX ": "0cd ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY5",
+      "Description": "Interop Tactical YY5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "206 ",
+      "HEX ": "0ce ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY6",
+      "Description": "Interop Tactical YY6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "207 ",
+      "HEX ": "0cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY7",
+      "Description": "Interop Tactical YY7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "0d0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY8",
+      "Description": "Interop Tactical YY8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "209 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY9",
+      "Description": "Interop Tactical YY9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "209 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY9",
+      "Description": "Interop Tactical YY9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "210 ",
+      "HEX ": "0d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY10",
+      "Description": "Interop Tactical YY10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "211 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY11",
+      "Description": "Interop Tactical YY11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "212 ",
+      "HEX ": "0d4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY12",
+      "Description": "Interop Tactical YY12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "213 ",
+      "HEX ": "0d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY13",
+      "Description": "Interop Tactical YY13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "214 ",
+      "HEX ": "0d6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY14",
+      "Description": "Interop Tactical YY14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "215 ",
+      "HEX ": "0d7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAC YY15",
+      "Description": "Interop Tactical YY15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "216 ",
+      "HEX ": "0d8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMER YY",
+      "Description": "Interop Emergency YY ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "303 ",
+      "HEX ": "12f ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP3",
+      "Description": "LASD Disp 3 - East Los Angeles  ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "305 ",
+      "HEX ": "131 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP5",
+      "Description": "LASD Disp 5 - Santa Clarita ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "306 ",
+      "HEX ": "132 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP6",
+      "Description": "LASD Disp 6 - Walnut / San Dimas / Diamond Bar ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "314 ",
+      "HEX ": "13a ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP14",
+      "Description": "LASD Disp 14 - Lakewood / Cerritos ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "315 ",
+      "HEX ": "13b ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP15",
+      "Description": "LASD Disp 15 - Lancaster / Palmdale ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "316 ",
+      "HEX ": "13c ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD DISP35",
+      "Description": "LASD Dispatch 35 - Transit Services Bureau (TSB)  ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "317 ",
+      "HEX ": "13d ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD SCC",
+      "Description": "SCC Access ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "318 ",
+      "HEX ": "13e ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD ABD",
+      "Description": "Aero Bureau Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "319 ",
+      "HEX ": "13f ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD SUD",
+      "Description": "Special Units Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2020 ",
+      "HEX ": "7e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD RADIO",
+      "Description": "LASD Radio Shop ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2021 ",
+      "HEX ": "7e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO SHOP1",
+      "Description": "Radio Service - Tac 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2022 ",
+      "HEX ": "7e6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO SHOP2",
+      "Description": "Radio Service - Tac 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2035 ",
+      "HEX ": "7f3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LASD EOB 1",
+      "Description": "LASD Emergency Operations Bureau 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2036 ",
+      "HEX ": "7f4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD EOB 2",
+      "Description": "LASD Emergency Operations Bureau 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2040 ",
+      "HEX ": "7f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LADA DESK",
+      "Description": "District Attorney Coordinator Desk ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2041 ",
+      "HEX ": "7f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "2041",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2061 ",
+      "HEX ": "80d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LADA 1",
+      "Description": "District Attorney 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2070 ",
+      "HEX ": "816 ",
+      "Mode  ": "D",
+      "Alpha Tag": "2070",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2099 ",
+      "HEX ": "833 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD SRT 1",
+      "Description": "Special Response Team 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2105 ",
+      "HEX ": "839 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD SRT 2",
+      "Description": "Special Response Team 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2554 ",
+      "HEX ": "9fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD TECH B",
+      "Description": "LASD Radio Tech B ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2555 ",
+      "HEX ": "9fb ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LASD TECH A",
+      "Description": "LASD Radio Tech A ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2559 ",
+      "HEX ": "9ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "ISSI",
+      "Description": "Inter Sub System Interface ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2578 ",
+      "HEX ": "a12 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LASD TECH C",
+      "Description": "LASD Radio Tech C ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2581 ",
+      "HEX ": "a15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 2581",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2582 ",
+      "HEX ": "a16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LASD RESERVE",
+      "Description": "LASD Reserves SCC - DCS ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

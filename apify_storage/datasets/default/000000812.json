@@ -1,0 +1,519 @@
+{
+  "System Name": "Kennedy Space Center",
+  "Location": "Cape Canaveral, FL",
+  "County": "Brevard",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 20, 2018, 12:44 pm ((1) Talkgroups Updated (All))",
+  "System ID List": [
+    {
+      "System ID": "959",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Kennedy Space Center",
+      "Freqs": [
+        "406.2375c",
+        "406.4375a",
+        "406.6375a",
+        "406.6375",
+        "406.8375a",
+        "406.8375",
+        "407.0375",
+        "407.2375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "002",
+      "Freqs": [
+        "407.8375c",
+        "408.0375a",
+        "408.4375",
+        "408.6375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "003",
+      "Freqs": [
+        "406.175c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency call b",
+      "Description": "Emergency call boxes ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Comm Net 107",
+      "Description": "Comm Net 107 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Comm Net 207",
+      "Description": "Comm Net 207 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Possible PS Patc",
+      "Description": "Possible PS Patch to outside agencies ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "185 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Emergency call b",
+      "Description": "Emergency call box testing ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "193 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RAPTOR",
+      "Description": "RAPTOR(believe related to Space X operations at SLC-39A) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "221 ",
+      "HEX ": "0dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fire Net 116",
+      "Description": "Fire Net 116 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "245 ",
+      "HEX ": "0f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fire Tac 1",
+      "Description": "Fire Tac 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "321 ",
+      "HEX ": "141 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GEN 4",
+      "Description": "possible GEN 4 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "328 ",
+      "HEX ": "148 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLS simulation",
+      "Description": "SLS simulation ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "331 ",
+      "HEX ": "14b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 331",
+      "Description": "Operations 331 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "355 ",
+      "HEX ": "163 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 355",
+      "Description": "Operations 355 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "391 ",
+      "HEX ": "187 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Counts",
+      "Description": "Test Counts ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "411 ",
+      "HEX ": "19b ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCAFS Photo/Timi",
+      "Description": "CCAFS Photo/Timing G Net ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "431 ",
+      "HEX ": "1af ",
+      "Mode  ": "D",
+      "Alpha Tag": "KSC1",
+      "Description": "KSC1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "451 ",
+      "HEX ": "1c3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "INE1",
+      "Description": "INE1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "452 ",
+      "HEX ": "1c4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "INE2",
+      "Description": "INE2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "453 ",
+      "HEX ": "1c5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "INE3",
+      "Description": "INE3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "503 ",
+      "HEX ": "1f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Medical Net 117",
+      "Description": "Medical Net 117 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "525 ",
+      "HEX ": "20d ",
+      "Mode  ": "D",
+      "Alpha Tag": "ML 1",
+      "Description": "ML 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "557 ",
+      "HEX ": "22d ",
+      "Mode  ": "D",
+      "Alpha Tag": "NASA Tower",
+      "Description": "NASA Tower ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "582 ",
+      "HEX ": "246 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 582",
+      "Description": "Operations 582 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "593 ",
+      "HEX ": "251 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 593",
+      "Description": "Operations 593 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "619 ",
+      "HEX ": "26b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pad B Ops (Ch-8)",
+      "Description": "Pad B Ops (Ch-8) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "625 ",
+      "HEX ": "271 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PAO 2 ",
+      "Description": "PAO 2 (comms check on PAO 108 Net) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "626 ",
+      "HEX ": "272 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PAO 1",
+      "Description": "PAO 1 (Public Affairs Officer) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "635 ",
+      "HEX ": "27b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Police 635",
+      "Description": "Police type comms (Possibly the Park Service Net) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "664 ",
+      "HEX ": "298 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PS ALARM 1",
+      "Description": "PS ALARM 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "665 ",
+      "HEX ": "299 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PS ALARM 2",
+      "Description": "PS ALARM 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "666 ",
+      "HEX ": "29a ",
+      "Mode  ": "D",
+      "Alpha Tag": "PS TALK",
+      "Description": "PS TALK ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "675 ",
+      "HEX ": "2a3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCAFS EH BASE Y ",
+      "Description": "CCAFS EH BASE Y Net ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "705 ",
+      "HEX ": "2c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gator Units",
+      "Description": "Gator 10/Gator 14(may be security boats) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "715 ",
+      "HEX ": "2cb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 715",
+      "Description": "Operations 715 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "735 ",
+      "HEX ": "2df ",
+      "Mode  ": "D",
+      "Alpha Tag": "Safety Net 105",
+      "Description": "Safety Net 105 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "736 ",
+      "HEX ": "2e0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Safety Net 110",
+      "Description": "Safety Net 110 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "737 ",
+      "HEX ": "2e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Safety Net 205",
+      "Description": "Safety Net 205 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "743 ",
+      "HEX ": "2e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCAFS Safety B N",
+      "Description": "CCAFS Safety B Net/Weather Advisory ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "751 ",
+      "HEX ": "2ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security Net 103",
+      "Description": "Security Net 103 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "2f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 752",
+      "Description": "Operations 752 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "759 ",
+      "HEX ": "2f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 759",
+      "Description": "Operations 759 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "765 ",
+      "HEX ": "2fd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "KSC",
+      "Description": "Police ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "769 ",
+      "HEX ": "301 ",
+      "Mode  ": "De",
+      "Alpha Tag": "9xxx units ",
+      "Description": "9xxx units (possibly KSC SWAT) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "841 ",
+      "HEX ": "349 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSPF Test Ops",
+      "Description": "SSPF Test Ops ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "855 ",
+      "HEX ": "357 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Support Net 104",
+      "Description": "Support Net 104 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "875 ",
+      "HEX ": "36b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Net 1",
+      "Description": "Test Net 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "876 ",
+      "HEX ": "36c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Net 2",
+      "Description": "Test Net 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "877 ",
+      "HEX ": "36d ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAZMAT 3",
+      "Description": "possibly HAZMAT 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "878 ",
+      "HEX ": "36e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Net 4",
+      "Description": "Test Net 4 (On EML) ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "885 ",
+      "HEX ": "375 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Camera site ET",
+      "Description": "Camera site Electrical Test ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "923 ",
+      "HEX ": "39b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Safety Net 1",
+      "Description": "Safety Net 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "933 ",
+      "HEX ": "3a5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Training Test",
+      "Description": "Training Test ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "934 ",
+      "HEX ": "3a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Training Test 2",
+      "Description": "Training Test 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "936 ",
+      "HEX ": "3a8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations 936",
+      "Description": "Operations 936 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "937 ",
+      "HEX ": "3a9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transportation N",
+      "Description": "Transportation Net 206 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "961 ",
+      "HEX ": "3c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Utilities Net 10",
+      "Description": "Utilities Net 101 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "963 ",
+      "HEX ": "3c3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Utilities Net 30",
+      "Description": "Utilities Net 301 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "995 ",
+      "HEX ": "3e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Weather Alert",
+      "Description": "Weather Alert ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

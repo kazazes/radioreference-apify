@@ -1,0 +1,76 @@
+{
+  "System Name": "Maine Radio",
+  "Location": "Various, ME",
+  "County": "6 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 25, 2018, 12:49 pm (Changed Site # 003 (Lyman) to 003 (Lyman))",
+  "System ID List": [
+    {
+      "System ID": "149"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Lewiston",
+      "County": [
+        "Androscoggin",
+        "01 451.8875 ",
+        "02 452.775 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Falmouth",
+      "County": [
+        "Cumberland",
+        "01 462.150 ",
+        "01 464.225 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Lyman",
+      "County": [
+        "York",
+        "01 461.725 ",
+        "02 464.025 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Saco",
+      "County": [
+        "York",
+        "01 451.4875 ",
+        "02 452.2875 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Bath",
+      "County": [
+        "Sagadahoc",
+        "01 464.0125 ",
+        "01 464.2875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "214 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Taxi",
+      "Description": "Taxi Company ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "230 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trucking",
+      "Description": "Trucking Company ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "System Name": "Altamonte Springs Public Works System",
+  "Location": "Altamonte Springs, FL",
+  "County": "Seminole",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 1, 2017, 2:42 pm (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 453.2375 ",
+        "02 453.525 ",
+        "03 460.125 ",
+        "04 460.475 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Grounds",
+      "Description": "Grounds ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sp Event",
+      "Description": "Special Events ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Recreation ",
+      "Description": "Recreation  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Park Rangers",
+      "Description": "Park Rangers ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Streets",
+      "Description": "Streets ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water Dist",
+      "Description": "Water Distribution ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water Prod",
+      "Description": "Water Production ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

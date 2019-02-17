@@ -1,0 +1,320 @@
+{
+  "System Name": "Chattanooga-Hamilton County Public Safety",
+  "Location": "Chattanooga, TN GA",
+  "County": "3 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "July 20, 2018, 12:52 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "AA1A",
+      "Connect Tone": "76.60"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "County": "Hamilton, TN",
+      "Freqs": [
+        "854.0125",
+        "854.2625",
+        "854.3375",
+        "854.6625",
+        "854.7125",
+        "854.9125",
+        "855.1875",
+        "855.3625a",
+        "855.4375",
+        "855.6375a",
+        "855.6875",
+        "856.2125",
+        "856.4625c",
+        "857.2125",
+        "857.4625a"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Brock Road",
+      "County": "Hamilton, TN",
+      "Freqs": [
+        "851.600",
+        "852.100",
+        "852.800c",
+        "853.800c",
+        "856.7125",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "18608 ",
+      "HEX ": "48b ",
+      "Mode  ": "A",
+      "Alpha Tag": "HCES Opns",
+      "Description": "Emergency Management - Operations ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "18704 ",
+      "HEX ": "491 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 1",
+      "Description": "Disaster 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "18736 ",
+      "HEX ": "493 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 2",
+      "Description": "Disaster 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "18768 ",
+      "HEX ": "495 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 3",
+      "Description": "Disaster 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "22992 ",
+      "HEX ": "59d ",
+      "Mode  ": "A",
+      "Alpha Tag": "R.A.C.E.S.",
+      "Description": "Emergency Management - R.A.C.E.S. ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23088 ",
+      "HEX ": "5a3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEMA",
+      "Description": "TEMA ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23120 ",
+      "HEX ": "5a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 4",
+      "Description": "Disaster 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23152 ",
+      "HEX ": "5a7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Disaster 5",
+      "Description": "Disaster 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23536 ",
+      "HEX ": "5bf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 1",
+      "Description": "Response 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23568 ",
+      "HEX ": "5c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 2",
+      "Description": "Response 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23600 ",
+      "HEX ": "5c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 3",
+      "Description": "Response 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23632 ",
+      "HEX ": "5c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 4",
+      "Description": "Response 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23664 ",
+      "HEX ": "5c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 5",
+      "Description": "Response 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23696 ",
+      "HEX ": "5c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 6",
+      "Description": "Response 6 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23728 ",
+      "HEX ": "5cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 7",
+      "Description": "Response 7 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "23760 ",
+      "HEX ": "5cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Response 8",
+      "Description": "Response 8 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "24592 ",
+      "HEX ": "601 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RedCross",
+      "Description": "American Red Cross ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "33104 ",
+      "HEX ": "815 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Main",
+      "Description": "Sheriff's Department - Priority ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "24112 ",
+      "HEX ": "5e3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Tac 1",
+      "Description": "Sheriff's Department - Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "24144 ",
+      "HEX ": "5e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Tac 2",
+      "Description": "Sheriff's Department - Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "24176 ",
+      "HEX ": "5e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Tac 3",
+      "Description": "Sheriff's Department - Tac 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "24208 ",
+      "HEX ": "5e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCSO Courts",
+      "Description": "Sheriff's Department - Courts ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "24240 ",
+      "HEX ": "5eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Disp",
+      "Description": "Fire-Rescue - Priority ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "24272 ",
+      "HEX ": "5ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR FG  9",
+      "Description": "Fire-Rescue - Fireground 9 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24304 ",
+      "HEX ": "5ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR FG 10",
+      "Description": "Fire-Rescue - Fireground 10 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24336 ",
+      "HEX ": "5f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR FG 11",
+      "Description": "Fire-Rescue - Fireground 11 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24368 ",
+      "HEX ": "5f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR FG 12",
+      "Description": "Fire-Rescue - Fireground 12 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "24464 ",
+      "HEX ": "5f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCEMS",
+      "Description": "EMS - Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "33136 ",
+      "HEX ": "817 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FOPD Main",
+      "Description": "Fort Oglethorpe Police Department - Priority ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "24496 ",
+      "HEX ": "5fb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Catoosa Net1",
+      "Description": "Catoosa Net 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "24528 ",
+      "HEX ": "5fd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Catoosa Net2",
+      "Description": "Catoosa Net 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "33200 ",
+      "HEX ": "81b ",
+      "Mode  ": "D",
+      "Alpha Tag": "CatoosaCtDet",
+      "Description": "Courts/Detention ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "33808 ",
+      "HEX ": "841 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cat Co Jail",
+      "Description": "Jail Operations ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

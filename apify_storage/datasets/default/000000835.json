@@ -1,0 +1,21 @@
+{
+  "System Name": "FEDEX (Fort Lauderdale-Hollywood International Airport)",
+  "Location": "Fort Lauderdale, FL",
+  "County": "Broward",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 2, 2016, 1:02 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed ",
+        "01 936.150 ",
+        "02 936.7125 ",
+        "03 937.150 ",
+        "04 938.150 ",
+        "05 939.150 "
+      ]
+    }
+  ]
+}

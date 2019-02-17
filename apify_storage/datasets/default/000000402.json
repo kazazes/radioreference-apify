@@ -1,0 +1,40 @@
+{
+  "System Name": "University of Southern California - IT Services",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 6, 2018, 3:18 am ((1) Talkgroups Updated (USC IT Services))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "USC IT ",
+        "01 464.625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "252 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Technicians",
+      "Description": "Technicians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "253 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Technicians",
+      "Description": "Technicians ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "254 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Monitoring Ctr",
+      "Description": "Monitoring Center ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

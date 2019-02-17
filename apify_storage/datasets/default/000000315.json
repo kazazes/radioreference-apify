@@ -1,0 +1,139 @@
+{
+  "System Name": "Hemet Unified School District",
+  "Location": "Various, CA",
+  "County": "4 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 13, 2018, 11:43 pm (Added Talkgroup 130 On Campus Use(District Ops))",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": "Anza",
+      "County": [
+        "San Diego",
+        "01 464.1125 ",
+        "02 464.3625 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Pine Cove",
+      "County": [
+        "Riverside",
+        "01 461.4875 ",
+        "02 461.9625 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Monterrey Park",
+      "County": [
+        "Los Angeles",
+        "01 463.5125 ",
+        "02 464.3375 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Industry",
+      "County": [
+        "Los Angeles",
+        "01 463.5375 ",
+        "02 463.4125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TRANSPORTATION",
+      "Description": "Transportation ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use - (Middle School) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "127 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "133 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "134 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "135 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "137 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "139 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CAMPUS",
+      "Description": "On Campus Use - (Elementary) ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

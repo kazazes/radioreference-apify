@@ -1,0 +1,37 @@
+{
+  "System Name": "FCA US: Kokomo Transmission Division",
+  "Location": "Kokomo, IN",
+  "County": "Howard",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 30, 2014, 12:32 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "6125",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Kokomo",
+      "Freqs": [
+        "935.925",
+        "935.950",
+        "935.975",
+        "936.000",
+        "936.650c",
+        "936.675",
+        "936.6875c",
+        "937.150",
+        "937.1875",
+        "937.2125",
+        "937.250",
+        "937.6375",
+        "937.650",
+        "937.6625",
+        "937.675"
+      ]
+    }
+  ]
+}

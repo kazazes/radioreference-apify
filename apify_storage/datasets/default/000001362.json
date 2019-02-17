@@ -1,0 +1,21 @@
+{
+  "System Name": "B and L Communications",
+  "Location": "Bloomington, IN",
+  "County": "Monroe",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 18, 2018, 10:32 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bloomington",
+        "01 451.7875 ",
+        "02 452.2125 ",
+        "03 452.4625 ",
+        "04 452.7375 ",
+        "06 463.375 "
+      ]
+    }
+  ]
+}

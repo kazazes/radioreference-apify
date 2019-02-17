@@ -1,0 +1,276 @@
+{
+  "System Name": "Statewide Law Enforcement Radio System (P25)",
+  "Location": "Statewide, FL",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 5, 2018, 2:18 pm (Changed Site # 001 (Orlando Air) to 001 (Orlando Air))",
+  "System ID List": [
+    {
+      "System ID": "197",
+      "WACN": "9254A"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "4 (4)",
+      "Site": "001 (1)",
+      "Name": "Orlando Air",
+      "County": "Orange",
+      "Freqs": [
+        "769.21875a",
+        "769.4725a",
+        "769.71875c",
+        "769.96875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "001 (1)",
+      "Name": "Miami",
+      "County": "Miami-Dade",
+      "Freqs": [
+        "773.31875c",
+        "773.56875a",
+        "773.81875",
+        "774.06875",
+        "774.31875",
+        "774.56875"
+      ]
+    },
+    {
+      "RFSS": "14 (E)",
+      "Site": "001 (1)",
+      "Name": "Citrus Air",
+      "County": "Citrus",
+      "Freqs": [
+        "770.18125",
+        "770.43125",
+        "770.68125",
+        "770.93125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "15 (F)",
+      "Site": "001 (1)",
+      "Name": "Big Pine Air",
+      "County": "Monroe",
+      "Freqs": [
+        "769.21875",
+        "769.46875",
+        "769.71875",
+        "769.96875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "20 (14)",
+      "Site": "001 (1)",
+      "Name": "Perry Air",
+      "County": "Taylor",
+      "Freqs": [
+        "769.19375",
+        "769.44375",
+        "769.69375",
+        "769.94375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "21 (15)",
+      "Site": "001 (1)",
+      "Name": "Pinecrest Air",
+      "County": "Monroe",
+      "Freqs": [
+        "770.18125c",
+        "770.43125",
+        "770.68125",
+        "770.93125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "53 (35)",
+      "Site": "001 (1)",
+      "Name": "Ft. Pierce Air",
+      "County": "Martin",
+      "Freqs": [
+        "769.19375",
+        "769.44375",
+        "769.69375c",
+        "769.94375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "63 (3F)",
+      "Site": "001 (1)",
+      "Name": "Crestview Air",
+      "County": "Okaloosa",
+      "Freqs": [
+        "770.20625c",
+        "770.45625a",
+        "770.70625a",
+        "770.95625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "65 (41)",
+      "Site": "001 (1)",
+      "Name": "Venice Air",
+      "County": "Sarasota",
+      "Freqs": [
+        "770.20625c",
+        "770.45625",
+        "770.70625",
+        "770.95625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "75 (4B)",
+      "Site": "001 (1)",
+      "Name": "GreenCove Air",
+      "County": "Clay",
+      "Freqs": [
+        "770.20625",
+        "770.45625c",
+        "770.70625",
+        "770.95625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "76 (4C)",
+      "Site": "001 (1)",
+      "Name": "Wewahitchka Air",
+      "County": "Gulf",
+      "Freqs": [
+        "769.21875c",
+        "769.46875a",
+        "769.71875a",
+        "769.96875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "89 (59)",
+      "Site": "001 (1)",
+      "Name": "Fort White P25",
+      "County": "Columbia",
+      "Freqs": [
+        "773.59375c",
+        "773.84375a",
+        "774.09375a",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "286 ",
+      "HEX ": "11e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FHP Air 286",
+      "Description": "FHP Aircraft 286 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "311 ",
+      "HEX ": "137 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FHP Air 311",
+      "Description": "FHP Aircraft 311 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "336 ",
+      "HEX ": "150 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Orlando 336",
+      "Description": "Orlando 336 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "461 ",
+      "HEX ": "1cd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Orlando 461",
+      "Description": "Orlando 461 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "467 ",
+      "HEX ": "1d3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fort Pierce",
+      "Description": "Fort Pierce 9065 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "521 ",
+      "HEX ": "209 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Venice",
+      "Description": "Venice ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "9065 ",
+      "HEX ": "2369 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fort Pierce",
+      "Description": "Fort Pierce 9065 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "50001 ",
+      "HEX ": "c351 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs50001",
+      "Description": "Radio Techs 50001 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50044 ",
+      "HEX ": "c37c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs50044",
+      "Description": "Radio Techs 50044 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50045 ",
+      "HEX ": "c37d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs50045",
+      "Description": "Radio Techs 50045 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50047 ",
+      "HEX ": "c37f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs50047",
+      "Description": "Radio Techs 50047 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

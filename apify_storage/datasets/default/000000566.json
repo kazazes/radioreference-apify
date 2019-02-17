@@ -1,0 +1,421 @@
+{
+  "System Name": "Sam Gardali System 1",
+  "Location": "Patterson, CA",
+  "County": "Stanislaus",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 21, 2017, 12:55 am (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "02 463.700 ",
+        "03 463.600 ",
+        "10 463.875 ",
+        "20 451.200 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 2023",
+      "Description": "Farming 02-023 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 2027",
+      "Description": "Farming 2-027 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-028 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 2029",
+      "Description": "Farming 2-029 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farm 02-037",
+      "Description": "Farming (Spanish Speakers) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Auto Shop",
+      "Description": "Unknown Auto Shop (Smog/Emissions) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Trucking",
+      "Description": "Ag Type Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-112 ",
+      "Mode  ": "A",
+      "Alpha Tag": "City Tow",
+      "Description": "City Tow (Turlock) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC",
+      "Description": "HVAC Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-117 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farm 02-117",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farm 02-119",
+      "Description": "Farming (Spanish Speakers) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Trucking",
+      "Description": "Ag Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-02-126 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 2126",
+      "Description": "Farming 2-126 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Truck Driver",
+      "Description": "Truck Drivers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-177 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Prod 2177",
+      "Description": "Ag Produc 02-177 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-207 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Scrambled 30",
+      "Description": "Scrambled 3-023 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "On Tell  Sec",
+      "Description": "On Tell Security (Merced) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SecurityCh23",
+      "Description": "SecurityCh23-025 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-028 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 2",
+      "Description": "Security Ch 2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Srvc",
+      "Description": "Radio Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-038 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Related 3",
+      "Description": "Ag Related 3-050 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-052 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Ops",
+      "Description": "Ag Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-054 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish 03-0",
+      "Description": "Spanish 03-055 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing",
+      "Description": "Plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-113 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Landscaping",
+      "Description": "Landscaping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Electricians",
+      "Description": "Electricians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-116 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Eng Sev0-03-",
+      "Description": "Eng Sev0-03-116 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-118 ",
+      "Mode  ": "A",
+      "Alpha Tag": "security",
+      "Description": "security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-123 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Valley Secur",
+      "Description": "Valley Secur Ch2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-125 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-126 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 3-12",
+      "Description": "Farming 3-126 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish 0-04",
+      "Description": "Spanish 0-04-021 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TruckingToDa",
+      "Description": "TruckingToDairy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-036 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Alarm Co 04-",
+      "Description": "Alarm Co 04-036 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ag Ops",
+      "Description": "Agricultural Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CornTrailer",
+      "Description": "Corn Trailer ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-048 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Bus",
+      "Description": "School Buses Newman ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-04-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 04-1",
+      "Description": "Farming 04-124 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AgRelated 04",
+      "Description": "AgRelated 04-131 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "0-04-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-134 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-160 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PortaPotties",
+      "Description": "Porta Potty Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telemetry",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    }
+  ]
+}

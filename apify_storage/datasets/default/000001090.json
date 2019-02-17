@@ -1,0 +1,112 @@
+{
+  "System Name": "Southwest Georgia Regional Radio System (P25)",
+  "Location": "Varies, GA",
+  "County": "6 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 15, 2017, 7:29 am (Changed Site # 004 (Decatur County/Grady County Simulcast) to 004 (Decatur/Grady County Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "8D7",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "6 (6)",
+      "Site": "001 (1)",
+      "Name": "Albany/Dougherty Co. Simulcast",
+      "County": "Dougherty",
+      "Freqs": [
+        "854.0125",
+        "854.2125",
+        "854.3875",
+        "854.6125",
+        "854.7125",
+        "855.2125",
+        "855.2875",
+        "855.4875",
+        "855.6125",
+        "855.8875",
+        "856.2125",
+        "856.4125c",
+        "856.7625a",
+        "857.2625a"
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "002 (2)",
+      "Name": "Thomas County Simulcast",
+      "County": "Thomas",
+      "Freqs": [
+        "854.5375",
+        "854.9875",
+        "855.2125",
+        "855.4375",
+        "855.9875",
+        "856.3875",
+        "856.9875c",
+        "857.2375a"
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "003 (3)",
+      "Name": "Lee County",
+      "County": "Lee",
+      "Freqs": [
+        "851.200",
+        "852.4375",
+        "852.9375",
+        "853.3875a",
+        "853.9375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "004 (4)",
+      "Name": "Decatur/Grady County Simulcast",
+      "County": "Decatur",
+      "Freqs": [
+        "769.33125c",
+        "770.50625a",
+        "770.78125",
+        "771.25625",
+        "771.75625",
+        "772.50625",
+        "774.15625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Albany FD FG 1",
+      "Description": "Fireground 1 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1713 ",
+      "HEX ": "6b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fire/EMS 1",
+      "Description": "Lee County Fire/EMS 1 ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "1714 ",
+      "HEX ": "6b2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fire/EMS",
+      "Description": "Lee County Fire/EMS 2 ",
+      "Tag  ": "Multi-Dispatch "
+    }
+  ]
+}

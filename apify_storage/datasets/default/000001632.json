@@ -1,0 +1,57 @@
+{
+  "System Name": "Megacomm Corporation",
+  "Location": "Davenport, IA",
+  "County": "Scott",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 28, 2018, 8:29 am (Changed Talkgroup Category: Humane Society of Scott County to Scott County Humane Society(Scott County Humane Society))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Davenport",
+        "03 858.0625 ",
+        "07 857.0625 ",
+        "11 856.0625 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Bettendorf",
+        "04 860.6375 ",
+        "08 859.6375 ",
+        "12 858.6375 ",
+        "16 857.6375 ",
+        "20 856.6375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-12-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Barstow ESD",
+      "Description": "Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-12-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Barstow Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-12-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trash Pickup",
+      "Description": "Unknown Trash Pickup ",
+      "Tag  ": "Business "
+    }
+  ]
+}

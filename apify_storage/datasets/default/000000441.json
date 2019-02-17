@@ -1,0 +1,151 @@
+{
+  "System Name": "Santa Ana Unified School District",
+  "Location": "Santa Ana, CA",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 26, 2018, 5:53 pm (Added Talkgroup 201 On Campus Use(SAUSD))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "School Police HQ",
+        "01 461.100 ",
+        "02 461.575 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Segerstrom High School",
+        "01 470.275 ",
+        "02 471.000 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Century High School",
+        "01 463.800 ",
+        "02 464.775 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Carver Elementary School",
+        "01 464.025 ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "Saddleback High School ",
+        "01 462.150 ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": [
+        "Santa Ana High School",
+        "01 463.775 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Centennial",
+      "Description": "Centennial High School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "124 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "131 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Santa Ana HS",
+      "Description": "Santa Ana High School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "199 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IT",
+      "Description": "District Information Technology ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "214 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "221 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "231 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Campus",
+      "Description": "On Campus Use ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

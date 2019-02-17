@@ -1,0 +1,68 @@
+{
+  "System Name": "Spirit AeroSystems, Inc.",
+  "Location": "Wichita, KS",
+  "County": "Sedgwick",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "November 12, 2017, 2:07 pm (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "280D",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.2875",
+        "856.3375",
+        "856.3625",
+        "856.4125",
+        "857.2875",
+        "857.3375",
+        "857.3625c",
+        "857.4125",
+        "858.2875",
+        "858.3375",
+        "858.3625a",
+        "858.4125",
+        "859.2875",
+        "859.3375",
+        "859.3625a",
+        "859.4125",
+        "860.2875",
+        "860.3375",
+        "860.3625c",
+        "860.4125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spirit Security",
+      "Description": "Plant Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4336 ",
+      "HEX ": "10f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spirit PaintShop",
+      "Description": "Paint Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9680 ",
+      "HEX ": "25d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spirit AS Parts",
+      "Description": "Parts Distribution ",
+      "Tag  ": "Business "
+    }
+  ]
+}

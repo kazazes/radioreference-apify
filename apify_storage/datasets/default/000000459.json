@@ -1,0 +1,41 @@
+{
+  "System Name": "Arden Fair Mall",
+  "Location": "Sacramento, CA",
+  "County": "Sacramento",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 4, 2018, 12:47 pm ((3) Talkgroups Updated (multi-category change))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Arden Fair Mall",
+        "01 461.375 ",
+        "02 464.175 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "205 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFM Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFM Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFM Custodial",
+      "Description": "Custodial ",
+      "Tag  ": "Business "
+    }
+  ]
+}

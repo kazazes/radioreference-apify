@@ -1,0 +1,119 @@
+{
+  "System Name": "Lockheed Martin",
+  "Location": "Milpitas, CA",
+  "County": "Santa Clara",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 1, 2018, 8:19 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "BD16",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mission Peak",
+      "Freqs": [
+        "860.3875",
+        "854.2125",
+        "855.7875",
+        "856.3875",
+        "857.3875c",
+        "858.3875c",
+        "859.3875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FireNet Ch 2",
+      "Description": "Fire Net - Ch 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4880 ",
+      "HEX ": "131 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Elec Ch 5",
+      "Description": "Electricians - Ch 5 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4912 ",
+      "HEX ": "133 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ch 6? 4912",
+      "Description": "Ch 6? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4944 ",
+      "HEX ": "135 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ch 7",
+      "Description": "Ch 7 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5008 ",
+      "HEX ": "139 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage 5008",
+      "Description": "Garbage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6416 ",
+      "HEX ": "191 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttle 6416",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "6448 ",
+      "HEX ": "193 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Repair Ch 11",
+      "Description": "Repair - Ch 11 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6480 ",
+      "HEX ": "195 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transp 6480",
+      "Description": "Transportation ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "8016 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Mt 8016",
+      "Description": "HVAC Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19216 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 19216",
+      "Description": "Telemetry ",
+      "Tag  ": "Data "
+    }
+  ]
+}

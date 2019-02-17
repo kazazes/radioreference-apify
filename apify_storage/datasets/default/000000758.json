@@ -1,0 +1,63 @@
+{
+  "System Name": "Georgetown University",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 4, 2018, 8:07 pm (Added Talkgroup 111 Recreation/Yates Field House?(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 463.375 ",
+        "02 452.625 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Site 4",
+        "01 452.075 ",
+        "02 461.600 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GU Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GU Mnt 104",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GU Mnt 105",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GU Transportatn",
+      "Description": "Transportation (GUTS) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GU Recreation?",
+      "Description": "Recreation/Yates Field House? ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

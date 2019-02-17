@@ -1,0 +1,123 @@
+{
+  "System Name": "Henry County (P25)",
+  "Location": "Various, GA",
+  "County": "Henry",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 19, 2018, 1:25 pm ((1) Talkgroups Updated (Law Enforcement))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92511"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "County Simulcast",
+      "Freqs": [
+        "851.175c",
+        "851.350c",
+        "851.8375c",
+        "852.050c",
+        "852.700c",
+        "853.2125c",
+        "853.875c",
+        "853.9875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "390 ",
+      "HEX ": "186 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC911 CO-WIDE",
+      "Description": "Henry County County-Wide ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "393 ",
+      "HEX ": "189 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC911 CO-EVENT",
+      "Description": "Henry County County Events - Atlanta Motor Speedway ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "278 ",
+      "HEX ": "116 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 278",
+      "Description": "Talkgroup 278 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "288 ",
+      "HEX ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 288",
+      "Description": "Talkgroup 288 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "290 ",
+      "HEX ": "122 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TGRP 290",
+      "Description": "Talkgroup 290 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "306 ",
+      "HEX ": "132 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 308",
+      "Description": "Talkgroup 308 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "440 ",
+      "HEX ": "1b8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 440",
+      "Description": "Talkgroup 440 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "602 ",
+      "HEX ": "25a ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 602",
+      "Description": "Talkgroup 602 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "604 ",
+      "HEX ": "25c ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 604",
+      "Description": "Talkgroup 604 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "608 ",
+      "HEX ": "260 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 608",
+      "Description": "Talkgroup 608 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "845 ",
+      "HEX ": "34d ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 845",
+      "Description": "Talkgroup 845 ",
+      "Tag  ": "Other "
+    }
+  ]
+}

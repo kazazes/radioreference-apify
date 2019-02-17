@@ -1,0 +1,55 @@
+{
+  "System Name": "University of California (San Francisco)",
+  "Location": "San Francisco, CA",
+  "County": "San Francisco",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 20, 2018, 4:48 pm (Changed Site # 003 (Laurel Heights) to 003 (Laurel Heights))",
+  "System ID List": [
+    {
+      "System ID": "639"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Parnassus",
+        "01 461.6875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Helen Diller",
+        "01 463.725c ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Laurel Heights",
+        "11 453.6375c ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Mission Center",
+        "01 464.275c ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "Med Center Mission Bay",
+        "01 463.400c ",
+        "99 464.050 "
+      ]
+    }
+  ]
+}

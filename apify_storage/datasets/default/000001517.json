@@ -1,0 +1,152 @@
+{
+  "System Name": "Global Brass and Copper / Olin Brass (East Alton)",
+  "Location": "East Alton, IL",
+  "County": "Madison",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 13, 2018, 1:22 am (Changed Site # 001 (East Alton) to 001 (East Alton))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "East Alton",
+        "01 856.3625a ",
+        "02 857.3625a ",
+        "03 858.3625c ",
+        "04 859.3625 ",
+        "05 859.9375 ",
+        "06 855.3625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1044 ",
+      "AFS ": "08-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Dept",
+      "Description": "Olin Brass Fire Department ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1092 ",
+      "AFS ": "08-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z1 Win Prod",
+      "Description": "Z-1 Win. Prodctn ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1140 ",
+      "AFS ": "08-144 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z1 Maint",
+      "Description": "Z-1 Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1172 ",
+      "AFS ": "09-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z4 Productio",
+      "Description": "Z-4 Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1220 ",
+      "AFS ": "09-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z4 Maint",
+      "Description": "Z-4 Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1252 ",
+      "AFS ": "09-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Receiving",
+      "Description": "Receiving ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1254 ",
+      "AFS ": "09-126 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WinchstrStor",
+      "Description": "Winchester Stores ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1256 ",
+      "AFS ": "09-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transportion",
+      "Description": "Transportation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1258 ",
+      "AFS ": "09-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MaterialRclm",
+      "Description": "Material Reclaim ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1300 ",
+      "AFS ": "10-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z1 Productin",
+      "Description": "Z-1 Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1326 ",
+      "AFS ": "10-056 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brass Shipng",
+      "Description": "Brass Shipping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1348 ",
+      "AFS ": "10-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z1 Maint",
+      "Description": "Z-1 Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1380 ",
+      "AFS ": "10-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z17 Productn",
+      "Description": "Z-17 Production ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1428 ",
+      "AFS ": "11-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Z17 Maint",
+      "Description": "Z-17 Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1476 ",
+      "AFS ": "11-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Utilities",
+      "Description": "Utilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1508 ",
+      "AFS ": "11-124 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brass Stores",
+      "Description": "Brass Stores ",
+      "Tag  ": "Business "
+    }
+  ]
+}

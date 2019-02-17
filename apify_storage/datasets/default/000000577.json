@@ -1,0 +1,112 @@
+{
+  "System Name": "Sutter Buttes Communications UHF",
+  "Location": "Sacramento, CA",
+  "County": "Sutter",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 7:31 am ((13) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.825 ",
+        "03 463.525 ",
+        "05 461.375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kemp Industr",
+      "Description": "Kemp Industries ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Colusa Casin",
+      "Description": "Colusa Casino ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Colusa India",
+      "Description": "Colusa Indian Community Council ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Wallace Merc",
+      "Description": "Wallace Merckley Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Auburn Ravin",
+      "Description": "Auburn Ravine Applicators ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-018 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bill Johnson",
+      "Description": "Bill Johnson Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Onstott Crop",
+      "Description": "Onstott Crop Dusting ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Brower's Tow",
+      "Description": "Brower's Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Thayer Agric",
+      "Description": "Thayer Agriculture Aviation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mitchell's T",
+      "Description": "Mitchell's Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Thrifty Root",
+      "Description": "Thrifty Rooter ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-249 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Demo",
+      "Description": "Demo ",
+      "Tag  ": "Business "
+    }
+  ]
+}

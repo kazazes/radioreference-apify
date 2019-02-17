@@ -1,0 +1,97 @@
+{
+  "System Name": "Raymond James And Associates",
+  "Location": "Saint Petersburg , FL",
+  "County": "Pinellas",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 21, 2017, 11:59 am ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 461.700 ",
+        "02 463.950 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities A",
+      "Description": "Facilities A ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities B",
+      "Description": "Facilities B ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities C",
+      "Description": "Facilities C ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security A",
+      "Description": "Security A ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security B",
+      "Description": "Security B ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security C",
+      "Description": "Security C ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Event A",
+      "Description": "Event A ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Event B",
+      "Description": "Event B ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Event C",
+      "Description": "Event C ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security D",
+      "Description": "Security D ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security E",
+      "Description": "Security E ",
+      "Tag  ": "Security "
+    }
+  ]
+}

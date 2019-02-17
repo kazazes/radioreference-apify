@@ -1,0 +1,19 @@
+{
+  "System Name": "Trunking Investments Incorporated",
+  "Location": "North Judson, IN",
+  "County": "Starke",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 24, 2013, 12:34 am (Changed Site # 001 (Primary) to 001 (North Judson))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "North Judson",
+        "01 451.200 ",
+        "02 451.675 ",
+        "03 463.475 "
+      ]
+    }
+  ]
+}

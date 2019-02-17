@@ -1,0 +1,183 @@
+{
+  "System Name": "Cincinnati/Northern Kentucky International Airport (CVG)",
+  "Location": "Hebron, KY",
+  "County": "2 counties",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 26, 2016, 2:45 pm (Changed Site # 001 (Site 1 (Hebron-KCVG)) to 001 (Site 1 (Hebron-KCVG)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1 (Hebron-KCVG)",
+      "County": [
+        "Boone",
+        "01 N/A ",
+        "02 N/A ",
+        "03 858.9375c ",
+        "04 859.7375 ",
+        "05 860.7375 ",
+        "06 N/A "
+      ],
+      "Data": [
+        "07 857.9375 ",
+        "08 856.0125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "AFS ": "00-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMERGENCY",
+      "Description": "Tone Alerting/Emergencies/Dispatch ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "2 ",
+      "AFS ": "00-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PS COMMON",
+      "Description": "Public Safety Common ",
+      "Tag  ": "Multi-Tac "
+    },
+    {
+      "DEC ": "256 ",
+      "AFS ": "02-000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ANNOUNCE",
+      "Description": "All Airport Broadcast ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "280 ",
+      "AFS ": "02-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "INTEROP",
+      "Description": "Interopibility with Boone/Kenton County ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "273 ",
+      "AFS ": "02-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVG MAIN",
+      "Description": "Airport Staff To PD Dispatch ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "305 ",
+      "AFS ": "02-061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FACILITY",
+      "Description": "Facility Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "310 ",
+      "AFS ": "02-066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOUSEKEEP",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "311 ",
+      "AFS ": "02-067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RAMP ESCORT",
+      "Description": "Ramp Escort ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "324 ",
+      "AFS ": "02-084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GROUNDS",
+      "Description": "Grounds Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "353 ",
+      "AFS ": "02-121 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIELDMAINT1",
+      "Description": "Airfield Maintenance 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "354 ",
+      "AFS ": "02-122 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIELDMAINT2",
+      "Description": "Airfield Maintenance 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "369 ",
+      "AFS ": "02-141 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CVG OPS",
+      "Description": "Airport General Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "385 ",
+      "AFS ": "03-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECTRIC 1",
+      "Description": "Electrical Maintenance 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "386 ",
+      "AFS ": "03-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECTRIC 2",
+      "Description": "Electrical Maintenance 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "388 ",
+      "AFS ": "03-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECTRIC 3",
+      "Description": "Electrical Maintenance 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "389 ",
+      "AFS ": "03-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECTRIC 4",
+      "Description": "Electrical Maintenance 4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "390 ",
+      "AFS ": "03-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECTRIC 5",
+      "Description": "Electrical Maintenance 5 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "433 ",
+      "AFS ": "03-061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BLDNG MAINT",
+      "Description": "Building Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "438 ",
+      "AFS ": "03-066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRAIN MAINT",
+      "Description": "Train Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

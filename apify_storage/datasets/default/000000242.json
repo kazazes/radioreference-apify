@@ -1,0 +1,32 @@
+{
+  "System Name": "ChevronTexaco (Richmond Refinery)",
+  "Location": "Richmond, CA",
+  "County": "Contra Costa",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 2, 2018, 8:13 am (Changed Site # 001 (On Site) to 001 (On Site))",
+  "System ID List": [
+    {
+      "System ID": "5E8",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "On Site",
+      "Freqs": [
+        "854.8125",
+        "855.1875",
+        "855.6875",
+        "856.3375",
+        "857.3125",
+        "857.3375",
+        "858.3375a",
+        "859.3375c",
+        "860.3375c"
+      ]
+    }
+  ]
+}

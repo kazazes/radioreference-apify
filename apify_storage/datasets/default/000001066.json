@@ -1,0 +1,2458 @@
+{
+  "System Name": "Tennessee Advanced Communications Network (TACN)",
+  "Location": "Various, TN GA",
+  "County": "5 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 13, 2019, 2:55 pm ((10) Talkgroups Updated (TN - Knox County (93) - Public Safety))",
+  "System ID List": [
+    {
+      "System ID": "2A5",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Clarksville Simulcast",
+      "County": "Montgomery, TN",
+      "Freqs": [
+        "851.075c",
+        "851.9375a",
+        "852.3375a",
+        "852.7125a",
+        "853.1375",
+        "853.475",
+        "853.725",
+        "853.975"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "Petros: TNDOC",
+      "County": "Morgan, TN",
+      "Freqs": [
+        "851.350c",
+        "851.7375a",
+        "852.200",
+        "852.7375",
+        "853.0875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Murfreesboro",
+      "County": "Rutherford, TN",
+      "Freqs": [
+        "769.18125c",
+        "769.43125a",
+        "769.68125",
+        "769.93125",
+        "770.18125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "023 (17)",
+      "Name": "Turney Center: TNDOC",
+      "County": "Hickman, TN",
+      "Freqs": [
+        "851.6625",
+        "852.175",
+        "852.675",
+        "853.0875a",
+        "853.5875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "Southeast Center: TNDOC",
+      "County": "Bledsoe, TN",
+      "Freqs": [
+        "851.2625",
+        "851.700c",
+        "852.0875a",
+        "852.3125",
+        "852.650",
+        "852.925",
+        "853.875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Clifton: TNDOC",
+      "County": "Wayne, TN",
+      "Freqs": [
+        "851.325",
+        "852.1875",
+        "852.725",
+        "853.100a",
+        "853.9875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Nashville TNDOC ",
+      "County": "Davidson, TN",
+      "Freqs": [
+        "854.1375c",
+        "854.3625",
+        "854.9375",
+        "856.4375",
+        "856.7375",
+        "857.7375",
+        "858.4375",
+        "858.7375",
+        "859.4375",
+        "859.7375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Northwest: TNDOC",
+      "County": "Lake, TN",
+      "Freqs": [
+        "854.1375c",
+        "856.4375",
+        "856.9625",
+        "857.4375",
+        "857.9625",
+        "858.4375",
+        "859.4375a",
+        "860.4375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "Tennessee Tower",
+      "County": "Davidson, TN",
+      "Freqs": [
+        "769.26875",
+        "769.70625",
+        "770.40625",
+        "770.66875",
+        "770.91875",
+        "773.93125",
+        "851.4625",
+        "852.425",
+        "852.7375",
+        "852.9875a",
+        "853.250",
+        "853.7375c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Antioch",
+      "County": "Davidson, TN",
+      "Freqs": [
+        "769.30625c",
+        "769.58125a",
+        "770.19375",
+        "771.60625",
+        "772.73125",
+        "773.03125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "Gladeville",
+      "County": "Wilson, TN",
+      "Freqs": [
+        "769.78125c",
+        "770.08125a",
+        "771.15625",
+        "771.43125",
+        "771.80625",
+        "773.33125",
+        "774.08125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "031 (1F)",
+      "Name": "Tiger Hill",
+      "County": "Rutherford, TN",
+      "Freqs": [
+        "770.03125c",
+        "770.30625a",
+        "771.33125",
+        "771.65625",
+        "771.93125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Hoovers Gap",
+      "County": "Rutherford, TN",
+      "Freqs": [
+        "769.25625c",
+        "769.53125a",
+        "770.55625",
+        "770.85625",
+        "771.20625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "033 (21)",
+      "Name": "Hinch Mountain TNDOC",
+      "County": "Cumberland, TN",
+      "Freqs": [
+        "851.125",
+        "851.650",
+        "852.2625",
+        "852.850",
+        "853.2375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "035 (23)",
+      "Name": "Ripley (800 MHz)",
+      "County": "Lauderdale, TN",
+      "Freqs": [
+        "851.1375c",
+        "851.4125a",
+        "851.6875",
+        "851.9125",
+        "852.9125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "036 (24)",
+      "Name": "Whitehouse",
+      "County": "Sumner, TN",
+      "Freqs": [
+        "769.35625c",
+        "769.60625",
+        "770.00625a",
+        "770.35625",
+        "770.80625",
+        "771.08125",
+        "773.78125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "037 (25)",
+      "Name": "Mace's Hill",
+      "County": "Smith, TN",
+      "Freqs": [
+        "152.055c",
+        "152.095",
+        "152.155",
+        "152.535a",
+        "158.515",
+        "161.825",
+        "170.3625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "038 (26)",
+      "Name": "Standing Stone",
+      "County": "Overton, TN",
+      "Freqs": [
+        "152.125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "039 (27)",
+      "Name": "Twinton",
+      "County": "Overton, TN",
+      "Freqs": [
+        "152.115c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "040 (28)",
+      "Name": "Cookeville",
+      "County": "Putnam, TN",
+      "Freqs": [
+        "769.28125c",
+        "769.80625",
+        "770.10625a",
+        "770.76875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "041 (29)",
+      "Name": "Short Mountain",
+      "County": "Cannon, TN",
+      "Freqs": [
+        "152.065a",
+        "152.205",
+        "152.515a",
+        "161.800c",
+        "161.875",
+        "161.950",
+        "169.8875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "042 (2A)",
+      "Name": "West Nashville",
+      "County": "Davidson, TN",
+      "Freqs": [
+        "769.45625",
+        "769.83125c",
+        "770.25625a",
+        "771.98125",
+        "772.63125",
+        "772.98125",
+        "773.58125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "043 (2B)",
+      "Name": "Ashland City",
+      "County": "Cheatham, TN",
+      "Freqs": [
+        "770.33125c",
+        "770.83125a",
+        "772.30625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "044 (2C)",
+      "Name": "Kingston Springs",
+      "County": "Cheatham, TN",
+      "Freqs": [
+        "771.73125c",
+        "772.05625",
+        "772.55625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "045 (2D)",
+      "Name": "Charlotte",
+      "County": "Dickson, TN",
+      "Freqs": [
+        "771.00625c",
+        "771.38125",
+        "772.00625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "046 (2E)",
+      "Name": "Slayden",
+      "County": "Dickson, TN",
+      "Freqs": [
+        "771.25625c",
+        "771.55625",
+        "772.35625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "047 (2F)",
+      "Name": "McEwen",
+      "County": "Humphreys, TN",
+      "Freqs": [
+        "769.93125",
+        "771.43125c",
+        "772.25625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "048 (30)",
+      "Name": "Dover",
+      "County": "Stewart, TN",
+      "Freqs": [
+        "153.875",
+        "154.815a",
+        "154.995",
+        "155.130",
+        "155.445c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "049 (31)",
+      "Name": "Cunningham",
+      "County": "Montgomery, TN",
+      "Freqs": [
+        "769.28125c",
+        "769.55625",
+        "769.90625a",
+        "770.68125a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "050 (32)",
+      "Name": "Adams",
+      "County": "Robertson, TN",
+      "Freqs": [
+        "769.10625c",
+        "770.05625",
+        "770.58125a",
+        "771.50625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "051 (33)",
+      "Name": "Joelton",
+      "County": "Davidson, TN",
+      "Freqs": [
+        "770.50625c",
+        "770.75625",
+        "771.28125a",
+        "772.45625",
+        "773.43125",
+        "774.18125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "052 (34)",
+      "Name": "Gills Chapel",
+      "County": "Marshall, TN",
+      "Freqs": [
+        "771.23125c",
+        "771.75625",
+        "772.25625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "053 (35)",
+      "Name": "Pulaski",
+      "County": "Giles, TN",
+      "Freqs": [
+        "152.065",
+        "152.145c",
+        "152.505",
+        "152.785a",
+        "169.575",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "054 (36)",
+      "Name": "Crestview",
+      "County": "Lawrence, TN",
+      "Freqs": [
+        "152.095c",
+        "152.115a",
+        "152.515",
+        "152.775",
+        "161.825",
+        "161.925",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "055 (37)",
+      "Name": "West Point",
+      "County": "Lawrence, TN",
+      "Freqs": [
+        "769.60625c",
+        "769.61875a",
+        "770.53125",
+        "771.03125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "056 (38)",
+      "Name": "Waynesboro",
+      "County": "Wayne, TN",
+      "Freqs": [
+        "151.0325",
+        "152.065c",
+        "152.205a",
+        "152.545a",
+        "154.8825",
+        "161.875",
+        "169.6625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "057 (39)",
+      "Name": "Hornertown",
+      "County": "Hickman, TN",
+      "Freqs": [
+        "152.055c",
+        "152.155",
+        "152.535a",
+        "154.965",
+        "169.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "058 (3A)",
+      "Name": "Lobelville",
+      "County": "Perry, TN",
+      "Freqs": [
+        "769.10625c",
+        "770.80625",
+        "773.03125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "059 (3B)",
+      "Name": "Theta",
+      "County": "Maury, TN",
+      "Freqs": [
+        "769.20625",
+        "770.36875c",
+        "770.78125a",
+        "771.58125",
+        "773.79375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "060 (3C)",
+      "Name": "Fairview",
+      "County": "Williamson, TN",
+      "Freqs": [
+        "769.08125c",
+        "769.40625",
+        "769.75625",
+        "770.10625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "061 (3D)",
+      "Name": "Northeast: TNDOC",
+      "County": "Johnson, TN",
+      "Freqs": [
+        "851.650c",
+        "852.050",
+        "852.4735",
+        "852.9375",
+        "853.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "062 (3E)",
+      "Name": "WTSP - TNDOC (700 MHz)",
+      "County": "Lauderdale, TN",
+      "Freqs": [
+        "770.45625",
+        "772.15625c",
+        "772.43125a",
+        "772.90625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "063 (3F)",
+      "Name": "WTSP - TNDOC (800 MHz)",
+      "County": "Lauderdale, TN",
+      "Freqs": [
+        "851.700",
+        "852.125",
+        "852.2625",
+        "852.375",
+        "852.650",
+        "853.250a",
+        "853.8125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "064 (40)",
+      "Name": "Smyrna",
+      "County": "Rutherford, TN",
+      "Freqs": [
+        "851.0625",
+        "851.400a",
+        "852.0375a",
+        "852.575a",
+        "853.400c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "065 (41)",
+      "Name": "Sparta",
+      "County": "White, TN",
+      "Freqs": [
+        "769.50625",
+        "769.75625",
+        "771.40625",
+        "771.83125c",
+        "772.15625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "090 (5A)",
+      "Name": "TEMA SOW ",
+      "County": "Statewide, TN",
+      "Freqs": [
+        "773.55625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "010 (A)",
+      "Name": "Chattanooga Simulcast",
+      "County": "Hamilton, TN",
+      "Freqs": [
+        "854.3875",
+        "855.2125c",
+        "855.9875",
+        "856.2375c",
+        "856.7625a",
+        "857.1625",
+        "857.2375a",
+        "857.4375",
+        "857.4875",
+        "857.7125",
+        "857.9375",
+        "858.2375",
+        "858.4375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "011 (B)",
+      "Name": "Northwest Georgia Simulcast",
+      "County": "Catoosa, GA",
+      "Freqs": [
+        "851.175c",
+        "851.4125c",
+        "851.625",
+        "851.6875c",
+        "851.900",
+        "852.1625",
+        "852.4125",
+        "852.600",
+        "853.0375",
+        "853.4125",
+        "853.625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "013 (D)",
+      "Name": "Sale Creek",
+      "County": "Hamilton, TN",
+      "Freqs": [
+        "769.25625c",
+        "771.10625c",
+        "772.45625",
+        "773.93125",
+        "774.91875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "014 (E)",
+      "Name": "Evensville Mountain",
+      "County": "Rhea, TN",
+      "Freqs": [
+        "769.10625c",
+        "770.30625c",
+        "771.15625",
+        "771.55625",
+        "771.80625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "015 (F)",
+      "Name": "No Pone Mountain",
+      "County": "Meigs, TN",
+      "Freqs": [
+        "769.33125c",
+        "771.00625c",
+        "771.33125",
+        "772.33125",
+        "772.68125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "016 (10)",
+      "Name": "Oral",
+      "County": "Roane, TN",
+      "Freqs": [
+        "769.53125c",
+        "770.55625a",
+        "772.03125",
+        "772.53125",
+        "774.20625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "017 (11)",
+      "Name": "Windrock Mountain",
+      "County": "Anderson, TN",
+      "Freqs": [
+        "769.35625c",
+        "771.08125c",
+        "772.00625",
+        "772.90625",
+        "774.46875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "018 (12)",
+      "Name": "Cross Mountain",
+      "County": "Campbell, TN",
+      "Freqs": [
+        "769.30625c",
+        "770.05625c",
+        "771.48125",
+        "772.59375",
+        "773.40625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "019 (13)",
+      "Name": "Knoxville Black Road",
+      "County": "Knox, TN",
+      "Freqs": [
+        "769.28125c",
+        "770.25625c",
+        "770.78125",
+        "771.18125",
+        "771.88125",
+        "773.15625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "020 (14)",
+      "Name": "Knoxville Sharps Ridge",
+      "County": "Knox, TN",
+      "Freqs": [
+        "769.60625c",
+        "770.53125c",
+        "771.53125",
+        "772.45625",
+        "773.73125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "021 (15)",
+      "Name": "Greentop Mountain",
+      "County": "Sevier, TN",
+      "Freqs": [
+        "769.58125c",
+        "770.09375c",
+        "771.14375",
+        "771.99375",
+        "772.79375",
+        "773.93125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "022 (16)",
+      "Name": "Centerville",
+      "County": "Loudon, TN",
+      "Freqs": [
+        "770.35625c",
+        "771.28125c",
+        "771.70625",
+        "772.40625",
+        "773.20625",
+        "773.68125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "023 (17)",
+      "Name": "Madisonville",
+      "County": "Monroe, TN",
+      "Freqs": [
+        "770.03125c",
+        "771.05625c",
+        "772.05625",
+        "772.63125",
+        "773.38125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "024 (18)",
+      "Name": "Starr Mountain",
+      "County": "McMinn, TN",
+      "Freqs": [
+        "771.63125c",
+        "771.90625c",
+        "772.28125",
+        "772.88125",
+        "773.95625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "025 (19)",
+      "Name": "Oswald Dome",
+      "County": "Polk, TN",
+      "Freqs": [
+        "769.29375a",
+        "770.33125c",
+        "770.60625",
+        "771.30625c",
+        "771.68125",
+        "772.55625",
+        "774.68125"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "026 (1A)",
+      "Name": "North Bradley",
+      "County": "Bradley, TN",
+      "Freqs": [
+        "769.60625c",
+        "770.53125a",
+        "771.43125",
+        "771.98125",
+        "772.38125",
+        "772.73125",
+        "773.45625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "027 (1B)",
+      "Name": "Maryville",
+      "County": "Blount, TN",
+      "Freqs": [
+        "770.83125c",
+        "771.83125c",
+        "772.15625",
+        "772.98125",
+        "774.13125",
+        "774.48125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "028 (1C)",
+      "Name": "Look Rock",
+      "County": "Blount, TN",
+      "Freqs": [
+        "769.85625c",
+        "771.58125c",
+        "771.94375",
+        "772.58125",
+        "773.63125",
+        "774.23125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "029 (1D)",
+      "Name": "Townsend",
+      "County": "Blount, TN",
+      "Freqs": [
+        "851.150",
+        "851.4875",
+        "851.7625",
+        "852.1125",
+        "853.225a",
+        "853.5375c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "030 (1E)",
+      "Name": "Roosevelt Mountain",
+      "County": "Roane, TN",
+      "Freqs": [
+        "769.08125c",
+        "770.29375c",
+        "770.75625",
+        "771.75625",
+        "772.13125",
+        "772.83125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "031 (1F)",
+      "Name": "Lone Oak",
+      "County": "Sequatchie, TN",
+      "Freqs": [
+        "769.35625c",
+        "769.78125a",
+        "770.08125",
+        "771.48125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "032 (20)",
+      "Name": "Jasper",
+      "County": "Marion, TN",
+      "Freqs": [
+        "152.115c",
+        "152.215a",
+        "152.785",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "033 (21)",
+      "Name": "Hippie Town Farm",
+      "County": "Grundy, TN",
+      "Freqs": [
+        "771.25625c",
+        "771.63125a",
+        "771.90625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "034 (22)",
+      "Name": "Winchester",
+      "County": "Franklin, TN",
+      "Freqs": [
+        "152.085c",
+        "152.535",
+        "152.775a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "035 (23)",
+      "Name": "Hinch Mountain",
+      "County": "Cumberland, TN",
+      "Freqs": [
+        "152.095c",
+        "152.505a",
+        "152.775",
+        "161.8375",
+        "161.9125",
+        "169.575",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "036 (24)",
+      "Name": "Lenoir City",
+      "County": "Loudon, TN",
+      "Freqs": [
+        "769.45625a",
+        "769.86875c",
+        "771.35625",
+        "771.59375",
+        "772.34375a",
+        "774.24375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "037 (25)",
+      "Name": "La Follette",
+      "County": "Campbell, TN",
+      "Freqs": [
+        "770.90625",
+        "773.70625c",
+        "774.40625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "038 (26)",
+      "Name": "Braden Mountain",
+      "County": "Campbell, TN",
+      "Freqs": [
+        "152.085c",
+        "152.215",
+        "152.515",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "039 (27)",
+      "Name": "Black Creek",
+      "County": "Scott, TN",
+      "Freqs": [
+        "769.59375c",
+        "770.96325",
+        "771.13125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "040 (28)",
+      "Name": "Chuck Swan WMA",
+      "County": "Union, TN",
+      "Freqs": [
+        "152.095",
+        "152.505",
+        "152.725c",
+        "161.825",
+        "161.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "041 (29)",
+      "Name": "Tazewell",
+      "County": "Claiborne, TN",
+      "Freqs": [
+        "769.33125c",
+        "770.56875a",
+        "774.58125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "042 (2A)",
+      "Name": "Sneedville",
+      "County": "Hawkins, TN",
+      "Freqs": [
+        "769.90625",
+        "771.03125c",
+        "771.43125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "043 (2B)",
+      "Name": "Bays Mountain",
+      "County": "Sullivan, TN",
+      "Freqs": [
+        "769.10625c",
+        "770.05625a",
+        "773.53125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "044 (2C)",
+      "Name": "Holston Mountain (State)",
+      "County": "Sullivan, TN",
+      "Freqs": [
+        "769.91875",
+        "770.75625a",
+        "771.38125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "045 (2D)",
+      "Name": "Fall Branch",
+      "County": "Washington, TN",
+      "Freqs": [
+        "769.18125",
+        "769.83125c",
+        "771.33125",
+        "774.09375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "046 (2E)",
+      "Name": "Viking Mountain",
+      "County": "Greene, TN",
+      "Freqs": [
+        "769.36875c",
+        "770.15625",
+        "770.50625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "047 (2F)",
+      "Name": "Newport",
+      "County": "Cocke, TN",
+      "Freqs": [
+        "769.15625",
+        "770.28125c",
+        "770.80625",
+        "771.20625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "048 (30)",
+      "Name": "Mountain City",
+      "County": "Johnson, TN",
+      "Freqs": [
+        "769.50625",
+        "770.33125c",
+        "771.35625",
+        "771.60625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "049 (31)",
+      "Name": "Cleveland",
+      "County": "Bradley, TN",
+      "Freqs": [
+        "851.050c",
+        "851.300",
+        "851.5625a",
+        "851.9375",
+        "852.250",
+        "853.200",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "050 (32)",
+      "Name": "Holston Mountain (Sullivan Co)",
+      "County": "Sullivan, TN",
+      "Freqs": [
+        "854.0875",
+        "854.5625a",
+        "855.9875",
+        "856.2625",
+        "856.4875",
+        "856.7375c",
+        "857.2625",
+        "857.4375",
+        "857.4375",
+        "857.4375",
+        "857.4875",
+        "857.7375",
+        "858.2625",
+        "858.4375",
+        "858.4875",
+        "858.7375",
+        "859.0375",
+        "859.0375",
+        "859.2625",
+        "859.4875",
+        "859.7375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "051 (33)",
+      "Name": "Buffalo Mountain",
+      "County": "Washington, TN",
+      "Freqs": [
+        "856.2125",
+        "856.2375c",
+        "856.4625",
+        "857.2125",
+        "857.2375a",
+        "857.4625",
+        "858.2125",
+        "858.2375",
+        "858.4625",
+        "859.2125",
+        "859.2375",
+        "859.4625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "052 (34)",
+      "Name": "Whitfield County Simulcast",
+      "County": "Whitfield, GA",
+      "Freqs": [
+        "854.1125",
+        "854.5875a",
+        "856.0625",
+        "856.5625c",
+        "857.0875a",
+        "857.5375a",
+        "858.0625",
+        "858.3625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "060 (3C)",
+      "Name": "Greeneville",
+      "County": "Greene, TN",
+      "Freqs": [
+        "771.88125",
+        "772.33125",
+        "772.85625",
+        "773.73125",
+        "774.18125",
+        "774.91875c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "080 (50)",
+      "Name": "Canyon Ridge GA",
+      "County": "Dade, GA",
+      "Freqs": [
+        "851.2125c",
+        "851.3375a",
+        "852.0375",
+        "852.8625",
+        "852.8875",
+        "853.1625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "081 (51)",
+      "Name": "Rising Fawn GA",
+      "County": "Dade, GA",
+      "Freqs": [
+        "771.05625c",
+        "771.78125a",
+        "772.23125",
+        "772.95625",
+        "774.48125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "010 (A)",
+      "Name": "Knox County Simulcast",
+      "County": "Knox, TN",
+      "Freqs": [
+        "854.2125",
+        "854.5875",
+        "854.5875",
+        "856.4375",
+        "856.4375",
+        "856.9375",
+        "857.4375",
+        "857.9375",
+        "858.4375",
+        "858.9375",
+        "859.2125a",
+        "859.4375a",
+        "859.7125a",
+        "859.9375c"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "020 (14)",
+      "Name": "Jackson",
+      "County": "Madison, TN",
+      "Freqs": [
+        "769.08125c",
+        "769.43125",
+        "769.75625a",
+        "770.03125a",
+        "770.53125",
+        "770.93125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "021 (15)",
+      "Name": "Trenton",
+      "County": "Gibson, TN",
+      "Freqs": [
+        "769.33125c",
+        "769.58125",
+        "769.85625a",
+        "770.20625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "022 (16)",
+      "Name": "Gleason",
+      "County": "Weakley, TN",
+      "Freqs": [
+        "769.80625c",
+        "770.33125",
+        "771.53125a",
+        "772.13125",
+        "774.78125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "023 (17)",
+      "Name": "UT Martin",
+      "County": "Weakley, TN",
+      "Freqs": [
+        "769.15625a",
+        "769.53125c",
+        "771.08125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "024 (18)",
+      "Name": "Paris",
+      "County": "Henry, TN",
+      "Freqs": [
+        "770.18125",
+        "770.50625c",
+        "770.75625",
+        "771.23125a",
+        "771.48125",
+        "774.33125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "025 (19)",
+      "Name": "Natchez Trace ",
+      "County": "Henderson, TN",
+      "Freqs": [
+        "152.085c",
+        "152.570a",
+        "169.575",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "026 (1A)",
+      "Name": "Savannah",
+      "County": "Hardin, TN",
+      "Freqs": [
+        "152.145c",
+        "152.785a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "027 (1B)",
+      "Name": "Selmer",
+      "County": "McNairy, TN",
+      "Freqs": [
+        "769.35625c",
+        "769.60625a",
+        "770.00625",
+        "771.70625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "028 (1C)",
+      "Name": "Chickasaw",
+      "County": "Chester, TN",
+      "Freqs": [
+        "152.065c",
+        "152.185a",
+        "152.515",
+        "152.745a",
+        "161.800",
+        "161.900",
+        "170.600"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "029 (1D)",
+      "Name": "Chestnut Grove",
+      "County": "Haywood, TN",
+      "Freqs": [
+        "770.71875a",
+        "770.96875",
+        "771.38125c",
+        "771.65625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "030 (1E)",
+      "Name": "Whiteville",
+      "County": "Hardeman, TN",
+      "Freqs": [
+        "769.53125c",
+        "771.13125",
+        "771.53125a",
+        "773.30625a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "031 (1F)",
+      "Name": "Williston",
+      "County": "Fayette, TN",
+      "Freqs": [
+        "770.83125",
+        "772.48125c",
+        "772.75625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "032 (20)",
+      "Name": "Arlington",
+      "County": "Shelby, TN",
+      "Freqs": [
+        "770.05625c",
+        "770.30625",
+        "772.33125a",
+        "772.48125",
+        "772.63125a",
+        "773.53125",
+        "851.1375c"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "033 (21)",
+      "Name": "Memphis THP HQ",
+      "County": "Shelby, TN",
+      "Freqs": [
+        "769.55625c",
+        "769.80625a",
+        "770.19375",
+        "770.69375",
+        "770.94375",
+        "774.20625",
+        "774.65625"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "034 (22)",
+      "Name": "Ripley (700 MHz)",
+      "County": "Lauderdale, TN",
+      "Freqs": [
+        "769.83125c",
+        "770.28125",
+        "771.33125a",
+        "773.28125a",
+        "773.68125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "035 (23)",
+      "Name": "Millsfield",
+      "County": "Dyer, TN",
+      "Freqs": [
+        "769.28125c",
+        "769.78125",
+        "770.10625a",
+        "770.68125a",
+        "771.08125",
+        "773.08125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "036 (24)",
+      "Name": "Hornbeak",
+      "County": "Obion, TN",
+      "Freqs": [
+        "769.10625c",
+        "770.00625",
+        "771.30625a",
+        "771.60625",
+        "774.03125a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "001 (1)",
+      "Name": "Mobile site",
+      "County": "Statewide, TN",
+      "Freqs": [
+        "773.55625",
+        "773.80625",
+        "774.05625",
+        "774.30625",
+        "774.55625",
+        "774.80625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "002 (2)",
+      "Name": "Fall Branch (Simulcast Washington County)",
+      "County": "Washington, TN",
+      "Freqs": [
+        "771.98125",
+        "772.83125",
+        "773.15625",
+        "774.40625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "003 (3)",
+      "Name": "Holston Mountain (Simulcast Washington County)",
+      "County": "Sullivan, TN",
+      "Freqs": [
+        "769.10625",
+        "771.65625",
+        "773.20625",
+        "773.70625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "004 (4)",
+      "Name": "Viking Mountain (Simulcast Washington County)",
+      "County": "Greene, TN",
+      "Freqs": [
+        "771.28125",
+        "771.85625",
+        "772.65625",
+        "773.40625",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4009 ",
+      "HEX ": "fa9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "1ZONE1",
+      "Description": "Zone 1 Systemwide Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4011 ",
+      "HEX ": "fab ",
+      "Mode  ": "D",
+      "Alpha Tag": "2ZONE1",
+      "Description": "Zone 1 Systemwide Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4013 ",
+      "HEX ": "fad ",
+      "Mode  ": "D",
+      "Alpha Tag": "3ZONE1",
+      "Description": "Zone 1 Systemwide Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4015 ",
+      "HEX ": "faf ",
+      "Mode  ": "D",
+      "Alpha Tag": "4ZONE1",
+      "Description": "Zone 1 Systemwide Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4023 ",
+      "HEX ": "fb7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 01",
+      "Description": "Fire Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4025 ",
+      "HEX ": "fb9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 02",
+      "Description": "Fire Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4027 ",
+      "HEX ": "fbb ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 03",
+      "Description": "Fire Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4029 ",
+      "HEX ": "fbd ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 04",
+      "Description": "Fire Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4031 ",
+      "HEX ": "fbf ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 05",
+      "Description": "Fire Mutual Aid 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4033 ",
+      "HEX ": "fc1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 06",
+      "Description": "Fire Mutual Aid 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3929 ",
+      "HEX ": "f59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 07",
+      "Description": "Fire Mutual Aid 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3931 ",
+      "HEX ": "f5b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 08",
+      "Description": "Fire Mutual Aid 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3933 ",
+      "HEX ": "f5d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 09",
+      "Description": "Fire Mutual Aid 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3935 ",
+      "HEX ": "f5f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 10",
+      "Description": "Fire Mutual Aid 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3937 ",
+      "HEX ": "f61 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 11",
+      "Description": "Fire Mutual Aid 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3939 ",
+      "HEX ": "f63 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 12",
+      "Description": "Fire Mutual Aid 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3941 ",
+      "HEX ": "f65 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 13",
+      "Description": "Fire Mutual Aid 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3943 ",
+      "HEX ": "f67 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 14",
+      "Description": "Fire Mutual Aid 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3945 ",
+      "HEX ": "f69 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 15",
+      "Description": "Fire Mutual Aid 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3947 ",
+      "HEX ": "f6b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 16",
+      "Description": "Fire Mutual Aid 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3949 ",
+      "HEX ": "f6d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 17",
+      "Description": "Fire Mutual Aid 17 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3951 ",
+      "HEX ": "f6f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 18",
+      "Description": "Fire Mutual Aid 18 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3953 ",
+      "HEX ": "f71 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 19",
+      "Description": "Fire Mutual Aid 19 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3955 ",
+      "HEX ": "f73 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 20",
+      "Description": "Fire Mutual Aid 20 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3957 ",
+      "HEX ": "f75 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 21",
+      "Description": "Fire Mutual Aid 21 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3959 ",
+      "HEX ": "f77 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 22",
+      "Description": "Fire Mutual Aid 22 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3961 ",
+      "HEX ": "f79 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 23",
+      "Description": "Fire Mutual Aid 23 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3963 ",
+      "HEX ": "f7b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FF MA 24",
+      "Description": "Fire Mutual Aid 24 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4035 ",
+      "HEX ": "fc3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 01",
+      "Description": "EMS Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4037 ",
+      "HEX ": "fc5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 02",
+      "Description": "EMS Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4039 ",
+      "HEX ": "fc7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 03",
+      "Description": "EMS Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4041 ",
+      "HEX ": "fc9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 04",
+      "Description": "EMS Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4043 ",
+      "HEX ": "fcb ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 05",
+      "Description": "EMS Mutual Aid 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4045 ",
+      "HEX ": "fcd ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 06",
+      "Description": "EMS Mutual Aid 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3965 ",
+      "HEX ": "f7d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 07",
+      "Description": "EMS Mutual Aid 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3967 ",
+      "HEX ": "f7f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 08",
+      "Description": "EMS Mutual Aid 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3969 ",
+      "HEX ": "f81 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 09",
+      "Description": "EMS Mutual Aid 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3971 ",
+      "HEX ": "f83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 10",
+      "Description": "EMS Mutual Aid 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3973 ",
+      "HEX ": "f85 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 11",
+      "Description": "EMS Mutual Aid 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3975 ",
+      "HEX ": "f87 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 12",
+      "Description": "EMS Mutual Aid 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3977 ",
+      "HEX ": "f89 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 13",
+      "Description": "EMS Mutual Aid 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3979 ",
+      "HEX ": "f8b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 14",
+      "Description": "EMS Mutual Aid 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3981 ",
+      "HEX ": "f8d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 15",
+      "Description": "EMS Mutual Aid 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3983 ",
+      "HEX ": "f8f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 16",
+      "Description": "EMS Mutual Aid 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3985 ",
+      "HEX ": "f91 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 17",
+      "Description": "EMS Mutual Aid 17 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3987 ",
+      "HEX ": "f93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 18",
+      "Description": "EMS Mutual Aid 18 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3989 ",
+      "HEX ": "f95 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 19",
+      "Description": "EMS Mutual Aid 19 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3991 ",
+      "HEX ": "f97 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 20",
+      "Description": "EMS Mutual Aid 20 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3993 ",
+      "HEX ": "f99 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 21",
+      "Description": "EMS Mutual Aid 21 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3995 ",
+      "HEX ": "f9b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 22",
+      "Description": "EMS Mutual Aid 22 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3997 ",
+      "HEX ": "f9d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 23",
+      "Description": "EMS Mutual Aid 23 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3999 ",
+      "HEX ": "f9f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS MA 24",
+      "Description": "EMS Mutual Aid 24 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1033 ",
+      "HEX ": "409 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 01",
+      "Description": "Law Enforcement Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1297 ",
+      "HEX ": "511 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 02",
+      "Description": "Law Enforcement Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1299 ",
+      "HEX ": "513 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 03",
+      "Description": "Law Enforcement Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4017 ",
+      "HEX ": "fb1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 04",
+      "Description": "Law Enforcement Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4019 ",
+      "HEX ": "fb3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 05",
+      "Description": "Law Enforcement Mutual Aid 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4021 ",
+      "HEX ": "fb5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 06",
+      "Description": "Law Enforcement Mutual Aid 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4055 ",
+      "HEX ": "fd7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 07",
+      "Description": "Law Enforcement Mutual Aid 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4057 ",
+      "HEX ": "fd9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 08",
+      "Description": "Law Enforcement Mutual Aid 8 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4059 ",
+      "HEX ": "fdb ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 09",
+      "Description": "Law Enforcement Mutual Aid 9 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4061 ",
+      "HEX ": "fdd ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 10",
+      "Description": "Law Enforcement Mutual Aid 10 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4063 ",
+      "HEX ": "fdf ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 11",
+      "Description": "Law Enforcement Mutual Aid 11 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4065 ",
+      "HEX ": "fe1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 12",
+      "Description": "Law Enforcement Mutual Aid 12 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4067 ",
+      "HEX ": "fe3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 13",
+      "Description": "Law Enforcement Mutual Aid 13 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4069 ",
+      "HEX ": "fe5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 14",
+      "Description": "Law Enforcement Mutual Aid 14 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4071 ",
+      "HEX ": "fe7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 15",
+      "Description": "Law Enforcement Mutual Aid 15 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4073 ",
+      "HEX ": "fe9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 16",
+      "Description": "Law Enforcement Mutual Aid 16 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4075 ",
+      "HEX ": "feb ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 17",
+      "Description": "Law Enforcement Mutual Aid 17 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4077 ",
+      "HEX ": "fed ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 18",
+      "Description": "Law Enforcement Mutual Aid 18 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4079 ",
+      "HEX ": "fef ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 19",
+      "Description": "Law Enforcement Mutual Aid 19 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4081 ",
+      "HEX ": "ff1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 20",
+      "Description": "Law Enforcement Mutual Aid 20 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4083 ",
+      "HEX ": "ff3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 21",
+      "Description": "Law Enforcement Mutual Aid 21 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4085 ",
+      "HEX ": "ff5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 22",
+      "Description": "Law Enforcement Mutual Aid 22 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4087 ",
+      "HEX ": "ff7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 23",
+      "Description": "Law Enforcement Mutual Aid 23 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4089 ",
+      "HEX ": "ff9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LAW MA 24",
+      "Description": "Law Enforcement Mutual Aid 24 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4047 ",
+      "HEX ": "fcf ",
+      "Mode  ": "D",
+      "Alpha Tag": "AIR MED 1",
+      "Description": "Air Medical/Medevac 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1501 ",
+      "HEX ": "5dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-1",
+      "Description": "I-PSAP 1 (Chattanooga Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1559 ",
+      "HEX ": "617 ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-2",
+      "Description": "I-PSAP-2 (Knoxville Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "47101 ",
+      "HEX ": "b7fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-3",
+      "Description": "I-PSAP-3 (Tri-Cities Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "47102 ",
+      "HEX ": "b7fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-4",
+      "Description": "I-PSAP-4 (Cookeville Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "47103 ",
+      "HEX ": "b7ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-5",
+      "Description": "I-PSAP-5 (Nashville Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "47104 ",
+      "HEX ": "b800 ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-6",
+      "Description": "I-PSAP-6 (Lawrenceburg Area) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "47106 ",
+      "HEX ": "b802 ",
+      "Mode  ": "D",
+      "Alpha Tag": "I-PSAP-7",
+      "Description": "I-PSAP-7 (All of West TN) ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "12001 ",
+      "HEX ": "2ee1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Whitfield Co",
+      "Description": "Unknown Agency ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "12006 ",
+      "HEX ": "2ee6 ",
+      "Mode  ": "De",
+      "Alpha Tag": "WhitfldCoFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "12021 ",
+      "HEX ": "2ef5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WhitfldCoEMSHosp",
+      "Description": "Ambulance to Hospital ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "System Name": "Lightning Wireless Solutions",
+  "Location": "Bonita Springs, FL",
+  "County": "Lee",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 5, 2017, 12:26 pm ((10) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 464.6125 ",
+        "02 452.1875 ",
+        "03 451.8875 ",
+        "04 452.3625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cement Trucks",
+      "Description": "Cement Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business15",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business17",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plumbing Company",
+      "Description": "Plumbing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Taxi",
+      "Description": "Taxi ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business22",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business28",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business29",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business30",
+      "Description": "Business ",
+      "Tag  ": "Business "
+    }
+  ]
+}

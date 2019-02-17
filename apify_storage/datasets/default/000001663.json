@@ -1,0 +1,26 @@
+{
+  "System Name": "Shawnee Mission Medical Center",
+  "Location": ", KS",
+  "County": "Johnson",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 5, 2018, 2:05 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Merriam",
+        "01 861.2125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SM Med Security",
+      "Description": "Hospital Security ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

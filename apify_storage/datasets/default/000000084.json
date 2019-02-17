@@ -1,0 +1,180 @@
+{
+  "System Name": "DMR-Utah Amateur Radio Network",
+  "Location": "Multiple, UT ID AZ",
+  "County": "6 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "July 15, 2017, 5:37 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Salt Lake",
+      "County": [
+        "Salt Lake, UT",
+        "447.9375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Woodland Hills",
+      "County": [
+        "Utah, UT",
+        "449.800 (CC 1)"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Logan",
+      "County": [
+        "Cache, UT",
+        "447.000 (CC 1)"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Lehi",
+      "County": [
+        "Utah, UT",
+        "447.050 (CC 1)"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Riverside",
+      "County": [
+        "Box Elder, UT",
+        "447.125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Mesa AZ",
+      "County": [
+        "Maricopa, AZ",
+        "446.350 (CC 1)"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Boise ID",
+      "County": [
+        "Ada, ID",
+        "444.075 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Local",
+      "Description": "Local Repeater Only ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Local",
+      "Description": "Local Repeater Only ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Reflectors",
+      "Description": "Connect to Reflectors 4000-4999 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "91 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Worldwide",
+      "Description": "Worldwide (Short QSO's) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "93 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "N America",
+      "Description": "North America (Short QSO's) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "99 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Simplex",
+      "Description": "Simplex Frequencies ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "310 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC 310",
+      "Description": "Connected to DMR-MARC TAC 310 PTT Activated ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3100 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "USA",
+      "Description": "United States PTT Activated ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3149 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Utah",
+      "Description": "Utah Statewide TS 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3149 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Utah",
+      "Description": "Utah Statewide TS 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9990 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Echo Test",
+      "Description": "Private Call - Test Your Audio ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9999 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "VU Meter",
+      "Description": "Listen To Your Audio Live ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31089 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hytera USA",
+      "Description": "Hytera United States ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31268 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SNARS",
+      "Description": "Sierra Nevada Amateur Radio Society ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

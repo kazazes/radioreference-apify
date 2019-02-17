@@ -1,0 +1,23 @@
+{
+  "System Name": "Greater Fort Lauderdale - Broward County Convention Center",
+  "Location": "Fort Lauderdale , FL",
+  "County": "Broward",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 15, 2018, 7:31 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed ",
+        "01 451.400 ",
+        "02 452.625 ",
+        "03 451.825 ",
+        "04 464.9375 ",
+        "05 461.375 ",
+        "06 462.125 ",
+        "07 463.2875 "
+      ]
+    }
+  ]
+}

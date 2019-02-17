@@ -1,0 +1,582 @@
+{
+  "System Name": "Iowa DMR Users Group",
+  "Location": "Various, IA",
+  "County": "27 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "August 26, 2018, 2:09 am (Added Site # 310132 (Storm Lake))",
+  "System Frequencies": [
+    {
+      "Site": "310132 (4BB74)",
+      "Name": "Storm Lake",
+      "County": [
+        "Buena Vista",
+        "444.525 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311901 (4C25D)",
+      "Name": "Mount Pleasant",
+      "County": [
+        "Henry",
+        "444.525 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311903 (4C25F)",
+      "Name": "Waterloo",
+      "County": [
+        "Black Hawk",
+        "444.900 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311905 (4C261)",
+      "Name": "Cedar Falls",
+      "County": [
+        "Black Hawk",
+        "441.9875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311908 (4C264)",
+      "Name": "Grundy Center",
+      "County": [
+        "Grundy",
+        "443.875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311909 (4C265)",
+      "Name": "Moravia",
+      "County": [
+        "Appanoose",
+        "444.475 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311910 (4C266)",
+      "Name": "Marshalltown",
+      "County": [
+        "Marshall",
+        "444.525 (CC 2)"
+      ]
+    },
+    {
+      "Site": "311911 (4C267)",
+      "Name": "Humboldt VHF",
+      "County": [
+        "Humboldt",
+        "147.180 (CC 3)"
+      ]
+    },
+    {
+      "Site": "311912 (4C268)",
+      "Name": "Algona",
+      "County": [
+        "Kossuth",
+        "444.825 (CC 2)"
+      ]
+    },
+    {
+      "Site": "311913 (4C269)",
+      "Name": "Independence",
+      "County": [
+        "Buchanan",
+        "442.900 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311914 (4C26A)",
+      "Name": "Fayette",
+      "County": [
+        "Fayette",
+        "443.950 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311915 (4C26B)",
+      "Name": "Ackley",
+      "County": [
+        "Hardin",
+        "443.050 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311916 (4C26C)",
+      "Name": "Le Mars",
+      "County": [
+        "Plymouth",
+        "444.400 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311918 (4C26E)",
+      "Name": "Humboldt UHF",
+      "County": [
+        "Humboldt",
+        "442.400 (CC 3)"
+      ]
+    },
+    {
+      "Site": "311919 (4C26F)",
+      "Name": "W0GEN Portable",
+      "County": [
+        "Black Hawk",
+        "443.725 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311920 (4C270)",
+      "Name": "Victor",
+      "County": [
+        "Iowa",
+        "444.950 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311921 (4C271)",
+      "Name": "Cedar Falls",
+      "County": [
+        "Black Hawk",
+        "927.0875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311925 (4C275)",
+      "Name": "Iowa City",
+      "County": [
+        "Johnson",
+        "443.775 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311926 (4C276)",
+      "Name": "Sioux City",
+      "County": [
+        "Woodbury",
+        "444.625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311927 (4C277)",
+      "Name": "Spencer",
+      "County": [
+        "Clay",
+        "146.820 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311928 (4C278)",
+      "Name": "Monona",
+      "County": [
+        "Clayton",
+        "443.650 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311929 (4C279)",
+      "Name": "Grimes",
+      "County": [
+        "Polk",
+        "444.725 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311931 (4C27B)",
+      "Name": "Otho",
+      "County": [
+        "Webster",
+        "443.575 (CC 5)"
+      ]
+    },
+    {
+      "Site": "311933 (4C27D)",
+      "Name": "Casey",
+      "County": [
+        "Adair",
+        "444.550 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311936 (4C280)",
+      "Name": "Clive",
+      "County": [
+        "Dallas",
+        "444.200 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311938 (4C282)",
+      "Name": "Cedar Rapids",
+      "County": [
+        "Linn",
+        "443.600 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311939 (4C283)",
+      "Name": "Ottumwa",
+      "County": [
+        "Wapello",
+        "443.975 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311940 (4C284)",
+      "Name": "Ames",
+      "County": [
+        "Story",
+        "443.975 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311941 (4C285)",
+      "Name": "Ottumwa",
+      "County": [
+        "Wapello",
+        "444.850 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311942 (4C286)",
+      "Name": "Scranton",
+      "County": [
+        "Greene",
+        "444.300 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311943 (4C287)",
+      "Name": "Des Moines",
+      "County": [
+        "Polk",
+        "443.500 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311946 (4C28A)",
+      "Name": "Bedford",
+      "County": [
+        "Taylor",
+        "442.250 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Local",
+      "Description": "Local Repeater Operations ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3119 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Iowa Statewide",
+      "Description": "Statewide Calling Talkgroup ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31190 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Iowa Chat",
+      "Description": "Chat ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31191 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 1",
+      "Description": "ARES District 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31192 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 2",
+      "Description": "ARES District 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31193 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 3",
+      "Description": "ARES District 3 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31194 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 4",
+      "Description": "ARES District 4 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31195 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 5",
+      "Description": "ARES District 5 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31196 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ARES District 6",
+      "Description": "ARES District 6 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31198 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NWS DVN Office",
+      "Description": "National Weather Service - Davenport Office ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31199 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NWS DM Office",
+      "Description": "National Weather Serivce - Des Moines Office ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311999 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Iowa Hosp/PH/EM",
+      "Description": "Iowa Hospital/Public Health/Emergency Management  ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31691 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IL/IA/WI Interop",
+      "Description": "Iowa - Illinois - Wisconsin Interop ",
+      "Tag  ": "Ham "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "311901 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Mt Plsnt Direct",
+      "Description": "Mount Pleasant Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311903 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Waterloo Direct",
+      "Description": "Waterloo Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311905 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CDR Falls Direct",
+      "Description": "Cedar Falls Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311908 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "G Center Direct",
+      "Description": "Grundy Center Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311909 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Moravia Direct",
+      "Description": "Moravia Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311910 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "M-Town Direct",
+      "Description": "Marshalltown Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311912 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Algona Direct",
+      "Description": "Algona Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311913 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Indy Direct",
+      "Description": "Independence Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311914 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fayette Direct",
+      "Description": "Fayette Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311915 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ackley Direct",
+      "Description": "Ackley Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311916 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LeMars Direct",
+      "Description": "Le Mars Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311918 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Humboldt Direct",
+      "Description": "Humboldt (UHF) Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311919 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "W0GEN Direct",
+      "Description": "W0GEN Portable Repeater Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311920 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Victor Direct",
+      "Description": "Victor Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311925 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IA City Direct",
+      "Description": "Iowa City Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311926 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sx City Direc",
+      "Description": "Sioux City Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311927 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Spencer Direct",
+      "Description": "Spencer Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311928 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Monona Direct",
+      "Description": "Monona Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311929 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Grimes Direct",
+      "Description": "Grimes Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311931 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Otho Direct",
+      "Description": "Otho Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311933 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Casey Direct",
+      "Description": "Casey Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311936 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Clive Direct",
+      "Description": "Clive Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311938 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CR Direct",
+      "Description": "Cedar Rapids Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311939 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SoapCreek Direct",
+      "Description": "Floris Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311940 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ames Direct",
+      "Description": "Ames Direct ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311941 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ottumwa Direct",
+      "Description": "Ottumwa Direct ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "System Name": "Lake Zurich School District 95",
+  "Location": "Lake Zurich, IL",
+  "County": "Lake",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 3, 2018, 7:18 pm ((3) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 452.675 ",
+        "02 464.425 ",
+        "03 464.875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LZ High School",
+      "Description": "Lake Zurich High School Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Whitney School",
+      "Description": "May Whitney Elementary School Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LZ D95 Ops 114",
+      "Description": "School Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LZ D95 Ops 115",
+      "Description": "School Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Seth Paine?",
+      "Description": "Seth Paine Elementary School? ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "119 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LZ D95 Ops 119",
+      "Description": "Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maint-Grounds",
+      "Description": "District Maintenance/Grounds ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "124 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transportation",
+      "Description": "Student Transportation ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

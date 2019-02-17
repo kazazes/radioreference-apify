@@ -1,0 +1,49 @@
+{
+  "System Name": "Omni Interlocken Hotel",
+  "Location": "Broomfield, CO",
+  "County": "Broomfield",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 17, 2015, 6:30 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Omni Interlocken",
+        "01 452.625 ",
+        "02 462.0375 ",
+        "03 463.225 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Front Desk",
+      "Description": "Front Desk/Bellman/Shuttle ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Conferences",
+      "Description": "Conferences ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "System Name": "Spalding County P25",
+  "Location": "Griffin, GA",
+  "County": "Spalding",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 21, 2017, 9:30 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "924B3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.225c",
+        "851.325c",
+        "851.600c",
+        "852.100c",
+        "852.200c",
+        "852.350c",
+        "852.8125c",
+        "853.6375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCSO Disp",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SCSO Encrypt",
+      "Description": "Sheriff Encrypted ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "201 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCSO Jail 1",
+      "Description": "County Jail 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "206 ",
+      "HEX ": "0ce ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCSO Jail 2",
+      "Description": "County Jail 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 2",
+      "Description": "Fire Tac 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 3",
+      "Description": "Fire Tac 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 4",
+      "Description": "Fire Tac 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 5",
+      "Description": "Fire Tac 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 6",
+      "Description": "Fire Tac 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 7",
+      "Description": "Fire Tac 7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCFD Ch 8",
+      "Description": "Fire Tac 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "721 ",
+      "HEX ": "2d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCEMS Disp",
+      "Description": "EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "725 ",
+      "HEX ": "2d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCEMS Ch 2",
+      "Description": "EMS Tac 2 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1908 ",
+      "HEX ": "774 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SCEMS SRH ER",
+      "Description": "Spalding Regional Hospital ER ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "221 ",
+      "HEX ": "0dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "Public Works",
+      "Description": "County Public Works ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "274 ",
+      "HEX ": "112 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SC Animal",
+      "Description": "County Animal Control ",
+      "Tag  ": "Public Works "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "301 ",
+      "HEX ": "12d ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Dispatch",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "307 ",
+      "HEX ": "133 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Tac 7",
+      "Description": "Police Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "321 ",
+      "HEX ": "141 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Surveil",
+      "Description": "Police Surveillence ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "322 ",
+      "HEX ": "142 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Event",
+      "Description": "Police Special Event ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "325 ",
+      "HEX ": "145 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Warrant",
+      "Description": "Police Warrant Team ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "326 ",
+      "HEX ": "146 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD Surveil",
+      "Description": "Police Surveillence ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "401 ",
+      "HEX ": "191 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GFD Dispatch",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "241 ",
+      "HEX ": "0f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Parks & Rec",
+      "Description": "Parks and Recreation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "501 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Ops",
+      "Description": "Public Works Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "503 ",
+      "HEX ": "1f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Electric",
+      "Description": "Public Works Electric Utility ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "506 ",
+      "HEX ": "1fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Refuse 1",
+      "Description": "Public Works Solid Waste ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "507 ",
+      "HEX ": "1fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Refuse 2",
+      "Description": "Public Works Refuse ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "518 ",
+      "HEX ": "206 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Water",
+      "Description": "Public Works Water Utility ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "520 ",
+      "HEX ": "208 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPW Ops",
+      "Description": "Public Works Operations ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

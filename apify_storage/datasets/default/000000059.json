@@ -1,0 +1,126 @@
+{
+  "System Name": "Cochise County",
+  "Location": ", AZ",
+  "County": "Cochise",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 4, 2019, 1:41 am ((2) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "6FC",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "769.28125c",
+        "769.53125a",
+        "769.76875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Juniper Flats (Bisbee)",
+      "Freqs": [
+        "769.56875c",
+        "769.78125a",
+        "771.49375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Texas Canyon (Benson)",
+      "Freqs": [
+        "771.15625c",
+        "771.30625a",
+        "771.45625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Sequoia Farms (Willcox)",
+      "Freqs": [
+        "771.18125c",
+        "771.33125a",
+        "771.48125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Cooper Peak (Willcox)",
+      "Freqs": [
+        "769.31875c",
+        "769.61875",
+        "769.81875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Law 1",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1002 ",
+      "HEX ": "3ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Law 2",
+      "Description": "Tac 1002 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1003 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Tac",
+      "Description": "Tac 1003 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1004 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Tac",
+      "Description": "Tac 1004 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1301 ",
+      "HEX ": "515 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SVPD Law 1",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1302 ",
+      "HEX ": "516 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SVPD Law 2",
+      "Description": "Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1303 ",
+      "HEX ": "517 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SVPD Law 3",
+      "Description": "Tac ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

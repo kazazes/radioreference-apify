@@ -1,0 +1,48 @@
+{
+  "System Name": "Fashion Island Hotel (Newport Beach)",
+  "Location": "Newport Beach, CA",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 19, 2018, 2:06 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hotel",
+        "01 451.7875 ",
+        "02 461.250 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "102",
+      "Description": "Fashion Island Hotel ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "113",
+      "Description": "Fashion Island Hotel ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "114",
+      "Description": "Fashion Island Hotel ",
+      "Tag  ": "Business "
+    }
+  ]
+}

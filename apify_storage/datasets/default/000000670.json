@@ -1,0 +1,60 @@
+{
+  "System Name": "University of Colorado Health",
+  "Location": "Colorado Springs, CO",
+  "County": "El Paso",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 14, 2018, 10:56 pm (Changed Site # 001 (UC Health Memorial Hospital Central) to 001 (Central))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Central",
+        "01 451.1125 ",
+        "02 451.1375 ",
+        "03 451.200 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "North",
+        "01 451.0375 ",
+        "02 452.000 ",
+        "03 452.125 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Grandview Hospital",
+        "01 451.200 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "1 Encrypted",
+      "Description": "1 Encrypted ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "3 Encrypted",
+      "Description": "3 Encrypted ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "5 Encrypted",
+      "Description": "5 Encrypted ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

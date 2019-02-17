@@ -1,0 +1,188 @@
+{
+  "System Name": "Illinois Rural Electric Cooperative",
+  "Location": "Winchester, IL",
+  "County": "6 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "December 20, 2018, 10:35 pm (Added Site # 4 (Unknown))",
+  "System ID List": [
+    {
+      "System ID": "86"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Winchester (Confirmed)",
+      "County": "Scott",
+      "Freqs": [
+        "464.95625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Winchester? (Confirmed)",
+      "County": "Scott",
+      "Freqs": [
+        "463.43125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Kinderhook",
+      "County": "Pike",
+      "Freqs": [
+        "463.44375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Unknown",
+      "County": "",
+      "Freqs": [
+        "463.40625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Jacksonville (Confirmed)",
+      "County": "Morgan",
+      "Freqs": [
+        "463.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Brussels (Confirmed)",
+      "County": "Calhoun",
+      "Freqs": [
+        "463.38125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Winchester? (Confirmed)",
+      "County": "Scott",
+      "Freqs": [
+        "464.450c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Winchester? (Confirmed) ",
+      "County": "Scott",
+      "Freqs": [
+        "463.93125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "Jacksonville ",
+      "County": "Morgan",
+      "Freqs": [
+        "463.3875c",
+        "463.8875",
+        "464.9375",
+        "464.4375"
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Kinderhook ",
+      "County": "Pike",
+      "Freqs": [
+        "463.44375",
+        "463.95625",
+        "464.4625",
+        "464.98125"
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Winchester ",
+      "County": "Scott",
+      "Freqs": [
+        "464.95625",
+        "464.450",
+        "463.93125c",
+        "463.43175c"
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Brussels ",
+      "County": "Calhoun",
+      "Freqs": [
+        "463.38125c",
+        "463.91875",
+        "464.46875",
+        "464.98125"
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Hardin ",
+      "County": "Calhoun",
+      "Freqs": [
+        "463.40625",
+        "463.94375",
+        "464.45625",
+        "464.9625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 2",
+      "Description": "Electrical Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 3",
+      "Description": "Electrical Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 22",
+      "Description": "Electrical Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "200 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 200",
+      "Description": "Electrical Operations ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

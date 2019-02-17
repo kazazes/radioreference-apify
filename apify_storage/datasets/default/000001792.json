@@ -1,0 +1,27 @@
+{
+  "System Name": "Lepage Bakeries",
+  "Location": "Lewiston, ME",
+  "County": "Androscoggin",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "February 6, 2019, 2:57 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lewiston",
+        "452.400 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

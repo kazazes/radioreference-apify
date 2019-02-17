@@ -1,0 +1,66 @@
+{
+  "System Name": "Dothan Public Safety P25",
+  "Location": "Dothan, AL",
+  "County": "Houston",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 28, 2018, 7:38 pm (Changed Site # 001 (Dothan P25 Simulcast) to 001 (Dothan P25 Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "C1C",
+      "WACN": "BEE09"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Dothan P25 Simulcast",
+      "Freqs": [
+        "851.7375c",
+        "852.150a",
+        "852.5375a",
+        "852.850",
+        "853.125",
+        "854.0375",
+        "854.3125",
+        "854.8625",
+        "855.1125",
+        "855.3875",
+        "855.6375",
+        "855.9125",
+        "856.4375",
+        "856.9375",
+        "857.4375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5251 ",
+      "HEX ": "1483 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dothan FD 1",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Tech 1",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Tech 2",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    }
+  ]
+}

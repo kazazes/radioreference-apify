@@ -1,0 +1,1031 @@
+{
+  "System Name": "First Responders Interoperable Radio System Team (FIRST)",
+  "Location": "Various, MD",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 16, 2019, 6:19 pm (Updated encryption settings for 1 talkgroups(Talbot County))",
+  "System ID List": [
+    {
+      "System ID": "4A2",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Baltimore Simulcast",
+      "County": "Baltimore",
+      "Freqs": [
+        "769.18125",
+        "769.45625",
+        "769.48125",
+        "769.71875",
+        "770.23125",
+        "770.98125",
+        "773.01875",
+        "773.29375",
+        "773.54375",
+        "773.80625c",
+        "773.86875",
+        "774.01875",
+        "774.26875",
+        "774.30625",
+        "774.58125a",
+        "774.76875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Anne Arundel Simulcast",
+      "County": "Anne Arundel",
+      "Freqs": [
+        "769.50625",
+        "770.45625",
+        "771.45625",
+        "772.43125",
+        "773.08125",
+        "773.83125c",
+        "774.13125a",
+        "774.78125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Harford Simulcast",
+      "County": "Harford",
+      "Freqs": [
+        "769.20625",
+        "769.91875",
+        "770.41875",
+        "770.68125",
+        "773.58125c",
+        "774.81875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Cecil Simulcast",
+      "County": "Cecil",
+      "Freqs": [
+        "769.44375",
+        "769.68125",
+        "770.46875",
+        "773.05625",
+        "773.30625c",
+        "774.05625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Howard Simulcast",
+      "County": "Howard",
+      "Freqs": [
+        "770.16875",
+        "770.53125",
+        "770.94375",
+        "772.38125",
+        "773.38125c",
+        "774.48125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Baltimore Harbor Tunnels",
+      "County": "Baltimore",
+      "Freqs": [
+        "773.84375",
+        "774.34375c",
+        "774.84375a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Towson University",
+      "County": "Baltimore",
+      "Freqs": [
+        "769.21875",
+        "769.65625",
+        "770.15625",
+        "770.65625",
+        "773.06875c",
+        "773.56875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Conowingo ASR",
+      "County": "Harford",
+      "Freqs": [
+        "769.15625",
+        "770.96875",
+        "773.28125c",
+        "774.28125a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Greenbury Point",
+      "County": "Anne Arundel",
+      "Freqs": [
+        "769.26875",
+        "770.76875",
+        "771.31875",
+        "771.70625",
+        "772.78125c",
+        "773.96875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Tracys Landing ASR",
+      "County": "Anne Arundel",
+      "Freqs": [
+        "771.15625",
+        "771.88125",
+        "772.23125",
+        "772.85625",
+        "773.68125c",
+        "774.45625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Howard Wastewater ASR",
+      "County": "Howard",
+      "Freqs": [
+        "769.41875",
+        "770.20625",
+        "770.66875",
+        "773.33125c",
+        "774.06875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Lineboro ASR",
+      "County": "Carroll",
+      "Freqs": [
+        "769.40625",
+        "769.90625",
+        "770.40625",
+        "770.71875",
+        "773.34375c",
+        "774.34375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Westminster ASR",
+      "County": "Carroll",
+      "Freqs": [
+        "769.19375",
+        "769.70625",
+        "770.43125",
+        "770.90625",
+        "773.84375c",
+        "774.54375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Mt. Airy ASR",
+      "County": "Howard",
+      "Freqs": [
+        "769.98125",
+        "770.19375",
+        "770.91875",
+        "773.78125",
+        "774.04375c",
+        "774.80625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Bridgeport SHA ASR",
+      "County": "Frederick",
+      "Freqs": [
+        "770.83125",
+        "771.16875",
+        "772.04375c",
+        "772.66875a",
+        "774.40625",
+        "774.88125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Gambrills Mountain ASR",
+      "County": "Frederick",
+      "Freqs": [
+        "769.68125",
+        "769.93125",
+        "770.45625",
+        "773.05625",
+        "773.53125c",
+        "774.78125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Lambs Knoll",
+      "County": "Washington",
+      "Freqs": [
+        "769.95625",
+        "773.31875",
+        "773.55625",
+        "774.08125",
+        "774.33125c",
+        "774.83125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "018 (12)",
+      "Name": "Quirauk ASR",
+      "County": "Washington",
+      "Freqs": [
+        "769.54375",
+        "770.81875",
+        "771.11875",
+        "772.76875",
+        "773.19375c",
+        "773.91875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "019 (13)",
+      "Name": "Knoxville - Miller Ave. ASR",
+      "County": "Washington",
+      "Freqs": [
+        "769.83125",
+        "772.98125",
+        "773.48125c",
+        "773.83125a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "Washington Simulcast",
+      "County": "Washington",
+      "Freqs": [
+        "769.20625",
+        "769.43125",
+        "770.21875",
+        "770.70625",
+        "773.80625c",
+        "774.58125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "Sideling Hill ASR",
+      "County": "Washington",
+      "Freqs": [
+        "769.84375",
+        "771.26875",
+        "771.56875",
+        "771.98125",
+        "772.99375c",
+        "773.49375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Allegany Simulcast",
+      "County": "Allegany",
+      "Freqs": [
+        "769.18125",
+        "770.16875",
+        "770.68125",
+        "773.08125",
+        "774.53125c",
+        "774.78125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "Allegany-Garrett Simulcast",
+      "County": "Garrett",
+      "Freqs": [
+        "769.21875",
+        "769.96875",
+        "773.29375",
+        "773.53125c",
+        "774.05625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Garrett Simulcast",
+      "County": "Garrett",
+      "Freqs": [
+        "769.19375",
+        "774.30625c",
+        "774.80625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Warrior Mountain ASR",
+      "County": "Allegany",
+      "Freqs": [
+        "769.46875",
+        "773.05625",
+        "773.34375c",
+        "774.84375a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Mar Lu Ridge ASR",
+      "County": "Frederick",
+      "Freqs": [
+        "769.26875",
+        "771.36875",
+        "772.06875",
+        "772.86875",
+        "773.96875c",
+        "774.46875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Baltimore Central Booking ASR",
+      "County": "Baltimore",
+      "Freqs": [
+        "769.30625",
+        "770.03125",
+        "774.18125c",
+        "774.70625a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "Ocean City ASR",
+      "County": "Worcester",
+      "Freqs": [
+        "769.50625",
+        "770.58125",
+        "771.23125",
+        "771.85625",
+        "774.15625c",
+        "774.43125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "002 (2)",
+      "Name": "Worcester/Somerset Simulcast",
+      "County": "Worcester",
+      "Freqs": [
+        "769.20625",
+        "769.45625",
+        "769.68125",
+        "770.91875",
+        "774.33125c",
+        "774.79375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Wicomico Simulcast",
+      "County": "Wicomico",
+      "Freqs": [
+        "769.10625",
+        "769.56875",
+        "770.10625",
+        "770.75625",
+        "772.30625c",
+        "774.71875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "004 (4)",
+      "Name": "Taylors Island",
+      "County": "Dorchester",
+      "Freqs": [
+        "770.84375",
+        "771.21875",
+        "771.51875",
+        "771.84375",
+        "772.08125c",
+        "772.68125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "005 (5)",
+      "Name": "Dorchester Simulcast",
+      "County": "Dorchester",
+      "Freqs": [
+        "769.21875",
+        "769.70625",
+        "770.03125",
+        "770.69375",
+        "774.19375c",
+        "774.53125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "006 (6)",
+      "Name": "Talbot Simulcast",
+      "County": "Talbot",
+      "Freqs": [
+        "769.95625",
+        "770.21875",
+        "770.71875",
+        "771.71875",
+        "773.14375",
+        "773.59375",
+        "773.84375c",
+        "774.83125a"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "007 (7)",
+      "Name": "Kent Simulcast",
+      "County": "Kent",
+      "Freqs": [
+        "769.19375",
+        "769.46875",
+        "769.94375",
+        "770.70625",
+        "773.79375c",
+        "774.31875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "008 (8)",
+      "Name": "Caroline Simulcast",
+      "County": "Caroline",
+      "Freqs": [
+        "770.43125",
+        "770.66875",
+        "770.95625",
+        "773.09375",
+        "773.31875c",
+        "773.81875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "009 (9)",
+      "Name": "Queen Anne's Simulcast",
+      "County": "Queen Anne's",
+      "Freqs": [
+        "769.66875",
+        "770.18125",
+        "773.55625",
+        "774.06875",
+        "774.54375c",
+        "774.80625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "010 (A)",
+      "Name": "Federalsburg ASR",
+      "County": "Caroline",
+      "Freqs": [
+        "770.30625",
+        "771.01875",
+        "771.56875",
+        "772.00625",
+        "772.39375c",
+        "772.95625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "011 (B)",
+      "Name": "Matapeake",
+      "County": "Queen Anne's",
+      "Freqs": [
+        "769.16875",
+        "770.90625",
+        "773.04375",
+        "773.28125",
+        "774.29375c",
+        "774.56875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "012 (C)",
+      "Name": "Bozman (St. Michael's)",
+      "County": "Talbot",
+      "Freqs": [
+        "769.54375",
+        "769.76875",
+        "770.31875",
+        "770.93125",
+        "772.01875c",
+        "772.33125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "006 (6)",
+      "Name": "St. Mary's Simulcast",
+      "County": "St. Mary's",
+      "Freqs": [
+        "769.40625",
+        "774.59375c",
+        "774.84375a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8113 ",
+      "HEX ": "1fb1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD M-Call",
+      "Description": "Maryland Call (Statewide) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8114 ",
+      "HEX ": "1fb2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 1",
+      "Description": "Tac 1 (Eastern Shore) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8115 ",
+      "HEX ": "1fb3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 2",
+      "Description": "Tac 2 (Eastern Shore) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8116 ",
+      "HEX ": "1fb4 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Tac 3",
+      "Description": "Tac 3 (Eastern Shore) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8117 ",
+      "HEX ": "1fb5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 4",
+      "Description": "Tac 4 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8118 ",
+      "HEX ": "1fb6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 5",
+      "Description": "Tac 5 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8119 ",
+      "HEX ": "1fb7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 6",
+      "Description": "Tac 6 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8132 ",
+      "HEX ": "1fc4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 7",
+      "Description": "Tac 7 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8133 ",
+      "HEX ": "1fc5 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Tac 8",
+      "Description": "Tac 8 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8134 ",
+      "HEX ": "1fc6 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Tac 9",
+      "Description": "Tac 9 (Central/NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8135 ",
+      "HEX ": "1fc7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 10",
+      "Description": "Tac 10 (Western) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8136 ",
+      "HEX ": "1fc8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 11",
+      "Description": "Tac 11 (Western) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8137 ",
+      "HEX ": "1fc9 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Tac 12",
+      "Description": "Tac 12 (Western) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8138 ",
+      "HEX ": "1fca ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 13",
+      "Description": "Tac 13 (Southern) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8139 ",
+      "HEX ": "1fcb ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Tac 14",
+      "Description": "Tac 14 (Southern) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8140 ",
+      "HEX ": "1fcc ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Tac 15",
+      "Description": "Tac 15 (Southern) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8271 ",
+      "HEX ": "204f ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine Call",
+      "Description": "Marine Call (Statewide) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8272 ",
+      "HEX ": "2050 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 1",
+      "Description": "Marine 1 (Bay Bridge/North) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8273 ",
+      "HEX ": "2051 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 2",
+      "Description": "Marine 2 (Bay Bridge/North) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8274 ",
+      "HEX ": "2052 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 3",
+      "Description": "Marine 3 (Bay Bridge/North) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8275 ",
+      "HEX ": "2053 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 4",
+      "Description": "Marine 4 (Bay Bridge/North) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8276 ",
+      "HEX ": "2054 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 5",
+      "Description": "Marine 5 (South of Bay Bridge to Solomons) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8277 ",
+      "HEX ": "2055 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 6",
+      "Description": "Marine 6 (South of Bay Bridge to Solomons) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8278 ",
+      "HEX ": "2056 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 7",
+      "Description": "Marine 7 (South of Bay Bridge to Solomons) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8279 ",
+      "HEX ": "2057 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 8",
+      "Description": "Marine 8 (South of Solomons) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8280 ",
+      "HEX ": "2058 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 9",
+      "Description": "Marine 9 (South of Solomons) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8281 ",
+      "HEX ": "2059 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 10",
+      "Description": "Marine 10 (Potomac and NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8282 ",
+      "HEX ": "205a ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 11",
+      "Description": "Marine 11 (Potomac and NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8283 ",
+      "HEX ": "205b ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 12",
+      "Description": "Marine 12 (Potomac and NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8284 ",
+      "HEX ": "205c ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 13",
+      "Description": "Marine 13 (Potomac and NCR) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8285 ",
+      "HEX ": "205d ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Marine 14",
+      "Description": "Marine 14 (Coastal Waterways) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8286 ",
+      "HEX ": "205e ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MD Marine 15",
+      "Description": "Marine 15 (Coastal Waterways) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8288 ",
+      "HEX ": "2060 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac QA",
+      "Description": "Aviation Tac (Queen Anne) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8289 ",
+      "HEX ": "2061 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac Talb",
+      "Description": "Aviation Tac (Talbot) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8290 ",
+      "HEX ": "2062 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac Caro",
+      "Description": "Aviation Tac (Caroline) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8291 ",
+      "HEX ": "2063 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac Kent",
+      "Description": "Aviation Tac (Kent)  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8292 ",
+      "HEX ": "2064 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac Cec",
+      "Description": "Aviation Tac (Cecil) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "8303 ",
+      "HEX ": "206f ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD AviatTac Harf",
+      "Description": "Aviation Tac (Harford) ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8126 ",
+      "HEX ": "1fbe ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FPS Balt Net",
+      "Description": "Federal Protective Service Baltimore Net ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8127 ",
+      "HEX ": "1fbf ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FPS Balt T1",
+      "Description": "Federal Protective Service Baltimore Tac 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8128 ",
+      "HEX ": "1fc0 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FPS Balt T2",
+      "Description": "Federal Protective Service Baltimore Tac 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8129 ",
+      "HEX ": "1fc1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SSA Bldg Sec",
+      "Description": "Social Security Administration Building Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "8402 ",
+      "HEX ": "20d2 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ATF Balt",
+      "Description": "ATF Baltimore ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8403 ",
+      "HEX ": "20d3 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FBI Balt",
+      "Description": "FBI Baltimore ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8406 ",
+      "HEX ": "20d6 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FBI Balt Tac 2",
+      "Description": "FBI Baltimore Tac 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8407 ",
+      "HEX ": "20d7 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FBI Balt Tac 3",
+      "Description": "FBI Baltimore Tac 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8411 ",
+      "HEX ": "20db ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ATF Balt Tac 2",
+      "Description": "ATF Baltimore Tac 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8412 ",
+      "HEX ": "20dc ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ATF Balt Tac 3",
+      "Description": "ATF Baltimore Tac 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8413 ",
+      "HEX ": "20dd ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ATF Balt Tac 4",
+      "Description": "ATF Baltimore Tac 4 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "8414 ",
+      "HEX ": "20de ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ATF Balt Tac 5",
+      "Description": "ATF Baltimore Tac 5 ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

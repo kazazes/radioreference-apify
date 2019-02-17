@@ -1,0 +1,214 @@
+{
+  "System Name": "United States Department of Defense (1B5C8-001)",
+  "Location": "Multiple, MD DC",
+  "County": "8 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 29, 2018, 2:24 am (Changed Site # 006 (Beltsville, MD) to 006 (Beltsville, MD))",
+  "System ID List": [
+    {
+      "System ID": "001",
+      "WACN": "1B5C8"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1-01",
+      "County": ", ",
+      "Freqs": [
+        "381.725c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Fort Meade",
+      "County": "Anne Arundel, MD",
+      "Freqs": [
+        "380.175",
+        "380.4125c",
+        "380.6875",
+        "380.7375c",
+        "381.1125",
+        "381.1625",
+        "381.1625",
+        "381.425",
+        "381.5625",
+        "381.750",
+        "381.875"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "NSA Friendship Annex",
+      "County": "Anne Arundel, MD",
+      "Freqs": [
+        "385.0625c",
+        "385.350",
+        "385.925",
+        "387.600a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "Site 4-04",
+      "County": ", ",
+      "Freqs": [
+        "380.4375a",
+        "380.8625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "005 (5)",
+      "Name": "Site 5-05",
+      "County": ", ",
+      "Freqs": [
+        "380.4625c",
+        "381.275a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "Beltsville, MD",
+      "County": "Prince George's, MD",
+      "Freqs": [
+        "380.4625",
+        "380.8875",
+        "381.275",
+        "381.9625a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "7 (7)",
+      "Site": "007 (7)",
+      "Name": "Columbia, MD",
+      "County": "Howard, MD",
+      "Freqs": [
+        "380.6625",
+        "380.950c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "8 (8)",
+      "Site": "008 (8)",
+      "Name": "Kent Island, MD",
+      "County": "Queen Anne's, MD",
+      "Freqs": [
+        "380.7125c",
+        "381.1875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "009 (9)",
+      "Name": "Liberty Dam",
+      "County": "Carroll, MD",
+      "Freqs": [
+        "385.775c",
+        "386.3125",
+        "386.5875",
+        "386.7625",
+        "387.3375a",
+        "387.675c",
+        "388.025",
+        "388.175c",
+        "388.3875"
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Washington, DC",
+      "County": "Washington DC, DC",
+      "Freqs": [
+        "380.4625c",
+        "380.8875a",
+        "381.275a",
+        "385.775c",
+        "387.3375c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "NSA PD Disp",
+      "Description": "NSA Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "NSA PD Tac 1",
+      "Description": "NSA Police Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "11301 ",
+      "HEX ": "2c25 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FD WAS",
+      "Description": "Fort Meade Fire \"WAS\" ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "11401 ",
+      "HEX ": "2c89 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ft Meade MP",
+      "Description": "Fort Meade Base Police/MSP Patch (TG 711 on JNCR system) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "11501 ",
+      "HEX ": "2ced ",
+      "Mode  ": "D",
+      "Alpha Tag": "MSP P Patch",
+      "Description": "Maryland State Police Patch - Glen Burnie Barrack P ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

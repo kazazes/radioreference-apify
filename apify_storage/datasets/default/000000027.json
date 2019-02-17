@@ -1,0 +1,17 @@
+{
+  "System Name": "Albertville Utilities",
+  "Location": "Albertville, AL",
+  "County": "Marshall",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 28, 2017, 11:12 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Albertville",
+        "01 453.5375 "
+      ]
+    }
+  ]
+}

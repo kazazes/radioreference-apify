@@ -1,0 +1,61 @@
+{
+  "System Name": "Garden Inn / Homewood Suites / Residence Inn Redondo Beach",
+  "Location": "Redondo Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 20, 2017, 9:12 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hotel",
+        "01 452.150 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "101 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "102",
+      "Description": "102 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HOUSEKKEPING",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "301 ",
+      "Mode  ": "T",
+      "Alpha Tag": "301",
+      "Description": "301 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "302 ",
+      "Mode  ": "T",
+      "Alpha Tag": "302",
+      "Description": "302 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "401 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ENGINEERING",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    }
+  ]
+}

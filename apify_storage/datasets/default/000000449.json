@@ -1,0 +1,85 @@
+{
+  "System Name": "Imperial Irrigation District",
+  "Location": "Various, CA",
+  "County": "Riverside",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "May 14, 2015, 12:41 am (Added Talkgroup 0048 Dispatch)",
+  "System Frequencies": [
+    {
+      "Site": "901 (385)",
+      "Name": "Indio Hill",
+      "Freqs": [
+        "855.3875",
+        "858.4125",
+        "859.4125",
+        "860.3375",
+        "860.3875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "902 (386)",
+      "Name": "Mecca Hill",
+      "Freqs": [
+        "855.1875",
+        "855.6125",
+        "855.6375",
+        "855.8875",
+        "856.3625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "903 (387)",
+      "Name": "Dillon Road",
+      "Freqs": [
+        "866.425",
+        "866.900",
+        "867.150",
+        "867.400",
+        "867.650",
+        "867.925",
+        "868.400"
+      ]
+    },
+    {
+      "Site": "904 (388)",
+      "Name": "Cactus Rest Stop",
+      "Freqs": [
+        "866.150",
+        "866.650",
+        "866.925",
+        "867.425a",
+        "867.900c",
+        "868.150",
+        "868.425"
+      ]
+    },
+    {
+      "Site": "905 (389)",
+      "Name": "Chuckwalla Mountain",
+      "Freqs": [
+        "856.375",
+        "857.325",
+        "859.300",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

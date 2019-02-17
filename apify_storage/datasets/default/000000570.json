@@ -1,0 +1,120 @@
+{
+  "System Name": "Turlock",
+  "Location": "Turlock, CA",
+  "County": "Stanislaus",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "March 31, 2017, 8:50 pm ((16) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "813B",
+      "Connect Tone": "76.60"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Police HQ",
+      "Freqs": [
+        "851.6125",
+        "851.8375",
+        "852.450c",
+        "852.7125c",
+        "853.250c",
+        "853.625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock PD1",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock PD2",
+      "Description": "Police Channel 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock PD3",
+      "Description": "Police Channel 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1744 ",
+      "HEX ": "06d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock PD4",
+      "Description": "Police Channel 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1936 ",
+      "HEX ": "079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock PD Event",
+      "Description": "Police Special Event ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "12816 ",
+      "HEX ": "321 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock FD1",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "12848 ",
+      "HEX ": "323 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock FD2",
+      "Description": "Fire Channel 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "12880 ",
+      "HEX ": "325 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock FD Tac1",
+      "Description": "Fire Tac 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "12912 ",
+      "HEX ": "327 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock FD Tac2",
+      "Description": "Fire Tac 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "13072 ",
+      "HEX ": "331 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock FD3",
+      "Description": "Fire Training ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19504 ",
+      "HEX ": "4c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Turlock Transit",
+      "Description": "Transit ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

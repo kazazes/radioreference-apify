@@ -1,0 +1,564 @@
+{
+  "System Name": "Marine Terminals Corporation",
+  "Location": "San Pedro, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 20, 2019, 4:22 am (Added Talkgroup 170 Dock Operations(Port Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "San Pedro",
+        "01 451.1875 ",
+        "02 451.5375 ",
+        "03 451.7125 ",
+        "04 451.7625 ",
+        "05 451.850 ",
+        "06 451.950 ",
+        "07 452.2375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "103",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "104",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "105",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "108",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "110",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "111",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "112",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "113",
+      "Description": "Dock Operations ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "114",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "115",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "116 ",
+      "Mode  ": "T",
+      "Alpha Tag": "116",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "117",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "118 ",
+      "Mode  ": "T",
+      "Alpha Tag": "118",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "120",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "121",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "122",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "125",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "T",
+      "Alpha Tag": "126",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "133 ",
+      "Mode  ": "T",
+      "Alpha Tag": "133",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "134 ",
+      "Mode  ": "T",
+      "Alpha Tag": "134",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "135 ",
+      "Mode  ": "T",
+      "Alpha Tag": "135",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "T",
+      "Alpha Tag": "136",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "138 ",
+      "Mode  ": "T",
+      "Alpha Tag": "138",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "143 ",
+      "Mode  ": "T",
+      "Alpha Tag": "143",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "144 ",
+      "Mode  ": "T",
+      "Alpha Tag": "144",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "146 ",
+      "Mode  ": "T",
+      "Alpha Tag": "146",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "147 ",
+      "Mode  ": "T",
+      "Alpha Tag": "147",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "148 ",
+      "Mode  ": "T",
+      "Alpha Tag": "148",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "149 ",
+      "Mode  ": "T",
+      "Alpha Tag": "149",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "150",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "151 ",
+      "Mode  ": "T",
+      "Alpha Tag": "151",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "152",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "154",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "155",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "156",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "158 ",
+      "Mode  ": "T",
+      "Alpha Tag": "158",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "T",
+      "Alpha Tag": "160",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "167 ",
+      "Mode  ": "T",
+      "Alpha Tag": "167",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "168 ",
+      "Mode  ": "T",
+      "Alpha Tag": "168",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "170 ",
+      "Mode  ": "T",
+      "Alpha Tag": "170",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "171 ",
+      "Mode  ": "T",
+      "Alpha Tag": "171",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "172 ",
+      "Mode  ": "T",
+      "Alpha Tag": "172",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "174 ",
+      "Mode  ": "T",
+      "Alpha Tag": "174",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "175 ",
+      "Mode  ": "T",
+      "Alpha Tag": "175",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "177 ",
+      "Mode  ": "T",
+      "Alpha Tag": "177",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "179 ",
+      "Mode  ": "T",
+      "Alpha Tag": "179",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "180 ",
+      "Mode  ": "T",
+      "Alpha Tag": "180",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "181 ",
+      "Mode  ": "T",
+      "Alpha Tag": "181",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "191 ",
+      "Mode  ": "T",
+      "Alpha Tag": "191",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "192 ",
+      "Mode  ": "T",
+      "Alpha Tag": "192",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "194 ",
+      "Mode  ": "T",
+      "Alpha Tag": "194",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "195 ",
+      "Mode  ": "T",
+      "Alpha Tag": "195",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "196 ",
+      "Mode  ": "T",
+      "Alpha Tag": "196",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "197 ",
+      "Mode  ": "T",
+      "Alpha Tag": "197",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "198 ",
+      "Mode  ": "T",
+      "Alpha Tag": "198",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "199 ",
+      "Mode  ": "T",
+      "Alpha Tag": "199",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "200 ",
+      "Mode  ": "T",
+      "Alpha Tag": "200",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "201",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "202",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "203",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "204",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "206",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "207",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "208",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "210",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "T",
+      "Alpha Tag": "212",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "213 ",
+      "Mode  ": "T",
+      "Alpha Tag": "213",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "215 ",
+      "Mode  ": "T",
+      "Alpha Tag": "215",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "216",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "217 ",
+      "Mode  ": "T",
+      "Alpha Tag": "217",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "219 ",
+      "Mode  ": "T",
+      "Alpha Tag": "219",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "220 ",
+      "Mode  ": "T",
+      "Alpha Tag": "220",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "221 ",
+      "Mode  ": "T",
+      "Alpha Tag": "221",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "223 ",
+      "Mode  ": "T",
+      "Alpha Tag": "223",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "224 ",
+      "Mode  ": "T",
+      "Alpha Tag": "224",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "228 ",
+      "Mode  ": "T",
+      "Alpha Tag": "228",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

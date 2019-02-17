@@ -1,0 +1,1203 @@
+{
+  "System Name": "United States Air Force (157)",
+  "Location": "Various, CO CA WY MT NE OK ND FL MA MO GA OH SD NM",
+  "County": "25 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 19, 2019, 3:38 pm (Updated Function Tag assignments for 1 talkgroups(Tinker Air Force Base))",
+  "System ID List": [
+    {
+      "System ID": "157",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Peterson AFB",
+      "County": "El Paso, CO",
+      "Freqs": [
+        "406.150",
+        "407.5625",
+        "408.0875",
+        "408.1625",
+        "408.5625",
+        "409.3125a",
+        "409.350",
+        "409.5125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "F.E. Warren AFB",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "138.0875",
+        "138.1375",
+        "138.1625",
+        "138.2375c",
+        "138.3125",
+        "138.3875",
+        "138.5375",
+        "138.6125",
+        "138.6875a",
+        "139.3375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Malmstrom AFB",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0875",
+        "138.1125",
+        "138.1625",
+        "138.2875",
+        "138.3125",
+        "138.3875",
+        "138.4625",
+        "138.5125",
+        "138.5375",
+        "138.6125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Schriever AFB",
+      "County": "El Paso, CO",
+      "Freqs": [
+        "406.5625a",
+        "407.8875c",
+        "408.3625",
+        "409.275",
+        "409.9625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Cheyenne Mountain AFS",
+      "County": "El Paso, CO",
+      "Freqs": [
+        "386.275c",
+        "386.425a",
+        "387.475",
+        "387.575",
+        "387.700",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Vandenberg AFB",
+      "County": "Santa Barbara, CA",
+      "Freqs": [
+        "385.2125c",
+        "385.3125a",
+        "386.0125",
+        "386.125",
+        "386.225",
+        "386.375",
+        "386.450",
+        "386.4875",
+        "386.5875",
+        "386.650",
+        "386.700",
+        "386.8125",
+        "386.850"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Los Angeles AFB",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "386.075",
+        "386.1375c",
+        "386.225",
+        "386.2875a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Patrick AFB",
+      "County": "Brevard, FL",
+      "Freqs": [
+        "385.350c",
+        "385.8875",
+        "386.075",
+        "386.2625",
+        "386.500",
+        "386.650",
+        "386.800",
+        "386.950"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Grand Forks AFB",
+      "County": "Grand Forks, ND",
+      "Freqs": [
+        "406.500c",
+        "406.550a",
+        "406.775a",
+        "407.075a",
+        "407.175",
+        "407.250",
+        "407.350",
+        "407.425",
+        "408.050",
+        "408.100"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Tinker AFB",
+      "County": "Oklahoma, OK",
+      "Freqs": [
+        "406.7625",
+        "407.1625",
+        "407.3625",
+        "407.7625a",
+        "407.9625c",
+        "408.1625",
+        "408.3625",
+        "408.5625",
+        "409.5625",
+        "409.7625",
+        "409.9625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Air Force Academy",
+      "County": "El Paso, CO",
+      "Freqs": [
+        "380.075",
+        "380.425",
+        "380.775",
+        "381.1375a",
+        "381.425",
+        "381.975",
+        "385.0125c",
+        "385.625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Buckley AFB",
+      "County": "Arapahoe, CO",
+      "Freqs": [
+        "380.175c",
+        "380.375a",
+        "380.525a",
+        "380.675a",
+        "380.825",
+        "380.975",
+        "381.1375",
+        "381.2875",
+        "381.700",
+        "381.875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Minot AFB",
+      "County": "Ward, ND",
+      "Freqs": [
+        "380.125c",
+        "380.300a",
+        "385.0375a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Robins AFB",
+      "County": "Houston, GA",
+      "Freqs": [
+        "406.3625c",
+        "406.7625",
+        "407.1625a",
+        "407.3625a",
+        "407.9625",
+        "408.1625",
+        "408.7625a",
+        "409.1625",
+        "409.3625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Wright-Patterson AFB",
+      "County": "Greene, OH",
+      "Freqs": [
+        "408.7625a",
+        "408.9625c",
+        "409.3625",
+        "409.5625",
+        "409.9625",
+        "410.1625",
+        "410.3625",
+        "410.5625",
+        "410.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "F.E. Warren AFB (North)",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "138.0375",
+        "138.1875",
+        "138.3375c",
+        "138.6375a",
+        "139.1875",
+        "173.000",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "F.E. Warren AFB (Site C)",
+      "County": "Banner, NE",
+      "Freqs": [
+        "138.0625c",
+        "138.2125a",
+        "138.3625",
+        "138.5125",
+        "138.7375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "F.E. Warren AFB (Site G)",
+      "County": "Cheyenne, NE",
+      "Freqs": [
+        "138.0875c",
+        "138.1625a",
+        "138.3125",
+        "138.5375",
+        "138.6125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "023 (17)",
+      "Name": "F.E. Warren AFB (Site L)",
+      "County": "Weld, CO",
+      "Freqs": [
+        "138.1875c",
+        "138.3375",
+        "138.6375",
+        "139.1875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "F.E. Warren AFB (Site R)",
+      "County": "Goshen, WY",
+      "Freqs": [
+        "138.1125c",
+        "138.2625a",
+        "138.4125",
+        "138.5625",
+        "138.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "F.E. Warren AFB (Site 25)",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "138.0875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "F.E. Warren AFB (Site 26)",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "138.2625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "F.E. Warren AFB (Site 27)",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "138.0625c",
+        "138.2125a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "Malmstrom AFB (Belgian)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0625",
+        "138.1125",
+        "138.3375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "031 (1F)",
+      "Name": "Malmstrom AFB (Teton)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0375",
+        "138.0625c",
+        "138.1125",
+        "138.2125",
+        "138.5625",
+        "138.7125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Malmstrom AFB (Highwood)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.1125c",
+        "138.3375",
+        "138.6125",
+        "138.7375",
+        "139.0375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "033 (21)",
+      "Name": "Malmstrom AFB (Cooney)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0875c",
+        "138.2375",
+        "138.3875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "034 (22)",
+      "Name": "Malmstrom AFB (Judith)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0625c",
+        "138.2125",
+        "138.3625",
+        "138.5625",
+        "138.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "035 (23)",
+      "Name": "Malmstrom AFB (Sullivan)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0375c",
+        "138.1125",
+        "138.1875",
+        "138.4125",
+        "138.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "036 (24)",
+      "Name": "Malmstrom AFB (Moccasin)",
+      "County": "Cascade, MT",
+      "Freqs": [
+        "138.0475c",
+        "138.1125",
+        "138.1875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "040 (28)",
+      "Name": "Edwards AFB (Site 40)",
+      "County": "Kern, CA",
+      "Freqs": [
+        "407.3625",
+        "407.3625",
+        "407.475",
+        "407.6375",
+        "407.9625",
+        "408.1625",
+        "409.1625a",
+        "409.425",
+        "409.5625c",
+        "409.700"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "041 (29)",
+      "Name": "Edwards AFB (Site 41)",
+      "County": "Kern, CA",
+      "Freqs": [
+        "406.1625",
+        "406.350",
+        "407.1625",
+        "407.250",
+        "407.5625c",
+        "407.7625",
+        "409.3625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "042 (2A)",
+      "Name": "Edwards AFB (Site 42)",
+      "County": "Kern, CA",
+      "Freqs": [
+        "406.3625",
+        "406.9625a",
+        "410.7625c",
+        "410.900",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "043 (2B)",
+      "Name": "Edwards AFB (Site 43)",
+      "County": "Kern, CA",
+      "Freqs": [
+        "407.8875a",
+        "409.125",
+        "409.6875",
+        "409.8875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "051 (33)",
+      "Name": "Cannon AFB North",
+      "County": "Curry, NM",
+      "Freqs": [
+        "386.700c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "052 (34)",
+      "Name": "Cannon AFB South",
+      "County": "Curry, NM",
+      "Freqs": [
+        "385.0125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "060 (3C)",
+      "Name": "Vandenberg AFB (Site 60)",
+      "County": "Santa Barbara, CA",
+      "Freqs": [
+        "385.0625c",
+        "385.350a",
+        "385.625",
+        "385.9125",
+        "386.1125",
+        "386.3125",
+        "386.5125",
+        "386.7125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "061 (3D)",
+      "Name": "Vandenberg AFB (Site 61)",
+      "County": "Santa Barbara, CA",
+      "Freqs": [
+        "385.350a",
+        "385.625",
+        "385.9125",
+        "386.0375c",
+        "386.1125",
+        "386.250a",
+        "386.3125",
+        "386.450",
+        "386.5125",
+        "386.650",
+        "386.7125",
+        "386.850"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "062 (3E)",
+      "Name": "Vandenberg AFB (Site 62)",
+      "County": "Santa Barbara, CA",
+      "Freqs": [
+        "386.050c",
+        "386.2625a",
+        "386.4625",
+        "386.6625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "070 (46)",
+      "Name": "Fort MacArthur",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "385.0875c",
+        "385.325a",
+        "385.725",
+        "385.875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "071 (47)",
+      "Name": "Eglin AFB (Main Base)",
+      "County": "Okaloosa, FL",
+      "Freqs": [
+        "385.0125c",
+        "385.900",
+        "386.125a",
+        "386.225",
+        "386.400",
+        "386.500",
+        "386.650",
+        "386.8125",
+        "386.9125",
+        "388.000",
+        "388.150",
+        "388.3875",
+        "388.500",
+        "388.650",
+        "388.850"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "072 (48)",
+      "Name": "Eglin AFB (Hurlburt Field)",
+      "County": "Okaloosa, FL",
+      "Freqs": [
+        "385.0625c",
+        "385.350",
+        "385.8875a",
+        "386.1375",
+        "386.275",
+        "386.4125",
+        "386.525",
+        "386.675",
+        "386.825",
+        "386.9375",
+        "388.025",
+        "388.175",
+        "388.350",
+        "388.550",
+        "388.8875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "073 (49)",
+      "Name": "Eglin AFB (Floridale)",
+      "County": "Santa Rosa, FL",
+      "Freqs": [
+        "386.450c",
+        "386.8875a",
+        "388.450",
+        "388.9625",
+        "389.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "074 (4A)",
+      "Name": "Eglin AFB (Duke Field)",
+      "County": "Okaloosa, FL",
+      "Freqs": [
+        "386.4625c",
+        "386.9625a",
+        "388.400",
+        "388.900",
+        "389.4875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "075 (4B)",
+      "Name": "Eglin AFB (Aux Field 2)",
+      "County": "Okaloosa, FL",
+      "Freqs": [
+        "386.425c",
+        "386.950",
+        "388.4375",
+        "388.9375",
+        "389.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "076 (4C)",
+      "Name": "Eglin AFB (Site B12)",
+      "County": "Santa Rosa, FL",
+      "Freqs": [
+        "380.275a",
+        "380.775c",
+        "381.325",
+        "381.7875",
+        "386.0625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "077 (4D)",
+      "Name": "Eglin AFB (Site C52)",
+      "County": "Walton, FL",
+      "Freqs": [
+        "380.075c",
+        "380.575a",
+        "381.0875",
+        "381.425",
+        "381.825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "090 (5A)",
+      "Name": "Malabar Tracking Annex",
+      "County": "Brevard, FL",
+      "Freqs": [
+        "385.3125c",
+        "385.900",
+        "386.200",
+        "386.350",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "091 (5B)",
+      "Name": "Cape Canaveral AFS",
+      "County": "Brevard, FL",
+      "Freqs": [
+        "386.1875",
+        "386.375c",
+        "386.5125",
+        "386.700",
+        "386.8875",
+        "388.0375",
+        "388.3625",
+        "388.5625",
+        "388.7375",
+        "388.9375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "101 (65)",
+      "Name": "Hanscom AFB",
+      "County": "Middlesex, MA",
+      "Freqs": [
+        "385.8875c",
+        "386.1875a",
+        "386.4875",
+        "386.9625",
+        "388.575",
+        "389.4875",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "004 (4)",
+      "Name": "Ellsworth AFB",
+      "County": "Pennington, SD",
+      "Freqs": [
+        "138.2375c",
+        "138.2625a",
+        "138.3375a",
+        "138.3625a",
+        "138.4125",
+        "138.5625",
+        "138.6375",
+        "139.1875",
+        "139.7625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "040 (28)",
+      "Name": "Whiteman AFB",
+      "County": "Johnson, MO",
+      "Freqs": [
+        "405.500",
+        "406.1125c",
+        "406.150",
+        "408.150",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "52020 ",
+      "HEX ": "cb34 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA SF DISP",
+      "Description": "Security Forces Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "52012 ",
+      "HEX ": "cb2c ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA Base Ops",
+      "Description": "Base Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52033 ",
+      "HEX ": "cb41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA BioHazrd",
+      "Description": "Bio-Hazard Team ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52034 ",
+      "HEX ": "cb42 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA CadMedic",
+      "Description": "Cadet Medics ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52057 ",
+      "HEX ": "cb59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA Snowplow",
+      "Description": "Snowplow Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52063 ",
+      "HEX ": "cb5f ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA Buses",
+      "Description": "Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "52073 ",
+      "HEX ": "cb69 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA 306 FTG",
+      "Description": "306th Flight Training Group ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52079 ",
+      "HEX ": "cb6f ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA 94FTS",
+      "Description": "94th Flight Training Squadron/Gliders ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52082 ",
+      "HEX ": "cb72 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA 98FTS",
+      "Description": "98th Flight Training Squadron/Parachute ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52084 ",
+      "HEX ": "cb74 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA 557FTS",
+      "Description": "557th Flight Training Squadron/Aircraft ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52086 ",
+      "HEX ": "cb76 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA A/c Maint",
+      "Description": "Aircraft Maintenance ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52113 ",
+      "HEX ": "cb91 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA EagleClb",
+      "Description": "Eagle's Club Cadets ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52122 ",
+      "HEX ": "cb9a ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA Training",
+      "Description": "Cadet Training ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52151 ",
+      "HEX ": "cbb7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA Golf Course",
+      "Description": "Eisenhower Golf Course Starters ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52074 ",
+      "HEX ": "cb6a ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AirOps 1",
+      "Description": "Airfield Operations 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52080 ",
+      "HEX ": "cb70 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AirOps 2",
+      "Description": "Airfield Operations 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52081 ",
+      "HEX ": "cb71 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AirOps 3",
+      "Description": "Airfield Operations 3 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52144 ",
+      "HEX ": "cbb0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AirOps 4",
+      "Description": "Airfield Operations 4 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52071 ",
+      "HEX ": "cb67 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AF-1",
+      "Description": "Airfield 1 - Ground Safety ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "52072 ",
+      "HEX ": "cb68 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AFA AF-2",
+      "Description": "Airfield 2 - Skytrain/Glider Operations ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "57021 ",
+      "HEX ": "debd ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB SecForces1",
+      "Description": "Security Forces 1 Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "57022 ",
+      "HEX ": "debe ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB SecForces2",
+      "Description": "Security Forces 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "57131 ",
+      "HEX ": "df2b ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB Fire Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "57133 ",
+      "HEX ": "df2d ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Fire Ops 1",
+      "Description": "Fire Ops 1 - Crash/Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "57124 ",
+      "HEX ": "df24 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Fire Ops 2",
+      "Description": "Fire Ops 2 - Structures ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "57121 ",
+      "HEX ": "df21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB STRUC 1",
+      "Description": "Fire Structure 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "57127 ",
+      "HEX ": "df27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Med Center",
+      "Description": "Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "57035 ",
+      "HEX ": "decb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Civil Eng",
+      "Description": "Civil Engineering (exact use unconfirmed) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57039 ",
+      "HEX ": "decf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB CE Heat",
+      "Description": "Civil Engineering Heating Plant ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57047 ",
+      "HEX ": "ded7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB 57047",
+      "Description": "Civil Engineering (exact use unconfirmed) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57090 ",
+      "HEX ": "df02 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Code Blue",
+      "Description": "Code Blue emergency ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "57135 ",
+      "HEX ": "df2f ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB Transport",
+      "Description": "Transportation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57170 ",
+      "HEX ": "df52 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Museum",
+      "Description": "Air Force Museum ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57210 ",
+      "HEX ": "df7a ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Supply",
+      "Description": "Base Supply ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57261 ",
+      "HEX ": "dfad ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB 445 AW A",
+      "Description": "445th Air Wing Ops A ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "57262 ",
+      "HEX ": "dfae ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB 445 AW B",
+      "Description": "445th Air Wing Ops B - A/C Maintenance ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "57263 ",
+      "HEX ": "dfaf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB  445 AW C",
+      "Description": "445th Air Wing Ops C ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "57270 ",
+      "HEX ": "dfb6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB Fleet",
+      "Description": "Fleet Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57280 ",
+      "HEX ": "dfc0 ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB Ground",
+      "Description": "Patterson Ground ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "57281 ",
+      "HEX ": "dfc1 ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB Base Ops",
+      "Description": "Base Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "57310 ",
+      "HEX ": "dfde ",
+      "Mode  ": "De",
+      "Alpha Tag": "WPAFB Fuel Farm",
+      "Description": "Fuel Farm operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57331 ",
+      "HEX ": "dff3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB MOC",
+      "Description": "Maintenance Operations Control Center ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "57918 ",
+      "HEX ": "e23e ",
+      "Mode  ": "D",
+      "Alpha Tag": "WPAFB RadAssess",
+      "Description": "Air Force Radiation Assessment Team ",
+      "Tag  ": "Military "
+    }
+  ]
+}

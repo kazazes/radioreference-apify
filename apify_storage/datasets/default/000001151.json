@@ -1,0 +1,81 @@
+{
+  "System Name": "Lowndes County Public Safety P25",
+  "Location": "Valdosta, GA",
+  "County": "Lowndes",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 5, 2016, 2:08 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "6F2",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "854.4125",
+        "854.8125c",
+        "855.0625",
+        "855.1875",
+        "855.6875",
+        "856.4125",
+        "856.4375",
+        "856.7375",
+        "856.9375",
+        "857.4375",
+        "857.9375",
+        "858.4375",
+        "859.4375c",
+        "859.8375",
+        "859.9375c",
+        "860.9375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "279 ",
+      "HEX ": "117 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 279",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "283 ",
+      "HEX ": "11b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 283",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "320 ",
+      "HEX ": "140 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 320",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "190 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 400",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "404 ",
+      "HEX ": "194 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 404",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    }
+  ]
+}

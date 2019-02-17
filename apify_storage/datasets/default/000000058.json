@@ -1,0 +1,746 @@
+{
+  "System Name": "Arizona Public Service Corporation (5C1D)",
+  "Location": "Various, AZ",
+  "County": "Statewide",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "February 6, 2018, 1:07 pm (Changed Site # 010 (Mt Lemmon - South (Pima)) to 010 (Mt Lemmon - South (Pima)))",
+  "System ID List": [
+    {
+      "System ID": "5C1D",
+      "Connect Tone": "138.46"
+    },
+    {
+      "System ID": "5C1D",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Shaw Butte & Thompson Peak Simulcast (Maricopa)",
+      "County": "Maricopa",
+      "Freqs": [
+        "855.1125",
+        "855.3875",
+        "855.6375",
+        "855.9375",
+        "858.3375",
+        "859.3375a",
+        "860.3375c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Oatman Mountain (Maricopa)",
+      "County": "Maricopa",
+      "Freqs": [
+        "858.4125c",
+        "855.1125",
+        "856.8625",
+        "857.4125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Telegraph Pass (Yuma)",
+      "County": "Yuma",
+      "Freqs": [
+        "856.275",
+        "861.450",
+        "862.450",
+        "863.450a",
+        "864.450c",
+        "865.450",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Cunningham Mtn (La Paz)",
+      "County": "La Paz",
+      "Freqs": [
+        "856.275a",
+        "865.450c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Black Peak (La Paz)",
+      "County": "La Paz",
+      "Freqs": [
+        "857.2875a",
+        "858.2875c",
+        "858.3375",
+        "859.2875",
+        "859.3375",
+        "860.2875",
+        "860.3375"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Aguila (Maricopa)",
+      "County": "Maricopa",
+      "Freqs": [
+        "858.4125c",
+        "857.4125a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Brookbank (Navajo)",
+      "County": "Navajo",
+      "Freqs": [
+        "856.8875",
+        "857.8875a",
+        "858.8875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Childs Mountain",
+      "County": "Pima",
+      "Freqs": [
+        "856.275a",
+        "857.275c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Sacaton Peak (Pinal)",
+      "County": "Pinal",
+      "Freqs": [
+        "855.2875",
+        "857.8875a",
+        "858.8875c",
+        "859.8875",
+        "860.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Mt Lemmon - South (Pima)",
+      "County": "Pima",
+      "Freqs": [
+        "855.8625a",
+        "856.9375c",
+        "861.450",
+        "862.450",
+        "863.450",
+        "864.450",
+        "865.450"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Signal Peak (Gila)",
+      "County": "Gila",
+      "Freqs": [
+        "855.1125",
+        "855.9375",
+        "856.4125",
+        "857.2875",
+        "857.4125a",
+        "858.2875",
+        "858.3375",
+        "858.4125c",
+        "859.2875",
+        "859.3375",
+        "859.4125",
+        "860.2875",
+        "860.3375",
+        "860.4125"
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Mt. Ord (Gila)",
+      "County": "Gila",
+      "Freqs": [
+        "856.2875",
+        "858.2875c",
+        "857.2875a",
+        "859.2875",
+        "860.2875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Mule Mtn (Cochise)",
+      "County": "Cochise",
+      "Freqs": [
+        "856.275",
+        "859.275c",
+        "860.275",
+        "861.450",
+        "862.450",
+        "863.450",
+        "864.450a",
+        "865.450"
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Mt Elden (Coconino)",
+      "County": "Coconino",
+      "Freqs": [
+        "855.1125",
+        "855.6375",
+        "855.9375",
+        "856.3125",
+        "856.8875",
+        "857.8875",
+        "858.3375",
+        "858.8875",
+        "859.3125a",
+        "859.3375",
+        "859.8875",
+        "860.3125c",
+        "860.3375",
+        "860.8875",
+        "868.3125"
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Mingus Mtn (Yavapai)",
+      "County": "Yavapai",
+      "Freqs": [
+        "856.2875",
+        "856.4125",
+        "857.2875",
+        "857.4125a",
+        "858.2875",
+        "858.4125c",
+        "859.2875",
+        "859.4125",
+        "860.2875",
+        "860.4125"
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Diamond Pt (Payson)",
+      "County": "Gila",
+      "Freqs": [
+        "857.4125c",
+        "856.4125",
+        "858.4125a",
+        "859.4125",
+        "860.4125",
+        "855.9375",
+        "858.3375",
+        "859.3375",
+        "860.3375"
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Mt Francis (Yavapai)",
+      "County": "Yavapai",
+      "Freqs": [
+        "860.3375c",
+        "859.3375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Bill Williams Mountain (Coconino)",
+      "County": "Coconino",
+      "Freqs": [
+        "856.2875",
+        "857.2875a",
+        "858.2875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Mc Cloud Mountains (Yavapai)",
+      "County": "Yavapai",
+      "Freqs": [
+        "856.4125",
+        "856.8875",
+        "857.4125",
+        "857.8875",
+        "858.4125",
+        "858.8875c",
+        "859.8875",
+        "860.8875"
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Juniper Mountain (Yavapai)",
+      "County": "Yavapai",
+      "Freqs": [
+        "858.8875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Hualapai Mountain (Mohave)",
+      "County": "Mohave",
+      "Freqs": [
+        "858.1125",
+        "858.3375",
+        "859.3375a",
+        "860.3375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Unknown",
+      "County": "UNKNOWN",
+      "Freqs": [
+        "857.2875a",
+        "858.2875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Preston Mesa (Navajo)",
+      "County": "Navajo",
+      "Freqs": [
+        "855.9375",
+        "858.3375",
+        "859.3375a",
+        "860.3375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Towers Mtn (Yavapai)",
+      "County": "Yavapai",
+      "Freqs": [
+        "856.3125",
+        "858.3125",
+        "859.3125a",
+        "860.3125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Mt Lemmon - North (Pima)",
+      "County": "Pima",
+      "Freqs": [
+        "854.9125",
+        "855.1125",
+        "855.3875",
+        "855.6375a",
+        "855.9375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Page (Coconino)",
+      "County": "Coconino",
+      "Freqs": [
+        "856.4125",
+        "857.4125a",
+        "858.4125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Joseph City (Navajo)",
+      "County": "Navajo",
+      "Freqs": [
+        "859.3375a",
+        "860.3375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Roof Butte (Apache)",
+      "County": "Apache",
+      "Freqs": [
+        "856.4125",
+        "857.4125a",
+        "858.4125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "031 (1F)",
+      "Name": "Unknown (North AZ, Chambers/Winslow area)",
+      "County": "UNKNOWN",
+      "Freqs": [
+        "857.4125a",
+        "858.4125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "032 (20)",
+      "Name": "Unknown Location",
+      "County": "UNKNOWN",
+      "Freqs": [
+        "859.3375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Techs",
+      "Description": "APS Radio Technicians ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "2176 ",
+      "HEX ": "088 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - A",
+      "Description": "Call ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - B",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS OS-MN",
+      "Description": "Operations Support - Maintenance North ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3408 ",
+      "HEX ": "0d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Tns Mnt",
+      "Description": "Transmission Maintenance ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3440 ",
+      "HEX ": "0d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - C",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3472 ",
+      "HEX ": "0d9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS ECC",
+      "Description": "Energy Contol Center ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "4816 ",
+      "HEX ": "12d ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - D",
+      "Description": "Field Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "4848 ",
+      "HEX ": "12f ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Wickenbg",
+      "Description": "WICKENBURG ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "9744 ",
+      "HEX ": "261 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS FldOps A",
+      "Description": "APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "9776 ",
+      "HEX ": "263 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - E",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "9872 ",
+      "HEX ": "269 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS FldOps B",
+      "Description": "APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "9968 ",
+      "HEX ": "26f ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - F",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12816 ",
+      "HEX ": "321 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Ajo Ops",
+      "Description": "AJO Field Operaions ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12848 ",
+      "HEX ": "323 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - G",
+      "Description": "Outages ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12912 ",
+      "HEX ": "327 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Talk ",
+      "Description": "Talk Around ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24048 ",
+      "HEX ": "5df ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - H",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24080 ",
+      "HEX ": "5e1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Flag Ops",
+      "Description": "FLAGSTAFF - APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24112 ",
+      "HEX ": "5e3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - Navajo",
+      "Description": "Navajo District - Field Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24144 ",
+      "HEX ": "5e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS FO-NE",
+      "Description": "Field Operations - North East District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24176 ",
+      "HEX ": "5e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - J",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24208 ",
+      "HEX ": "5e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Snow/HJ",
+      "Description": "SNOWFLAKE/HAPPY JACK - North East District ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25648 ",
+      "HEX ": "643 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Pres Ops",
+      "Description": "PRESCOTT Operations, Line Crews ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25680 ",
+      "HEX ": "645 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Pres Ofc",
+      "Description": "PRESCOTT Office ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25712 ",
+      "HEX ": "647 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Pres/Cot",
+      "Description": "PRESCOTT/COTTONWOOD Related ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25808 ",
+      "HEX ": "64d ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Cot Ofc",
+      "Description": "COTTONWOOD Office ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27248 ",
+      "HEX ": "6a7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS - J",
+      "Description": "Field ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27280 ",
+      "HEX ": "6a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS CasaGrnd",
+      "Description": "CASA GRANDE area - APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27312 ",
+      "HEX ": "6ab ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Doug Ops",
+      "Description": "DOUGLAS - APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27376 ",
+      "HEX ": "6af ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Doug Ofc",
+      "Description": "DOUGLAS Office ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27440 ",
+      "HEX ": "6b3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Globe",
+      "Description": "GLOBE Office ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "28848 ",
+      "HEX ": "70b ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Yuma Ofc",
+      "Description": "YUMA Office ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "28880 ",
+      "HEX ": "70d ",
+      "Mode  ": "A",
+      "Alpha Tag": "APS Yuma Ops",
+      "Description": "Yuma - APS Field Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "28976 ",
+      "HEX ": "713 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Yuma FldOps",
+      "Description": "Yuma Field Operations ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PVGS Interop",
+      "Description": "Interop (APS, AZ DPS, MCSO, Buckeye PD) ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

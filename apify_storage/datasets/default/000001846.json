@@ -1,0 +1,35 @@
+{
+  "System Name": "Industrial Communications and Electronics (York)",
+  "Location": "York, ME",
+  "County": "York",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 25, 2011, 1:55 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "7439",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "937.6875c",
+        "938.650",
+        "939.1875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1360 ",
+      "HEX ": "055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WellsTrolley",
+      "Description": "Wells Tourist Trolleys ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

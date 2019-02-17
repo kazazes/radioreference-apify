@@ -1,0 +1,388 @@
+{
+  "System Name": "Southern Nevada Area Communications Council (SNACC)",
+  "Location": "Las Vegas, NV AZ",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 23, 2018, 1:26 am (Changed Site # 033 (Las Vegas Simulcast) to 033 (Las Vegas Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "461",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "020 (14)",
+      "Name": "Black Mountain",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.1125",
+        "852.1125",
+        "852.4375a",
+        "852.950a",
+        "853.225c",
+        "857.1125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "021 (15)",
+      "Name": "Apex Peak",
+      "County": "Clark, NV",
+      "Freqs": [
+        "852.1625",
+        "853.2625",
+        "855.2625",
+        "856.2625",
+        "856.7125",
+        "856.9875",
+        "857.7625",
+        "857.9875",
+        "858.7375",
+        "859.2625c",
+        "859.7375",
+        "859.9375a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "022 (16)",
+      "Name": "Arden Peak",
+      "County": "Clark, NV",
+      "Freqs": [
+        "856.2125",
+        "856.4375",
+        "856.7625a",
+        "857.4875",
+        "858.7625",
+        "859.4625c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "023 (17)",
+      "Name": "Angel Peak",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.325",
+        "851.800",
+        "851.9625",
+        "852.125",
+        "852.375",
+        "852.600",
+        "853.3375c",
+        "853.500",
+        "853.9625",
+        "854.4625",
+        "857.9625",
+        "859.0375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "024 (18)",
+      "Name": "Bighorn Peak",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.200",
+        "851.450",
+        "852.100",
+        "852.450",
+        "853.050c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "025 (19)",
+      "Name": "Lake Mead",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.200",
+        "851.450",
+        "852.100",
+        "852.450",
+        "853.050",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "026 (1A)",
+      "Name": "Low Potosi",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.100",
+        "851.925",
+        "852.100",
+        "852.975a",
+        "853.300c",
+        "853.7375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "027 (1B)",
+      "Name": "Beacon Hill",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.275",
+        "851.775",
+        "852.050",
+        "852.800c",
+        "853.450a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "028 (1C)",
+      "Name": "Spirit Mtn",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.275",
+        "851.450",
+        "852.100",
+        "852.450c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "029 (1D)",
+      "Name": "Oatman",
+      "County": "Mohave, AZ",
+      "Freqs": [
+        "854.1625c",
+        "857.4625",
+        "858.4625",
+        "859.4625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "030 (1E)",
+      "Name": "Boulder City",
+      "County": "Clark, NV",
+      "Freqs": [
+        "856.9875",
+        "857.4625",
+        "857.9625",
+        "858.4625",
+        "858.9875",
+        "859.9625c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "031 (1F)",
+      "Name": "Lake Las Vegas",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.775",
+        "852.050a",
+        "852.800c",
+        "853.950",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "032 (20)",
+      "Name": "West Site (Pahrump)",
+      "County": "Nye, NV",
+      "Freqs": [
+        "851.775",
+        "852.800",
+        "853.950c",
+        "859.9625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "033 (21)",
+      "Name": "Las Vegas Simulcast",
+      "County": "Clark, NV",
+      "Freqs": [
+        "851.050",
+        "851.250",
+        "851.400",
+        "851.550",
+        "851.650",
+        "851.900",
+        "852.250",
+        "852.400",
+        "852.6125",
+        "852.9125",
+        "853.075a",
+        "853.1875",
+        "853.400",
+        "853.650",
+        "853.825",
+        "853.900c",
+        "854.3125",
+        "854.4125a",
+        "854.7125a",
+        "855.7125"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "034 (22)",
+      "Name": "Pahrump",
+      "County": "Nye, NV",
+      "Freqs": [
+        "851.0875",
+        "851.4125",
+        "851.7625",
+        "852.0375",
+        "852.2875a",
+        "853.4625c",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1897 ",
+      "HEX ": "769 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF FF Down",
+      "Description": "Fire - Firefighter Down ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1899 ",
+      "HEX ": "76b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Sp Ops",
+      "Description": "Fire - Special Operations ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1901 ",
+      "HEX ": "76d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Fire",
+      "Description": "Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1903 ",
+      "HEX ": "76f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Tac 10",
+      "Description": "Fire - Tac 10 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1905 ",
+      "HEX ": "771 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Tac 9",
+      "Description": "Fire - Tac 9 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1907 ",
+      "HEX ": "773 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Tac 8",
+      "Description": "Fire - Tac 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1909 ",
+      "HEX ": "775 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Tac 7",
+      "Description": "Fire - Tac 7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1911 ",
+      "HEX ": "777 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Tac 6",
+      "Description": "Fire - Tac 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1913 ",
+      "HEX ": "779 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCF Dispatch",
+      "Description": "Fire - Dispatch - Battalion 12 ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1569 ",
+      "HEX ": "621 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 1",
+      "Description": "SNWS 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1571 ",
+      "HEX ": "623 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 2",
+      "Description": "SNWS 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1573 ",
+      "HEX ": "625 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 3",
+      "Description": "SNWS 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1575 ",
+      "HEX ": "627 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 4",
+      "Description": "SNWS 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1577 ",
+      "HEX ": "629 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 5",
+      "Description": "SNWS 5 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1579 ",
+      "HEX ": "62b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SNWS 6",
+      "Description": "SNWS 6 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

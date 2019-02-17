@@ -1,0 +1,49 @@
+{
+  "System Name": "Hollywood Casino Perryville",
+  "Location": "Perryville, MD",
+  "County": "Cecil",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 22, 2016, 8:07 pm (General text description deleted)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.8875 ",
+        "02 452.3625 ",
+        "03 461.7375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC Bev Req",
+      "Description": "Beverage Requests ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC Slots",
+      "Description": "Slots ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC SlotTechs",
+      "Description": "Slot Techs ",
+      "Tag  ": "Business "
+    }
+  ]
+}

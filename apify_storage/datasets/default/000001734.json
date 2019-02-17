@@ -1,0 +1,89 @@
+{
+  "System Name": "Southern Communications-Lexington",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 14, 2011, 8:32 pm (Updated Function Tag assignments for 1 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lexington",
+        "01 451.425 ",
+        "02 451.525 ",
+        "03 451.575 ",
+        "04 451.750 ",
+        "05 452.275 ",
+        "06 452.575 ",
+        "07 452.775 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 (Lexington)",
+        "01 452.775 ",
+        "02 452.275 ",
+        "03 451.525 ",
+        "06 451.750 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AmCab TA",
+      "Description": "American Cab-Talk Around ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-01-093 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AmCab Taxi",
+      "Description": "American Cab-Taxi to Dispatch ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-01-094 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AmCab Dsp",
+      "Description": "American Cab-Dispatch to Taxi ",
+      "Tag  ": "Deprecated "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UnkHorseFarm",
+      "Description": "Unknown Horse Farm ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AutoPartsDlv",
+      "Description": "Auto Parts Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AutoPartsDlv",
+      "Description": "Auto Parts Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Cab",
+      "Description": "Unknown Taxi Company ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

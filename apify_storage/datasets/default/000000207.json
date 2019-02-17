@@ -1,0 +1,22 @@
+{
+  "System Name": "Arkansas National Guard: Fort Chaffee (P25)",
+  "Location": ", AR",
+  "County": "Sebastian",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 22, 2017, 4:48 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1B5",
+      "WACN": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": "409.5875c"
+    }
+  ]
+}

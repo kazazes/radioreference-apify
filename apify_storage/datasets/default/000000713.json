@@ -1,0 +1,54 @@
+{
+  "System Name": "New Milford Hospital",
+  "Location": "New Milford, CT",
+  "County": "Litchfield",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 11, 2017, 9:47 pm ((5) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "New Milford Hospital",
+        "01 461.125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NMH Security",
+      "Description": "Security ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NMH Plant 1",
+      "Description": "Plant 1 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NMH Plant 2",
+      "Description": "Plant 2 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NMH EOC 1",
+      "Description": "EOC 1 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NMH EOC 2",
+      "Description": "EOC 2 ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

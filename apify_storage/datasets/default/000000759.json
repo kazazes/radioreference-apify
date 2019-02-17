@@ -1,0 +1,35 @@
+{
+  "System Name": "International Monetary Fund",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 19, 2017, 10:52 pm (Added Talkgroup 7 Housekeeping)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 935.7125 ",
+        "02 936.900 ",
+        "03 938.1375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IMF Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IMF Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

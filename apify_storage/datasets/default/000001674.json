@@ -1,0 +1,170 @@
+{
+  "System Name": "Shawnee County",
+  "Location": "Topeka, KS",
+  "County": "Shawnee",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 14, 2018, 2:59 am (Changed Site # 001 (Simulcast) to 001 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "58E",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.1125c",
+        "851.3625a",
+        "851.6375",
+        "852.2125",
+        "852.425a",
+        "853.5875",
+        "853.625",
+        "853.8125",
+        "854.6125a",
+        "856.5875",
+        "857.0875",
+        "857.5875",
+        "858.0375",
+        "858.0875",
+        "858.5875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "401 ",
+      "HEX ": "191 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co SO",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "402 ",
+      "HEX ": "192 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ShawneeCoWarrant",
+      "Description": "Warrants ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "403 ",
+      "HEX ": "193 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co SO 2",
+      "Description": "Car to Car ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "404 ",
+      "HEX ": "194 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ShawneeCo SO Det",
+      "Description": "Detectives ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "405 ",
+      "HEX ": "195 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ShawneeCoSO Narc",
+      "Description": "Narcotics ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "410 ",
+      "HEX ": "19a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ShawneeCoSO SWAT",
+      "Description": "SWAT ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "412 ",
+      "HEX ": "19c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ShawneeCo SO Sec",
+      "Description": "Secure ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "406 ",
+      "HEX ": "196 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee CoSoProc",
+      "Description": "Processing ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "411 ",
+      "HEX ": "19b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co Court",
+      "Description": "Courthouse Security ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "251 ",
+      "HEX ": "0fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co DA",
+      "Description": "District Attorney Investigations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "407 ",
+      "HEX ": "197 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ShawneeCo SO ACO",
+      "Description": "Animal Control ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "351 ",
+      "HEX ": "15f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co Jail",
+      "Description": "County Jail ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "352 ",
+      "HEX ": "160 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co Jail",
+      "Description": "County Jail ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "353 ",
+      "HEX ": "161 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Shawnee Co Jail ",
+      "Description": "County Jail Maintenance ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2451 ",
+      "HEX ": "993 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "2452 ",
+      "HEX ": "994 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Other "
+    }
+  ]
+}

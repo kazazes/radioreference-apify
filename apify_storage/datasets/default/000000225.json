@@ -1,0 +1,655 @@
+{
+  "System Name": "Silke Communications",
+  "Location": "Northern California, CA",
+  "County": "22 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 8, 2019, 11:22 pm (Changed Site # 041 (Site 41 - Pine Hill) to 041 (Site 41 - Pine Hill))",
+  "System ID List": [
+    {
+      "System ID": "80"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 01 - Mt Toro",
+      "County": "Monterey",
+      "Freqs": [
+        "454.06875c",
+        "454.14375",
+        "454.15625",
+        "454.350",
+        "451.775",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Site 03 - Mt Chual",
+      "County": "Santa Clara",
+      "Freqs": [
+        "454.33125c",
+        "461.80625",
+        "462.16875",
+        "463.23125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Site 04 - Huckleberry Hill",
+      "County": "Monterey",
+      "Freqs": [
+        "454.025c",
+        "454.275",
+        "461.275",
+        "462.050",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Site 06 - Soledad Peak",
+      "County": "Monterey",
+      "Freqs": [
+        "454.325",
+        "461.525",
+        "462.075",
+        "464.350",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Site 08 - Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "483.350c",
+        "483.700",
+        "484.125",
+        "484.525",
+        "484.775",
+        "484.975",
+        "489.875",
+        "482.550"
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Site 09 - Big Rock",
+      "County": "Marin",
+      "Freqs": [
+        "460.950",
+        "483.3375c",
+        "451.775",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Site 10 - Twin Peaks",
+      "County": "San Francisco",
+      "Freqs": [
+        "483.225c",
+        "484.075c",
+        "484.900",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Site 11 - Twin Peaks",
+      "County": "San Francisco",
+      "Freqs": [
+        "483.075c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Site 12 - Los Gatos",
+      "County": "Santa Clara",
+      "Freqs": [
+        "483.200c",
+        "483.600",
+        "484.400",
+        "484.700",
+        "484.800",
+        "488.975",
+        "489.200"
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Site 13 - Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "488.450c",
+        "451.9875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Site 14 - Cobb Mountain",
+      "County": "Lake",
+      "Freqs": [
+        "460.800c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Site 15 - Copperopolis",
+      "County": "Calaveras",
+      "Freqs": [
+        "461.250",
+        "461.9625c",
+        "462.1375",
+        "462.16875",
+        "463.5875c",
+        "463.8375",
+        "464.8625"
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Site 17 - Mt Jackson",
+      "County": "Sonoma",
+      "Freqs": [
+        "460.825c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Site 18 - Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "482.400c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Site 19 - Mt Oso",
+      "County": "Stanislaus",
+      "Freqs": [
+        "461.125",
+        "461.475",
+        "462.175",
+        "462.5375c",
+        "463.2875",
+        "463.8625",
+        "452.625"
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Site 20 - Mt Bullion",
+      "County": "Mariposa",
+      "Freqs": [
+        "461.050",
+        "462.0125",
+        "451.6875",
+        "451.875",
+        "452.0875c",
+        "452.4875",
+        "451.10625"
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Site 21 - Cuesta Peak",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "462.225",
+        "463.475",
+        "463.750c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Site 23 - Monument Peak",
+      "County": "Alameda",
+      "Freqs": [
+        "462.11875",
+        "464.31875",
+        "483.3625",
+        "484.275",
+        "484.4375c",
+        "489.3875",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Site 24 - Central Valley",
+      "County": "Stanislaus",
+      "Freqs": [
+        "461.650",
+        "461.925",
+        "462.025",
+        "463.5625",
+        "464.300",
+        "451.01875c",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Site 25 - Sutter Buttes",
+      "County": "Sutter",
+      "Freqs": [
+        "461.91875c",
+        "463.3875",
+        "463.725",
+        "464.425",
+        "464.7625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Site 26 - Cohasset Ridge",
+      "County": "Butte",
+      "Freqs": [
+        "464.80625",
+        "464.7625",
+        "452.48125c",
+        "452.83125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Site 27 - Wiedemann Hill",
+      "County": "Contra Costa",
+      "Freqs": [
+        "461.6625",
+        "461.7375",
+        "462.5375c",
+        "464.1375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Site 29 - Twin Peaks",
+      "County": "San Francisco",
+      "Freqs": [
+        "482.900c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Site 30 - Williams Hill?",
+      "County": "Monterey",
+      "Freqs": [
+        "452.600c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "033 (21)",
+      "Name": "Site 33 - South Central Valley",
+      "County": "Fresno",
+      "Freqs": [
+        "461.9875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "037 (25)",
+      "Name": "Site 37 - San Luis Obispo",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "463.35625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "039 (27)",
+      "Name": "Site 39 - Loma Ridge?",
+      "County": "Santa Clara",
+      "Freqs": [
+        "462.7375c",
+        "463.4875",
+        "464.225",
+        "464.875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "041 (29)",
+      "Name": "Site 41 - Pine Hill",
+      "County": "El Dorado",
+      "Freqs": [
+        "461.39375",
+        "461.76875",
+        "462.01825",
+        "462.7375c",
+        "463.3625",
+        "463.775",
+        "464.2125"
+      ]
+    },
+    {
+      "Site": "042 (2A)",
+      "Name": "Site 42 - Mt Diablo?",
+      "County": "Contra Costa",
+      "Freqs": [
+        "484.550c",
+        "489.9375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "043 (2B)",
+      "Name": "Site 43 - Sugar Pine",
+      "County": "Placer",
+      "Freqs": [
+        "462.250",
+        "451.950",
+        "451.26875c",
+        "452.33125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "044 (2C)",
+      "Name": "Site 44 - Central Valley",
+      "County": "Stanislaus",
+      "Freqs": [
+        "454.375c",
+        "461.6625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "048 (30)",
+      "Name": "Site 48 - Livermore",
+      "County": "Alameda",
+      "Freqs": [
+        "484.950c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "34000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "34000 Towing",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42100 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Flood Control",
+      "Description": "Flood Control or Water District ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "42101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Flood Control",
+      "Description": "Flood Control or Water District ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WUSD Buses",
+      "Description": "Washington Unified School District Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "50900 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gilroy USD",
+      "Description": "Gilroy Unified School District Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "52700 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCUSD Buses",
+      "Description": "Folsom Cordova Unified School District Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "55150 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55150 Towing",
+      "Description": "Towing ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55170 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Extreme Tow",
+      "Description": "Extreme Tow - San Jose ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55171 ",
+      "Mode  ": "D",
+      "Alpha Tag": "F&M Tow",
+      "Description": "F&M Towing - San Jose ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55420 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55420 Towing",
+      "Description": "Towing in San Joaquin County ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55426 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Matos Tow",
+      "Description": "Matos Towing - San Jose ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55430 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55430 Towing",
+      "Description": "Towing ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55435 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Morris Towing",
+      "Description": "Morris and Sons Towing - Newark/San Jose ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55450 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Airport Shuttle",
+      "Description": "Hotel Airport Shuttle - Near SFO ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55700 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55700 Towing",
+      "Description": "Towing ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55720 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dicks Auto",
+      "Description": "Dicks Automotive Transport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55721 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dicks Auto",
+      "Description": "Dicks Automotive Transport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "55723 ",
+      "Mode  ": "D",
+      "Alpha Tag": "55723 Towing",
+      "Description": "Towing ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "56200 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAW KSJC",
+      "Description": "British Airways Gate Agents SJC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56201 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ACA KSJC",
+      "Description": "Air Canada Gate Agents SJC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56203 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CHH KSJC",
+      "Description": "Hainan Airlines Gate Agents SJC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56204 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCA KSJC",
+      "Description": "Air China Gate Agents SJC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56210 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Courtesty Tow",
+      "Description": "Courtesy Tow - San Jose ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "56254 ",
+      "Mode  ": "D",
+      "Alpha Tag": "56254 Trucking",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56501 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLUSD Buses",
+      "Description": "San Lorenzo Unified School District Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "57002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AG Trucks 2",
+      "Description": "Agricultural Trucks Ch 2 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "57004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AG Trucks 4",
+      "Description": "Agricultural Trucks Ch 4 Talk Around ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

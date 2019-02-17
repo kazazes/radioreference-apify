@@ -1,0 +1,65 @@
+{
+  "System Name": "Madison County",
+  "Location": "Multiple, ID",
+  "County": "3 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 10, 2018, 6:14 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Ashton",
+      "County": [
+        "Fremont",
+        "01 453.3375 ",
+        "02 453.5625 ",
+        "03 453.6375 ",
+        "04 453.850 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Ririe",
+      "County": [
+        "Madison",
+        "01 453.500 ",
+        "02 453.950 ",
+        "03 460.1625 ",
+        "04 460.3625 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Rexburg",
+      "County": [
+        "Madison",
+        "01 453.125 ",
+        "02 453.5875 ",
+        "03 453.7375 ",
+        "04 460.6375 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Driggs",
+      "County": [
+        "Teton",
+        "01 453.075 ",
+        "02 453.1875 ",
+        "03 453.4625 ",
+        "04 453.8375 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Rexburg",
+      "County": [
+        "Madison",
+        "01 453.2375 ",
+        "02 460.050 ",
+        "03 460.175 ",
+        "04 460.575 "
+      ]
+    }
+  ]
+}

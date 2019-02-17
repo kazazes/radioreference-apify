@@ -1,0 +1,53 @@
+{
+  "System Name": "University of Arkansas at Fayetteville",
+  "Location": "Fayetteville, AR",
+  "County": "Washington",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "December 14, 2018, 11:10 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "425"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Campus Repeater",
+      "Freqs": [
+        "453.100",
+        "453.250c",
+        "453.700",
+        "460.375",
+        "463.800",
+        "453.500",
+        "453.275"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UAF Police Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "202 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Housing",
+      "Description": "Housing ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Union Ops",
+      "Description": "Arkansas Union Operations ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "System Name": "Big River Electric Cooperative (UHF)",
+  "Location": "Multiple, KY",
+  "County": "4 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 1, 2012, 1:50 am (Changed Site # 004 (Site 4 (Brandenburg)) to 004 (Brandenburg))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Salem",
+      "County": [
+        "Livingston",
+        "01 451.7125 ",
+        "02 452.6625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Wickliffe",
+      "County": [
+        "Ballard",
+        "01 451.150 ",
+        "02 451.7125 ",
+        "03 451.775 ",
+        "04 451.9875 ",
+        "05 452.250 ",
+        "06 452.6625 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Henderson",
+      "County": [
+        "Henderson",
+        "01 451.100 ",
+        "02 451.550 ",
+        "03 452.050 ",
+        "04 452.4875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Brandenburg",
+      "County": [
+        "Meade",
+        "01 451.1125 ",
+        "02 451.700 ",
+        "03 452.150 ",
+        "04 452.725 ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

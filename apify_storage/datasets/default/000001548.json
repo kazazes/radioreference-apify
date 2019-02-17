@@ -1,0 +1,92 @@
+{
+  "System Name": "Federal Correctional Institution Pekin",
+  "Location": "Pekin, IL",
+  "County": "Tazewell",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 30, 2014, 11:15 pm (Added a new news entry)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "408.21250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "B13E",
+      "Connect Tone": "128.570"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "408.8125c",
+        "409.4125c",
+        "408.2125c",
+        "409.0125c",
+        "410.0125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 32",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 48",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 64",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 80",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 96",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 112",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 128",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

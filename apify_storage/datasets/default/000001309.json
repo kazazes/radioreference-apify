@@ -1,0 +1,18 @@
+{
+  "System Name": "Indiana University Health - IU North",
+  "Location": "Carmel, IN",
+  "County": "Hamilton",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 11, 2016, 11:06 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "IU North (Carmel)",
+        "01 461.025 ",
+        "02 463.225 "
+      ]
+    }
+  ]
+}

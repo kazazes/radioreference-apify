@@ -1,0 +1,36 @@
+{
+  "System Name": "East Central Iowa Rural Electric Cooperative",
+  "Location": ", IA",
+  "County": "2 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "December 15, 2017, 5:45 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Independence",
+      "County": [
+        "Buchanan",
+        "451.425 (CC 10)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Vinton",
+      "County": [
+        "Benton",
+        "451.625 (CC 10)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ECIREC Ops1",
+      "Description": "East Central Iowa REC Operations Ch 1 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "System Name": "McIntosh Communications (Anaheim Convention Center)",
+  "Location": "Anaheim, CA",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 4, 2018, 2:53 am (Added Talkgroup 31 Radio Rental 31(ACC Event Radio Rental))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "ACC",
+        "01 461.6625 ",
+        "02 461.7125 ",
+        "03 461.7625 ",
+        "04 461.9875 ",
+        "05 462.425 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "1",
+      "Description": "Radio Rental 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "3",
+      "Description": "Radio Rental 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "4",
+      "Description": "Radio Rental 4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "5",
+      "Description": "Radio Rental 5 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "6",
+      "Description": "Radio Rental 6 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "7",
+      "Description": "Radio Rental 7 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "8",
+      "Description": "Radio Rental 8 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "9",
+      "Description": "Radio Rental 9 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "12",
+      "Description": "Radio Rental 12 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "19",
+      "Description": "Radio Rental 19 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "20",
+      "Description": "Radio Rental 20 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "23",
+      "Description": "Radio Rental 23 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "T",
+      "Alpha Tag": "31",
+      "Description": "Radio Rental 31 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "Mode  ": "T",
+      "Alpha Tag": "60",
+      "Description": "Radio Rental 60 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "Radio Rental 101 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "104",
+      "Description": "Radio Rental 104 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "106",
+      "Description": "Radio Rental 106 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "110",
+      "Description": "Radio Rental 110 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "119 ",
+      "Mode  ": "T",
+      "Alpha Tag": "119",
+      "Description": "Radio Rental 119 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "120",
+      "Description": "Radio Rental 120 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "121",
+      "Description": "Radio Rental 121 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "123 ",
+      "Mode  ": "T",
+      "Alpha Tag": "123",
+      "Description": "Radio Rental 123 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "125",
+      "Description": "Radio Rental 125 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "T",
+      "Alpha Tag": "126",
+      "Description": "Radio Rental 126 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

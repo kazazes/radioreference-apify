@@ -1,0 +1,27 @@
+{
+  "System Name": "KC Communications Dublin MOT",
+  "Location": "Dublin, GA",
+  "County": "Laurens",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:31 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1920",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Dublin",
+      "Freqs": [
+        "856.5375",
+        "857.5375c",
+        "858.5375",
+        "859.5375",
+        "860.5375"
+      ]
+    }
+  ]
+}

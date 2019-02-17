@@ -1,0 +1,240 @@
+{
+  "System Name": "Aurora",
+  "Location": "Aurora, CO",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 12, 2018, 11:05 am (Updated Function Tag assignments for 1 talkgroups(Fire/EMS))",
+  "System ID List": [
+    {
+      "System ID": "84a",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Aurora Simulcast",
+      "County": "Arapahoe",
+      "Freqs": [
+        "856.7625",
+        "856.9375c",
+        "856.9625a",
+        "856.9875a",
+        "857.7625a",
+        "857.9375",
+        "857.9625",
+        "857.9875",
+        "858.7625",
+        "858.9375",
+        "858.9625",
+        "858.9875",
+        "859.7625",
+        "859.9375",
+        "859.9625",
+        "859.9875",
+        "860.7625",
+        "860.9375",
+        "860.9625",
+        "860.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2360 ",
+      "HEX ": "938 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MetroNet",
+      "Description": "Metro Net (Console-to-Console with DTRS)  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2328 ",
+      "HEX ": "918 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue NW",
+      "Description": "Blue NW - Law Enforcement Mutual Aid NW Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2336 ",
+      "HEX ": "920 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue SW",
+      "Description": "Blue SW - Law Enforcement Mutual Aid SW Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2340 ",
+      "HEX ": "924 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue NE",
+      "Description": "Blue NE - Law Enforcement Mutual Aid NE Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2344 ",
+      "HEX ": "928 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Blue SE",
+      "Description": "Blue SE - Law Enforcement Mutual Aid SE Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2312 ",
+      "HEX ": "908 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red NE",
+      "Description": "Red NE - Fire Mutual Aid NE Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2320 ",
+      "HEX ": "910 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red SW",
+      "Description": "Red SW - Fire Mutual Aid SW Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2348 ",
+      "HEX ": "92c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red NW",
+      "Description": "Red NW - Fire Mutual Aid NW Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2364 ",
+      "HEX ": "93c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Red SE",
+      "Description": "Red SE - Fire Mutual Aid SE Denver Metro ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2352 ",
+      "HEX ": "930 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green-1",
+      "Description": "Green-1 - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3026 ",
+      "HEX ": "bd2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green NW",
+      "Description": "Green NW - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3030 ",
+      "HEX ": "bd6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green NE",
+      "Description": "Green NE - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2391 ",
+      "HEX ": "957 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green SE",
+      "Description": "Green SE - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3022 ",
+      "HEX ": "bce ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green SW",
+      "Description": "Green SW - Denver Metro  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2324 ",
+      "HEX ": "914 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gold-2",
+      "Description": "Gold-2 - Denver Metro Command/Control-2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2554 ",
+      "HEX ": "9fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gold-1",
+      "Description": "Gold-1 - Denver Metro Command/Control-1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2332 ",
+      "HEX ": "91c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Grey",
+      "Description": "Grey - Denver Metro Federal Mutual Aid ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "39401 ",
+      "HEX ": "99e9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-1 \t",
+      "Description": "UC Anschutz Medical Campus PD 1  ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "39402 ",
+      "HEX ": "99ea ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-2",
+      "Description": "UC Anschutz Medical Campus PD 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "39403 ",
+      "HEX ": "99eb ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-3",
+      "Description": "UC Anschutz Medical Campus PD 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "39404 ",
+      "HEX ": "99ec ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-4",
+      "Description": "UC Anschutz Medical Campus PD 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "39405 ",
+      "HEX ": "99ed ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-5",
+      "Description": "UC Anschutz Medical Campus PD 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "39406 ",
+      "HEX ": "99ee ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCAMC PD-6",
+      "Description": "UC Anschutz Medical Campus PD 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "39407 ",
+      "HEX ": "99ef ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCH SECURITY",
+      "Description": "University of Colorado Hospital Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

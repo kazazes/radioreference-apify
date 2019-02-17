@@ -1,0 +1,94 @@
+{
+  "System Name": "White Cloud Communications",
+  "Location": "Various, ID",
+  "County": "5 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "December 7, 2013, 3:49 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Midway",
+      "County": "Bingham",
+      "Freqs": [
+        "859.4125",
+        "859.8625",
+        "860.3375",
+        "860.4125",
+        "860.8625"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Mountain Home",
+      "County": "Elmore",
+      "Freqs": [
+        "855.5375",
+        "855.5625",
+        "855.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Ketchum",
+      "County": "Blaine",
+      "Freqs": [
+        "856.3625",
+        "857.8625",
+        "858.8625",
+        "859.8625",
+        "860.7875"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Burley",
+      "County": "Cassia",
+      "Freqs": [
+        "857.8625",
+        "859.8625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Hailey",
+      "County": "Blaine",
+      "Freqs": [
+        "855.5375",
+        "855.5625",
+        "855.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Eden",
+      "County": "Blaine",
+      "Freqs": [
+        "855.6625",
+        "859.3625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Pocatello",
+      "County": "Bannock",
+      "Freqs": [
+        "855.3625",
+        "856.3875",
+        "857.3875",
+        "858.3375",
+        "859.3375"
+      ]
+    }
+  ]
+}

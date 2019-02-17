@@ -1,0 +1,113 @@
+{
+  "System Name": "San Diego Zoo Safari Park",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 4, 2016, 5:10 am (General text description deleted)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "South of the Park",
+        "01 461.200 ",
+        "02 461.375 ",
+        "03 462.0875 ",
+        "04 463.6625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD Zoo Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LneSfariShtl",
+      "Description": "FlightLine Safari, Shuttles ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "KeprsHspBhvr",
+      "Description": "Mammal Keepers, Bird Keepers, Hospital, Behavior ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDZoo Safari",
+      "Description": "Safari ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ZooRtailGate",
+      "Description": "Retail, Back Gate, Warehouse ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BirdsHortclr",
+      "Description": "Bird Keepers, Horticulture ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDZoo Volntr",
+      "Description": "Volunteers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD Zoo Ch 13",
+      "Description": "�Channel 13� ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD Zoo Trams",
+      "Description": "Trams ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD Zoo Hosp",
+      "Description": "Hospital ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "47 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD ZooSafari",
+      "Description": "Safari ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ZooSafariCmp",
+      "Description": "Safari Camp (�Channel 14�) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SD Zoo Ch 10",
+      "Description": "�Channel 10� ",
+      "Tag  ": "Business "
+    }
+  ]
+}

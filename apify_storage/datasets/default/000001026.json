@@ -1,0 +1,62 @@
+{
+  "System Name": "Bethune Cookman University",
+  "Location": "Daytona Beach, FL",
+  "County": "Volusia",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 2, 2011, 12:28 pm (Updated Talkgroups (2 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.975 ",
+        "02 461.775 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Base Coord",
+      "Description": "\"Base\" - Activities Coordination ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Electricians",
+      "Description": "Electricians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-012 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC",
+      "Description": "HVAC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbers",
+      "Description": "Plumbers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Groundskpng",
+      "Description": "Groundskeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

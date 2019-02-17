@@ -1,0 +1,153 @@
+{
+  "System Name": "Unidentified Dock Company Port of LA/LB",
+  "Location": "LA / LB Ports, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 2, 2018, 6:54 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 452.2625 ",
+        "02 452.400 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "22",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "23",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "T",
+      "Alpha Tag": "25",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "T",
+      "Alpha Tag": "26",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "38 ",
+      "Mode  ": "T",
+      "Alpha Tag": "38",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "39 ",
+      "Mode  ": "T",
+      "Alpha Tag": "39",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "40 ",
+      "Mode  ": "T",
+      "Alpha Tag": "40",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41 ",
+      "Mode  ": "T",
+      "Alpha Tag": "41",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "42 ",
+      "Mode  ": "T",
+      "Alpha Tag": "42",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "43 ",
+      "Mode  ": "T",
+      "Alpha Tag": "43",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "44 ",
+      "Mode  ": "T",
+      "Alpha Tag": "44",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "45 ",
+      "Mode  ": "T",
+      "Alpha Tag": "45",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "46 ",
+      "Mode  ": "T",
+      "Alpha Tag": "46",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "47 ",
+      "Mode  ": "T",
+      "Alpha Tag": "47",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "65 ",
+      "Mode  ": "T",
+      "Alpha Tag": "65",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "66 ",
+      "Mode  ": "T",
+      "Alpha Tag": "66",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "67 ",
+      "Mode  ": "T",
+      "Alpha Tag": "67",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "68 ",
+      "Mode  ": "T",
+      "Alpha Tag": "68",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "70 ",
+      "Mode  ": "T",
+      "Alpha Tag": "70",
+      "Description": "Dock Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

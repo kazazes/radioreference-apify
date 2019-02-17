@@ -1,0 +1,22 @@
+{
+  "System Name": "Sara Lee Corporation",
+  "Location": "Florence, AL",
+  "County": "Lauderdale",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 18, 2007, 2:39 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 461.100 ",
+        "02 461.500 ",
+        "03 462.225 ",
+        "04 462.500 ",
+        "05 463.400 ",
+        "06 463.600 "
+      ]
+    }
+  ]
+}

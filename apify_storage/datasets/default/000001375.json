@@ -1,0 +1,19 @@
+{
+  "System Name": "St Joseph Regional Medical Center",
+  "Location": "South Bend, IN",
+  "County": "St. Joseph",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 7, 2014, 10:31 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 463.3375 ",
+        "02 463.8375 ",
+        "03 463.8625 "
+      ]
+    }
+  ]
+}

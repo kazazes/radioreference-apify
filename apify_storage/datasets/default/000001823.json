@@ -1,0 +1,744 @@
+{
+  "System Name": "First Energy",
+  "Location": "Various, PA WV MD VA NJ",
+  "County": "46 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 23, 2018, 7:16 pm (Changed Site # 079 (Camden) to 079 (Camden))",
+  "System ID List": [
+    {
+      "System ID": "89A",
+      "WACN": "01DB6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Rainsburg",
+      "County": "Bedford, PA",
+      "Freqs": [
+        "153.395",
+        "153.560",
+        "158.175c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "McConnellsburg",
+      "County": "Fulton, PA",
+      "Freqs": [
+        "159.840",
+        "160.140",
+        "173.275c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Clear Spring",
+      "County": "Washington, MD",
+      "Freqs": [
+        "159.675",
+        "159.825",
+        "173.375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Great Cacapon",
+      "County": "Washington, MD",
+      "Freqs": [
+        "151.520",
+        "151.850c",
+        "152.435",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Midland",
+      "County": "Allegany, MD",
+      "Freqs": [
+        "159.795",
+        "160.065",
+        "173.275c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "McHenry",
+      "County": "Garrett, MD",
+      "Freqs": [
+        "151.970",
+        "152.2475c",
+        "153.230",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Terra Alta",
+      "County": "Preston, WV",
+      "Freqs": [
+        "151.670",
+        "152.5475c",
+        "153.515",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Morgantown",
+      "County": "Monongalia, WV",
+      "Freqs": [
+        "151.565",
+        "152.0225c",
+        "153.065",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Site-016",
+      "County": "Marion, WV",
+      "Freqs": [
+        "152.0375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "033 (21)",
+      "Name": "Middletown",
+      "County": "Frederick, MD",
+      "Freqs": [
+        "151.910",
+        "152.240c",
+        "153.620",
+        "153.710",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "035 (23)",
+      "Name": "Glengary",
+      "County": "Berkeley, WV",
+      "Freqs": [
+        "151.790",
+        "153.125c",
+        "153.425",
+        "153.665",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "042 (2A)",
+      "Name": "Linden",
+      "County": "Fauquier, VA",
+      "Freqs": [
+        "151.490",
+        "153.515c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "044 (2C)",
+      "Name": "Banco",
+      "County": "Madison, VA",
+      "Freqs": [
+        "153.170c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "045 (2D)",
+      "Name": "Cascade",
+      "County": "Washington, MD",
+      "Freqs": [
+        "151.985",
+        "153.110",
+        "153.200",
+        "153.695c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "046 (2E)",
+      "Name": "Damascus",
+      "County": "Montgomery, MD",
+      "Freqs": [
+        "153.095",
+        "153.230c",
+        "153.395",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "065 (41)",
+      "Name": "Clarksburg",
+      "County": "Harrison, WV",
+      "Freqs": [
+        "151.595",
+        "153.185c",
+        "153.425",
+        "153.530",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "067 (43)",
+      "Name": "Sutton",
+      "County": "Braxton, WV",
+      "Freqs": [
+        "151.850",
+        "152.465",
+        "153.290c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "069 (45)",
+      "Name": "Salem",
+      "County": "Doddridge, WV",
+      "Freqs": [
+        "151.865",
+        "153.125",
+        "153.410c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "070 (46)",
+      "Name": "Pennsboro",
+      "County": "Tyler, WV",
+      "Freqs": [
+        "151.790c",
+        "152.870",
+        "153.665",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "071 (47)",
+      "Name": "Willow Island",
+      "County": "Pleasants, WV",
+      "Freqs": [
+        "151.910c",
+        "153.335",
+        "153.410",
+        "153.470",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "072 (48)",
+      "Name": "Vienna",
+      "County": "Wood, WV",
+      "Freqs": [
+        "151.955",
+        "152.960",
+        "153.350",
+        "153.590c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "076 (4C)",
+      "Name": "Slaty Fork",
+      "County": "Pocahontas, WV",
+      "Freqs": [
+        "151.790c",
+        "153.140",
+        "153.350",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "077 (4D)",
+      "Name": "Paden City",
+      "County": "Tyler, WV",
+      "Freqs": [
+        "151.550",
+        "151.850c",
+        "153.500",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "078 (4E)",
+      "Name": "Summersville",
+      "County": "Nicholas, WV",
+      "Freqs": [
+        "151.595",
+        "153.095c",
+        "153.200",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "079 (4F)",
+      "Name": "Camden",
+      "County": "Lewis, WV",
+      "Freqs": [
+        "153.065",
+        "153.470",
+        "153.710c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "080 (50)",
+      "Name": "Petersburg",
+      "County": "Hardy, WV",
+      "Freqs": [
+        "153.1625c",
+        "153.4625",
+        "153.665",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "097 (61)",
+      "Name": "Spencer",
+      "County": "Roane, WV",
+      "Freqs": [
+        "152.810c",
+        "152.975",
+        "153.515",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "098 (62)",
+      "Name": "Glenville",
+      "County": "Gilmer, WV",
+      "Freqs": [
+        "151.490",
+        "151.535",
+        "151.850c",
+        "152.435",
+        "152.945"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "099 (63)",
+      "Name": "Hundred",
+      "County": "Wetzel, WV",
+      "Freqs": [
+        "152.0675c",
+        "153.380",
+        "153.485",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "100 (64)",
+      "Name": "Rockport",
+      "County": "Wood, WV",
+      "Freqs": [
+        "151.565",
+        "152.900",
+        "153.410c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "135 (87)",
+      "Name": "Craigsville",
+      "County": "Nicholas, WV",
+      "Freqs": [
+        "153.155",
+        "153.290",
+        "153.380c",
+        "153.575",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "147 (93)",
+      "Name": "Weirton",
+      "County": "Brooke, WV",
+      "Freqs": [
+        "152.0225c",
+        "153.140",
+        "153.650",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "193 (C1)",
+      "Name": "Augusta",
+      "County": "Hampshire, WV",
+      "Freqs": [
+        "153.005",
+        "153.095c",
+        "153.335",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "195 (C3)",
+      "Name": "Lost City",
+      "County": "Hardy, WV",
+      "Freqs": [
+        "152.235c",
+        "153.140",
+        "153.530",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "214 (D6)",
+      "Name": "Aurora",
+      "County": "Tucker, WV",
+      "Freqs": [
+        "151.580",
+        "152.990",
+        "153.155c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "215 (D7)",
+      "Name": "Mannington",
+      "County": "Marion, WV",
+      "Freqs": [
+        "152.0525c",
+        "153.365",
+        "153.650",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "216 (D8)",
+      "Name": "Buckhannon",
+      "County": "Upshur, WV",
+      "Freqs": [
+        "151.970c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "031 (1F)",
+      "Name": "Berkeley Heights",
+      "County": "Union, NJ",
+      "Freqs": [
+        "935.475c",
+        "937.9625c",
+        "938.1625c",
+        "938.675c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "032 (20)",
+      "Name": "Butler",
+      "County": "Morris, NJ",
+      "Freqs": [
+        "936.150c",
+        "938.6625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "033 (21)",
+      "Name": "Cherryville",
+      "County": "Hunterdon, NJ",
+      "Freqs": [
+        "937.1625c",
+        "939.950c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "034 (22)",
+      "Name": "Colesville",
+      "County": "Sussex, NJ",
+      "Freqs": [
+        "936.675a",
+        "937.1375",
+        "938.1625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "035 (23)",
+      "Name": "Lambertville",
+      "County": "Hunterdon, NJ",
+      "Freqs": [
+        "936.6875c",
+        "939.400c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "036 (24)",
+      "Name": "Randolph",
+      "County": "Morris, NJ",
+      "Freqs": [
+        "936.1626a",
+        "937.250",
+        "937.975c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "037 (25)",
+      "Name": "Hacketstown",
+      "County": "Warren, NJ",
+      "Freqs": [
+        "935.200a",
+        "938.400c",
+        "938.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "038 (26)",
+      "Name": "Harmony",
+      "County": "Warren, NJ",
+      "Freqs": [
+        "937.6375a",
+        "938.675c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "039 (27)",
+      "Name": "Sparta",
+      "County": "Sussex, NJ",
+      "Freqs": [
+        "936.1875a",
+        "937.9375",
+        "938.675c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "040 (28)",
+      "Name": "Blairstown",
+      "County": "Warren, NJ",
+      "Freqs": [
+        "935.225a",
+        "935.900",
+        "937.2125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "051 (33)",
+      "Name": "Matawan",
+      "County": "Monmouth, NJ",
+      "Freqs": [
+        "936.1875",
+        "937.250",
+        "937.9375",
+        "938.7125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "052 (34)",
+      "Name": "Upper Freehold",
+      "County": "Monmouth, NJ",
+      "Freqs": [
+        "937.9625",
+        "938.450",
+        "939.175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "053 (35)",
+      "Name": "Lakewood",
+      "County": "Monmouth, NJ",
+      "Freqs": [
+        "935.200a",
+        "937.1375c",
+        "938.1625",
+        "938.400",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "054 (36)",
+      "Name": "Navesink",
+      "County": "Monmouth, NJ",
+      "Freqs": [
+        "936.1625",
+        "937.650c",
+        "939.1625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "055 (37)",
+      "Name": "Oyster Creek",
+      "County": "Ocean, NJ",
+      "Freqs": [
+        "935.6875a",
+        "936.500",
+        "939.750c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cumberland Line1",
+      "Description": "Cumberland, MD area line crews ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Frederick Line 1",
+      "Description": "Frederick, MD area line crews ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Frederick Line 2",
+      "Description": "Frederick, MD area line crews ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Oakland Line",
+      "Description": "Oakland, MD area line crews ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24 ",
+      "HEX ": "018 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Hagerstown Line",
+      "Description": "Hagerstown, MD area line crews ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "36 ",
+      "HEX ": "024 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Service",
+      "Description": "Radio Service ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "System Name": "Warner Communications-BJC Hospitals (NXDN)",
+  "Location": "St Louis, MO IL",
+  "County": "7 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 16, 2019, 2:35 pm ((3) Talkgroups Updated (Businesses))",
+  "System ID List": [
+    {
+      "System ID": "175"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Washington U Hospital",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "451.775",
+        "452.025",
+        "452.650",
+        "453.01875",
+        "452.51875"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Barnes-Jewish Hospital",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "452.700c",
+        "461.900c",
+        "463.725",
+        "464.450",
+        "463.30625"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Childrens Hospital",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "451.375",
+        "452.850c",
+        "463.900",
+        "463.75625",
+        "464.40625"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "BJ West County",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "454.046875c",
+        "454.271875",
+        "454.421875",
+        "454.621875",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "BJ St Peters",
+      "County": "St. Charles, MO",
+      "Freqs": [
+        "454.40675c",
+        "454.26875c",
+        "454.0375",
+        "454.6625",
+        "454.453125c"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Caseyville ",
+      "County": "St. Clair, IL",
+      "Freqs": [
+        "452.6125c",
+        "0.000",
+        "0.000",
+        "0.000",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "High Ridge",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "452.5875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Warner 8",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "0.000c",
+        "454.05625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Olympian Village",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "461.900",
+        "461.450",
+        "463.775c",
+        "464.250",
+        " "
+      ]
+    },
+    {
+      "Site": "999 (3E7)",
+      "Name": "Christian Hospital",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "463.325",
+        "463.400",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fire Alarms ",
+      "Description": "BEM/FAC Fire Alarms (Electrical?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Security 7",
+      "Description": "Security: Ops 7 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 9",
+      "Description": "Facilities Maintenance 9 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 19",
+      "Description": "Facilities Maintenance 19 (South?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 22",
+      "Description": "Facilities Maintenance 22 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 24",
+      "Description": "Facilities Maintenance 24 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Valet",
+      "Description": "Valet ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 29",
+      "Description": "Facilities Maintenance 29 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Security 30",
+      "Description": "Security 30 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "32 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Fac Maint 32",
+      "Description": "Facilities Maintenance 32 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BJC Shuttles",
+      "Description": "Shuttles 34 (WUSM) ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "236 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JeffCo Transit",
+      "Description": "Jefferson County Transit ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "System Name": "Hollywood Casino at Kansas Speedway",
+  "Location": "Kansas City, KS",
+  "County": "Wyandotte",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 7, 2016, 6:26 pm (Updated Talkgroups (2 Updated))",
+  "System ID List": [
+    {
+      "System ID": "168"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "451.4125",
+        "451.7125",
+        "452.5125",
+        "452.8875",
+        "462.1875",
+        "462.4625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Slot Ops",
+      "Description": "Slot Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "System Name": "Nextel (Tucson LTR)",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "August 15, 2016, 4:15 pm (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 861.650 ",
+        "05 862.650 ",
+        "09 863.650 ",
+        "13 864.650 ",
+        "17 865.650 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHUTTLE",
+      "Description": "Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-082 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRANSPORT A",
+      "Description": "Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MORSE",
+      "Description": "Morse Code Identifier ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-05-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY ?",
+      "Description": "Security? ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-05-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BARRICADE ?",
+      "Description": "Barricade Provider? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DLVRY SVC A",
+      "Description": "Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW SVC A",
+      "Description": "Tow/Automotive Roaming Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRUCKING",
+      "Description": "Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-072 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DLVRY SVC B",
+      "Description": "Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-074 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW SVC B ",
+      "Description": "Tow/Automotive Roaming Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CEMET ADMIN",
+      "Description": "Cemetary - Administrative (related to 0-05-079) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CEMET MAINT",
+      "Description": "Cemetary - Maintenance (related to 0-05-076) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MORSE",
+      "Description": "Morse Code Identifier ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-09-000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MED TNSP A",
+      "Description": "Non-Emergency Medical Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-09-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MED TNSP B",
+      "Description": "Non-Emergency Medical Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-09-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SUN VAN",
+      "Description": "SUN VAN ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-09-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TOW SVC C",
+      "Description": "Tow/Automotive Roaming Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-09-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRANSPORT B",
+      "Description": "Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-09-037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "POOL CO",
+      "Description": "Pool Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-09-072 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAND/GRAVEL",
+      "Description": "Sand and Gravel Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-09-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MORSE",
+      "Description": "Morse Code Identifier ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-13-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MED TNSP C",
+      "Description": "Non-Emergency Medical Transportation ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MORSE",
+      "Description": "Morse Code Identifier ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "0-17-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MORSE",
+      "Description": "Morse Code Identifier ",
+      "Tag  ": "Data "
+    }
+  ]
+}

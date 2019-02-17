@@ -1,0 +1,32 @@
+{
+  "System Name": "Atlanta Department of Aviation MOT",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 5, 2016, 2:17 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "321C",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Atlanta",
+      "Freqs": [
+        "851.9625",
+        "852.4625",
+        "852.9625a",
+        "853.4625",
+        "853.9875",
+        "855.2875",
+        "856.1875c",
+        "856.6625c",
+        "857.1875",
+        "857.6625c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "System Name": "C and M Communications",
+  "Location": "Springerville, AZ",
+  "County": "Apache",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 5:57 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 854.8375 ",
+        "02 855.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-197 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Native Air Amb",
+      "Description": "Native Air Ambulance ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ]
+}

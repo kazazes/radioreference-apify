@@ -1,0 +1,688 @@
+{
+  "System Name": "Duke Energy (Florida)",
+  "Location": "Various, FL",
+  "County": "33 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "January 26, 2017, 11:32 am (Changed Site # 914 (Trenton) to 024 (Trenton))",
+  "System ID List": [
+    {
+      "System ID": "882D",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Avon Park",
+      "County": "Highlands",
+      "Freqs": [
+        "936.2125",
+        "937.2125",
+        "938.675c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Babson Park",
+      "County": "Polk",
+      "Freqs": [
+        "935.2125",
+        "936.1625",
+        "936.700",
+        "938.250c",
+        "939.425c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Fort Meade",
+      "County": "Polk",
+      "Freqs": [
+        "935.475",
+        "935.950",
+        "937.200",
+        "937.6375",
+        "938.650c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "St. Petersburg",
+      "County": "Pinellas",
+      "Freqs": [
+        "935.4375",
+        "936.900",
+        "938.7125",
+        "939.250",
+        "939.6625c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Kenneth City",
+      "County": "Pinellas",
+      "Freqs": [
+        "935.4625",
+        "937.6625",
+        "938.9625",
+        "939.475c",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Tarpon Springs",
+      "County": "Pinellas",
+      "Freqs": [
+        "936.1375",
+        "938.175",
+        "938.8875",
+        "939.200c",
+        "939.725"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Denham",
+      "County": "Pasco",
+      "Freqs": [
+        "939.4625c",
+        "937.3875",
+        "938.9125",
+        "938.3875",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Zephyrhills",
+      "County": "Pasco",
+      "Freqs": [
+        "936.4375c",
+        "937.6625",
+        "938.450",
+        "935.9625a",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Haines City",
+      "County": "Polk",
+      "Freqs": [
+        "935.1375",
+        "935.425",
+        "936.3875",
+        "937.2375a",
+        "938.4875c"
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Holopaw",
+      "County": "Highlands",
+      "Freqs": [
+        "935.975",
+        "936.975",
+        "937.250",
+        "939.400",
+        "939.900c"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Christmas",
+      "County": "Orange",
+      "Freqs": [
+        "937.1375",
+        "938.6375",
+        "939.9125c",
+        "936.975",
+        "938.150"
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Orlando",
+      "County": "Orange",
+      "Freqs": [
+        "935.250",
+        "936.225",
+        "937.150",
+        "938.225",
+        "938.7375c"
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Clermont",
+      "County": "Lake",
+      "Freqs": [
+        "935.450",
+        "937.200",
+        "938.500",
+        "939.3875",
+        "939.925c"
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Brooksville",
+      "County": "Hernando",
+      "Freqs": [
+        "937.750",
+        "938.9625",
+        "939.700c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Inverness",
+      "County": "Citrus",
+      "Freqs": [
+        "935.6625",
+        "936.6375",
+        "937.9875",
+        "939.4375c",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Leesburg",
+      "County": "Marion",
+      "Freqs": [
+        "935.4375",
+        "936.700",
+        "938.6375",
+        "939.200c",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Deland",
+      "County": "Volusia",
+      "Freqs": [
+        "936.6875",
+        "937.1625",
+        "938.1375",
+        "938.725",
+        "939.1875c"
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Astor",
+      "County": "Lake",
+      "Freqs": [
+        "937.1375",
+        "938.175",
+        "939.1625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Ocala",
+      "County": "Marion",
+      "Freqs": [
+        "935.175",
+        "936.150",
+        "937.175",
+        "938.200a",
+        "939.150c"
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Salt Springs",
+      "County": "Marion",
+      "Freqs": [
+        "935.225",
+        "937.225",
+        "939.225c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Williston",
+      "County": "Levy",
+      "Freqs": [
+        "937.1875",
+        "938.250",
+        "939.425c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Chiefland",
+      "County": "Levy",
+      "Freqs": [
+        "937.2375",
+        "938.6375",
+        "939.900c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Micanopy",
+      "County": "Alachua",
+      "Freqs": [
+        "936.200",
+        "938.150",
+        "939.6875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Trenton",
+      "County": "Gilchrist",
+      "Freqs": [
+        "939.725c",
+        "937.250",
+        "938.675",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "033 (21)",
+      "Name": "Tallahassee (North)",
+      "County": "Leon",
+      "Freqs": [
+        "937.9625",
+        "938.9625",
+        "939.9625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "034 (22)",
+      "Name": "Tallahassee (South)",
+      "County": "Leon",
+      "Freqs": [
+        "937.2125",
+        "938.2125",
+        "939.2125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "035 (23)",
+      "Name": "Crawfordville",
+      "County": "Wakulla",
+      "Freqs": [
+        "937.9875",
+        "938.450",
+        "939.7375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "036 (24)",
+      "Name": "Bloxham",
+      "County": "Gadsden",
+      "Freqs": [
+        "937.225",
+        "938.225",
+        "939.225c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "038 (26)",
+      "Name": "Sycamore",
+      "County": "Gadsden",
+      "Freqs": [
+        "937.1625",
+        "938.200",
+        "939.1875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "039 (27)",
+      "Name": "Carabelle",
+      "County": "Franklin",
+      "Freqs": [
+        "937.6375",
+        "938.250",
+        "939.675c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "040 (28)",
+      "Name": "Apalachicola",
+      "County": "Franklin",
+      "Freqs": [
+        "939.6625c",
+        "938.6625",
+        "937.6625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "041 (29)",
+      "Name": "Port St. Joe",
+      "County": "Gulf",
+      "Freqs": [
+        "936.1875",
+        "937.200a",
+        "939.8875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "042 (2A)",
+      "Name": "Wewahitchka",
+      "County": "Gulf",
+      "Freqs": [
+        "937.1375",
+        "938.1375a",
+        "939.1375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "043 (2B)",
+      "Name": "Lake Buena Vista",
+      "County": "Orange",
+      "Freqs": [
+        "935.3875",
+        "939.4125",
+        "938.6875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "044 (2C)",
+      "Name": "Clearwater",
+      "County": "Pinellas",
+      "Freqs": [
+        "935.450",
+        "936.4875",
+        "937.9125",
+        "939.225",
+        "939.750c"
+      ]
+    },
+    {
+      "Site": "045 (2D)",
+      "Name": "Duette",
+      "County": "Manatee",
+      "Freqs": [
+        "937.4375",
+        "938.8875",
+        "939.450",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "048 (30)",
+      "Name": "Dunnellon",
+      "County": "Marion",
+      "Freqs": [
+        "936.450",
+        "937.975c",
+        "939.450",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "049 (31)",
+      "Name": "Longwood",
+      "County": "Seminole",
+      "Freqs": [
+        "936.9125",
+        "937.200a",
+        "938.6375",
+        "938.6875c",
+        " "
+      ]
+    },
+    {
+      "Site": "904 (388)",
+      "Name": "Fort White",
+      "County": "Marion",
+      "Freqs": [
+        "936.4875",
+        "937.200",
+        "938.2375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "906 (38A)",
+      "Name": "Jasper",
+      "County": "Hamilton",
+      "Freqs": [
+        "937.6875",
+        "938.500",
+        "939.3875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "907 (38B)",
+      "Name": "Live Oak",
+      "County": "Suwannee",
+      "Freqs": [
+        "937.6625",
+        "938.7375",
+        "939.750",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "908 (38C)",
+      "Name": "Madison",
+      "County": "Madison",
+      "Freqs": [
+        "937.450",
+        "938.650",
+        "939.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "909 (38D)",
+      "Name": "Mayo",
+      "County": "Taylor",
+      "Freqs": [
+        "937.700",
+        "938.700",
+        "939.200",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "910 (38E)",
+      "Name": "Monticello",
+      "County": "Jefferson",
+      "Freqs": [
+        "936.000",
+        "937.150",
+        "938.7125",
+        "939.925",
+        " "
+      ]
+    },
+    {
+      "Site": "911 (38F)",
+      "Name": "Nutall Rise",
+      "County": "Jefferson",
+      "Freqs": [
+        "939.000",
+        "936.975",
+        "937.400",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "912 (390)",
+      "Name": "Perry",
+      "County": "Taylor",
+      "Freqs": [
+        "937.650",
+        "938.1625",
+        "939.1625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "913 (391)",
+      "Name": "Quincy",
+      "County": "Gadsden",
+      "Freqs": [
+        "937.500",
+        "938.400",
+        "939.400",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "17968 ",
+      "HEX ": "463 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CHRISTMAS",
+      "Description": "Christmas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18000 ",
+      "HEX ": "465 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Deland DCC",
+      "Description": "Deland DCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18032 ",
+      "HEX ": "467 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Deland 2",
+      "Description": "Deland 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18064 ",
+      "HEX ": "469 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SouthCentral",
+      "Description": "South Central ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18128 ",
+      "HEX ": "46d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Apopka DCC",
+      "Description": "Apopka DCC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18192 ",
+      "HEX ": "471 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Jamestown",
+      "Description": "Jamestown ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18256 ",
+      "HEX ": "475 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Longwood DCC",
+      "Description": "Longwood DCC ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19408 ",
+      "HEX ": "4bd ",
+      "Mode  ": "A",
+      "Alpha Tag": "RD/MR-SC",
+      "Description": "RD/MR-SC ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19504 ",
+      "HEX ": "4c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "St. Pete ",
+      "Description": "St. Pete Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19568 ",
+      "HEX ": "4c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Walsingham",
+      "Description": "Walsingham Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19696 ",
+      "HEX ": "4cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "DST1-SCS",
+      "Description": "DST1-SCS ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19728 ",
+      "HEX ": "4d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DST2-SCS",
+      "Description": "DST2-SCS ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19760 ",
+      "HEX ": "4d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DST3-SCS",
+      "Description": "DST3-SCS ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

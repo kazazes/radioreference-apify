@@ -1,0 +1,51 @@
+{
+  "System Name": "Clarke County Public Safety P25",
+  "Location": "Athens, GA",
+  "County": "Clarke",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 2, 2019, 2:10 pm (Changed Talkgroup Category assignments for 1 talkgroups(University of Georgia))",
+  "System ID List": [
+    {
+      "System ID": "6FE",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Athens",
+      "Freqs": [
+        "851.4375",
+        "851.825",
+        "852.475a",
+        "853.8125a",
+        "856.7625",
+        "857.4375",
+        "857.7625a",
+        "857.9375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10070 ",
+      "HEX ": "2756 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ACFD DISPATCH",
+      "Description": "Athens-Clarke FD Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "10220 ",
+      "HEX ": "27ec ",
+      "Mode  ": "TE",
+      "Alpha Tag": "UGA PD DISP",
+      "Description": "University of Georgia PD Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "System Name": "Southern Communications-Lawrenceburg",
+  "Location": "Lawrenceburg, KY",
+  "County": "Anderson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 21, 2011, 3:57 pm (Updated Function Tag assignments for 1 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 (Lawrenceburg)",
+        "05 451.550 ",
+        "18 452.200 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Lawrenceburg-Unconfirmed",
+        "01 451.600 ",
+        "02 451.975 ",
+        "03 452.625 ",
+        "04 452.825 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Business",
+      "Description": "Unknown Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-225 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Business",
+      "Description": "Unknown Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-132 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Business",
+      "Description": "Unknown Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-166 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Garbage",
+      "Description": "Unkown Garbage Collection Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-18-169 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Business",
+      "Description": "Unknown Business ",
+      "Tag  ": "Business "
+    }
+  ]
+}

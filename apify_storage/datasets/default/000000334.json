@@ -1,0 +1,119 @@
+{
+  "System Name": "Los Angeles City - Convention Center",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 12, 2018, 12:48 am (Added Talkgroup 218 218(LACC))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "LACC",
+        "01 460.550 ",
+        "02 460.525 ",
+        "03 464.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "205 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security Main",
+      "Description": "Security Main ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "207",
+      "Description": "207 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "210",
+      "Description": "210 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "211",
+      "Description": "211 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "214 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transport",
+      "Description": "Transportation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "215 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HK",
+      "Description": "Housekeeping ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "217 ",
+      "Mode  ": "T",
+      "Alpha Tag": "217",
+      "Description": "217 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "218 ",
+      "Mode  ": "T",
+      "Alpha Tag": "218",
+      "Description": "218 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "219 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking",
+      "Description": "Parking ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "220 ",
+      "Mode  ": "T",
+      "Alpha Tag": "220",
+      "Description": "220 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "228 ",
+      "Mode  ": "T",
+      "Alpha Tag": "228",
+      "Description": "228 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

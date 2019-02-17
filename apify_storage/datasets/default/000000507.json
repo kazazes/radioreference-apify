@@ -1,0 +1,119 @@
+{
+  "System Name": "San Diego City 700 MHz",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 22, 2017, 5:10 am (Added Talkgroup 1309 Public Works (Station 38))",
+  "System ID List": [
+    {
+      "System ID": "375",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "769.30625",
+        "769.31875",
+        "769.50625",
+        "769.55625",
+        "769.75625",
+        "769.80625a",
+        "769.81875",
+        "770.01875",
+        "770.25625",
+        "770.26875",
+        "770.30625a",
+        "770.51875",
+        "770.75625",
+        "770.76875",
+        "770.80625a",
+        "771.05625",
+        "771.06875",
+        "771.26875",
+        "771.48125c",
+        "771.49375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Northern",
+      "Description": "Northern Dispatch-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "81 ",
+      "HEX ": "051 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Southern",
+      "Description": "Southern Dispatch-1 (700 Simul) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "91 ",
+      "HEX ": "05b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Eastern",
+      "Description": "Eastern Dispatch-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Western",
+      "Description": "Western Dispatch-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Central",
+      "Description": "Central Dispatch-1 (700 Simul) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "121 ",
+      "HEX ": "079 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Northeast",
+      "Description": "Northeast Dispatch-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "141 ",
+      "HEX ": "08d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SDPD Mid City",
+      "Description": "Mid City Dispatch-1 ",
+      "Tag  ": "Law Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 0001",
+      "Description": "System Testing ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "2571 ",
+      "HEX ": "a0b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 2571",
+      "Description": "System Testing ",
+      "Tag  ": "Other "
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "System Name": "Emergency Radio Service South LTR",
+  "Location": "Multiple, IN",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 1, 2012, 12:07 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Frichton",
+      "County": [
+        "Knox",
+        "03 463.2125 ",
+        "06 463.9875 ",
+        "09 464.6375 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Evansville",
+      "County": [
+        "Vanderburgh",
+        "05 452.2125 ",
+        "09 452.4625 ",
+        "13 453.0125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-09-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 015",
+      "Description": "Auto Towing Business ",
+      "Tag  ": "Business "
+    }
+  ]
+}

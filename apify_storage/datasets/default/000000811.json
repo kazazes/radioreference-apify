@@ -1,0 +1,101 @@
+{
+  "System Name": "Disney Cruise Lines: Disney Wonder",
+  "Location": "Lake Buena Vista, FL",
+  "County": "Brevard",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 7, 2016, 12:31 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "5F38",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.7625",
+        "856.7875",
+        "857.8875",
+        "858.8125c",
+        "859.8125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "17616 ",
+      "HEX ": "44d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17648 ",
+      "HEX ": "44f ",
+      "Mode  ": "A",
+      "Alpha Tag": "GuestService",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17680 ",
+      "HEX ": "451 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Technicians",
+      "Description": "Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17712 ",
+      "HEX ": "453 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Entertainmnt",
+      "Description": "Entertainment ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17776 ",
+      "HEX ": "457 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Crew",
+      "Description": "Crew ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17872 ",
+      "HEX ": "45d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Elevators",
+      "Description": "Elevators ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17904 ",
+      "HEX ": "45f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Service",
+      "Description": "Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17936 ",
+      "HEX ": "461 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BeachBlanket",
+      "Description": "Beach Blanket ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18064 ",
+      "HEX ": "469 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Electricians",
+      "Description": "Electricians ",
+      "Tag  ": "Business "
+    }
+  ]
+}

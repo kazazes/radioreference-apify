@@ -1,0 +1,50 @@
+{
+  "System Name": "Avis Budget Car Rental",
+  "Location": "Denver, CO",
+  "County": "Denver",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 7, 2017, 1:41 pm (Changed Site # 001 (Denver International Airport) to 001 (Denver International Airport))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Denver International Airport",
+        "01 463.5875 ",
+        "02 463.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Avis 1",
+      "Description": "Avis Shuttle Bus ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Avis 2",
+      "Description": "Avis Shuttle Bus ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Avis 3",
+      "Description": "Avis Customer Serivce ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Budget 1",
+      "Description": "Budget Vehicle Service ",
+      "Tag  ": "Business "
+    }
+  ]
+}

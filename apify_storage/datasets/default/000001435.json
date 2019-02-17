@@ -1,0 +1,85 @@
+{
+  "System Name": "FedEx (O'Hare International Airport)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "July 9, 2018, 6:04 pm (Changed News Entry ID=6241)",
+  "System ID List": [
+    {
+      "System ID": "2035",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "939.200",
+        "939.2125c",
+        "939.225c",
+        "939.2375c",
+        "939.250c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Loading Ops",
+      "Description": "Loading Ops and Fuel Loads (Main Channel- - references to \"Control Room\") ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Loading Ops",
+      "Description": "Loading Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 272",
+      "Description": "unidentified ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fuel Ops",
+      "Description": "Fuel Ops / loading dock? - very active ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Loading Ops",
+      "Description": "Refrigerated Loading Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 1232",
+      "Description": "unidentified ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1296 ",
+      "HEX ": "051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Conveyor Mnt",
+      "Description": "Maintenance on Conveyor Belts ",
+      "Tag  ": "Business "
+    }
+  ]
+}

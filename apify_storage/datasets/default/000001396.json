@@ -1,0 +1,47 @@
+{
+  "System Name": "ADM Alliance Nutrition - Quincy IL",
+  "Location": "Quincy IL, IL",
+  "County": "Adams",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 27, 2018, 1:25 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Quincy",
+        "01 462.300 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 201",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 202",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 203",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 204",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "System Name": "Harlan Bakeries",
+  "Location": "Avon, IN",
+  "County": "Hendricks",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 24, 2013, 12:04 am (Updated 1 Talkgroup Categories)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Avon",
+        "10 451.7875 ",
+        "20 463.7875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-10-108 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Harlan Opns",
+      "Description": "Operations (Including Spanish Conversations) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

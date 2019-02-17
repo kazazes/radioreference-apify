@@ -1,0 +1,25 @@
+{
+  "System Name": "Koch Industries",
+  "Location": "Wichita, KS",
+  "County": "Sedgwick",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 14, 2019, 11:21 am (Changed Site # 001 (Koch Industries) to 001 (Koch Industries))",
+  "System ID List": [
+    {
+      "System ID": "155"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Koch Industries",
+      "Freqs": [
+        "154.610",
+        "151.670c",
+        "151.970",
+        "153.275"
+      ]
+    }
+  ]
+}

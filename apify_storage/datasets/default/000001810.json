@@ -1,0 +1,20 @@
+{
+  "System Name": "Hussey Communications (Sugarloaf Mountain)",
+  "Location": "Sugarloaf Mountain, ME",
+  "County": "Franklin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 29, 2005, 10:03 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.450 ",
+        "02 463.425 ",
+        "03 463.625 ",
+        "04 463.200 "
+      ]
+    }
+  ]
+}

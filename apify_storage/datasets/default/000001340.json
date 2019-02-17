@@ -1,0 +1,101 @@
+{
+  "System Name": "Horseshoe Casino Hammond",
+  "Location": "Hammond, IN",
+  "County": "Lake",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 23, 2019, 7:27 pm ((1) Talkgroups Updated (Casino))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hammond",
+        "01 461.350 ",
+        "02 462.125 ",
+        "03 463.300 ",
+        "04 463.725 ",
+        "05 464.075 ",
+        "06 464.200 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 104",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 107",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 108",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 111",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Marine Ops",
+      "Description": "Marine Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bar Ops",
+      "Description": " Bar Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 117",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops TGRP 122",
+      "Description": "Casino Operations  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Stewarding Ops",
+      "Description": "Stewarding Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

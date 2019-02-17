@@ -1,0 +1,29 @@
+{
+  "System Name": "Paragould Communications (Black Rock)",
+  "Location": "Black Rock, AR",
+  "County": "Lawrence",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog and NXDN Digital",
+  "Last Updated": "December 9, 2013, 12:32 am (Updated Function Tag assignments for 1 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Black Rock",
+        "01 461.075 ",
+        "02 461.450 ",
+        "03 461.750 ",
+        "04 462.300 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NEARDT-TAC3",
+      "Description": "Northeast Arkansas Disaster Response Team Channel 3 ",
+      "Tag  ": "Emergency Ops "
+    }
+  ]
+}

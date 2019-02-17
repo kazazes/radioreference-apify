@@ -1,0 +1,153 @@
+{
+  "System Name": "Federal Correctional Complex Terre Haute",
+  "Location": "Terre Haute, IN",
+  "County": "Vigo",
+  "System Type": "Motorola Type II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 23, 2013, 11:56 pm (Changed Site # 001 (Primary) to 001 (Terre Haute))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.21250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "B12B",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Terre Haute",
+      "Freqs": [
+        "406.2125c",
+        "406.8125c",
+        "407.0125c",
+        "407.4125",
+        "408.250",
+        "409.0125",
+        "409.675",
+        "410.000"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI ATG",
+      "Description": "FCI Multi-Group ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI TAC1",
+      "Description": "FCI Tactical 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI TAC2",
+      "Description": "FCI Tactical 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI TAC3",
+      "Description": "FCI Tactical 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI TAC4",
+      "Description": "FCI Tactical 4 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCI TAC5",
+      "Description": "FCI Tactical 5 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16128 ",
+      "HEX ": "3f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP UNKWN",
+      "Description": "Unknown Tactical ",
+      "Tag  ": "Federal "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP ATG",
+      "Description": "USP Multi-Group ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16032 ",
+      "HEX ": "3ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP TAC1",
+      "Description": "USP Tactical 1 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP TAC2",
+      "Description": "USP Tactical 2 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16064 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP TAC 3",
+      "Description": "USP Tactical 3 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP TAC 4",
+      "Description": "USP Tactical 4 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16096 ",
+      "HEX ": "3ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP TAC 5",
+      "Description": "USP Tactical 5 ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "16144 ",
+      "HEX ": "3f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "USP UNKWN",
+      "Description": "USP Unknown ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

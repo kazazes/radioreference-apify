@@ -1,0 +1,19 @@
+{
+  "System Name": "Bairs Electronics Service (Belle Glade Capacity Plus)",
+  "Location": "Belle Glade, FL",
+  "County": "Palm Beach",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 17, 2016, 12:50 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 451.450 ",
+        "02 452.325 ",
+        "03 451.925 "
+      ]
+    }
+  ]
+}

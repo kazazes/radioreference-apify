@@ -1,0 +1,69 @@
+{
+  "System Name": "Lake County Public Safety",
+  "Location": "Countywide, IN",
+  "County": "Lake",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 26, 2018, 1:25 pm (Changed Site # 001 (Countywide Simulcast) to 001 (Countywide Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "6BC",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Countywide Simulcast",
+      "Freqs": [
+        "771.16875",
+        "771.41875",
+        "771.69375",
+        "771.94375",
+        "772.29375",
+        "772.56875",
+        "772.84375a",
+        "773.44375a",
+        "773.99375a",
+        "774.71875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "411 ",
+      "HEX ": "19b ",
+      "Mode  ": "T",
+      "Alpha Tag": "LC EMA OPS",
+      "Description": "County Emergency Management Ops ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "417 ",
+      "HEX ": "1a1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LC EMA MARS",
+      "Description": "County Emergency Management MARS ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "143 ",
+      "HEX ": "08f ",
+      "Mode  ": "T",
+      "Alpha Tag": "PUCPD DISP",
+      "Description": "Purdue University Calumet Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "090 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IUNPD DISP",
+      "Description": "Indiana University Northwest Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

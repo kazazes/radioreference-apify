@@ -1,0 +1,93 @@
+{
+  "System Name": "ESPN at LA Live",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "December 29, 2018, 4:33 pm (Added Talkgroup 3 3(ESPN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "452.000",
+        "452.4875",
+        "463.625",
+        "464.100",
+        "464.7375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "3",
+      "Description": "3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "4",
+      "Description": "4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "5",
+      "Description": "5 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "8",
+      "Description": "8 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "10",
+      "Description": "10 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "13",
+      "Description": "13 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Custodial",
+      "Description": "Custodial ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Special Events",
+      "Description": "Special Events ",
+      "Tag  ": "Business "
+    }
+  ]
+}

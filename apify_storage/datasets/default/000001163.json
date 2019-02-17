@@ -1,0 +1,87 @@
+{
+  "System Name": "Tattnall County NXDN",
+  "Location": "Various, GA",
+  "County": "Tattnall",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 20, 2018, 6:09 pm (Changed Site # 004 (Reidsville 2) to 004 (Reidsville 2))",
+  "System ID List": [
+    {
+      "System ID": "115"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Reidsville 1",
+      "Freqs": [
+        "151.2575",
+        "151.4975c",
+        "154.9725",
+        "155.4375c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Cobbtown",
+      "Freqs": [
+        "151.1225",
+        "151.1825c",
+        "151.4825",
+        "154.1675c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Glennville",
+      "Freqs": [
+        "150.995",
+        "151.4375c",
+        "154.1825",
+        "154.7625c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Reidsville 2",
+      "Freqs": [
+        "151.4225",
+        "154.0325",
+        "154.8675c",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CENTRAL",
+      "Description": "Tattnall County Fire/EMS - Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SO DISPATCH",
+      "Description": "Tattnall County Sheriff - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "GPD DISP",
+      "Description": "Glennville Police - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RPD DISP",
+      "Description": "Reidsville Police - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

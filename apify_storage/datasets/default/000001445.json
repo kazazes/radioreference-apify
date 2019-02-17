@@ -1,0 +1,49 @@
+{
+  "System Name": "JT Communications (Chicago)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "August 2, 2010, 6:41 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "0c1f",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Chicago",
+      "Freqs": [
+        "936.8375c",
+        "936.850c",
+        "936.8625c",
+        "936.875c",
+        "936.7625",
+        "936.775",
+        "936.7875",
+        "936.800",
+        "936.8125",
+        "936.825"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "FCI 900 Inc",
+      "Freqs": [
+        "935.125",
+        "936.0125",
+        "936.025",
+        "936.0375",
+        "936.050",
+        "936.0625",
+        "936.075",
+        "936.0875",
+        "936.100",
+        "936.1125",
+        "936.125"
+      ]
+    }
+  ]
+}

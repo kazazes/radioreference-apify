@@ -1,0 +1,72 @@
+{
+  "System Name": "Communications Services (Alton)",
+  "Location": "Alton, IL",
+  "County": "Madison",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 11, 2018, 2:20 am ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Alton (Confirmed LCN)",
+        "01 N/A ",
+        "02 452.225 ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Alton (Unidentified LCN)",
+        "20 451.925 ",
+        "21 452.975 ",
+        "22 452.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 002",
+      "Description": "delivery operations (in use 4/18) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing 003",
+      "Description": "plumbing (MetroEast, near \"Southwestern High School\") ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing 004",
+      "Description": "plumbing (or trash pick-up?) (MetroEast-Cottage Hills, \"unit 2 to base\") ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Quarry 006",
+      "Description": "quarry (\"bill made\", also husband/wife casual talk) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Quarry 007",
+      "Description": "quarry (casual talk man/lady 5/07) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 008",
+      "Description": "delivery operations (*see notes) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

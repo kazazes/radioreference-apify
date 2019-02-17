@@ -1,0 +1,35 @@
+{
+  "System Name": "La Rue Communications (Mt. Vaca)",
+  "Location": "Vacaville, CA",
+  "County": "Solano",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 11, 2016, 9:16 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 151.745 ",
+        "02 N/A ",
+        "03 151.835 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cozzs Towing",
+      "Description": "Cozz's Autobody & Service (AAA Towing Roseville & Rocklin areas) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FF YellowCab",
+      "Description": "Fairfield Yellow Cab ",
+      "Tag  ": "Business "
+    }
+  ]
+}

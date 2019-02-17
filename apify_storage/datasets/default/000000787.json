@@ -1,0 +1,77 @@
+{
+  "System Name": "Delaware Park",
+  "Location": "Wilmington, DE",
+  "County": "New Castle",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 13, 2015, 11:08 pm (Added Talkgroup 3101 Slot Hosts?)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "03 462.1625 ",
+        "05 463.425 ",
+        "07 464.825 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk SlHst?",
+      "Description": "Slot Hosts? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk H/K",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk Beverg",
+      "Description": "Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-03-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-03-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk Slots",
+      "Description": "Slots ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk SlTech",
+      "Description": "Slot Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DelPk Slots",
+      "Description": "Slots ",
+      "Tag  ": "Business "
+    }
+  ]
+}

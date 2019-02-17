@@ -1,0 +1,21 @@
+{
+  "System Name": "Basic Two-Way Radio",
+  "Location": "Ocala, FL",
+  "County": "Marion",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 28, 2005, 3:51 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 452.775 "
+      ]
+    }
+  ]
+}

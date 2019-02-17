@@ -1,0 +1,36 @@
+{
+  "System Name": "American Medical Response",
+  "Location": "Colorado Springs, CO",
+  "County": "El Paso",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 27, 2018, 8:21 pm ((2) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 936.750 ",
+        "05 937.750 ",
+        "09 938.750 ",
+        "13 939.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-13-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "0-13-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "EMS-Tac "
+    }
+  ]
+}

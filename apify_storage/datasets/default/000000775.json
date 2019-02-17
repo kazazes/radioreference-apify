@@ -1,0 +1,17 @@
+{
+  "System Name": "Washington Hospital Center (Capacity Plus)",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 11, 2019, 7:47 pm (Added Site # 999 (Unconfirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "999 (3E7)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 464.0625 "
+      ]
+    }
+  ]
+}

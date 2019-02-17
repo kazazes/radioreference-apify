@@ -1,0 +1,43 @@
+{
+  "System Name": "Target Distribution Center (Madison)",
+  "Location": "Madison, AL",
+  "County": "Limestone",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 5, 2011, 2:33 am (Updated Talkgroups (3 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Target *Confirmed LCN*",
+        "01 452.3625 ",
+        "02 452.800 ",
+        "03 461.6376 ",
+        "04 463.400 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations 1",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations 2",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations 3",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

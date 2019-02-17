@@ -1,0 +1,69 @@
+{
+  "System Name": "Thompson Miami Beach",
+  "Location": "Miami Beach , FL",
+  "County": "Miami-Dade",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 8, 2016, 1:32 pm ((1) Talkgroups Updated (Thompson Miami Beach))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed ",
+        "01 451.8875 ",
+        "02 452.4625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Thompson 1",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Thompson 2",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Thompson 4",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Pool Bar",
+      "Description": "Pool Bar ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Valet",
+      "Description": "Valet ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bellhop",
+      "Description": "Bellhop ",
+      "Tag  ": "Business "
+    }
+  ]
+}

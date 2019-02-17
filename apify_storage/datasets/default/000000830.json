@@ -1,0 +1,59 @@
+{
+  "System Name": "Citation Communications",
+  "Location": "West Palm Beach, FL",
+  "County": "2 counties",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "October 17, 2018, 1:45 pm (Changed Site # 008 (Singer Island) to 002 (Singer Island))",
+  "System Frequencies": [
+    {
+      "Region": "001",
+      "Site": "001 (1)",
+      "Name": "Lantana ",
+      "County": "Palm Beach",
+      "Freqs": [
+        "461.5125c",
+        "464.7625",
+        "464.8625a"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "002 (2)",
+      "Name": "Singer Island",
+      "County": "Palm Beach",
+      "Freqs": [
+        "451.9625",
+        "452.2125",
+        "464.8125c"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "003 (3)",
+      "Name": "Pompano Beach",
+      "County": "Broward",
+      "Freqs": [
+        "452.425c",
+        "453.000",
+        "461.850"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6685681 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transport681",
+      "Description": "Senior Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "6685682 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bradford STS",
+      "Description": "Bradford Septic Tank (Riviera Beach) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

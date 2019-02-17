@@ -1,0 +1,109 @@
+{
+  "System Name": "Fayette County Public Safety",
+  "Location": "Fayette County, GA",
+  "County": "Fayette",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 29, 2017, 4:30 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "A401",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.375",
+        "851.6875a",
+        "851.900a",
+        "851.925c",
+        "852.750",
+        "852.925",
+        "853.4625",
+        "853.900",
+        "853.925",
+        "853.975a",
+        "853.750"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "31888 ",
+      "HEX ": "7c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mutual Aid 1",
+      "Description": "Countywide Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "31920 ",
+      "HEX ": "7cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mutual Aid 2",
+      "Description": "Countywide Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "31952 ",
+      "HEX ": "7cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mutual Aid 3",
+      "Description": "Countywide Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "31760 ",
+      "HEX ": "7c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Command",
+      "Description": "Countywide Public Safety Command ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "31728 ",
+      "HEX ": "7bf ",
+      "Mode  ": "A",
+      "Alpha Tag": "FC E911",
+      "Description": "E911 Center ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "31824 ",
+      "HEX ": "7c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FC EMA 1",
+      "Description": "Emergency Management Agency 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "31856 ",
+      "HEX ": "7c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FC EMA 2",
+      "Description": "Emergency Management Agency 2 ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "32400 ",
+      "HEX ": "7e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 32400",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "34000 ",
+      "HEX ": "84d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 34000",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

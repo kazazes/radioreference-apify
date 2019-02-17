@@ -1,0 +1,19 @@
+{
+  "System Name": "Rockwell Collins-ARINC",
+  "Location": ", MD",
+  "County": "Anne Arundel",
+  "System Type": "TETRA Standard",
+  "System Voice": "Tetra Digital",
+  "Last Updated": "September 12, 2014, 11:04 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Annapolis Campus",
+      "Freqs": [
+        "854.7875",
+        "855.0875",
+        "855.2875"
+      ]
+    }
+  ]
+}

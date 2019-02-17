@@ -1,0 +1,29 @@
+{
+  "System Name": "Basic Two-Way Radio (Williston)",
+  "Location": "Williston, FL",
+  "County": "Levy",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "August 25, 2013, 12:56 am (Added Talkgroup 01080 Williston Police)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 461.6125 ",
+        "02 462.375 ",
+        "03 463.8625 ",
+        "04 464.6125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-080 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Williston PD",
+      "Description": "Williston Police ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

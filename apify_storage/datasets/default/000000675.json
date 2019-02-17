@@ -1,0 +1,56 @@
+{
+  "System Name": "Ski Granby Ranch",
+  "Location": "Granby, CO",
+  "County": "Grand",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 9, 2018, 5:44 pm ((4) Talkgroups Updated (Ski Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Ski Lift 5",
+        "01 461.9375 ",
+        "02 452.3625 ",
+        "03 451.7875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski Ops",
+      "Description": "Ski Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski Patrol 2",
+      "Description": "Ski Patrol 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Lift Maintenance",
+      "Description": "Lift Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ski School",
+      "Description": "Ski School ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "255 ",
+      "Mode  ": "T",
+      "Alpha Tag": "All Call",
+      "Description": "All Call ",
+      "Tag  ": "Business "
+    }
+  ]
+}

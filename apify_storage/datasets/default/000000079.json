@@ -1,0 +1,137 @@
+{
+  "System Name": "Arizona State University",
+  "Location": "Tempe, AZ",
+  "County": "Maricopa",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 15, 2018, 7:32 pm (Changed Site # 004 (West Campus) to 004 (West Campus))",
+  "System ID List": [
+    {
+      "System ID": "286",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Downtown Phoenix Campus",
+      "Freqs": [
+        "856.7125c",
+        "857.7125a",
+        "858.7125a",
+        "859.7125",
+        "860.7125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Polytechnic Campus",
+      "Freqs": [
+        "854.0625a",
+        "856.7875a",
+        "857.4375",
+        "857.8125c",
+        "858.4375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Tempe Campus",
+      "Freqs": [
+        "855.7375c",
+        "856.4375a",
+        "857.4875a",
+        "857.7375",
+        "858.4875",
+        "858.7375",
+        "859.4375",
+        "859.7375",
+        "860.7375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "West Campus",
+      "Freqs": [
+        "856.7875a",
+        "857.4375",
+        "857.8125c",
+        "858.4375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8335 ",
+      "HEX ": "208f ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASU Park 1",
+      "Description": "Parking Channel 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8336 ",
+      "HEX ": "2090 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASU Park 2",
+      "Description": "Parking Channel 2 ",
+      "Tag  ": "Public Works "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8001 ",
+      "HEX ": "1f41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASU PD F-1",
+      "Description": "Channel 1 - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8002 ",
+      "HEX ": "1f42 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ASU PD F-2",
+      "Description": "Unknown Use ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8003 ",
+      "HEX ": "1f43 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASU PD Dtown",
+      "Description": "Downtown Campus ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8004 ",
+      "HEX ": "1f44 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASUPD Evnts1",
+      "Description": "\"Events-1\" - Stadium Security (Note: patched with DPS \"State\" frequency 460.225/100.0 PL) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8005 ",
+      "HEX ": "1f45 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASU PD Game",
+      "Description": "Channel B - Information (Pre-Game) ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "System Name": "MotoNet CP+ (DMR)",
+  "Location": "Various, MO KS",
+  "County": "4 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 7, 2018, 11:03 pm (Changed Site # 004 (Birmingham MO) to 004 (Birmingham MO))",
+  "System ID List": [
+    {
+      "System ID": "153"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "003 (3)",
+      "Name": "Site 3",
+      "County": [
+        ", ",
+        "01 454.175c ",
+        "02 451.9875 ",
+        "03 461.275 ",
+        "04 462.100 ",
+        "05 461.550 ",
+        "06 452.725 "
+      ],
+      "Data": [
+        "07 452.3625 ",
+        "08 452.3375 ",
+        "09 451.8375 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Birmingham MO",
+      "County": [
+        "Clay, MO",
+        "01 463.925 ",
+        "02 462.450 ",
+        "03 454.550 ",
+        "04 463.350 ",
+        "05 464.450 ",
+        "06 N/A "
+      ],
+      "Data": [
+        "07 452.2125 ",
+        "08 461.750 ",
+        "09 451.9375 ",
+        "10 451.325 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Kansas City MO",
+      "County": [
+        "Jackson, MO",
+        "01 452.2625c ",
+        "02 464.7125 ",
+        "03 461.7125 ",
+        "04 464.025 ",
+        "05 463.6125 ",
+        "06 462.0625 "
+      ],
+      "Data": [
+        "07 N/A ",
+        "08 N/A ",
+        "09 462.125 "
+      ]
+    }
+  ]
+}

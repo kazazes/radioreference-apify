@@ -1,0 +1,452 @@
+{
+  "System Name": "Tippecanoe County (P25)",
+  "Location": "Lafayette, IN",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 24, 2019, 4:27 am ((39) Talkgroups Updated (Purdue University Services))",
+  "System ID List": [
+    {
+      "System ID": "6FD",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "County": "Tippecanoe",
+      "Freqs": [
+        "851.050a",
+        "851.850",
+        "852.7125",
+        "853.1125",
+        "853.5875",
+        "855.2125",
+        "855.7375",
+        "857.7375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC COM OTAP",
+      "Description": "Over The Air Programming ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2301 ",
+      "HEX ": "8fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 1",
+      "Description": "County Event 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2303 ",
+      "HEX ": "8ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 2",
+      "Description": "County Event 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2305 ",
+      "HEX ": "901 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 3",
+      "Description": "County Event 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2307 ",
+      "HEX ": "903 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 4",
+      "Description": "County Event 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2309 ",
+      "HEX ": "905 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 5",
+      "Description": "County Event 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2311 ",
+      "HEX ": "907 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 6",
+      "Description": "County Event 6 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2313 ",
+      "HEX ": "909 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 7",
+      "Description": "County Event 7 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2315 ",
+      "HEX ": "90b ",
+      "Mode  ": "D",
+      "Alpha Tag": "TC EVENT 8",
+      "Description": "County Event 8 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2133 ",
+      "HEX ": "855 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU REM",
+      "Description": "Radiological and Environmental Management ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2403 ",
+      "HEX ": "963 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU FES",
+      "Description": "Fire Protection Engineering and Special Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2521 ",
+      "HEX ": "9d9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU O&M",
+      "Description": "Operations and Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2523 ",
+      "HEX ": "9db ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONES",
+      "Description": "Zones Main ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2525 ",
+      "HEX ": "9dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU SHOPS",
+      "Description": "Shops Main ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2527 ",
+      "HEX ": "9df ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 1",
+      "Description": "Zone 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2529 ",
+      "HEX ": "9e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 2",
+      "Description": "Zone 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2531 ",
+      "HEX ": "9e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 3",
+      "Description": "Zone 3 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2533 ",
+      "HEX ": "9e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 4",
+      "Description": "Zone 4 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2535 ",
+      "HEX ": "9e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 5",
+      "Description": "Zone 5 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2537 ",
+      "HEX ": "9e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE EVENING",
+      "Description": "Evening Zone (formerly Zone 6) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2539 ",
+      "HEX ": "9eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 7",
+      "Description": "Zone 7 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2541 ",
+      "HEX ": "9ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE 8",
+      "Description": "Zone 8 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2543 ",
+      "HEX ": "9ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU SHUTTLE",
+      "Description": "Shuttle Service (formerly Zone 9) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2545 ",
+      "HEX ": "9f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ADMIN EV",
+      "Description": "Event Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2547 ",
+      "HEX ": "9f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ZONE LEAD",
+      "Description": "Zone Leaders ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2549 ",
+      "HEX ": "9f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELEC SH",
+      "Description": "Electric Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2551 ",
+      "HEX ": "9f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELEV SH",
+      "Description": "Elevator Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2553 ",
+      "HEX ": "9f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELECTRN SH",
+      "Description": "Electronics Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2555 ",
+      "HEX ": "9fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU IAQT SH",
+      "Description": "Indoor Air Quality Testing Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2557 ",
+      "HEX ": "9fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELECTRN EV",
+      "Description": "Electronics Event ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2559 ",
+      "HEX ": "9ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELEC EV SHOPS",
+      "Description": "Electric Shop and Alternate Shops Channel ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2561 ",
+      "HEX ": "a01 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ELEV EV LOCK",
+      "Description": "Elevator Event and Lock Shop ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2563 ",
+      "HEX ": "a03 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU SHOP SUPV",
+      "Description": "Shop Supervisors ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2565 ",
+      "HEX ": "a05 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU UTILITIES",
+      "Description": "Utilities ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2567 ",
+      "HEX ": "a07 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU HI VOLT",
+      "Description": "High Voltage ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2569 ",
+      "HEX ": "a09 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU HI VOLT EV",
+      "Description": "High Voltage Event ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2571 ",
+      "HEX ": "a0b ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU TUNNEL",
+      "Description": "Tunnels ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2573 ",
+      "HEX ": "a0d ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU UTL ALT 1",
+      "Description": "Utilities Alternate 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2575 ",
+      "HEX ": "a0f ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU UTL ALT 2",
+      "Description": "Utilities Alternate 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2599 ",
+      "HEX ": "a27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ATHLETIC",
+      "Description": "Athletics ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2601 ",
+      "HEX ": "a29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU ATHLETIC EV",
+      "Description": "Athletics Events ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2603 ",
+      "HEX ": "a2b ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU GROUND",
+      "Description": "Grounds ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2605 ",
+      "HEX ": "a2d ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU GROUND ADM",
+      "Description": "Grounds Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2607 ",
+      "HEX ": "a2f ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU BUILD SV",
+      "Description": "Building Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2609 ",
+      "HEX ": "a31 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU BUILD SV ADM",
+      "Description": "Building Services Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2613 ",
+      "HEX ": "a35 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU SV SP OPS 1",
+      "Description": "Services Special Operations 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2615 ",
+      "HEX ": "a37 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU SV SP OPS 2",
+      "Description": "Services Special Operations 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2689 ",
+      "HEX ": "a81 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU PLUMBING",
+      "Description": "Plumbing ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2121 ",
+      "HEX ": "849 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU EVENT 1",
+      "Description": "Purdue Event 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2123 ",
+      "HEX ": "84b ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU EVENT 2",
+      "Description": "Purdue Event 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2113 ",
+      "HEX ": "841 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU EVENT 3",
+      "Description": "Purdue Event 3 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2111 ",
+      "HEX ": "83f ",
+      "Mode  ": "D",
+      "Alpha Tag": "PU EVENT 4",
+      "Description": "Purdue Event 4 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "System Name": "5-H Ranch Inc",
+  "Location": "Marion, IN",
+  "County": "Grant",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "April 23, 2013, 11:37 pm (Changed Site # 001 (Primary) to 001 (Marion))",
+  "System ID List": [
+    {
+      "System ID": "3C25",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Marion",
+      "Freqs": [
+        "858.5375c",
+        "857.5375"
+      ]
+    }
+  ]
+}

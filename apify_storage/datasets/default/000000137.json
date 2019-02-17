@@ -1,0 +1,233 @@
+{
+  "System Name": "Henry Zappia (6F06)",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "February 6, 2018, 2:59 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "6F06",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "A",
+      "B2": "B",
+      "B3": "B",
+      "B4": "C",
+      "B5": "C",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "S1",
+      "B2": "S2",
+      "B3": "S2",
+      "B4": "S3",
+      "B5": "S3",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "5151 E Broadway",
+      "Freqs": [
+        "856.375",
+        "856.600c",
+        "857.275c",
+        "857.300c",
+        "860.400c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0017-1  ",
+      "DEC ": "1104 ",
+      "HEX ": "045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARMOR CAR",
+      "Description": "Armored Car ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0025-1  ",
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Painters",
+      "Description": "Painters ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0044-1  ",
+      "DEC ": "2832 ",
+      "HEX ": "0b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "0045-1  ",
+      "DEC ": "2896 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PLUMBING",
+      "Description": "Arizona Plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0046-1  ",
+      "DEC ": "2960 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "COMM DLVRY",
+      "Description": "Commercial Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0049-1  ",
+      "DEC ": "3152 ",
+      "HEX ": "0c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOSPICE",
+      "Description": "Hospice Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0050-1  ",
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LAB DLVY SVC",
+      "Description": "Medical Laboratory Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0051-1  ",
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "AUTO RLTD",
+      "Description": "Automotive Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "0052-1  ",
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CHANNEL 2",
+      "Description": "Channel 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "059-1  ",
+      "DEC ": "3792 ",
+      "HEX ": "0ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construct A",
+      "Description": "Construction Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "202-01  ",
+      "DEC ": "17472 ",
+      "HEX ": "444 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCHOOL BUS",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "203-01  ",
+      "DEC ": "17984 ",
+      "HEX ": "464 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FRONTIER TOW",
+      "Description": "Frontier Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "203-2  ",
+      "DEC ": "18064 ",
+      "HEX ": "469 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tow Svc A",
+      "Description": "Tow Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "204-01  ",
+      "DEC ": "18496 ",
+      "HEX ": "484 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOTEL RENO1",
+      "Description": "Hotel Renovation ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "204-02  ",
+      "DEC ": "18560 ",
+      "HEX ": "488 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HOTEL RENO2",
+      "Description": "Hotel Renovation ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "205-01  ",
+      "DEC ": "19008 ",
+      "HEX ": "4a4 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAND/GRAVEL",
+      "Description": "Sand/Gravel Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "208-01  ",
+      "DEC ": "20544 ",
+      "HEX ": "504 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CONSTRUCTION",
+      "Description": "Contstruction Related ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "209-01  ",
+      "DEC ": "21056 ",
+      "HEX ": "524 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI TOW Ch 1",
+      "Description": "Tow Service, Channel 1 (Related to 209-02) ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "209-02  ",
+      "DEC ": "21120 ",
+      "HEX ": "528 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UI TOW Ch 2",
+      "Description": "Tow Service, Channel 2 (Related to 209-01) ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "500-01  ",
+      "DEC ": "41088 ",
+      "HEX ": "a08 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RANGERS",
+      "Description": "\"Rangers with Marana\" ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

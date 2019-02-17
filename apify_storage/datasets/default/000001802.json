@@ -1,0 +1,66 @@
+{
+  "System Name": "Portland (P25)",
+  "Location": "Portland, ME",
+  "County": "Cumberland",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 18, 2018, 1:57 am ((2) Talkgroups Updated (Fire))",
+  "System ID List": [
+    {
+      "System ID": "8A4",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.2875",
+        "851.3125",
+        "851.5625",
+        "852.7875a",
+        "853.2875a",
+        "853.5375a",
+        "853.7875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1003 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Police",
+      "Description": "Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "Portland PDTac2",
+      "Description": "Portland Police Car to Car Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1195 ",
+      "HEX ": "4ab ",
+      "Mode  ": "D",
+      "Alpha Tag": "So. Portland PDD",
+      "Description": "South Portland Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1273 ",
+      "HEX ": "4f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "School Buses",
+      "Description": "Buses ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

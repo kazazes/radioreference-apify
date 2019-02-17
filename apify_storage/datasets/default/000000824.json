@@ -1,0 +1,232 @@
+{
+  "System Name": "Charlotte County Public Services",
+  "Location": "Charlotte County, FL",
+  "County": "Charlotte",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 2, 2019, 5:21 pm ((1) Talkgroups Updated (Charlotte County Fire/EMS))",
+  "System ID List": [
+    {
+      "System ID": "582A",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.125",
+        "851.175",
+        "851.2125",
+        "851.2625",
+        "851.3125",
+        "851.5625",
+        "851.8125",
+        "852.0375",
+        "852.0625",
+        "852.3125",
+        "853.400c",
+        "853.650c",
+        "853.850c",
+        "853.900c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Disp 1",
+      "Description": "Fire Dispatch 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Disp 2",
+      "Description": "Fire Dispatch 2 (Unit-to-Unit) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 1",
+      "Description": "Fire Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 2",
+      "Description": "Fire Tactical 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 3",
+      "Description": "Fire Tactical 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 4",
+      "Description": "Fire Tactical 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3408 ",
+      "HEX ": "0d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 5",
+      "Description": "Fire Tactical 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3696 ",
+      "HEX ": "0e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR HazMat",
+      "Description": "HazMat Operations ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3536 ",
+      "HEX ": "0dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS-to-CRMC",
+      "Description": "EMS to Charlotte Regional Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "3568 ",
+      "HEX ": "0df ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS-to-Engle",
+      "Description": "EMS to Englewood Community Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "3600 ",
+      "HEX ": "0e1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS-to-Fawct",
+      "Description": "EMS to Fawcett ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "3632 ",
+      "HEX ": "0e3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS-to-Peace",
+      "Description": "EMS to Peace River Regional Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Aeromed",
+      "Description": "Aeromed (Tampa General Dispatch)  ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "3424 ",
+      "HEX ": "0d6 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CCFR Tac 6",
+      "Description": "Fire Tactical 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3856 ",
+      "HEX ": "0f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AARF Channel",
+      "Description": "Punta Gorda Airport ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16880 ",
+      "HEX ": "41f ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGFD Tac 1",
+      "Description": "Fire Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "16816 ",
+      "HEX ": "41b ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGFD Fire 2",
+      "Description": "Fire 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "3440 ",
+      "HEX ": "0d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Univ FD Tac",
+      "Description": "Universal Fire Tactical ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "3664 ",
+      "HEX ": "0e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UnivFD PG/CC",
+      "Description": "Universal Fire (Punta Gorda to Charlotte County Fire) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGPD Disp 1",
+      "Description": "Police Dispatch 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "16080 ",
+      "HEX ": "3ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGPD Disp 2",
+      "Description": "Police Dispatch 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "16112 ",
+      "HEX ": "3ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGPD Tac 1",
+      "Description": "Police Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "16144 ",
+      "HEX ": "3f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PGPD Tac 2",
+      "Description": "Police Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17616 ",
+      "HEX ": "44d ",
+      "Mode  ": "A",
+      "Alpha Tag": "PG Wtr Plant",
+      "Description": "Punta Gorda Water Plant ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

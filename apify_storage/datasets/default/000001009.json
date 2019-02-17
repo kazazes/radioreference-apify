@@ -1,0 +1,19 @@
+{
+  "System Name": "Mosaic Fertilizer",
+  "Location": "Bartow, FL",
+  "County": "Polk",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 20, 2016, 12:51 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 153.260 ",
+        "02 151.730 ",
+        "03 151.910 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "System Name": "Pacific Mobile Emergency Radio System (PACMERS)",
+  "Location": "Various, HI",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 9, 2018, 2:23 am ((1) Talkgroups Updated (Hickam AFB))",
+  "System ID List": [
+    {
+      "System ID": "288",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Pohakulia Military Training Area",
+      "County": "Hawaii",
+      "Freqs": [
+        "406.3625c",
+        "406.9625",
+        "407.3625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Oahu - Hale'iwa",
+      "County": "Honolulu",
+      "Freqs": [
+        "406.3625c",
+        "409.425",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Hawaii - ",
+      "County": "Hawaii",
+      "Freqs": [
+        "410.7625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Maui - Kahului",
+      "County": "Maui",
+      "Freqs": [
+        "406.2375",
+        "409.8625",
+        "410.1625a",
+        "410.5625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Site 10",
+      "County": "",
+      "Freqs": [
+        "406.7625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Site 11",
+      "County": "",
+      "Freqs": [
+        "386.375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Site 12",
+      "County": "",
+      "Freqs": [
+        "406.1625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Fort Shafter",
+      "County": "Honolulu",
+      "Freqs": [
+        "406.150",
+        "406.4375c",
+        "406.550",
+        "407.0375a",
+        "407.3375",
+        "407.6375",
+        "407.8125",
+        "408.125",
+        "408.425",
+        "408.650",
+        "409.1375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "Tripler Army Medical Center",
+      "County": "Honolulu",
+      "Freqs": [
+        "405.8375",
+        "406.7375",
+        "406.7875a",
+        "406.9125",
+        "407.075",
+        "407.125",
+        "407.175",
+        "407.2375",
+        "407.3125",
+        "407.550",
+        "407.6625c",
+        "407.7625",
+        "407.975",
+        "408.2625",
+        "408.475",
+        "408.7625",
+        "409.100",
+        "409.3625",
+        "409.5625",
+        "409.6625",
+        "409.7625",
+        "409.9125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Scholfield Barracks",
+      "County": "Honolulu",
+      "Freqs": [
+        "406.1125c",
+        "406.2875a",
+        "406.8125",
+        "407.350",
+        "407.7125",
+        "407.9125",
+        "408.3625",
+        "408.5625",
+        "408.9825",
+        "409.1625",
+        "409.2375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "Kane'ohe Marine Corps Base",
+      "County": "Honolulu",
+      "Freqs": [
+        "406.2375c",
+        "406.5625a",
+        "406.850",
+        "407.4375",
+        "407.8875",
+        "407.9875",
+        "408.275",
+        "409.3875",
+        "409.9625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Fort DeRussy",
+      "County": "Honolulu",
+      "Freqs": [
+        "406.4625c",
+        "406.900a",
+        "407.3625",
+        "408.3875",
+        "408.8625",
+        "409.5875",
+        "410.100",
+        "410.8625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Site 26",
+      "County": "",
+      "Freqs": [
+        "406.3625c",
+        "406.7625a",
+        "406.9625",
+        "407.1625",
+        "407.6375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Site 27",
+      "County": "",
+      "Freqs": [
+        "406.3625c",
+        "406.9625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "Site 28",
+      "County": "",
+      "Freqs": [
+        "407.9625c",
+        "410.3625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Site 29",
+      "County": "",
+      "Freqs": [
+        "410.1625a",
+        "410.5625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "Site 30",
+      "County": "",
+      "Freqs": [
+        "406.7625c",
+        "407.1625a",
+        "407.9625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "031 (1F)",
+      "Name": "Site 31",
+      "County": "",
+      "Freqs": [
+        "386.3875c",
+        "386.6875a",
+        "388.6125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Site 32",
+      "County": "",
+      "Freqs": [
+        "406.1625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "127 ",
+      "HEX ": "07f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pohakulia",
+      "Description": "Pohakulia Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "166 ",
+      "HEX ": "0a6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fort Derussy",
+      "Description": "Fort Derussy Military Police/Security ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "169 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fort Shafter",
+      "Description": "Fort Shafter Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "179 ",
+      "HEX ": "0b3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Schofield",
+      "Description": "Schofield Barracks Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "180 ",
+      "HEX ": "0b4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gates",
+      "Description": "Schofield/Wheeler Air Field Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "186 ",
+      "HEX ": "0ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "Waianie",
+      "Description": "Waianae Army Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1034 ",
+      "HEX ": "40a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1034",
+      "Description": "Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1089 ",
+      "HEX ": "441 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NCTAMS ",
+      "Description": "NCTAMS Wahiawa ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1090 ",
+      "HEX ": "442 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Kalaeloa 2",
+      "Description": "Kalaeloa Navy Police Secondary  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1092 ",
+      "HEX ": "444 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Kalaeloa 1",
+      "Description": "Kalaeloa Navy Police Primary  ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1094 ",
+      "HEX ": "446 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAVSTA PH 2",
+      "Description": "NAVSTA Pearl Harbor - Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1097 ",
+      "HEX ": "449 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAVSTA PH 1",
+      "Description": "NAVSTA Pearl Harbor - Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1107 ",
+      "HEX ": "453 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1107",
+      "Description": "Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1197 ",
+      "HEX ": "4ad ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1197",
+      "Description": "Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1230 ",
+      "HEX ": "4ce ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1230",
+      "Description": "Ops ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2061 ",
+      "HEX ": "80d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCBH Kaneoe1",
+      "Description": "Marine Corp Base Hawaii Kaneohe Military Police 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2062 ",
+      "HEX ": "80e ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCBH Kaneoe2",
+      "Description": "Marine Corp Base Hawaii Kaneohe Military Police 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2063 ",
+      "HEX ": "80f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCBH Kaneoe3",
+      "Description": "Marine Corp Base Hawaii Kaneohe Military Police 3 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3015 ",
+      "HEX ": "bc7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAFB Police",
+      "Description": "Military Police/Security ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3026 ",
+      "HEX ": "bd2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAFB A/C Mnt3026",
+      "Description": "Aircraft Maintenance ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "3027 ",
+      "HEX ": "bd3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAFB Ramp",
+      "Description": "Ramp ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "3029 ",
+      "HEX ": "bd5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAFB Air Ops",
+      "Description": "Air Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "3043 ",
+      "HEX ": "be3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAFB A/C Mnt3043",
+      "Description": "Aircraft Maintenance ",
+      "Tag  ": "Military "
+    }
+  ]
+}

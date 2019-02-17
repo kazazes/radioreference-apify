@@ -1,0 +1,123 @@
+{
+  "System Name": "Fort Knox",
+  "Location": "Fort Knox, KY",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 26, 2018, 4:19 pm (Updated Function Tag assignments for 3 talkgroups(Civilian Public Safety))",
+  "System ID List": [
+    {
+      "System ID": "037",
+      "WACN": "46FF9"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 101 (Fort Knox)",
+      "County": "Hardin",
+      "Freqs": [
+        "385.0375c",
+        "385.325c",
+        "385.675",
+        "385.875c",
+        "385.9625",
+        "387.1875c",
+        "387.4375c",
+        "387.6375",
+        "387.950",
+        "389.025",
+        "389.2875",
+        "389.375",
+        "389.525"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Site 202 (Fort Knox)",
+      "County": "Hardin",
+      "Freqs": [
+        "385.0875c",
+        "385.5875c",
+        "385.725c",
+        "385.9625",
+        "387.2625",
+        "387.5875",
+        "387.725c",
+        "387.7625",
+        "387.9875",
+        "389.175",
+        "389.575"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Site 303 (Fort Knox)",
+      "County": "Hardin",
+      "Freqs": [
+        "381.150a",
+        "385.8375c",
+        "387.550c",
+        "387.750",
+        "389.200a",
+        "389.375",
+        "389.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5510 ",
+      "HEX ": "1586 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FTK MPs (E)",
+      "Description": "Military Police Net Encrypted ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "5513 ",
+      "HEX ": "1589 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FTK-QRF",
+      "Description": "Quick Reaction Force  ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5855 ",
+      "HEX ": "16df ",
+      "Mode  ": "D",
+      "Alpha Tag": "FTK-MCFD",
+      "Description": "Meade County Fire Department - Rebroadcast ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "5851 ",
+      "HEX ": "16db ",
+      "Mode  ": "D",
+      "Alpha Tag": "FTK-MCSO1",
+      "Description": "Meade Co. Sheriff ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "5854 ",
+      "HEX ": "16de ",
+      "Mode  ": "D",
+      "Alpha Tag": "FTK-RadPD",
+      "Description": "Radcliff Police Department ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "5860 ",
+      "HEX ": "16e4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UNK PubSfty2",
+      "Description": "Unknown Civilian Law Enforcement ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

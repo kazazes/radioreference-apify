@@ -1,0 +1,89 @@
+{
+  "System Name": "University of Kentucky",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 20, 2018, 12:43 pm ((2) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92452"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Lexington",
+      "Freqs": [
+        "854.7125c",
+        "855.2125a",
+        "856.2625a",
+        "856.9375a",
+        "857.2625a",
+        "857.9375a",
+        "858.2625a",
+        "859.2625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1122 ",
+      "HEX ": "462 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "UK Dispatch",
+      "Description": "UK Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1221 ",
+      "HEX ": "4c5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking",
+      "Description": "Parking Enforcement ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1222 ",
+      "HEX ": "4c6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UK Police Cars",
+      "Description": "Police: Car-to-Car ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1231 ",
+      "HEX ": "4cf ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking",
+      "Description": "Parking Enforcement ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1531 ",
+      "HEX ": "5fb ",
+      "Mode  ": "T",
+      "Alpha Tag": "C Tech",
+      "Description": "Computer Tech ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1621 ",
+      "HEX ": "655 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UK Pol Dispatch",
+      "Description": "Police: Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1752 ",
+      "HEX ": "6d8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS-Hosp",
+      "Description": "EMS to Hospital ",
+      "Tag  ": "EMS-Talk "
+    }
+  ]
+}

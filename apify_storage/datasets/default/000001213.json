@@ -1,0 +1,21 @@
+{
+  "System Name": "Asia-Pacific Communications",
+  "Location": "Lanai City, HI",
+  "County": "Maui",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 20, 2004, 4:58 pm (Deleted a system news entry)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.8375",
+        "857.8375",
+        "858.8375",
+        "859.8375",
+        "860.8375"
+      ]
+    }
+  ]
+}

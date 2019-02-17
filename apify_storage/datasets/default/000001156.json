@@ -1,0 +1,79 @@
+{
+  "System Name": "Augusta National Golf Club LTR",
+  "Location": "Augusta, GA",
+  "County": "Richmond",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:17 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Augusta",
+        "01 463.8125 ",
+        "07 461.7875 ",
+        "11 462.0375 ",
+        "15 461.6625 ",
+        "19 462.0125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-07-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grounds",
+      "Description": "Groundskeepers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fac Maint",
+      "Description": "Facilities Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Course Ops",
+      "Description": "Game/Course Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Course Annc",
+      "Description": "Course Announcements ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-151 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transport",
+      "Description": "Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-15-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Player Sec",
+      "Description": "Player Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-15-119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "First Aid",
+      "Description": "First Aid Units ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "0-19-108 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Scoring",
+      "Description": "Scoring ",
+      "Tag  ": "Business "
+    }
+  ]
+}

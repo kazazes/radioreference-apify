@@ -1,0 +1,27 @@
+{
+  "System Name": "C and S Communications MOT",
+  "Location": "Milledgeville, GA",
+  "County": "Baldwin",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 8:43 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1308",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Milledgeville",
+      "Freqs": [
+        "856.1875",
+        "857.1875c",
+        "858.1875c",
+        "859.1875",
+        "860.1875c"
+      ]
+    }
+  ]
+}

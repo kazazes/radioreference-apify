@@ -1,0 +1,148 @@
+{
+  "System Name": "Lake Havasu City",
+  "Location": "Lake Havasu City, AZ",
+  "County": "Mohave",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 18, 2018, 1:35 pm (Added Talkgroup 8301 Schools and School Busses)",
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "854.6875",
+        "854.9875",
+        "855.2375",
+        "855.4875",
+        "855.9625",
+        "856.2375",
+        "856.4375",
+        "856.7625",
+        "856.9375",
+        "857.2375",
+        "857.4875",
+        "857.7625",
+        "858.2375",
+        "859.2625",
+        "860.4375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8001 ",
+      "HEX ": "1f41 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Police Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8002 ",
+      "HEX ": "1f42 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8002",
+      "Description": "Tactical 8002 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8003 ",
+      "HEX ": "1f43 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8003",
+      "Description": "Tactical 8003 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8004 ",
+      "HEX ": "1f44 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8004",
+      "Description": "Tactical 8004 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8005 ",
+      "HEX ": "1f45 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8005",
+      "Description": "Tactical 8005 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8006 ",
+      "HEX ": "1f46 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8006",
+      "Description": "Tactical 8006 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8007 ",
+      "HEX ": "1f47 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8007",
+      "Description": "Tactical 8007 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8008 ",
+      "HEX ": "1f48 ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8008",
+      "Description": "Tactical 8008 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8019 ",
+      "HEX ": "1f53 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Police Alt Disp",
+      "Description": "Alternate Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8020 ",
+      "HEX ": "1f54 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Police TAC 8020",
+      "Description": "Tactical 8020 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8300 ",
+      "HEX ": "206c ",
+      "Mode  ": "E",
+      "Alpha Tag": "Police TAC 8300",
+      "Description": "Tactical 8300 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "8301 ",
+      "HEX ": "206d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Police Disp 8301",
+      "Description": "Dispatch 8301 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "8302 ",
+      "HEX ": "206e ",
+      "Mode  ": "D",
+      "Alpha Tag": "PD Alt Dp 8302",
+      "Description": "Alternate Dispatch 8302 ",
+      "Tag  ": "Law Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8301 ",
+      "HEX ": "206d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Havasu Schools",
+      "Description": "Schools and School Busses ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

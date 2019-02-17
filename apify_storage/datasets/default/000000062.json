@@ -1,0 +1,27 @@
+{
+  "System Name": "Arizona Wireless and Radio Inc",
+  "Location": "Flagstaff, AZ",
+  "County": "Coconino",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 19, 2018, 5:50 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mt Elden",
+        "08 451.525 ",
+        "12 451.425 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-08-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Native 4",
+      "Description": "Native 4 - Prescott ",
+      "Tag  ": "EMS-Tac "
+    }
+  ]
+}

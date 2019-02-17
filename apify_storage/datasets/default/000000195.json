@@ -1,0 +1,66 @@
+{
+  "System Name": "Bi-State Information Center",
+  "Location": "Texarkana, TX AR",
+  "County": "2 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 1, 2016, 8:39 pm (Updated Function Tag assignments for 1 talkgroups(Texarkana Police))",
+  "System ID List": [
+    {
+      "System ID": "1326",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Texarkana",
+      "County": "Bowie, TX",
+      "Freqs": [
+        "854.2875",
+        "854.5875",
+        "856.2375c",
+        "856.7125",
+        "856.9875",
+        "857.2375c",
+        "857.5375",
+        "857.9875",
+        "858.2375c",
+        "858.4875",
+        "858.9875",
+        "859.2375c",
+        "859.4875",
+        "859.7625",
+        "859.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "43440 ",
+      "HEX ": "a9b ",
+      "Mode  ": "A",
+      "Alpha Tag": "TX FD/PD LNK",
+      "Description": "Texas Fire/Police Link ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "43472 ",
+      "HEX ": "a9d ",
+      "Mode  ": "A",
+      "Alpha Tag": "AR FD/PD LNK",
+      "Description": "Arkansas Fire/Police Link ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "47376 ",
+      "HEX ": "b91 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TEXAR ANIMAL",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "System Name": "Norwalk City Services",
+  "Location": "Norwalk, CA",
+  "County": "Los Angeles",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 28, 2016, 6:00 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 453.4875 ",
+        "02 453.7875 ",
+        "03 453.025 ",
+        "04 453.175 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PS Disp",
+      "Description": "Public Safety \"Station 1\" and \"Zebra\" units / Parking Enforcement ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "0-01-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PS N-Tac",
+      "Description": "Public Safety \"N-Tac\" ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-02-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tac",
+      "Description": "Tac ",
+      "Tag  ": "Multi-Tac "
+    },
+    {
+      "DEC ": "0-04-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "City Hall 1",
+      "Description": "City Hall - Ch 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-04-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "City Hall 4",
+      "Description": "City Hall - Ch 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-04-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks",
+      "Description": "Park Maintenance / Landscape ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

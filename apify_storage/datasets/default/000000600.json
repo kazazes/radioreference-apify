@@ -1,0 +1,26 @@
+{
+  "System Name": "Swedish Medical Center",
+  "Location": "Englewood, CO",
+  "County": "Arapahoe",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 4, 2018, 2:09 am (Changed Talkgroup Category: Maintenance to Maintenance(Maintenance))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Swedish Medical Center",
+        "01 461.625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

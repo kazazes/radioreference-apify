@@ -1,0 +1,63 @@
+{
+  "System Name": "University of Maryland, Baltimore County",
+  "Location": "Catonsville, MD",
+  "County": "Baltimore",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 13, 2016, 11:45 pm (Added Talkgroup 25 Information Technology)",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Confirmed LCN",
+        "02 461.675 ",
+        "03 461.950 ",
+        "04 463.725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC Facilit",
+      "Description": "Facilities ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC Mnt",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC StadEvt",
+      "Description": "Stadium Events ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC Shuttle",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UMBC IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

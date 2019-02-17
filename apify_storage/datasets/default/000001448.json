@@ -1,0 +1,60 @@
+{
+  "System Name": "Metropolitan Correctional Center Chicago",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "May 2, 2015, 4:50 am (Updated Function Tag assignments for 3 talkgroups)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "407.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "9139",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "407.125c",
+        "408.250c",
+        "409.2125c",
+        "409.950c",
+        "410.400"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Intrnl Cntrl",
+      "Description": "Internal Control ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Perim Contrl",
+      "Description": "Perimeter Control (Channel 3) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "320 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Talk-Around ",
+      "Description": "Talk-Around (Channel 13) ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

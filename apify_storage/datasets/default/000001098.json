@@ -1,0 +1,21 @@
+{
+  "System Name": "Georgia-Pacific Cedar Springs MOT",
+  "Location": "Cedar Springs, GA",
+  "County": "Early",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:29 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Cedar Springs",
+      "Freqs": [
+        "938.3875",
+        "938.425",
+        "938.925",
+        "939.425",
+        "939.925"
+      ]
+    }
+  ]
+}

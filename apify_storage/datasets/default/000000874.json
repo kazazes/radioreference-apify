@@ -1,0 +1,95 @@
+{
+  "System Name": "Talquin Electric Cooperative",
+  "Location": "Quincy, FL",
+  "County": "4 counties",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "April 25, 2018, 11:20 am (Changed Site # 003 (Tallahassee) to 003 (Tallahassee))",
+  "System Frequencies": [
+    {
+      "Region": "001",
+      "Site": "001 (1)",
+      "Name": "Quincy",
+      "County": "Gadsden",
+      "Freqs": [
+        "451.025c",
+        "452.075",
+        "464.4375"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "002 (2)",
+      "Name": "Hosford",
+      "County": "Liberty",
+      "Freqs": [
+        "451.2125c",
+        "461.725",
+        "451.7375"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "003 (3)",
+      "Name": "Tallahassee",
+      "County": "Leon",
+      "Freqs": [
+        "451.0375c",
+        "451.2625",
+        "452.325"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "004 (4)",
+      "Name": "Crawfordsville",
+      "County": "Wakulla",
+      "Freqs": [
+        "451.350c",
+        "451.9125",
+        "452.875"
+      ]
+    },
+    {
+      "Region": "001",
+      "Site": "005 (5)",
+      "Name": "Sumatra",
+      "County": "Liberty",
+      "Freqs": [
+        "451.050c",
+        "451.450",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6634 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 1",
+      "Description": "Operations 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "63345 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "63347 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 3",
+      "Description": "Operations 3 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "65521 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Operations 4",
+      "Description": "Operations 4 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

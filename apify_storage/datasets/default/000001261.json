@@ -1,0 +1,73 @@
+{
+  "System Name": "Day Wireless",
+  "Location": "Post Falls, ID",
+  "County": "Kootenai",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 17, 2015, 1:30 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.7875 ",
+        "02 N/A ",
+        "03 451.8875 ",
+        "04 N/A ",
+        "05 451.9125 ",
+        "06 N/A ",
+        "07 451.9375 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 451.9625 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Supervisors",
+      "Description": "Supervisors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-05-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Courier Unk",
+      "Description": "Courier Service Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CityLink",
+      "Description": "CityLink Dispatch ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Casino Buses",
+      "Description": "Coeur D'alane Casino Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-249 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5-Star Sec",
+      "Description": "5-Star Security ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

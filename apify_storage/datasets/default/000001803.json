@@ -1,0 +1,190 @@
+{
+  "System Name": "MaineStream Solutions",
+  "Location": "Falmouth, ME NH",
+  "County": "9 counties",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 2, 2019, 10:41 pm (Added Talkgroup 010055 Cab Service(Multiple Towns)(Cab Services))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Falmouth, ME",
+      "County": "Cumberland, ME",
+      "Freqs": [
+        "153.065",
+        "151.4975",
+        "154.5475",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Brunswick ME",
+      "County": "Cumberland, ME",
+      "Freqs": [
+        "153.6575",
+        "153.4025",
+        "153.2075",
+        "151.6475",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Rockport, ME",
+      "County": "Knox, ME",
+      "Freqs": [
+        "151.5425",
+        "152.9075c",
+        "151.8425",
+        "152.975",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Buckfield ME",
+      "County": "Oxford, ME",
+      "Freqs": [
+        "151.6025",
+        "154.4825",
+        "151.9625",
+        "151.7225",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Augusta ME",
+      "County": "Kennebec, ME",
+      "Freqs": [
+        "153.2225",
+        "153.350",
+        "153.650",
+        "153.4925",
+        "152.4275"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Sanford, ME",
+      "County": "York, ME",
+      "Freqs": [
+        "152.270",
+        "152.435",
+        "152.9525",
+        "151.595",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Dixmont, ME",
+      "County": "Penobscot, ME",
+      "Freqs": [
+        "151.5875",
+        "151.850",
+        "151.7375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "New Sharon, ME",
+      "County": "Franklin, ME",
+      "Freqs": [
+        "152.3075",
+        "152.345",
+        "152.435",
+        "152.9975",
+        "153.0275"
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Northfield, NH",
+      "County": "Merrimack, NH",
+      "Freqs": [
+        "151.535",
+        "151.7225",
+        "152.3825",
+        "152.975",
+        "152.8775"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Goffstown, NH",
+      "County": "Hillsborough, NH",
+      "Freqs": [
+        "152.4425",
+        "152.3075c",
+        "151.5725",
+        "152.9825",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "01-0090 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0091 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0093 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0094 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0095 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0096 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AAA",
+      "Description": "AAA ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "01-0003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Augusta PW",
+      "Description": "Augusta PW ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "System Name": "San Joaquin Public Interoperability Communication System (SJPICS)",
+  "Location": "Various, CA",
+  "County": "San Joaquin",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 11, 2016, 9:44 am (Changed Site # 001 (SJPICS) to 001 (SJPICS))",
+  "System ID List": [
+    {
+      "System ID": "5FC",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "SJPICS",
+      "Freqs": [
+        "453.6375c",
+        "453.925a",
+        "460.1125c",
+        "460.3125"
+      ]
+    }
+  ]
+}

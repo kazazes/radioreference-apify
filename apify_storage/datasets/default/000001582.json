@@ -1,0 +1,444 @@
+{
+  "System Name": "Alpha-Ancom Connect Plus",
+  "Location": ", MN WI IA",
+  "County": "29 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 6, 2018, 1:26 am (Changed Site # 052 (Mondovi, WI) to 052 (Mondovi, WI))",
+  "System ID List": [
+    {
+      "System ID": "103"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mankato",
+      "County": [
+        "Blue Earth, MN",
+        "01 454.250 ",
+        "02 451.6625c ",
+        "03 451.3875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Fostoria",
+      "County": [
+        "Clay, IA",
+        "01 454.225c ",
+        "02 454.550 ",
+        "03 451.9625 ",
+        "04 452.0125 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Marshall",
+      "County": [
+        "Lyon, MN",
+        "01 451.4875c ",
+        "02 451.6125 ",
+        "03 452.8375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "St. James",
+      "County": [
+        "Watonwan, MN",
+        "01 451.4625 ",
+        "02 452.6625 ",
+        "03 452.850c ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Kiester",
+      "County": [
+        "Faribault, MN",
+        "01 452.6375 ",
+        "02 452.3375c ",
+        "03 452.0125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Mountain Lake",
+      "County": [
+        "Cottonwood, MN",
+        "01 461.725 ",
+        "02 461.4875 ",
+        "03 463.5625 ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Hospers",
+      "County": [
+        "Sioux, IA",
+        "01 451.1875c ",
+        "02 451.4625 ",
+        "03 451.7125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Cherokee",
+      "County": [
+        "Cherokee, IA",
+        "01 454.250c ",
+        "02 451.2875 ",
+        "03 451.8375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Le Sueur",
+      "County": [
+        "Le Sueur, MN",
+        "01 464.6875c ",
+        "02 463.8625 ",
+        "03 463.6125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Canby",
+      "County": [
+        "Yellow Medicine, MN",
+        "01 461.975 ",
+        "02 461.4375 ",
+        "03 463.3375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Lake Benton",
+      "County": [
+        "Lincoln, MN",
+        "01 463.825 ",
+        "02 463.3125c ",
+        "03 462.0625 ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Hutchison",
+      "County": [
+        "McLeod, MN",
+        "01 452.2875c ",
+        "02 452.0125 ",
+        "03 451.7125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Blue Earth",
+      "County": [
+        "Faribault, MN",
+        "01 452.250 ",
+        "02 451.5875 ",
+        "03 451.3125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Jeffers",
+      "County": [
+        "Cottonwood, MN",
+        "01 451.6875 ",
+        "02 451.9625c ",
+        "03 452.650 ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Fairmont",
+      "County": [
+        "Martin, MN",
+        "01 452.2375c ",
+        "02 451.1875 ",
+        "03 451.9875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Cologne",
+      "County": [
+        "Carver, MN",
+        "01 454.200c ",
+        "02 460.100 ",
+        "03 460.500 ",
+        " "
+      ]
+    },
+    {
+      "Site": "041 (29)",
+      "Name": "Rochester, MN",
+      "County": [
+        "Olmsted, MN",
+        "01 453.0125c ",
+        "02 463.3875c ",
+        "03 461.550 ",
+        "04 462.450 "
+      ]
+    },
+    {
+      "Site": "042 (2A)",
+      "Name": "Austin, MN",
+      "County": [
+        "Mower, MN",
+        "01 451.5875 ",
+        "02 452.0875 ",
+        "03 462.0375 ",
+        "04 452.6875c "
+      ]
+    },
+    {
+      "Site": "043 (2B)",
+      "Name": "Winona",
+      "County": [
+        "Buffalo, WI",
+        "01 452.650c ",
+        "02 461.4375 ",
+        "03 461.7875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "044 (2C)",
+      "Name": "Hader, MN",
+      "County": [
+        "Goodhue, MN",
+        "01 463.575c ",
+        "02 461.600 ",
+        "03 462.0875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "045 (2D)",
+      "Name": "Red Wing, MN",
+      "County": [
+        "Goodhue, MN",
+        "01 451.7875c ",
+        "02 463.7125c ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "046 (2E)",
+      "Name": "Baldwin, WI",
+      "County": [
+        "St. Croix, WI",
+        "01 462.1375c ",
+        "02 463.4625 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "047 (2F)",
+      "Name": "Knapp, WI",
+      "County": [
+        "Dunn, WI",
+        "01 462.500c ",
+        "02 464.3875c ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "048 (30)",
+      "Name": "Wabasha, MN",
+      "County": [
+        "Wabasha, MN",
+        "01 461.7375 ",
+        "02 463.650c ",
+        "03 463.475 ",
+        " "
+      ]
+    },
+    {
+      "Site": "049 (31)",
+      "Name": "Ostrander, MN",
+      "County": [
+        "Fillmore, MN",
+        "01 463.3125 ",
+        "02 464.7875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "050 (32)",
+      "Name": "Faribault, MN",
+      "County": [
+        "Rice, MN",
+        "01 463.4375 ",
+        "03 461.8625 ",
+        "05 461.4875c ",
+        " "
+      ]
+    },
+    {
+      "Site": "051 (33)",
+      "Name": "Minneapolis",
+      "County": [
+        "Hennepin, MN",
+        "01 451.1125 ",
+        "02 451.1625 ",
+        "03 464.400c ",
+        "04 461.9625 "
+      ]
+    },
+    {
+      "Site": "052 (34)",
+      "Name": "Mondovi, WI",
+      "County": [
+        "Buffalo, WI",
+        "01 451.8375 ",
+        "02 452.875c ",
+        "03 454.000 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11541 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ready mix",
+      "Description": "ready mix ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50061 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business",
+      "Description": "Business 61 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50062 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ag",
+      "Description": "Ag 62 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50190 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Business 190",
+      "Description": "Business 190 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50250 ",
+      "Mode  ": "T",
+      "Alpha Tag": "bus",
+      "Description": "school bus ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "50280 ",
+      "Mode  ": "T",
+      "Alpha Tag": "First Student",
+      "Description": "First Student, Winona ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "50310 ",
+      "Mode  ": "T",
+      "Alpha Tag": "wrecker",
+      "Description": "wrecker, Winona ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50350 ",
+      "Mode  ": "T",
+      "Alpha Tag": "wrecker",
+      "Description": "wrecker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50400 ",
+      "Mode  ": "T",
+      "Alpha Tag": "wrecker",
+      "Description": "wrecker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50411 ",
+      "Mode  ": "T",
+      "Alpha Tag": "wrecker",
+      "Description": "wrecker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50430 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ready mix",
+      "Description": "ready mix ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50460 ",
+      "Mode  ": "T",
+      "Alpha Tag": "trucking",
+      "Description": "trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50520 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ready Mix CC",
+      "Description": "Ready Mix Concrete Co ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50522 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ready Mix CC",
+      "Description": "Ready Mix Concrete Co, Stewartville MN ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50523 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ready Mix CC",
+      "Description": "Ready Mix Concrete Co, Dover MN ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50524 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ready Mix CC",
+      "Description": "Ready Mix Concrete Co ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50540 ",
+      "Mode  ": "T",
+      "Alpha Tag": "bus service",
+      "Description": "bus service ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

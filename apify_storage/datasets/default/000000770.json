@@ -1,0 +1,51 @@
+{
+  "System Name": "Unidentified Federal P25 (680)",
+  "Location": ", DC MD VA",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 26, 2016, 2:39 pm (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "680",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "County": ", ",
+      "Freqs": [
+        "406.1125",
+        "406.3625",
+        "406.525",
+        "406.775",
+        "406.925",
+        "407.0875",
+        "407.2375",
+        "407.4125c",
+        "407.5625a",
+        "407.7125",
+        "407.8875",
+        "408.0875",
+        "408.2625",
+        "408.425",
+        "408.575",
+        "408.7375",
+        "408.9125",
+        "409.1125",
+        "409.275",
+        "409.475",
+        "409.6375",
+        "409.9125",
+        "410.1375a",
+        "410.2875a",
+        "410.5625",
+        "410.7625",
+        "410.9375"
+      ]
+    }
+  ]
+}

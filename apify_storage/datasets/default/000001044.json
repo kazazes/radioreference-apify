@@ -1,0 +1,118 @@
+{
+  "System Name": "Oconee Areawide Radio System (OARS)",
+  "Location": "Various, GA",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 28, 2015, 3:24 pm (Updated 11 Talkgroup Categories)",
+  "System ID List": [
+    {
+      "System ID": "295",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Walton County Site",
+      "County": "Walton",
+      "Freqs": [
+        "851.2625",
+        "851.6625",
+        "851.875",
+        "852.675",
+        "853.6125",
+        "854.4125a",
+        "856.5625c",
+        "857.1125a",
+        "857.5875a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Greene/Oconee Co. Simulcast",
+      "County": "Greene",
+      "Freqs": [
+        "769.83125a",
+        "770.00625c",
+        "770.33125",
+        "771.03125",
+        "771.18125",
+        "771.65625",
+        "771.75625",
+        "771.95625",
+        "772.35625",
+        "774.43125"
+      ]
+    },
+    {
+      "RFSS": "7 (7)",
+      "Site": "003 (3)",
+      "Name": "Baldwin County Simulcast",
+      "County": "Baldwin",
+      "Freqs": [
+        "769.85625",
+        "770.60625c",
+        "771.50625",
+        "772.98125",
+        "774.38125",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "39100 ",
+      "HEX ": "98bc ",
+      "Mode  ": "D",
+      "Alpha Tag": "BC/MFD Disp",
+      "Description": "Fire Dispatch (County/Milledgeville) ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "35301 ",
+      "HEX ": "89e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WEMC Monroe",
+      "Description": "Monroe Engineering and Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35304 ",
+      "HEX ": "89e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WEMC Snellvl",
+      "Description": "Snellville Engineering and Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35305 ",
+      "HEX ": "89e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WEMC FldSvcs",
+      "Description": "Field Services ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35307 ",
+      "HEX ": "89eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WEMC Watkins",
+      "Description": "Watkinsvile Engineering and Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35311 ",
+      "HEX ": "89ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "WEMC Disp",
+      "Description": "After Hours Dispatch ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "System Name": "Northern Kentucky University",
+  "Location": "Highland Heights, KY",
+  "County": "Campbell",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 29, 2014, 12:58 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "7d39",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1 (Highland Heights)",
+      "Freqs": [
+        "935.1375",
+        "935.750",
+        "936.1625",
+        "938.1875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "41136 ",
+      "HEX ": "a0b ",
+      "Mode  ": "A",
+      "Alpha Tag": "NKU Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

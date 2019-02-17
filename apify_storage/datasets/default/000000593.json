@@ -1,0 +1,27 @@
+{
+  "System Name": "Gaylord Rockies Resort and Convention Center",
+  "Location": "Aurora, CO",
+  "County": "Adams",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 14, 2018, 10:25 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.7875 ",
+        "02 452.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Lobby",
+      "Description": "Lobby ",
+      "Tag  ": "Business "
+    }
+  ]
+}

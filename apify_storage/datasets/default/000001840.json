@@ -1,0 +1,54 @@
+{
+  "System Name": "Maryland Port Administration",
+  "Location": "Dundalk, MD",
+  "County": "2 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 21, 2014, 4:06 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "2828",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "County": "",
+      "Freqs": [
+        "858.3875",
+        "857.6375",
+        "857.0375",
+        "854.6625c",
+        "854.1125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "DMT Gate",
+      "Description": "Dundalk Marine Terminal - Gate Coordination ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Port Enginrg",
+      "Description": "Port Engineering ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Port Maint",
+      "Description": "Port Maintenence ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

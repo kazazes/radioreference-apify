@@ -1,0 +1,32 @@
+{
+  "System Name": "Federal Correctional Institution Mendota",
+  "Location": "Mendota, CA",
+  "County": "Fresno",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 4, 2016, 9:11 am (Changed Site # 001 (FCI Mendota) to 001 (FCI Mendota))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.01250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "EE2B",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "FCI Mendota",
+      "Freqs": [
+        "406.2125c",
+        "406.8125c",
+        "407.0125c"
+      ]
+    }
+  ]
+}

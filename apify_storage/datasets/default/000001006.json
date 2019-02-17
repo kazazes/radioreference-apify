@@ -1,0 +1,261 @@
+{
+  "System Name": "West Palm Beach Public Safety (Project 25)",
+  "Location": "West Palm Beach, FL",
+  "County": "Palm Beach",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 6, 2019, 1:14 pm ((4) Talkgroups Updated (Public Works))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "46F57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Confirmed",
+      "Freqs": [
+        "855.4375a",
+        "855.6125a",
+        "855.8125a",
+        "856.4375",
+        "856.9625",
+        "857.4375",
+        "857.8375c",
+        "858.4375",
+        "858.9625a",
+        "859.8125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2000 ",
+      "HEX ": "7d0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "All Call",
+      "Description": "All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2001 ",
+      "HEX ": "7d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "All PD",
+      "Description": "All PD ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2002 ",
+      "HEX ": "7d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP NORTH",
+      "Description": "North - Division 1/Channel 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2003 ",
+      "HEX ": "7d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP SOUTH",
+      "Description": "South - Division 2/Channel 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2005 ",
+      "HEX ": "7d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP INFO ",
+      "Description": "Information ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2006 ",
+      "HEX ": "7d6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TAC1",
+      "Description": "Tactical-1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2007 ",
+      "HEX ": "7d7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TAC2",
+      "Description": "Tactical-2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2008 ",
+      "HEX ": "7d8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TAC3",
+      "Description": "Tactical-3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2009 ",
+      "HEX ": "7d9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TAC4",
+      "Description": "Tactical-4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2010 ",
+      "HEX ": "7da ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TAC5 ",
+      "Description": "Tactical-5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2011 ",
+      "HEX ": "7db ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP IWTCH",
+      "Description": "Eyewatch ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2013 ",
+      "HEX ": "7dd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SWAT1",
+      "Description": "SWAT-1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2014 ",
+      "HEX ": "7de ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SWAT2",
+      "Description": "SWAT-2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2015 ",
+      "HEX ": "7df ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SID1",
+      "Description": "SID-1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2016 ",
+      "HEX ": "7e0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SID2",
+      "Description": "SID-2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2018 ",
+      "HEX ": "7e2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP Supervisor",
+      "Description": "Supervisor ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2019 ",
+      "HEX ": "7e3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SPL1",
+      "Description": "SPL-1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2020 ",
+      "HEX ": "7e4 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "WP SPL2",
+      "Description": "SPL-2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2021 ",
+      "HEX ": "7e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP SPL3",
+      "Description": "SPL-3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2022 ",
+      "HEX ": "7e6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP EXPLR ",
+      "Description": "Explorers ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2023 ",
+      "HEX ": "7e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP CERT",
+      "Description": "Community Emergency Response Team ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2024 ",
+      "HEX ": "7e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TRNG1 ",
+      "Description": "Training-1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2025 ",
+      "HEX ": "7e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TRNG2 ",
+      "Description": "Training-2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2026 ",
+      "HEX ": "7ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP TRNG3 ",
+      "Description": "Training-3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2030 ",
+      "HEX ": "7ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP CID ",
+      "Description": "Criminal Investigation Division ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2031 ",
+      "HEX ": "7ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "WP ITAC ",
+      "Description": "I-Tactical ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1500 ",
+      "HEX ": "5dc ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB NRTH ",
+      "Description": "North ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1505 ",
+      "HEX ": "5e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SB COM",
+      "Description": "School Board  ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

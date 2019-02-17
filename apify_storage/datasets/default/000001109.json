@@ -1,0 +1,32 @@
+{
+  "System Name": "Americas Mart Atlanta LTR",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:17 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Atlanta",
+        "01 463.575 ",
+        "03 462.425 ",
+        "05 464.300 ",
+        "10 464.600 ",
+        "15 464.850 ",
+        "17 463.800 ",
+        "20 461.500 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

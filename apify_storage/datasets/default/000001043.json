@@ -1,0 +1,85 @@
+{
+  "System Name": "Georgia Department of Corrections MOT",
+  "Location": "Milledgeville, GA",
+  "County": "Baldwin",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:41 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "2E2F",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "003 (3)",
+      "Name": "Milledgeville",
+      "Freqs": [
+        "857.7375c",
+        "856.2125",
+        "856.7375",
+        "857.2125",
+        "858.2125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "DOC 240",
+      "Description": "Department of Corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DOC 1040",
+      "Description": "Department of Corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "2288 ",
+      "HEX ": "08f ",
+      "Mode  ": "A",
+      "Alpha Tag": "DOC 2288",
+      "Description": "Department of Corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "2736 ",
+      "HEX ": "0ab ",
+      "Mode  ": "A",
+      "Alpha Tag": "DOC 2736",
+      "Description": "Department of Corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RS Prison",
+      "Description": "River State Prison (Milledgeville) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RS Prison",
+      "Description": "River State Prison (Milledgeville) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "2512 ",
+      "HEX ": "09d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Hard Prison",
+      "Description": "Hardwick State Prison (Milledgeville) ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

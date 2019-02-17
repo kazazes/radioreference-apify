@@ -1,0 +1,54 @@
+{
+  "System Name": "USA Parking Associates",
+  "Location": "Fort Lauderdale, FL",
+  "County": "Broward",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 6, 2017, 1:50 am (Updated Function Tag assignments for 1 talkgroups(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 452.200 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "USAParking1",
+      "Description": "Operations-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "USAParking2",
+      "Description": "Operations-2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ground Transport",
+      "Description": "Ground Transportation Podiums ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Valet",
+      "Description": "Valet ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BSO Comm",
+      "Description": "Transportation-to-BSO ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

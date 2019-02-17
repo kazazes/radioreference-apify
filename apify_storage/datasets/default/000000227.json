@@ -1,0 +1,35 @@
+{
+  "System Name": "Jackson Rancheria",
+  "Location": "Jackson, CA",
+  "County": "Amador",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 2, 2019, 2:32 am ((1) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Jackson Rancheria",
+        "01 451.825 ",
+        "02 452.500 ",
+        "03 452.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JR Security 4",
+      "Description": "Security 4 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JR Security 30",
+      "Description": "Security 30 ",
+      "Tag  ": "Security "
+    }
+  ]
+}

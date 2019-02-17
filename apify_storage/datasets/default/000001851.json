@@ -1,0 +1,37 @@
+{
+  "System Name": "Industrial Communications and Electronics (Belfast)",
+  "Location": "Belfast, ME",
+  "County": "Waldo",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 17, 2011, 7:41 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "7C3C",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.5125",
+        "937.525c",
+        "937.5375c",
+        "937.550",
+        "937.5625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meklin&Sons",
+      "Description": "Donald E Meklin and Sons Excavating Contractors, LLC. ",
+      "Tag  ": "Business "
+    }
+  ]
+}

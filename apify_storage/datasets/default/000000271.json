@@ -1,0 +1,49 @@
+{
+  "System Name": "Fisher Wireless Services (Cobb Mountain)",
+  "Location": "Cobb Mountain, CA",
+  "County": "Lake",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 23, 2011, 1:30 am (Updated Talkgroups (4 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cobb Mountain",
+        "01 452.425 ",
+        "02 451.275 ",
+        "03 452.975 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 008",
+      "Description": "towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kerosene 011",
+      "Description": "kerosene delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Plumbing 016",
+      "Description": "plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Landscape 75",
+      "Description": "landscaping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

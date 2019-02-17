@@ -1,0 +1,68 @@
+{
+  "System Name": "Trigg County Board of Education",
+  "Location": "Cadiz, KY",
+  "County": "Trigg",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "August 12, 2018, 10:24 pm (Updated Function Tag assignments for 6 talkgroups(Board of Education))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cadiz",
+        "152.870 (CC 12)",
+        "152.990 (CC 12)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "2 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED Admin",
+      "Description": "Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "3 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED T-A",
+      "Description": "Talkaround ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "4 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED TG 4",
+      "Description": "Unknown Usage TGRP 4 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED TG 5",
+      "Description": "Unknown Usage TGRP 5 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trigg BED TG 6",
+      "Description": "Unknown Usage TGRP 6 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

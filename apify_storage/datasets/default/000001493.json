@@ -1,0 +1,34 @@
+{
+  "System Name": "Advocate Sherman Hospital (Elgin)",
+  "Location": "Elgin, IL",
+  "County": "Kane",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 15, 2018, 7:55 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Advocate Sherman Hospital",
+        "01 461.6875 ",
+        "02 464.150 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ASH Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "164 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ASH Building Eng",
+      "Description": "Building Engineers ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "System Name": "Broward County Public Services",
+  "Location": "Broward County, FL",
+  "County": "Broward",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "May 3, 2017, 10:44 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "1F25",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.1875",
+        "851.6875",
+        "852.0375",
+        "852.7125",
+        "853.0625",
+        "853.1875",
+        "853.7625",
+        "854.4625",
+        "855.2375",
+        "855.5625c",
+        "855.6625c",
+        "856.4875",
+        "856.7375",
+        "857.1875c",
+        "857.3625",
+        "857.4875",
+        "857.7375",
+        "857.9875",
+        "858.3625",
+        "858.4875",
+        "858.7375",
+        "858.9875c",
+        "859.3625",
+        "859.4375",
+        "859.4875",
+        "859.7125",
+        "859.7375",
+        "859.9875"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Hollywood",
+      "Freqs": [
+        "851.0875",
+        "851.3375c",
+        "851.5875c",
+        "851.7125c",
+        "851.8375",
+        "852.0875",
+        "852.3375",
+        "853.2125",
+        "853.7125c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Fort Lauderdale",
+      "Freqs": [
+        "851.2625a",
+        "851.4125a",
+        "851.9125a",
+        "852.2625",
+        "852.6125",
+        "852.8625a",
+        "853.0375",
+        "853.0875",
+        "853.5875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCFR",
+      "Description": "Fire-Rescue 7K, 7L, 7M, 8G, 8H, 8L, 8O, 8P, 9P ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10P GLOBAL C",
+      "Description": "Global Common (FAC MAN H) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 1 ",
+      "Description": "Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA LG",
+      "Description": "Emergency ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 2 ",
+      "Description": "County Administrators ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 3",
+      "Description": "Disaster (BSO 29A) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 4",
+      "Description": "Omega-4 (BSO 29B) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-TRANSIT",
+      "Description": "Transit Police (BSO 29C) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 6",
+      "Description": "Municipal EOCs (BSO 29D) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LG 10C FLIA ",
+      "Description": "FLIA Car-Car/ Tactical-1(BSO 29E) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BCM-OMEGA 15",
+      "Description": "Tactical-2(BSO 29F)  ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSO 29G",
+      "Description": "Tactical-3 (BSO 29G) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSO 29H  ",
+      "Description": "Tactical-4 (BSO 29H) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4048 ",
+      "HEX ": "0fd ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSO to APD",
+      "Description": "Hallandale PD to Aventura PD ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4080 ",
+      "HEX ": "0ff ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD to HPD",
+      "Description": "Aventura PD to Hallandale PD ",
+      "Tag  ": "Deprecated "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "12208 ",
+      "HEX ": "2fb ",
+      "Mode  ": "A",
+      "Alpha Tag": "FAU Davie",
+      "Description": "Florida Atlantic University Police (Davie) ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

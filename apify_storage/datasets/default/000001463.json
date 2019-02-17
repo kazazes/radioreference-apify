@@ -1,0 +1,82 @@
+{
+  "System Name": "Star Crystal Communications (Cook)",
+  "Location": "Frankfort, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 2, 2015, 4:37 am (Changed Talkgroup Category: All to All)",
+  "System ID List": [
+    {
+      "System ID": "6E39",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "New",
+      "Freqs": [
+        "852.7875",
+        "853.0375c",
+        "853.0875c",
+        "853.2875c",
+        "853.3875c",
+        "853.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Old",
+      "Freqs": [
+        "853.0375",
+        "853.0875",
+        "853.2875c",
+        "853.3875",
+        "853.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Unknown",
+      "Freqs": [
+        "852.4875",
+        "854.5375",
+        "852.6125",
+        "853.8375",
+        "855.6875",
+        "855.1125",
+        "855.7625",
+        "851.9625"
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "Old?",
+      "Freqs": [
+        "855.1125",
+        "855.3625c",
+        "855.4125",
+        "855.5125",
+        "855.6875",
+        "858.3625c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 528",
+      "Description": "Towing Service (AAA Motor Club?) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

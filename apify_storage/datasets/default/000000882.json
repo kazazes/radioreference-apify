@@ -1,0 +1,77 @@
+{
+  "System Name": "AllComm Wireless (Tampa LTR)",
+  "Location": "Tampa, FL",
+  "County": "Hillsborough",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 21, 2018, 11:36 am (Updated Function Tag assignments for 5 talkgroups(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 454.200 ",
+        "02 454.275 ",
+        "03 461.600 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AMR Medical",
+      "Description": "AMR medical transport ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1-02-034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AMR Med Data",
+      "Description": "AMR medical transport data ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1-02-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tampa B/U ",
+      "Description": "CIS Tampa Backup ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1-01-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tampa Ch 1",
+      "Description": "CIS Tampa Ch 1 ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1-01-036 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tampa Ch 2 ",
+      "Description": "CIS Tampa Ch 2   ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "1-01-028 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concrete 028",
+      "Description": "Concrete Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-038 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trns Ch 1 38",
+      "Description": "Transportation Company Ch. 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trns Ch 2 39",
+      "Description": "Transportation Company Ch. 2 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

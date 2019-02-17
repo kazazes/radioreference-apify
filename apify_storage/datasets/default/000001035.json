@@ -1,0 +1,251 @@
+{
+  "System Name": "U.S. Department of Defense",
+  "Location": "Island Territory,",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 17, 2014, 1:35 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1DB",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 01",
+      "County": "Statewide",
+      "Freqs": [
+        "406.1125a",
+        "406.1625",
+        "406.3625a",
+        "406.550",
+        "406.550",
+        "407.1625",
+        "407.250",
+        "407.350",
+        "408.3625c",
+        "409.025",
+        "409.275",
+        "409.6375",
+        "409.7125",
+        "409.7625",
+        "409.875",
+        "409.9625",
+        "410.150",
+        "410.2375",
+        "410.3625",
+        "410.550",
+        "410.700"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 02",
+      "County": "Statewide",
+      "Freqs": [
+        "406.150c",
+        "407.8625",
+        "408.100",
+        "408.125",
+        "408.425",
+        "409.1125",
+        "409.500",
+        "409.6875",
+        "409.750",
+        "410.025",
+        "410.175a",
+        "410.325",
+        "410.4375",
+        "410.6375"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "Site 03",
+      "County": "Statewide",
+      "Freqs": [
+        "408.5625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "001 (1)",
+      "Name": "Site 04",
+      "County": "Statewide",
+      "Freqs": [
+        "386.075a",
+        "386.525c",
+        "386.975a",
+        "388.150a",
+        "388.4125",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "26625 ",
+      "HEX ": "6801 ",
+      "Mode  ": "D",
+      "Alpha Tag": "26625",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "26631 ",
+      "HEX ": "6807 ",
+      "Mode  ": "D",
+      "Alpha Tag": "26631",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "26650 ",
+      "HEX ": "681a ",
+      "Mode  ": "D",
+      "Alpha Tag": "26650",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "26671 ",
+      "HEX ": "682f ",
+      "Mode  ": "D",
+      "Alpha Tag": "26671",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46014 ",
+      "HEX ": "b3be ",
+      "Mode  ": "D",
+      "Alpha Tag": "46014",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46021 ",
+      "HEX ": "b3c5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46021",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46022 ",
+      "HEX ": "b3c6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46022",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46042 ",
+      "HEX ": "b3da ",
+      "Mode  ": "D",
+      "Alpha Tag": "46042",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46092 ",
+      "HEX ": "b40c ",
+      "Mode  ": "D",
+      "Alpha Tag": "46092",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46101 ",
+      "HEX ": "b415 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46101",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46141 ",
+      "HEX ": "b43d ",
+      "Mode  ": "D",
+      "Alpha Tag": "46141",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46142 ",
+      "HEX ": "b43e ",
+      "Mode  ": "D",
+      "Alpha Tag": "46142",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46151 ",
+      "HEX ": "b447 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46151",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46152 ",
+      "HEX ": "b448 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46152",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46171 ",
+      "HEX ": "b45b ",
+      "Mode  ": "D",
+      "Alpha Tag": "46171",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46262 ",
+      "HEX ": "b4b6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46262",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46307 ",
+      "HEX ": "b4e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "46307",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46319 ",
+      "HEX ": "b4ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "46319",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "46347 ",
+      "HEX ": "b50b ",
+      "Mode  ": "D",
+      "Alpha Tag": "46347",
+      "Description": "Encrypted ",
+      "Tag  ": "Military "
+    }
+  ]
+}

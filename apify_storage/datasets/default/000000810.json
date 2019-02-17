@@ -1,0 +1,133 @@
+{
+  "System Name": "Disney Cruise Lines: Disney Magic",
+  "Location": "Lake Buena Vista, FL",
+  "County": "Brevard",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 22, 2011, 2:00 am (Updated Talkgroup Categories)",
+  "System ID List": [
+    {
+      "System ID": "7509",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Disney Magic",
+      "Freqs": [
+        "855.7875c",
+        "856.9125c",
+        "857.7875",
+        "858.8125c",
+        "859.7875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping/Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Guest Servic",
+      "Description": "Guest Services/Security (Port Canaveral) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Entertainmen",
+      "Description": "Entertainment ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lab",
+      "Description": "Lab ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Club",
+      "Description": "Club ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Programming",
+      "Description": "Programming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shore Excurs",
+      "Description": "Shore Excursions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Beverage",
+      "Description": "Beverage ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dining (Food",
+      "Description": "Dining (Food) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Merchandise ",
+      "Description": "Merchandise (Retail) ? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Broadcasting",
+      "Description": "Broadcasting ? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Galley ?",
+      "Description": "Galley ? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Castaway Cay",
+      "Description": "Castaway Cay ? ",
+      "Tag  ": "Business "
+    }
+  ]
+}

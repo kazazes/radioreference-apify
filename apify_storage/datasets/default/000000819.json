@@ -1,0 +1,39 @@
+{
+  "System Name": "Crystal River 3 Nuclear Power Plant",
+  "Location": "Crystal River, FL",
+  "County": "Citrus",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 23, 2017, 10:37 am (Changed Site # 001 (Site 1) to 001 (Site 1))",
+  "System ID List": [
+    {
+      "System ID": "56D",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "461.5625c",
+        "462.0625a",
+        "463.4625a",
+        "463.7875a",
+        "464.125",
+        "464.7375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

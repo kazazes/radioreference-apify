@@ -1,0 +1,36 @@
+{
+  "System Name": "RCM Communications (UHF)",
+  "Location": "Falmouth, ME",
+  "County": "Cumberland",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 27, 2014, 12:25 am (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Falmouth",
+        "01 452.3125 ",
+        "02 451.7375 ",
+        "04 462.4625 ",
+        "05 464.5375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Deliveries",
+      "Description": "Deliveries ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Deliveries",
+      "Description": "Deliveries ",
+      "Tag  ": "Business "
+    }
+  ]
+}

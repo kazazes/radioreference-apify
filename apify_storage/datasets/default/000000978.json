@@ -1,0 +1,119 @@
+{
+  "System Name": "Reedy Creek Improvement District (Walt Disney World)",
+  "Location": "Lake Buena Vista, FL",
+  "County": "Orange",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 17, 2014, 8:18 pm (Updated Talkgroups (2 Updated))",
+  "System ID List": [
+    {
+      "System ID": "287",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.2125",
+        "856.2625",
+        "857.2625a",
+        "858.2625a",
+        "859.2625a",
+        "860.2625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2285 ",
+      "HEX ": "8ed ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Dispatch",
+      "Description": "Fire/ EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2286 ",
+      "HEX ": "8ee ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Direct",
+      "Description": "Fire/ EMS  Ops Direct (Unit to Unit) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2287 ",
+      "HEX ": "8ef ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Tac-1",
+      "Description": "Fire/ EMS  TAC 1 (Medical Calls) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2288 ",
+      "HEX ": "8f0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Tac-2",
+      "Description": "Fire/EMS TAC 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2289 ",
+      "HEX ": "8f1 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Tac-3",
+      "Description": "Fire/ EMS  TAC 3 (Fire Calls) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2290 ",
+      "HEX ": "8f2 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Tac-4",
+      "Description": "Fire/EMS TAC 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2292 ",
+      "HEX ": "8f4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Celebration ",
+      "Description": "Fire/ EMS MEDCOM (Celebration Hospital ER) ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "2294 ",
+      "HEX ": "8f6 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FR Inspect",
+      "Description": "Inspections ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2304 ",
+      "HEX ": "900 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Svc",
+      "Description": "Radio Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2637 ",
+      "HEX ": "a4d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Energy Svc 1",
+      "Description": "Energy Services 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "2638 ",
+      "HEX ": "a4e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Energy Svc 2",
+      "Description": "Energy Services 2 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

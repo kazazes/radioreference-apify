@@ -1,0 +1,66 @@
+{
+  "System Name": "San Francisco Municipal Transportation Agency (SFMTA)",
+  "Location": "San Francisco City/County, CA",
+  "County": "San Francisco",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "March 20, 2018, 10:25 pm (Added Talkgroup 10550 Light Rail(All))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92732"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "SFMTA",
+      "Freqs": [
+        "769.60625c",
+        "771.36875c",
+        "771.66875c",
+        "772.13125c",
+        "772.43125c",
+        "772.73125c",
+        "773.13125c",
+        "773.41875c",
+        "774.64375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10018 ",
+      "HEX ": "2722 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Buses",
+      "Description": "Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "10526 ",
+      "HEX ": "291e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Buses",
+      "Description": "Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "10550 ",
+      "HEX ": "2936 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Light Rail",
+      "Description": "Light Rail ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "10595 ",
+      "HEX ": "2963 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cable Cars",
+      "Description": "Cable Cars ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

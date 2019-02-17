@@ -1,0 +1,123 @@
+{
+  "System Name": "Transportation Technology Center",
+  "Location": "Pueblo, CO",
+  "County": "Pueblo",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 9, 2018, 9:46 am (Changed Site # 001 (Transportation Technology Center) to 001 (Site 1))",
+  "System ID List": [
+    {
+      "System ID": "151"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "161.325",
+        "161.145",
+        "160.980",
+        "160.815",
+        "160.350"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "Freqs": [
+        "161.205",
+        "161.070",
+        "160.875",
+        "160.770",
+        "160.320"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Control",
+      "Description": "Control ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Fire Department",
+      "Description": "Fire Department ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Instrumentation",
+      "Description": "Instrumentation ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Main Gate /Fire",
+      "Description": "Main Gate / Fire ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rail Defect Fac",
+      "Description": "Rail Defect Detector Facility ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Control",
+      "Description": "Test Control ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Tracks 11",
+      "Description": "Test Tracks (11) ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test Tracks 4",
+      "Description": "Test Tracks (4) ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Train Ops 2",
+      "Description": "Train Operations (2) ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Train Ops 5",
+      "Description": "Train Operations (5) ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Train Ops 9",
+      "Description": "Train Operations (9) ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Warehouse",
+      "Description": "Warehouse ",
+      "Tag  ": "Railroad "
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "System Name": "Jackson Purchase Two-Way Radio 800 MHz",
+  "Location": "Ledbetter, KY",
+  "County": "Livingston",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 27, 2005, 7:02 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "*Ledbetter",
+        "01 860.6625 ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 859.6625 ",
+        "06 N/A ",
+        "07 N/A "
+      ],
+      "Data": [
+        "08 N/A ",
+        "09 858.6625 ",
+        "10 N/A ",
+        "11 N/A ",
+        "12 N/A ",
+        "13 857.6625 ",
+        "14 N/A ",
+        "15 N/A ",
+        "16 N/A ",
+        "17 856.6625 "
+      ]
+    }
+  ]
+}

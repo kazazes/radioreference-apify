@@ -1,0 +1,41 @@
+{
+  "System Name": "Breckenridge Resort",
+  "Location": "Breckenridge, CO",
+  "County": "Summit",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 18, 2018, 10:57 pm (Added Talkgroup 109 General Ops Grand Lodge on Peak 7(Lodging))",
+  "System Frequencies": [
+    {
+      "Site": "103 (67)",
+      "Name": [
+        "Breckenridge",
+        "01 463.475 ",
+        "02 461.775 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Gnd Ldge Ops",
+      "Description": "General Ops Grand Lodge on Peak 7 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Brek GstSvc",
+      "Description": "Breckenridge Grand Vacations Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Brek Maint",
+      "Description": "Breckenridge Grand Vacations Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

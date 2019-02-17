@@ -1,0 +1,64 @@
+{
+  "System Name": "Franciscan Health Systems Michigan City",
+  "Location": ", IN",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 30, 2018, 8:33 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "West Homer Street UHF",
+      "County": [
+        "La Porte",
+        "01 463.3375 ",
+        "02 464.6125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "West Homer Street VHF",
+      "County": [
+        "La Porte",
+        "01 152.270 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "East Coolspring Avenue ",
+      "County": [
+        "La Porte",
+        "01 463.2625 ",
+        "02 464.3875 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "West 400 North",
+      "County": [
+        "La Porte",
+        "01 461.850 ",
+        "02 464.425 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "South Michigan City",
+      "County": [
+        "La Porte",
+        "01 461.7625 ",
+        "02 462.0625 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Chesterton",
+      "County": [
+        "Porter",
+        "01 463.7625 ",
+        "02 464.850 "
+      ]
+    }
+  ]
+}

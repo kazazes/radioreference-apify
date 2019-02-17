@@ -1,0 +1,64 @@
+{
+  "System Name": "Florida Rock Industries (Orlando)",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 1, 2008, 2:49 pm (Updated Function Tag assignments for 6 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.950 ",
+        "02 461.200 ",
+        "03 462.175 ",
+        "04 463.800 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Orlando-1",
+      "Description": "Orlando Dispatch \"929\" (Orlando-1) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Orlando-2",
+      "Description": "Orlando East Dispatch \"929\" (Orlando-2) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cement Truck",
+      "Description": "Cement Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cement Truck",
+      "Description": "Cement Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cement Truck",
+      "Description": "Cement Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "605 Dispatch",
+      "Description": "Dispatch \"605\" ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "System Name": "Moline IL Public Works",
+  "Location": "Moline, IL",
+  "County": "Rock Island",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 6, 2019, 3:34 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "451.1625",
+        "452.375",
+        "451.775",
+        "452.675",
+        "452.100"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "01-0011 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Street Dept.",
+      "Description": "Street Department (2059) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0012 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parks Dept.",
+      "Description": "Parks Department (2060) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0013 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sanitation Dept.",
+      "Description": "Sanitation Department (2061) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0014 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water Dept 1 Ops",
+      "Description": "Water Department 1: Operations (2062) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0015 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Water Dept. 2",
+      "Description": "Water Department 2 (2063) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0016 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sewer Dept 1 Ops",
+      "Description": "Sewer Department 1: Operations (2064) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "01-0017 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sewer Dept. ",
+      "Description": "Sewer Department 2 (2065) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

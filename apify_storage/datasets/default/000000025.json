@@ -1,0 +1,26 @@
+{
+  "System Name": "Boeing Company",
+  "Location": "Huntsville, AL",
+  "County": "Madison",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "January 9, 2004, 5:29 pm (Added a system news entry)",
+  "System ID List": [
+    {
+      "System ID": "3924",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Fleetmap": [],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Huntsville",
+      "Freqs": [
+        "856.3875",
+        "857.3875",
+        "858.3875c"
+      ]
+    }
+  ]
+}

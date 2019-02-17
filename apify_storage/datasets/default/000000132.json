@@ -1,0 +1,18 @@
+{
+  "System Name": "Henry Zappia (011A)",
+  "Location": "Tucson, AZ",
+  "County": "Pima",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "February 9, 2018, 4:30 am (Changed Site # 001 (11400 E Catalina Highway) to 001 (11400 E Catalina Highway))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "11400 E Catalina Highway",
+      "Freqs": [
+        "859.3875c",
+        "855.2125"
+      ]
+    }
+  ]
+}

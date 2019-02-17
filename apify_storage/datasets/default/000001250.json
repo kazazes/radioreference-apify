@@ -1,0 +1,20 @@
+{
+  "System Name": "Clear Talk Communications, Inc.",
+  "Location": "Big Peak, ID",
+  "County": "Camas",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 4, 2008, 5:17 am (Added a new news entry)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Big Peak",
+        "01 461.625 ",
+        "02 461.725 ",
+        "03 461.800 ",
+        "04 461.875 "
+      ]
+    }
+  ]
+}

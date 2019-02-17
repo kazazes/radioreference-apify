@@ -1,0 +1,58 @@
+{
+  "System Name": "Northeast Missouri Electric Power Cooperative",
+  "Location": "Palmyra, MO IA",
+  "County": "9 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 20, 2018, 5:06 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": "Palmyra",
+      "County": [
+        "Marion, MO",
+        "00 451.050 "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Center",
+      "County": [
+        "Ralls, MO",
+        "00 451.275c "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Bonaparte",
+      "County": [
+        "Van Buren, IA",
+        "01 451.150 "
+      ]
+    },
+    {
+      "Site": "111 (6F)",
+      "Name": "Lewistown",
+      "County": [
+        "Lewis, MO",
+        "01 452.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 100",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 150",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "System Name": "Avis / Budget Car Rental",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 28, 2018, 11:47 am ((6) Talkgroups Updated (Avis / Budget Rental Car O'Hare))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "O'Hare Airport",
+        "01 463.8375 ",
+        "02 464.6125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ABG Operations",
+      "Description": "ABG Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fleet",
+      "Description": "Fleet ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bussing",
+      "Description": "Bussing ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Managers 1",
+      "Description": "Managers 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "205 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Managers 2",
+      "Description": "Managers 2 (Private) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "255 ",
+      "Mode  ": "T",
+      "Alpha Tag": "All Call",
+      "Description": "All Call ",
+      "Tag  ": "Business "
+    }
+  ]
+}

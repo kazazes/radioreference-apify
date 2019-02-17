@@ -1,0 +1,37 @@
+{
+  "System Name": "Intel Manufacturing Facility",
+  "Location": "Colorado Springs, CO",
+  "County": "El Paso",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 6, 2012, 10:47 pm (Deleted 1 talkgroup(s))",
+  "System ID List": [
+    {
+      "System ID": "7735",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "935.700",
+        "936.700c",
+        "937.725c",
+        "938.725c",
+        "939.725c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security/Fac",
+      "Description": "Security & Facilities ",
+      "Tag  ": "Business "
+    }
+  ]
+}

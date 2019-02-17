@@ -1,0 +1,375 @@
+{
+  "System Name": "Georgia Fleet Talk (NXDN)",
+  "Location": "Various, GA",
+  "County": "19 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 20, 2018, 11:37 pm (Changed Site # 003 (Jasper) to 003 (Jasper))",
+  "System ID List": [
+    {
+      "System ID": "15"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Atlanta",
+      "County": "Fulton",
+      "Freqs": [
+        "452.375c",
+        "452.025",
+        "461.300",
+        "462.325",
+        "462.375",
+        "451.375",
+        "451.200",
+        "451.350",
+        "452.700",
+        "462.125",
+        "463.625"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Clermont",
+      "County": "White",
+      "Freqs": [
+        "452.500",
+        "452.775",
+        "461.4875",
+        "463.2625",
+        "463.750",
+        "463.8375",
+        "463.8625",
+        "463.900",
+        "464.100",
+        "452.46875c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Jasper",
+      "County": "Pickens",
+      "Freqs": [
+        "451.78125",
+        "452.20625c",
+        "452.33125",
+        "461.9625",
+        "463.9375",
+        "464.9125",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Covington",
+      "County": "Newton",
+      "Freqs": [
+        "463.6875",
+        "464.5875",
+        "464.8125",
+        "461.5875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Rome",
+      "County": "Floyd",
+      "Freqs": [
+        "452.775",
+        "461.8125",
+        "463.4625",
+        "463.7875",
+        "452.4375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Stone Mountain",
+      "County": "DeKalb",
+      "Freqs": [
+        "451.925",
+        "452.475",
+        "461.300",
+        "461.450",
+        "462.325",
+        "463.525",
+        "463.975",
+        "452.825c"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Sweat Mountain",
+      "County": "Cobb",
+      "Freqs": [
+        "462.000",
+        "463.300",
+        "463.475",
+        "463.600",
+        "463.800",
+        "464.050",
+        "452.775c"
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Neese",
+      "County": "Madison",
+      "Freqs": [
+        "452.675",
+        "461.3875",
+        "461.9875",
+        "463.4125",
+        "463.9625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Cumming",
+      "County": "Forsyth",
+      "Freqs": [
+        "451.700",
+        "452.675",
+        "461.5375",
+        "462.53125",
+        "464.550",
+        "464.8625",
+        "464.7125c"
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Cartersville",
+      "County": "Bartow",
+      "Freqs": [
+        "452.24375",
+        "452.46875",
+        "452.74375",
+        "464.90625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Locust Grove",
+      "County": "Henry",
+      "Freqs": [
+        "452.20625",
+        "452.36875",
+        "452.38125",
+        "452.33125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Douglasville",
+      "County": "Douglas",
+      "Freqs": [
+        "461.69375",
+        "462.09375",
+        "462.11875",
+        "462.53125",
+        "464.68125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Tallapoosa",
+      "County": "Haralson",
+      "Freqs": [
+        "461.48125",
+        "461.68125",
+        "461.94375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 004",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 010",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 011",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 016",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 056",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "65 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MEDICAL 065",
+      "Description": "Medical Transport Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "73 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 073",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "90 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRANSPORT 090",
+      "Description": "Transport/Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 126",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "131 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 131",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "132 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 132",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 136",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "180 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 180",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "273 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 273",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "274 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 274",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "278 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRANSPORT 278",
+      "Description": "Transport/Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "279 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 279",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "280 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 280",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "282 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 282",
+      "Description": "Business User ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "600 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 600",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "601 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 601",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "605 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 605",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "606 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 606",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "607 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONCRETE 607",
+      "Description": "Concrete Delivery Service ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "System Name": "Federal Law Enforcement Training Center P25",
+  "Location": "Brunswick, GA",
+  "County": "Glynn",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 5, 2016, 2:21 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "4C1",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 2",
+      "Freqs": [
+        "162.750",
+        "163.0125c",
+        "163.3125",
+        "164.1875",
+        "164.5375",
+        "164.9375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Site 3",
+      "Freqs": [
+        "162.650",
+        "162.9125",
+        "164.7375c",
+        "166.0625",
+        "166.7375",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4000 ",
+      "HEX ": "fa0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "4001 ",
+      "HEX ": "fa1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4001",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4002 ",
+      "HEX ": "fa2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4002",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4003 ",
+      "HEX ": "fa3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4003",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4005 ",
+      "HEX ": "fa5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4005",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4007 ",
+      "HEX ": "fa7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4007",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4009 ",
+      "HEX ": "fa9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4009",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4011 ",
+      "HEX ": "fab ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4011",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4012 ",
+      "HEX ": "fac ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4012",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4013 ",
+      "HEX ": "fad ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4013",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4014 ",
+      "HEX ": "fae ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4014",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4017 ",
+      "HEX ": "fb1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4017",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "4021 ",
+      "HEX ": "fb5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TRNG 4012",
+      "Description": "Training ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

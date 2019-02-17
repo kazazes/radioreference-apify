@@ -1,0 +1,142 @@
+{
+  "System Name": "Electronic Communications Systems",
+  "Location": "Multiple, IN",
+  "County": "5 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 26, 2017, 11:30 pm (Changed Site # 102 (Bloomington) to 102 (Bloomington))",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": "Bedford",
+      "County": [
+        "Lawrence",
+        "05 451.8875 ",
+        "07 451.3625 ",
+        "09 452.1875 ",
+        "11 452.4875 ",
+        "13 452.8875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Bloomington",
+      "County": [
+        "Monroe",
+        "03 464.4125 ",
+        "05 451.700 ",
+        "09 452.050 ",
+        "13 452.350 ",
+        "15 463.7375 ",
+        "17 461.7875 "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Greencastle",
+      "County": [
+        "Putnam",
+        "02 451.9625 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Linton",
+      "County": [
+        "Greene",
+        "03 452.2375 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "108 (6C)",
+      "Name": "Seymour",
+      "County": [
+        "Jackson",
+        "04 463.3125 ",
+        "05 452.0125 ",
+        "09 452.800 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-05-012 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lumber",
+      "Description": "Lumber Company ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-03-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Roto Rooter",
+      "Description": "Roto Rooter Plumbing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-09-014 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Newspapers",
+      "Description": "Newspaper Delivery Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttle",
+      "Description": "Shuttle Van Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cable TV",
+      "Description": "Cable TV Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Ch1",
+      "Description": "HVAC Company - Channel 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-13-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Ch2",
+      "Description": "HVAC Company - Channel 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-15-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "White River ",
+      "Description": "White River Farm Cooperative ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-17-026 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Blmngtn Rfse",
+      "Description": "Refuse Trucks ",
+      "Tag  ": "Business "
+    }
+  ]
+}

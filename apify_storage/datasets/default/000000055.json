@@ -1,0 +1,137 @@
+{
+  "System Name": "Sunrise Park Ski Resort",
+  "Location": "Sunrise Park, AZ",
+  "County": "Apache",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "October 22, 2011, 7:13 pm (Updated mode assignments for 10 talkgroups)",
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "M",
+      "B7": "M"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S12",
+      "B7": "S12"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.7875",
+        "857.7875",
+        "858.7875",
+        "859.7875",
+        "860.7875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "000-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ADMIN PRI",
+      "Description": "Administration / Management Primary ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SKI PTRL A",
+      "Description": "Ski Patrol Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SKI PTRL B",
+      "Description": "Ski School Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MAINT PRI",
+      "Description": "Maintenance - Primary ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MAINT ALT",
+      "Description": "Maintenance - Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SKI LIFT OPS",
+      "Description": "Ski Lift Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SNOWMAKE OPS",
+      "Description": "Snowmaking Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-08  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SHUTTLE",
+      "Description": "Transportation Services (Shuttle) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "000-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MULTI USE ",
+      "Description": "Variable Use Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ADMIN SEC",
+      "Description": "Admin / Management Secondary ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "System Name": "Lincoln Correctional Center - IDOC (Logan)",
+  "Location": "Lincoln, IL",
+  "County": "Logan",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 23, 2018, 1:59 am (Changed News Entry ID=6170)",
+  "System ID List": [
+    {
+      "System ID": "692C",
+      "Connect Tone": "90.00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Lincoln",
+      "Freqs": [
+        "856.2375",
+        "856.9375",
+        "857.9375c",
+        "858.7375c",
+        "859.7375c",
+        "860.7375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "560 ",
+      "HEX ": "023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13 General",
+      "Description": "Logan CC - Primary Routine Comms ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "592 ",
+      "HEX ": "025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13 Low Side",
+      "Description": "Logan CC - Routine Ops: Low-Side Housing Units (units 1-6) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13 HighSide",
+      "Description": "Logan CC - Routine Ops: High-Side Housing Units (units 7-14) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13 Perimetr",
+      "Description": "Logan CC - Outside Perimeter Patrol (vehicles/units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13 1040",
+      "Description": "Logan CC - All Call ?? / or / Transportation  ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "K13/K18 Comm",
+      "Description": "Lincoln/Logan CC - Comms between Lincoln CC & Logan CC units ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "corr 528",
+      "Description": "corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "576 ",
+      "HEX ": "024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "corr 576",
+      "Description": "corrections ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint 752",
+      "Description": "Maintenance (road repair) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "912 ",
+      "HEX ": "039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint 912",
+      "Description": "Maintenance (power plant in basement) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "corr 976",
+      "Description": "Lt. Channel? ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

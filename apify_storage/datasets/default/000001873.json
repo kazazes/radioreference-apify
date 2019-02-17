@@ -1,0 +1,133 @@
+{
+  "System Name": "Upper Maryland Eastern Shore Consortium",
+  "Location": "Upper Shore, MD",
+  "County": "3 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 19, 2016, 7:05 pm (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "6B1B",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "County": "",
+      "Freqs": [
+        "851.5875",
+        "851.700",
+        "851.800",
+        "851.975",
+        "852.575a",
+        "853.275",
+        "853.425a",
+        "853.475",
+        "853.675a",
+        "853.9875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "24976 ",
+      "HEX ": "619 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JFire Tac 5",
+      "Description": "Joint Fire Tac 5 (Caroline, Queen Anne's, Talbot) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "25040 ",
+      "HEX ": "61d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS Med-Call",
+      "Description": "EMRC Hospital Patch Request ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25072 ",
+      "HEX ": "61f ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS Med-A",
+      "Description": "EMRC Hospital Patch A ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "25104 ",
+      "HEX ": "621 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS Med-B",
+      "Description": "EMRC Hospital Patch B ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "26352 ",
+      "HEX ": "66f ",
+      "Mode  ": "D",
+      "Alpha Tag": "UMESC Aviat1",
+      "Description": "Aviation 1 - Queen Anne County Medevac Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26384 ",
+      "HEX ": "671 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UMESC Aviat2",
+      "Description": "Aviation 2 - Talbot County Medevac Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26416 ",
+      "HEX ": "673 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UMESC Aviat3",
+      "Description": "Aviation 3 - Caroline County Medevac Patch ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26448 ",
+      "HEX ": "675 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UMESC AvCall",
+      "Description": "Aviation Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26608 ",
+      "HEX ": "67f ",
+      "Mode  ": "D",
+      "Alpha Tag": "UMESC Aviat4",
+      "Description": "Aviation 4 - Kent County Medevac Patch ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMESC 3248",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMESC 3280",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "8304 ",
+      "HEX ": "207 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMESC 8304",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

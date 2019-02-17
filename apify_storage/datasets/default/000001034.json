@@ -1,0 +1,152 @@
+{
+  "System Name": "Guam Government (GovGuam)",
+  "Location": "Hagatna,",
+  "County": "2 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "November 23, 2014, 2:07 am (Updated Talkgroups (6 Updated))",
+  "System ID List": [
+    {
+      "System ID": "3127",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 01 - Barrigada",
+      "County": "N/A",
+      "Freqs": [
+        "856.2375a",
+        "857.2375a",
+        "858.2375a",
+        "859.2375a",
+        "859.7375a",
+        "860.2375c",
+        "860.7375a"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Site 02 - Agat",
+      "County": "N/A",
+      "Freqs": [
+        "856.2625a",
+        "857.2625a",
+        "858.2625a",
+        "859.2625a",
+        "859.7625a",
+        "860.2625c",
+        "860.7625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "GUM Airport",
+      "Description": "Airport Police / Operations Dispatch ",
+      "Tag  ": "Multi-Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3088 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3088",
+      "Description": "UnID 3088 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4048 ",
+      "HEX ": "0fd ",
+      "Mode  ": "A",
+      "Alpha Tag": "4048",
+      "Description": "UnID 4048 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4368 ",
+      "HEX ": "111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4368",
+      "Description": "UnID 4368 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5264 ",
+      "HEX ": "149 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5264",
+      "Description": "UnID 5264 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5296 ",
+      "HEX ": "14b ",
+      "Mode  ": "A",
+      "Alpha Tag": "5296",
+      "Description": "UnID 5296 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5456 ",
+      "HEX ": "155 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5456",
+      "Description": "UnID 5456 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5744 ",
+      "HEX ": "167 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5744",
+      "Description": "UnID 5744 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "7184 ",
+      "HEX ": "1c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7184",
+      "Description": "UnID 7184 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "9968 ",
+      "HEX ": "26f ",
+      "Mode  ": "A",
+      "Alpha Tag": "9968",
+      "Description": "UnID 9968 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "9984 ",
+      "HEX ": "270 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9984",
+      "Description": "UnID 9984 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10064 ",
+      "HEX ": "275 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10064",
+      "Description": "UnID 10064 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10160 ",
+      "HEX ": "27b ",
+      "Mode  ": "A",
+      "Alpha Tag": "10160",
+      "Description": "UnID 10160 ",
+      "Tag  ": "Other "
+    }
+  ]
+}

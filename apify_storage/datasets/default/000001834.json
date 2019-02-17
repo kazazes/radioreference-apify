@@ -1,0 +1,51 @@
+{
+  "System Name": "Johns Hopkins Hospital",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 5, 2016, 6:12 pm (Added Talkgroup 110 Shuttle)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.250 ",
+        "02 463.625 ",
+        "03 464.000 ",
+        "04 464.575 ",
+        "05 464.775 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JH Hosp Fac",
+      "Description": "Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JH Hosp Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JH Hosp Shut",
+      "Description": "Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JH Hosp H/K",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

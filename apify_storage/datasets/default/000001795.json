@@ -1,0 +1,424 @@
+{
+  "System Name": "Atlantic Communications",
+  "Location": "Various, ME",
+  "County": "Statewide",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 7, 2016, 2:17 pm (Added Talkgroup 102175 Construction )",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Bangor",
+      "County": [
+        "Penobscot",
+        "01 451.8625 ",
+        "02 452.100 ",
+        "03 452.350 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Blue Hill Mountain",
+      "County": [
+        "Hancock",
+        "01 451.8375 ",
+        "02 452.150 ",
+        "03 452.425 ",
+        "04 460.725 ",
+        "05 463.475 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Kings Mountain",
+      "County": [
+        "Penobscot",
+        "01 451.9375 ",
+        "02 452.0125 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Streaked Mountain",
+      "County": [
+        "Oxford",
+        "01 461.450 ",
+        "02 464.300 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Bagely Mountain",
+      "County": [
+        "Penobscot",
+        "01 461.525 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Dixmont Mountain",
+      "County": [
+        "Penobscot",
+        "01 462.025 ",
+        "02 463.850 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Bull Hill",
+      "County": [
+        "Hancock",
+        "01 452.000 ",
+        "02 461.575 ",
+        "03 461.200 ",
+        "04 463.800 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Bald Mountain",
+      "County": [
+        "Hancock",
+        "01 462.000 ",
+        "02 464.175 ",
+        "03 461.500 ",
+        "04 460.950 ",
+        "05 461.825 ",
+        "06 462.050 "
+      ],
+      "Data": [
+        "07 461.400 ",
+        "08 464.800 "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Sugarloaf Mountain",
+      "County": [
+        "Franklin",
+        "01 451.450 ",
+        "02 463.200 ",
+        "03 463.425 ",
+        "04 463.625 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Copeland Hill",
+      "County": [
+        "Penobscot",
+        "01 461.175 ",
+        "02 461.475 ",
+        "03 461.750 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "WCBB TV Tower",
+      "County": [
+        "Kennebec",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 463.525 ",
+        "06 460.775 "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Eaton Mountain",
+      "County": [
+        "Kennebec",
+        "01 461.050 ",
+        "02 464.900 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Mount Waldo",
+      "County": [
+        "Waldo",
+        "01 463.700 ",
+        "02 463.975 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Gouldsboro Mtn.",
+      "County": [
+        "Hancock",
+        "01 464.700 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Nelson Hill",
+      "County": [
+        "Somerset",
+        "01 460.750 ",
+        "02 464.950 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Big Spencer Mtn.",
+      "County": [
+        "Piscataquis",
+        "01 464.325 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Blackcap Mountain",
+      "County": [
+        "Hancock",
+        "01 451.650 ",
+        "02 461.925 ",
+        "03 462.125 ",
+        "04 463.400 ",
+        "05 464.300 ",
+        "06 464.350 "
+      ],
+      "Data": [
+        "07 464.625 ",
+        "08 464.650 "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Mars Hill Mountain",
+      "County": [
+        "Aroostook",
+        "01 464.300 ",
+        "02 464.650 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Mitten Mountain",
+      "County": [
+        "Washington",
+        "01 463.750 ",
+        "02 464.350 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Medway",
+      "County": [
+        "Penobscot",
+        "01 461.125 ",
+        "02 464.850 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Bangor Hilton",
+      "County": [
+        "Penobscot",
+        "01 463.975 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Cooper Mountain",
+      "County": [
+        "Piscataquis",
+        "01 463.800 ",
+        "02 464.750 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Dover Foxcroft",
+      "County": [
+        "Piscataquis",
+        "01 463.500 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Charleston Hill",
+      "County": [
+        "Penobscot",
+        "01 461.625 ",
+        "02 464.750 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Blackwell Hill",
+      "County": [
+        "Somerset",
+        "01 460.950 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Passadumkeag Mtn.",
+      "County": [
+        "Penobscot",
+        "01 463.525 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Fish Hill",
+      "County": [
+        "Penobscot",
+        "01 461.800 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Big Squaw Mountain",
+      "County": [
+        "Piscataquis",
+        "01 461.550 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Franklin",
+      "County": [
+        "Hancock",
+        "01 451.8875 ",
+        "02 452.2375 ",
+        "03 453.0125 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "York",
+      "County": [
+        "York",
+        "01 460.950 ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 463.750 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-02-175 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construction",
+      "Description": "Construction  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-04-182 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

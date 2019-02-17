@@ -1,0 +1,128 @@
+{
+  "System Name": "Micron Technology, Inc.",
+  "Location": "Boise, ID",
+  "County": "Ada",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 17, 2017, 2:05 pm (Changed Talkgroup Category: All Talkgroups to All (All ))",
+  "System Frequencies": [
+    {
+      "Site": "466 (1D2)",
+      "Name": [
+        "Primary",
+        "01 856.3375c ",
+        "02 857.3375c ",
+        "03 858.3375c ",
+        "04 859.3375c ",
+        "05 860.3375c "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "OPerations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OPs",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OPs",
+      "Description": "OPerations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "123 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "129 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "138 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "144 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

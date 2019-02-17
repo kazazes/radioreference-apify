@@ -1,0 +1,27 @@
+{
+  "System Name": "Wal-Mart Distribution Center",
+  "Location": "Lewiston, ME",
+  "County": "Androscoggin",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 7, 2019, 12:48 pm (Changed Site # 001 (Lewiston) to 001 (Lewiston))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lewiston",
+        "01 452.725 ",
+        "02 451.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 101",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

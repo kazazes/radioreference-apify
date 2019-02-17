@@ -1,0 +1,27 @@
+{
+  "System Name": "IBM Research and Development",
+  "Location": "Boulder, CO",
+  "County": "Boulder",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 23, 2015, 9:43 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 153.110 ",
+        "02 153.380 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sec / Maint",
+      "Description": "Security and Maintenance ",
+      "Tag  ": "Security "
+    }
+  ]
+}

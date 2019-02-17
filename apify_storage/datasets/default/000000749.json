@@ -1,0 +1,22 @@
+{
+  "System Name": "Capital One Arena",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 5, 2018, 11:38 am (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.150 ",
+        "02 461.275 ",
+        "03 461.425 ",
+        "04 461.075 ",
+        "05 461.525 ",
+        "06 461.600 "
+      ]
+    }
+  ]
+}

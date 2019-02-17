@@ -1,0 +1,39 @@
+{
+  "System Name": "Maine Radio (Blackstrap Hill)",
+  "Location": "Blackstrap Hill, ME",
+  "County": "Cumberland",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 10, 2014, 6:40 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 N/A ",
+        "06 461.525 ",
+        "07 462.050 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-07-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TaxiDispatch",
+      "Description": "Taxi Dispatch ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi Cabs",
+      "Description": "Taxi Cabs ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

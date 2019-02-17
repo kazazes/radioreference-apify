@@ -1,0 +1,40 @@
+{
+  "System Name": "Statewide Emergency Mobile System",
+  "Location": "Mesa, AZ",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "May 20, 2015, 4:28 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "3F1",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "Statewide Mobile",
+      "County": "Statewide",
+      "Freqs": [
+        "769.14375",
+        "769.64375",
+        "770.14375",
+        "770.64375",
+        "774.10625",
+        "774.60625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2573 ",
+      "HEX ": "a0d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Testing",
+      "Description": "Technician Testing ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

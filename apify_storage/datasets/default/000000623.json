@@ -1,0 +1,21 @@
+{
+  "System Name": "PELCO, Inc",
+  "Location": "Cheyenne Wells, CO",
+  "County": "Cheyenne",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "June 1, 2008, 3:54 am (Default Location Data Updated to 38.8333363 / -102.6004728 / 15)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.5125",
+        "857.5125",
+        "858.5125",
+        "859.5125",
+        "860.5125c"
+      ]
+    }
+  ]
+}

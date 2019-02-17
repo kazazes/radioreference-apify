@@ -1,0 +1,21 @@
+{
+  "System Name": "West Hawaii Electronics",
+  "Location": "Kona, HI",
+  "County": "Hawaii",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 9, 2004, 5:29 pm (Updated General System Info)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site-1",
+        "01 451.400 ",
+        "02 451.500 ",
+        "03 451.725 ",
+        "04 452.100 ",
+        "05 452.150 "
+      ]
+    }
+  ]
+}

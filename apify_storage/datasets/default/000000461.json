@@ -1,0 +1,40 @@
+{
+  "System Name": "Teichert Aggregates",
+  "Location": "Sacramento, CA",
+  "County": "Sacramento",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 8, 2019, 11:26 pm (Updated Function Tag assignments for 3 talkgroups(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 153.6725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Teichert 1",
+      "Description": "Channel 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Teichert 2",
+      "Description": "Channel 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Teichert 3",
+      "Description": "Channel 3 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

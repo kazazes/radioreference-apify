@@ -1,0 +1,71 @@
+{
+  "System Name": "Calvert Cliffs Nuclear Power Plant (Project 16)",
+  "Location": "Lusby, MD",
+  "County": "Calvert",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 3, 2017, 4:53 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "380F",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.8875",
+        "857.8875c",
+        "858.8875c",
+        "859.8875c",
+        "860.8875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire 1",
+      "Description": "Fire 1 (1D) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire 2",
+      "Description": "Fire 2 (1E) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emerg Resp 1",
+      "Description": "Emergency Response 1 (1M) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emerg Resp 2",
+      "Description": "Emergency Response 2 (1N) ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "928 ",
+      "HEX ": "03a ",
+      "Mode  ": "A",
+      "Alpha Tag": "CalvClf Data",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

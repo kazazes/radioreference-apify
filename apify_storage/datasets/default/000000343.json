@@ -1,0 +1,199 @@
+{
+  "System Name": "Los Angeles Memorial Coliseum",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 16, 2018, 9:29 pm ((1) Talkgroups Updated (Coliseum Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "LA Coliseum",
+        "01 451.350 ",
+        "04 451.4875 ",
+        "05 451.6375 ",
+        "06 451.9625 ",
+        "07 452.625 ",
+        "08 452.8125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FOOD COURT",
+      "Description": "Food Court Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CONCESSIONS",
+      "Description": "Food and Beverage Concessions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "T",
+      "Alpha Tag": "54",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES",
+      "Description": "Facilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "102",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FIRST AID",
+      "Description": "First Aid ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FOOD VENDORS",
+      "Description": "Mobile food vendors ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CUSTODIAL",
+      "Description": "Custodial ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "107",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "119 ",
+      "Mode  ": "T",
+      "Alpha Tag": "119",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "122",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "140",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "172 ",
+      "Mode  ": "T",
+      "Alpha Tag": "172",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "175 ",
+      "Mode  ": "T",
+      "Alpha Tag": "175",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176 ",
+      "Mode  ": "T",
+      "Alpha Tag": "176",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "177 ",
+      "Mode  ": "T",
+      "Alpha Tag": "177",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY CMD",
+      "Description": "Security Command Post ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "209 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "210 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "211",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "T",
+      "Alpha Tag": "212",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "215 ",
+      "Mode  ": "T",
+      "Alpha Tag": "215",
+      "Description": "215 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "216",
+      "Description": "LA Coliseum ",
+      "Tag  ": "Business "
+    }
+  ]
+}

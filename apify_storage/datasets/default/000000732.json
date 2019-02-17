@@ -1,0 +1,145 @@
+{
+  "System Name": "Wethersfield (P25)",
+  "Location": "Wethersfield, CT",
+  "County": "Hartford",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 12, 2017, 11:23 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "924CA"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "9 (9)",
+      "Site": "001 (1)",
+      "Name": "Simucast",
+      "Freqs": [
+        "852.300a",
+        "852.8375a",
+        "853.075a",
+        "853.5875a",
+        "853.7875a",
+        "857.0625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD All Call",
+      "Description": "Police All Call ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD 1 Disp",
+      "Description": "Police 1 - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD TAC 2",
+      "Description": "Police 2 - Tacical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD TAC 3",
+      "Description": "Police 3 - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD TAC 4",
+      "Description": "Police 4 - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD TAC 5",
+      "Description": "Police 5 - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD TAC 6",
+      "Description": "Police 6 - Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD Det 1",
+      "Description": "Detective 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD Det 2",
+      "Description": "Detective 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD Cmnd",
+      "Description": "Incident Command - Law Enforcement ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "T",
+      "Alpha Tag": "WPD Supervr",
+      "Description": "Supervisors ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "500 ",
+      "HEX ": "1f4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WDPW AllCall",
+      "Description": "Public Works All Call ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "501 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WDPW 1",
+      "Description": "Public Works 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "502 ",
+      "HEX ": "1f6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WDPW 2",
+      "Description": "Public Works 2 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

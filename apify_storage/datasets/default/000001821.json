@@ -1,0 +1,43 @@
+{
+  "System Name": "Federal Correctional Institution Cumberland",
+  "Location": "Cumberland, MD",
+  "County": "Allegany",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 26, 2011, 5:34 pm (Updated Talkgroups (1 Updated))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "407.01250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "B138",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "407.0125c",
+        "408.250c",
+        "408.8125c",
+        "409.0125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Health Svcs",
+      "Description": "Health Services ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

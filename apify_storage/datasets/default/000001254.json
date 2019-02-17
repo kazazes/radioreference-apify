@@ -1,0 +1,27 @@
+{
+  "System Name": "White Cloud Communications",
+  "Location": "Twin Falls, ID",
+  "County": "Cassia",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 5, 2014, 5:55 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "6C11",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Burley",
+      "Freqs": [
+        "856.0375",
+        "856.4125",
+        "859.0375c",
+        "860.0375",
+        "860.3875"
+      ]
+    }
+  ]
+}

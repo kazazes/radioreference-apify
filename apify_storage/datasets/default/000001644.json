@@ -1,0 +1,60 @@
+{
+  "System Name": "Electronic Engineering Sioux City",
+  "Location": "Sioux City, IA",
+  "County": "Woodbury",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "May 31, 2015, 11:50 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "006 (6)",
+      "Name": "Sioux City",
+      "Freqs": [
+        "938.600c",
+        "938.625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi Express",
+      "Description": "Taxi Express ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Newspaper",
+      "Description": "Newspaper Deliveries ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "03f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unknown",
+      "Description": "Unknown user ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1120 ",
+      "HEX ": "046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cabs, Inc.",
+      "Description": "Cabs, Inc. ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "10720 ",
+      "HEX ": "29e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Private",
+      "Description": "Private User (10734) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

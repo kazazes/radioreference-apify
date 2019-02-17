@@ -1,0 +1,53 @@
+{
+  "System Name": "Paragould Communications (Jonesboro)",
+  "Location": "Jonesboro, AR",
+  "County": "Craighead",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 9, 2013, 12:34 am (Updated 3 Talkgroup Categories)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Jonesboro",
+        "02 451.1875 ",
+        "04 451.5875 ",
+        "06 452.1375 ",
+        "09 452.6875 ",
+        "10 452.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NEADRT-TAC2",
+      "Description": "Northeast Arkansas Disaster Response Team Channel 2 (NEADRT 2) ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-04-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TC MALL SEC",
+      "Description": "Turtle Creek Mall Securtiy ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-062 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TC MALL SEC",
+      "Description": "Turtle Creek Mall Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TC MALL SEC",
+      "Description": "Turtle Creek Mall Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

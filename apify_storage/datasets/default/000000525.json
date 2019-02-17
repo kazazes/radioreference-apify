@@ -1,0 +1,77 @@
+{
+  "System Name": "Fisher Wireless (San Francisco)",
+  "Location": "San Francisco, CA",
+  "County": "San Francisco",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 15, 2013, 12:28 pm (Changed Site # 001 (Clay Jones Building) to 001 (Clay Jones Building))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Clay Jones Building",
+        "08 483.7375 ",
+        "10 483.8875 ",
+        "16 484.2625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-08-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 101",
+      "Description": "Delivery service in San Francisco ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-107 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 107",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-10-109 ",
+      "Mode  ": "A",
+      "Alpha Tag": "McCoy Sec",
+      "Description": "McCoy security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-10-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pier 39 Sec",
+      "Description": "Pier 39 Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-10-146 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Buses 146",
+      "Description": "Tour Buses in San Francisco ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-10-149 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 149",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-10-159 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 159",
+      "Description": "Delivery in San Francisco ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-10-162 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cleaners 162",
+      "Description": "SF cleaners for Muni systems ",
+      "Tag  ": "Business "
+    }
+  ]
+}

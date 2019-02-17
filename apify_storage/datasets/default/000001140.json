@@ -1,0 +1,173 @@
+{
+  "System Name": "Houston Peach Regional Radio System (HPRRS)",
+  "Location": "Various, GA",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 14, 2017, 9:34 pm (Added Site # 3 (Warner Robins))",
+  "System ID List": [
+    {
+      "System ID": "145",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Houston County Simulcast",
+      "County": "Houston",
+      "Freqs": [
+        "854.5625",
+        "854.7875a",
+        "855.0125",
+        "855.2625a",
+        "855.5375a",
+        "855.7375",
+        "855.9375c",
+        "856.3375",
+        "856.4625",
+        "856.9375",
+        "857.3125",
+        "857.4375",
+        "857.9375",
+        "858.4875",
+        "858.9375",
+        "859.4875",
+        "859.7375",
+        "859.9625",
+        "860.4875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Peach County",
+      "County": "Peach",
+      "Freqs": [
+        "855.0625",
+        "855.7625a",
+        "856.3625c",
+        "856.9625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Warner Robins",
+      "County": "Houston",
+      "Freqs": [
+        "854.7875a",
+        "855.2625a",
+        "855.5375a",
+        "855.9375c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCFD FG 1",
+      "Description": "Fireground 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCFD FG 2",
+      "Description": "Fireground 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "31 ",
+      "HEX ": "01f ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS Disp",
+      "Description": "EMS - Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS Admin",
+      "Description": "EMS - Admin ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS Talk",
+      "Description": "EMS - TalkAround ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "34 ",
+      "HEX ": "022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS Events",
+      "Description": "EMS - Events ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "36 ",
+      "HEX ": "024 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS Events",
+      "Description": "EMS - Events ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "33 ",
+      "HEX ": "021 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Perry ER",
+      "Description": "EMS - Perry ER ",
+      "Tag  ": "Hospital "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "221 ",
+      "HEX ": "0dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "FVSU PD Disp",
+      "Description": "Fort Valley State University Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "316 ",
+      "HEX ": "13c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FVPD Disp",
+      "Description": "Fort Valley Police 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "317 ",
+      "HEX ": "13d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FVPD Ch 2",
+      "Description": "Fort Valley Police 2 ",
+      "Tag  ": "Law Talk "
+    }
+  ]
+}

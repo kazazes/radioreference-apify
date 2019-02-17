@@ -1,0 +1,281 @@
+{
+  "System Name": "Maui County Regional Interoperable P25 Public Safety Radio System",
+  "Location": "Kahului, HI",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 9, 2019, 6:40 pm (Updated mode assignments for 18 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "5F7",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Kahului",
+      "County": "Maui",
+      "Freqs": [
+        "851.100",
+        "851.600",
+        "852.100",
+        "853.100a",
+        "853.300c",
+        "853.600a",
+        "853.950"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Puunianiau",
+      "County": "Maui",
+      "Freqs": [
+        "851.550",
+        "851.7375",
+        "852.550",
+        "852.7625",
+        "853.550c",
+        "853.7625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Site-004",
+      "County": "Maui",
+      "Freqs": [
+        "770.44375",
+        "770.69375",
+        "770.94375",
+        "773.05625a",
+        "773.31875a",
+        "773.56875c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Hana",
+      "County": "Maui",
+      "Freqs": [
+        "851.2125",
+        "851.4625",
+        "852.4625",
+        "852.7375c",
+        "853.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Lahaina",
+      "County": "Maui",
+      "Freqs": [
+        "851.2375",
+        "851.800",
+        "852.2125",
+        "853.050",
+        "853.350c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Lanai City",
+      "County": "Maui",
+      "Freqs": [
+        "856.2375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Lanai",
+      "County": "Maui",
+      "Freqs": [
+        "855.9625a",
+        "856.2625a",
+        "857.2625c",
+        "857.7125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Mauna Loa",
+      "County": "Maui",
+      "Freqs": [
+        "855.9875",
+        "856.7125",
+        "857.2375",
+        "857.7375c",
+        "858.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "East Maui",
+      "County": "Maui",
+      "Freqs": [
+        "855.4875",
+        "856.9375",
+        "857.4375",
+        "857.9375c",
+        "859.2375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Kaunakakai",
+      "County": "Maui",
+      "Freqs": [
+        "856.4375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Waimea",
+      "County": "Hawaii",
+      "Freqs": [
+        "857.4875c",
+        "858.7625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5500 ",
+      "HEX ": "157c ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Page",
+      "Description": "Maui Fire Dispatch Paging ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "5510 ",
+      "HEX ": "1586 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Disp Ch-1",
+      "Description": "Maui Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "5520 ",
+      "HEX ": "1590 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-2",
+      "Description": "Maui Fire Ch-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5530 ",
+      "HEX ": "159a ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-3",
+      "Description": "Maui Fire Ch-3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5540 ",
+      "HEX ": "15a4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-4",
+      "Description": "Maui Fire Ch-4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5550 ",
+      "HEX ": "15ae ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-5",
+      "Description": "Maui Fire Ch-5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5560 ",
+      "HEX ": "15b8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-6",
+      "Description": "Maui Fire Ch-6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5570 ",
+      "HEX ": "15c2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-7",
+      "Description": "Maui Fire Ch-7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "5580 ",
+      "HEX ": "15cc ",
+      "Mode  ": "T",
+      "Alpha Tag": "Fire Tac Ch-8",
+      "Description": "Maui Fire Ch-8 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 1",
+      "Description": "Range Testing ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 3",
+      "Description": "Range Testing ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 11",
+      "Description": "Range Testing ",
+      "Tag  ": "Other "
+    }
+  ]
+}

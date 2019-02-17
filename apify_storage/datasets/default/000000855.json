@@ -1,0 +1,84 @@
+{
+  "System Name": "Collier County Schools Transportation (P25)",
+  "Location": "Naples, FL",
+  "County": "Collier",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 12, 2018, 11:22 am (Changed Site # 001 (Primary ) to 001 (Primary ))",
+  "System ID List": [
+    {
+      "System ID": "00a",
+      "WACN": "91FC4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "10 (A)",
+      "Site": "001 (1)",
+      "Name": "Primary ",
+      "Freqs": [
+        "856.9625c",
+        "857.4875a",
+        "857.9625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "31010 ",
+      "HEX ": "7922 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 1",
+      "Description": "Transport 1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "31011 ",
+      "HEX ": "7923 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 2",
+      "Description": "Transport 2 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "31012 ",
+      "HEX ": "7924 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 3",
+      "Description": "Transport 3 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "31013 ",
+      "HEX ": "7925 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 4",
+      "Description": "Transport 4 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "31014 ",
+      "HEX ": "7926 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 5",
+      "Description": "Transport 5 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "31016 ",
+      "HEX ": "7928 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transport 6",
+      "Description": "Transport 6 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "64001 ",
+      "HEX ": "fa01 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

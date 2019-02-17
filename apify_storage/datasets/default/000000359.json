@@ -1,0 +1,57 @@
+{
+  "System Name": "McDermott Communications",
+  "Location": "Mt Wilson, Santiago Peak, CA",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 24, 2018, 12:33 am ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "County": [
+        "Los Angeles",
+        "01 451.0375 ",
+        "02 453.000 ",
+        "03 451.1875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ambulance",
+      "Description": "Ambulance - BLS - Glendale area ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "35 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tow",
+      "Description": "Towing - Pasadena area ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tow ",
+      "Description": "Towing  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BGardensTrans",
+      "Description": "City of Bell Gardens Transit ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "249 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LA Marathon",
+      "Description": "Los Angeles Marathon 2016 Coordination ",
+      "Tag  ": "Business "
+    }
+  ]
+}

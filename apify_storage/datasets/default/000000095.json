@@ -1,0 +1,134 @@
+{
+  "System Name": "Phoenix Transit Authority",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "December 15, 2018, 12:08 am (Updated Function Tag assignments for 1 talkgroups(Operations))",
+  "System ID List": [
+    {
+      "System ID": "506"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "001 (1)",
+      "Name": "South Mountain",
+      "Freqs": [
+        "851.9625c",
+        "852.1625c",
+        "852.3625",
+        "852.6375",
+        "852.8375",
+        "853.0375",
+        "853.2375",
+        "853.4375"
+      ]
+    },
+    {
+      "Region": "000",
+      "Site": "002 (2)",
+      "Name": "Thompson Peak",
+      "Freqs": [
+        "852.0875c",
+        "852.2875c",
+        "852.4625",
+        "852.6875",
+        "852.9125",
+        "853.1375",
+        "853.3375",
+        "853.6625"
+      ]
+    },
+    {
+      "Region": "000",
+      "Site": "003 (3)",
+      "Name": "White Tanks",
+      "Freqs": [
+        "852.0375c",
+        "852.2375c",
+        "852.4375",
+        "852.6625",
+        "852.8625",
+        "853.0625",
+        "853.2626",
+        "853.475"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 1",
+      "Description": "Initial Testing Setup ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 3",
+      "Description": "Initial Testing Setup ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Testing 4",
+      "Description": "Initial Testing Setup ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1001",
+      "Description": "Operations 1001 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1002",
+      "Description": "Operations 1002 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1008",
+      "Description": "Operations 1008 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1014",
+      "Description": "Operations 1014 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1019 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1019",
+      "Description": "Operations 1019 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1023",
+      "Description": "Operations 1023 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Data 1029",
+      "Description": "Data 1029 ",
+      "Tag  ": "Data "
+    }
+  ]
+}

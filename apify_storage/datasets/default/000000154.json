@@ -1,0 +1,1614 @@
+{
+  "System Name": "Arkansas Wireless Information Network (AWIN)",
+  "Location": "Statewide, AR TX",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 27, 2019, 5:37 pm (Added Talkgroup 18454 Sheriff Traffic(Garland County (26)))",
+  "System ID List": [
+    {
+      "System ID": "188",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Fort Smith Simulcast",
+      "County": "Sebastian, AR",
+      "Freqs": [
+        "771.31875c",
+        "771.56875a",
+        "772.44375",
+        "772.69375",
+        "773.16875",
+        "773.41875",
+        "773.74375",
+        "774.08125",
+        "774.33125",
+        "774.58125",
+        "774.83125",
+        "775.08125",
+        "775.33125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Mountainburg",
+      "County": "Crawford, AR",
+      "Freqs": [
+        "851.2125c",
+        "852.0875a",
+        "852.5875",
+        "853.225",
+        "853.825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Fayetteville Simulcast",
+      "County": "Washington, AR",
+      "Freqs": [
+        "854.2125c",
+        "854.9875a",
+        "855.2375",
+        "856.2375",
+        "856.7375",
+        "857.2375",
+        "858.2375",
+        "859.2375",
+        "860.2375",
+        "860.7375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Little Rock Metro Simulcast",
+      "County": "Pulaski, AR",
+      "Freqs": [
+        "851.1375a",
+        "851.1625",
+        "852.4375a",
+        "853.700",
+        "854.5625",
+        "854.6375",
+        "855.8375",
+        "856.1875c",
+        "856.2125",
+        "856.4375",
+        "856.4875",
+        "856.7125",
+        "856.7625",
+        "856.9375",
+        "857.2125",
+        "857.2625",
+        "857.4875",
+        "857.6625",
+        "857.7125",
+        "857.7625",
+        "857.9375",
+        "858.2125",
+        "858.7625",
+        "858.9375",
+        "859.2125",
+        "859.4875",
+        "859.7625a",
+        "859.9375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Benton County Simulcast ???",
+      "County": "Benton, AR",
+      "Freqs": [
+        "769.45625",
+        "769.95625",
+        "770.45625a",
+        "770.90625a",
+        "773.03125a",
+        "773.33125c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "Russellville",
+      "County": "Pope, AR",
+      "Freqs": [
+        "769.6875c",
+        "770.4375a",
+        "770.9375",
+        "773.5625",
+        "774.5625",
+        "774.8125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Nimrod",
+      "County": "Perry, AR",
+      "Freqs": [
+        "851.300",
+        "851.575",
+        "852.300",
+        "852.7375a",
+        "853.750c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Hector",
+      "County": "Pope, AR",
+      "Freqs": [
+        "851.275",
+        "852.3375",
+        "852.5625",
+        "852.8125a",
+        "853.8125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Katies Knob",
+      "County": "Johnson, AR",
+      "Freqs": [
+        "851.150",
+        "851.550",
+        "851.800",
+        "853.1375a",
+        "853.3875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "Hartford",
+      "County": "Sebastian, AR",
+      "Freqs": [
+        "851.400c",
+        "851.625",
+        "851.700a",
+        "851.7375",
+        "851.875",
+        "853.0875",
+        "853.3375",
+        "856.2125",
+        "856.9625",
+        "858.9625",
+        "860.2125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Cass",
+      "County": "Franklin, AR",
+      "Freqs": [
+        "851.3625c",
+        "851.650a",
+        "853.2625a",
+        "853.7625",
+        "854.3625",
+        "860.9625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "West Fork",
+      "County": "Washington, AR",
+      "Freqs": [
+        "851.2625c",
+        "851.675a",
+        "851.7625a",
+        "852.9625",
+        "854.1125",
+        "856.3125",
+        "856.7625",
+        "857.3125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "031 (1F)",
+      "Name": "Rogers",
+      "County": "Benton, AR",
+      "Freqs": [
+        "851.1625a",
+        "851.4125",
+        "853.4125",
+        "856.1875c",
+        "856.7625",
+        "859.7625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Combs",
+      "County": "Madison, AR",
+      "Freqs": [
+        "851.2375",
+        "851.4875a",
+        "852.2875a",
+        "853.5375",
+        "853.7875",
+        "856.4625",
+        "857.4625",
+        "858.4625a",
+        "859.1375c",
+        "859.4625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "033 (21)",
+      "Name": "Swain",
+      "County": "Newton, AR",
+      "Freqs": [
+        "851.8625c",
+        "852.1375a",
+        "852.650a",
+        "852.900",
+        "853.175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "034 (22)",
+      "Name": "Harrison",
+      "County": "Boone, AR",
+      "Freqs": [
+        "851.2375c",
+        "851.4875a",
+        "853.2875",
+        "853.5375",
+        "853.7875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "035 (23)",
+      "Name": "Pyatt",
+      "County": "Marion, AR",
+      "Freqs": [
+        "851.900c",
+        "852.175a",
+        "852.425",
+        "853.1125",
+        "853.4625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "036 (24)",
+      "Name": "Lurton",
+      "County": "Newton, AR",
+      "Freqs": [
+        "856.1375c",
+        "856.9875",
+        "857.9875",
+        "858.9875a",
+        "859.9875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "037 (25)",
+      "Name": "Dennard",
+      "County": "Van Buren, AR",
+      "Freqs": [
+        "851.200a",
+        "851.450",
+        "851.725",
+        "853.5875a",
+        "853.8375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "040 (28)",
+      "Name": "Cedarville",
+      "County": "Crawford, AR",
+      "Freqs": [
+        "851.2125",
+        "851.3125a",
+        "851.4625",
+        "853.3125",
+        "853.575",
+        "857.6625c",
+        "860.9375a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "041 (29)",
+      "Name": "Waldron",
+      "County": "Scott, AR",
+      "Freqs": [
+        "851.625c",
+        "851.875a",
+        "853.0875",
+        "853.3375",
+        "858.9625",
+        "859.2625",
+        "859.9625",
+        "860.2125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "042 (2A)",
+      "Name": "Hickman Knob",
+      "County": "Baxter, AR",
+      "Freqs": [
+        "851.100c",
+        "851.350a",
+        "851.625",
+        "853.6375",
+        "853.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "043 (2B)",
+      "Name": "Waveland",
+      "County": "Logan, AR",
+      "Freqs": [
+        "851.175c",
+        "851.4625a",
+        "853.0625",
+        "853.3625",
+        "853.6125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "044 (2C)",
+      "Name": "Marshall",
+      "County": "Searcy, AR",
+      "Freqs": [
+        "852.2375c",
+        "852.4875",
+        "852.8625",
+        "853.7125",
+        "853.9625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "046 (2E)",
+      "Name": "Floyd",
+      "County": "White, AR",
+      "Freqs": [
+        "851.0375c",
+        "851.2875",
+        "851.5625",
+        "851.8125",
+        "852.725",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "047 (2F)",
+      "Name": "Heber Springs",
+      "County": "Cleburne, AR",
+      "Freqs": [
+        "851.850c",
+        "852.125a",
+        "852.375",
+        "853.0875",
+        "853.3375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "048 (30)",
+      "Name": "Iron Mountain",
+      "County": "Stone, AR",
+      "Freqs": [
+        "851.0625c",
+        "851.325a",
+        "851.600",
+        "852.450",
+        "853.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "049 (31)",
+      "Name": "Ravenden",
+      "County": "Lawrence, AR",
+      "Freqs": [
+        "851.425c",
+        "851.875a",
+        "852.150",
+        "853.3625",
+        "853.6125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "050 (32)",
+      "Name": "Wallace Knob",
+      "County": "Fulton, AR",
+      "Freqs": [
+        "851.225c",
+        "851.475a",
+        "851.7625",
+        "853.525",
+        "853.775",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "051 (33)",
+      "Name": "Batesville",
+      "County": "Independence, AR",
+      "Freqs": [
+        "851.400c",
+        "851.675a",
+        "852.050",
+        "853.2375",
+        "853.4875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "053 (35)",
+      "Name": "Pocahontas",
+      "County": "Randolph, AR",
+      "Freqs": [
+        "851.0625",
+        "851.0875c",
+        "853.325",
+        "853.575",
+        "853.950",
+        "856.4625",
+        "857.4625",
+        "858.1125a",
+        "858.4625",
+        "859.1125",
+        "859.4625",
+        "860.4375",
+        "860.4625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "054 (36)",
+      "Name": "Hopewell",
+      "County": "Greene, AR",
+      "Freqs": [
+        "851.2375c",
+        "851.4875a",
+        "851.775",
+        "853.825",
+        "854.1625",
+        "856.7625",
+        "857.7625",
+        "858.7625",
+        "859.2625",
+        "859.7625",
+        "860.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "055 (37)",
+      "Name": "Burdette",
+      "County": "Mississippi, AR",
+      "Freqs": [
+        "851.275",
+        "851.550c",
+        "851.800a",
+        "853.275",
+        "853.500",
+        "853.750",
+        "853.7875",
+        "854.1125",
+        "856.3125",
+        "857.3125",
+        "858.3125",
+        "859.3125",
+        "860.3125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "056 (38)",
+      "Name": "Oakland",
+      "County": "Jackson, AR",
+      "Freqs": [
+        "851.7375c",
+        "852.075",
+        "853.1375",
+        "856.9375",
+        "857.9375",
+        "858.9375",
+        "859.9375",
+        "860.9375a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "057 (39)",
+      "Name": "Fair Oaks",
+      "County": "Cross, AR",
+      "Freqs": [
+        "851.2125c",
+        "851.4625a",
+        "853.3125",
+        "853.5625",
+        "853.8625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "058 (3A)",
+      "Name": "Barton",
+      "County": "Phillips, AR",
+      "Freqs": [
+        "851.7625c",
+        "852.0625a",
+        "852.425",
+        "853.1625",
+        "853.425",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "059 (3B)",
+      "Name": "Shell Lake",
+      "County": "Crittenden, AR",
+      "Freqs": [
+        "851.100",
+        "851.175c",
+        "853.4625a",
+        "853.7125",
+        "853.9625",
+        "854.4125a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "060 (3C)",
+      "Name": "De Valls Bluff",
+      "County": "Prairie, AR",
+      "Freqs": [
+        "851.1875c",
+        "851.4375",
+        "852.2875",
+        "853.600",
+        "853.9125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "062 (3E)",
+      "Name": "Site 62",
+      "County": ", ",
+      "Freqs": [
+        "772.15625c",
+        "772.43125a",
+        "773.33125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "063 (3F)",
+      "Name": "Dutch Creek",
+      "County": "Yell, AR",
+      "Freqs": [
+        "851.250",
+        "852.475",
+        "853.425",
+        "853.675a",
+        "853.925c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "064 (40)",
+      "Name": "Swain Mountain",
+      "County": "Madison, AR",
+      "Freqs": [
+        "851.5875c",
+        "851.8375a",
+        "852.6875a",
+        "852.9375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "070 (46)",
+      "Name": "Jonesboro",
+      "County": "Craighead, AR",
+      "Freqs": [
+        "851.650",
+        "853.675",
+        "856.1375c",
+        "856.2875",
+        "856.9875a",
+        "857.2875",
+        "857.9875",
+        "858.9875",
+        "859.9875",
+        "860.9875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "071 (47)",
+      "Name": "Lake City",
+      "County": "Craighead, AR",
+      "Freqs": [
+        "765.15625",
+        "765.40625",
+        "765.65625",
+        "765.90625",
+        "851.125c",
+        "851.375a",
+        "853.900",
+        "854.2125",
+        "858.2875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "074 (4A)",
+      "Name": "Harrisburg 700",
+      "County": "Poinsett, AR",
+      "Freqs": [
+        "769.78125",
+        "770.53125a",
+        "771.18125c",
+        "771.55625a",
+        "772.18125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "075 (4B)",
+      "Name": "Jacksonville",
+      "County": "Pulaski, AR",
+      "Freqs": [
+        "851.0875",
+        "851.4125a",
+        "852.6375a",
+        "853.625a",
+        "853.950c",
+        "856.5375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "076 (4C)",
+      "Name": "Benton",
+      "County": "Saline, AR",
+      "Freqs": [
+        "770.01875",
+        "770.76875",
+        "771.63125",
+        "852.3375a",
+        "852.4875c",
+        "856.6375",
+        "857.6125",
+        "858.1625",
+        "858.6125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "200 (C8)",
+      "Name": "Mobile Command Post",
+      "County": "Statewide, AR",
+      "Freqs": [
+        "851.050",
+        "851.3375",
+        "851.625",
+        "853.5125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Brightstar",
+      "County": "Miller, AR",
+      "Freqs": [
+        "851.2375c",
+        "851.7625a",
+        "853.1875",
+        "853.4875",
+        "853.7625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Grant County West",
+      "County": "Grant, AR",
+      "Freqs": [
+        "852.1625c",
+        "852.4125a",
+        "852.775",
+        "853.050",
+        "853.975",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "003 (3)",
+      "Name": "De Witt",
+      "County": "Arkansas, AR",
+      "Freqs": [
+        "851.050c",
+        "851.3375c",
+        "851.625",
+        "853.5125",
+        "853.7625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "004 (4)",
+      "Name": "Winchester",
+      "County": "Drew, AR",
+      "Freqs": [
+        "851.300c",
+        "851.900a",
+        "853.4125",
+        "853.8625",
+        "857.6625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "005 (5)",
+      "Name": "Camden",
+      "County": "Ouachita, AR",
+      "Freqs": [
+        "851.0625c",
+        "851.3125a",
+        "852.3125",
+        "852.750",
+        "853.850",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "006 (6)",
+      "Name": "Ramsey",
+      "County": "Dallas, AR",
+      "Freqs": [
+        "851.8625c",
+        "852.1375a",
+        "852.3875",
+        "852.900",
+        "853.175",
+        "854.9875",
+        "855.9625",
+        "857.0625",
+        "857.1375",
+        "857.1625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "007 (7)",
+      "Name": "Mount Moriah",
+      "County": "Nevada, AR",
+      "Freqs": [
+        "851.925a",
+        "852.2875a",
+        "852.725",
+        "852.975",
+        "853.6125",
+        "859.1375c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "008 (8)",
+      "Name": "Gurdon",
+      "County": "Clark, AR",
+      "Freqs": [
+        "851.9625",
+        "853.075a",
+        "853.325c",
+        "853.5375",
+        "856.7625",
+        "857.7625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "009 (9)",
+      "Name": "Jack Mountain",
+      "County": "Hot Spring, AR",
+      "Freqs": [
+        "851.400",
+        "851.700",
+        "852.925",
+        "853.200a",
+        "853.8625c",
+        "854.4125",
+        "854.9875"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "010 (A)",
+      "Name": "High Peak",
+      "County": "Montgomery, AR",
+      "Freqs": [
+        "851.100",
+        "851.350",
+        "851.9875",
+        "852.7875a",
+        "853.8875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "011 (B)",
+      "Name": "Junction City",
+      "County": "Union, AR",
+      "Freqs": [
+        "856.4125",
+        "857.4125",
+        "857.6875c",
+        "858.4125",
+        "859.4125a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "012 (C)",
+      "Name": "Sunshine",
+      "County": "Ashley, AR",
+      "Freqs": [
+        "851.2125c",
+        "851.4625a",
+        "853.6875",
+        "854.3625",
+        "859.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "013 (D)",
+      "Name": "Macedonia",
+      "County": "Columbia, AR",
+      "Freqs": [
+        "851.1125c",
+        "851.450a",
+        "851.7375",
+        "853.6125",
+        "853.900",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "014 (E)",
+      "Name": "Huttig",
+      "County": "Union, AR",
+      "Freqs": [
+        "851.975c",
+        "852.3375",
+        "852.650",
+        "853.0625a",
+        "854.6375a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "015 (F)",
+      "Name": "Rich Mountain",
+      "County": "Polk, AR",
+      "Freqs": [
+        "856.1875c",
+        "856.7625",
+        "857.7625",
+        "858.7625",
+        "859.7625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "016 (10)",
+      "Name": "Warren",
+      "County": "Bradley, AR",
+      "Freqs": [
+        "851.175c",
+        "851.425a",
+        "851.700",
+        "853.4625",
+        "853.7125",
+        "854.0625",
+        "854.1375",
+        "854.3125",
+        "854.4125",
+        "854.4375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "017 (11)",
+      "Name": "Wolfe Mountain",
+      "County": "Miller, AR",
+      "Freqs": [
+        "856.9375c",
+        "857.6625",
+        "857.9375a",
+        "858.9375",
+        "859.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "018 (12)",
+      "Name": "Cross Roads",
+      "County": "Little River, AR",
+      "Freqs": [
+        "851.1625c",
+        "851.8125",
+        "851.8125a",
+        "853.5375",
+        "853.6875",
+        "853.6875",
+        "853.7875",
+        "853.9375",
+        "853.9375",
+        "857.2125a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "020 (14)",
+      "Name": "Yancy",
+      "County": "Hempstead, AR",
+      "Freqs": [
+        "851.4875",
+        "853.5375",
+        "853.800",
+        "858.2125a",
+        "859.2125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "021 (15)",
+      "Name": "Delight",
+      "County": "Pike, AR",
+      "Freqs": [
+        "851.125",
+        "851.375",
+        "851.7875",
+        "852.700a",
+        "852.950c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "022 (16)",
+      "Name": "Tall Peak",
+      "County": "Polk, AR",
+      "Freqs": [
+        "851.600",
+        "851.850",
+        "853.1625a",
+        "853.7375c",
+        "860.9875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "023 (17)",
+      "Name": "Magnet",
+      "County": "Hot Spring, AR",
+      "Freqs": [
+        "770.1875",
+        "773.0625",
+        "774.5625",
+        "851.225c",
+        "851.5375",
+        "851.800a",
+        "852.475",
+        "852.9375",
+        "852.9875",
+        "853.3625",
+        "856.1375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "024 (18)",
+      "Name": "Sheridan",
+      "County": "Grant, AR",
+      "Freqs": [
+        "853.3625",
+        "853.6375",
+        "853.8375",
+        "856.9875c",
+        "857.4625",
+        "857.9875a",
+        "858.4625",
+        "859.4625a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "025 (19)",
+      "Name": "Casscoe",
+      "County": "Arkansas, AR",
+      "Freqs": [
+        "769.30625c",
+        "770.33125a",
+        "771.03125",
+        "771.60625",
+        "772.10625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "026 (1A)",
+      "Name": "Garland County Simulcast",
+      "County": "Garland, AR",
+      "Freqs": [
+        "769.33125",
+        "769.58125",
+        "769.83125",
+        "770.09375",
+        "770.4625a",
+        "773.8125c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "038 (26)",
+      "Name": "Round Mountain",
+      "County": "Faulkner, AR",
+      "Freqs": [
+        "770.60625",
+        "770.85625",
+        "771.20625",
+        "851.9375",
+        "852.2125",
+        "852.9125a",
+        "853.1875c"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "039 (27)",
+      "Name": "Guy",
+      "County": "Faulkner, AR",
+      "Freqs": [
+        "856.4625",
+        "857.4625",
+        "858.4625",
+        "859.1375c",
+        "859.4625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "045 (2D)",
+      "Name": "Shinall Mountain",
+      "County": "Pulaski, AR",
+      "Freqs": [
+        "851.1375",
+        "852.4375",
+        "854.4125",
+        "856.1875c",
+        "856.7625",
+        "857.7625",
+        "858.7625",
+        "859.7625a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "052 (34)",
+      "Name": "Cabot",
+      "County": "Lonoke, AR",
+      "Freqs": [
+        "851.650",
+        "852.250",
+        "852.7875a",
+        "853.150",
+        "853.7375c",
+        "856.4625",
+        "857.0625",
+        "857.5625",
+        "857.9875",
+        "858.9875"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "061 (3D)",
+      "Name": "Lonoke",
+      "County": "Lonoke, AR",
+      "Freqs": [
+        "851.1125",
+        "852.550",
+        "852.9375a",
+        "853.800c",
+        "854.2125",
+        "854.5375",
+        "856.1375",
+        "856.8125",
+        "857.5625",
+        "857.8125",
+        "858.9125",
+        "859.9125",
+        "859.9875",
+        "860.9125"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "062 (3E)",
+      "Name": "East Little Rock",
+      "County": "Pulaski, AR",
+      "Freqs": [
+        "851.1625",
+        "851.3875",
+        "853.700",
+        "856.9375",
+        "857.6625c",
+        "857.9375",
+        "858.9375",
+        "859.9375a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "065 (41)",
+      "Name": "White Hall",
+      "County": "Jefferson, AR",
+      "Freqs": [
+        "851.1125",
+        "851.275",
+        "851.6625",
+        "852.100",
+        "852.3625a",
+        "852.600",
+        "853.1125a",
+        "853.6125c"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "066 (42)",
+      "Name": "Sulpher Springs",
+      "County": "Jefferson, AR",
+      "Freqs": [
+        "851.600",
+        "851.850",
+        "852.275",
+        "852.850",
+        "853.0875",
+        "853.275a",
+        "853.575",
+        "853.775c"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "067 (43)",
+      "Name": "Texarkana",
+      "County": "Bowie, TX",
+      "Freqs": [
+        "851.2625",
+        "851.650",
+        "852.2625",
+        "852.350",
+        "852.8375",
+        "853.650",
+        "856.9875c",
+        "859.7625a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "068 (44)",
+      "Name": "Pine Bluff",
+      "County": "Jefferson, AR",
+      "Freqs": [
+        "851.150a",
+        "851.650",
+        "851.950",
+        "852.150",
+        "852.650a",
+        "853.150c",
+        "853.900",
+        "854.2875",
+        "854.9875",
+        "857.0625",
+        "857.4375",
+        "857.7375",
+        "858.4375",
+        "858.7375",
+        "859.1375",
+        "859.4375",
+        "859.7375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "069 (45)",
+      "Name": "South Sheridan",
+      "County": "Grant, AR",
+      "Freqs": [
+        "853.5375",
+        "853.7875",
+        "854.1125c",
+        "856.3125",
+        "857.3125",
+        "858.3125",
+        "859.3125a"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "070 (46)",
+      "Name": "Star City",
+      "County": "Lincoln, AR",
+      "Freqs": [
+        "771.90625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2659 ",
+      "HEX ": "a63 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM1",
+      "Description": "Statewide 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2661 ",
+      "HEX ": "a65 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM2",
+      "Description": "Statewide 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2663 ",
+      "HEX ": "a67 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CEN1",
+      "Description": "Central Area 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2665 ",
+      "HEX ": "a69 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CEN2",
+      "Description": "Central Area 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2667 ",
+      "HEX ": "a6b ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CEN3",
+      "Description": "Central Area 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2669 ",
+      "HEX ": "a6d ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CEN4",
+      "Description": "Central Area 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2671 ",
+      "HEX ": "a6f ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CEN5",
+      "Description": "Central Area 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2673 ",
+      "HEX ": "a71 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NW1",
+      "Description": "Northwest Area 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2675 ",
+      "HEX ": "a73 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NW2",
+      "Description": "Northwest Area 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2677 ",
+      "HEX ": "a75 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NW3",
+      "Description": "Northwest Area 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2679 ",
+      "HEX ": "a77 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NW4",
+      "Description": "Northwest Area 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2681 ",
+      "HEX ": "a79 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NW5",
+      "Description": "Northwest Area 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2683 ",
+      "HEX ": "a7b ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SW1",
+      "Description": "Southwest Area 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2685 ",
+      "HEX ": "a7d ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SW2",
+      "Description": "Southwest Area 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2687 ",
+      "HEX ": "a7f ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SW3",
+      "Description": "Southwest Area 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2689 ",
+      "HEX ": "a81 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SW4",
+      "Description": "Southwest Area 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2691 ",
+      "HEX ": "a83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SW5",
+      "Description": "Southwest Area 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2693 ",
+      "HEX ": "a85 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SE1",
+      "Description": "Southeast Area 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2695 ",
+      "HEX ": "a87 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SE2",
+      "Description": "Southeast Area 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2697 ",
+      "HEX ": "a89 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SE3",
+      "Description": "Southeast Area 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2699 ",
+      "HEX ": "a8b ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SE4",
+      "Description": "Southeast Area 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2701 ",
+      "HEX ": "a8d ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM SE5",
+      "Description": "Southeast Area 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2703 ",
+      "HEX ": "a8f ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NE1",
+      "Description": "Northeast Area 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2705 ",
+      "HEX ": "a91 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NE2",
+      "Description": "Northeast Area 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2707 ",
+      "HEX ": "a93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NE3",
+      "Description": "Northeast Area 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2709 ",
+      "HEX ": "a95 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NE4",
+      "Description": "Northeast Area 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "2711 ",
+      "HEX ": "a97 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM NE5",
+      "Description": "Northeast Area 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "22309 ",
+      "HEX ": "5725 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADEM CAR",
+      "Description": "ADEM Car-to-Car ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19001 ",
+      "HEX ": "4a39 ",
+      "Mode  ": "D",
+      "Alpha Tag": "75-YELL DISP",
+      "Description": "Countywide Law Enforcement - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

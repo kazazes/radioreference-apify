@@ -1,0 +1,64 @@
+{
+  "System Name": "Beebe Medical Center",
+  "Location": "Lewes, DE",
+  "County": "Sussex",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 14, 2018, 7:20 pm (General text description deleted)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 461.175 ",
+        "02 463.4375 ",
+        "03 463.925 ",
+        "04 464.650 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BMC Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BMC Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "BMC ER Ops",
+      "Description": "Emergency Room Ops ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BMC Transp",
+      "Description": "Transporters ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BMC H/K",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "BMC Lewes PD",
+      "Description": "Lewes Police ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

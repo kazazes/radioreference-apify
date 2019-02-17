@@ -1,0 +1,28 @@
+{
+  "System Name": "Casino Queen - E St. Louis (DMR)",
+  "Location": "East St Louis, IL",
+  "County": "St. Clair",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "June 18, 2018, 1:52 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "001 (1)",
+      "Name": "East St Louis ",
+      "Freqs": [
+        "860.5625c",
+        "860.8875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ESL Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

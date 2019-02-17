@@ -1,0 +1,72 @@
+{
+  "System Name": "University of Kansas Health System",
+  "Location": "Kansas City, KS",
+  "County": "2 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "December 5, 2018, 1:40 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "49h"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "Shawnee",
+      "County": "Johnson",
+      "Freqs": [
+        "464.6325",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Kansas City",
+      "County": "Wyandotte",
+      "Freqs": [
+        "461.9125",
+        "463.3375",
+        "463.7125",
+        "464.2375",
+        "464.6625"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Westwood",
+      "County": "Johnson",
+      "Freqs": [
+        "463.5125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Overland Park",
+      "County": "Johnson",
+      "Freqs": [
+        "451.7375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "80 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Indian Crk Maint",
+      "Description": "Hospital Maintenance ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

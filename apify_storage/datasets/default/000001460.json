@@ -1,0 +1,118 @@
+{
+  "System Name": "Rivers Casino Des Plaines (NID 130)",
+  "Location": "Des Plaines, IL",
+  "County": "Cook",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "June 29, 2018, 3:35 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "130"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Confirmed LCN",
+      "Freqs": [
+        "461.60625",
+        "461.9125",
+        "462.200",
+        "462.48125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 2",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Housekpg 3",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Housekpg 4",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 5",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Food 6",
+      "Description": "Food Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Facilties7",
+      "Description": "Facilities / Engineers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 9",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security 13",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Command 17",
+      "Description": "Command Room / Security Dispatch Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "18 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 18",
+      "Description": "Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Gaming 21",
+      "Description": "Gaming Equipment Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dock 29",
+      "Description": "Dock Shipping  ",
+      "Tag  ": "Business "
+    }
+  ]
+}

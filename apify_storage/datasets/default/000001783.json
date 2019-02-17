@@ -1,0 +1,116 @@
+{
+  "System Name": "Scott County Public Safety",
+  "Location": "Georgetown, KY",
+  "County": "Scott",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 9, 2014, 12:15 pm (Updated Talkgroups (2 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "011 (B)",
+      "Name": [
+        "Georgetown",
+        "01 856.7125c ",
+        "02 857.7125c ",
+        "03 858.7125c ",
+        "04 859.7125c "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": [
+        "Sadieville",
+        "01 857.9625c ",
+        "02 858.9625c ",
+        "03 859.9625c ",
+        "04 857.1375c "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": [
+        "Stamping Ground",
+        "01 859.4625c ",
+        "02 858.1625c ",
+        "03 858.4625c ",
+        "04 856.1375c "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "113 ",
+      "AFS ": "00-141 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sct EMA 1",
+      "Description": "EMA 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "114 ",
+      "AFS ": "00-142 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sct EMA 2",
+      "Description": "EMA 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "115 ",
+      "AFS ": "00-143 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sct EMA 3",
+      "Description": "EMA 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "89 ",
+      "AFS ": "00-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCEMA TA",
+      "Description": "Weather Spotters ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "88 ",
+      "AFS ": "00-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCEMA Srns",
+      "Description": "Warning Sirens ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "90 ",
+      "AFS ": "00-112 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCEMA WX",
+      "Description": "Wx Radio ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "91 ",
+      "AFS ": "00-113 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCEMA WX",
+      "Description": "Wx Radio ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "92 ",
+      "AFS ": "00-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SCEMA WX",
+      "Description": "Wx Radio ",
+      "Tag  ": "Other "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "497 ",
+      "AFS ": "03-141 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Test",
+      "Description": "Radio Techs ",
+      "Tag  ": "Other "
+    }
+  ]
+}

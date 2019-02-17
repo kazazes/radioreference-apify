@@ -1,0 +1,169 @@
+{
+  "System Name": "Obion County Regional Public Safety System",
+  "Location": "Union City, TN KY",
+  "County": "5 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 23, 2018, 1:12 am (Changed Site # 001 (Simulcast) to 001 (Union City West))",
+  "System ID List": [
+    {
+      "System ID": "1828",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Union City West",
+      "County": "Obion, TN",
+      "Freqs": [
+        "854.0875",
+        "856.7125",
+        "857.7125a",
+        "858.7125a",
+        "859.7125a",
+        "860.7125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "24656 ",
+      "HEX ": "605 ",
+      "Mode  ": "A",
+      "Alpha Tag": "COUNTY COMMON",
+      "Description": "Countywide (All Agencies) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "24752 ",
+      "HEX ": "60b ",
+      "Mode  ": "A",
+      "Alpha Tag": "DISASTER 1 PS",
+      "Description": "Disaster Mutual Aid (Public Safety) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "24672 ",
+      "HEX ": "606 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DISASTER 2 PW",
+      "Description": "Disaster Mutual Aid (Public Works) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "27088 ",
+      "HEX ": "69d ",
+      "Mode  ": "A",
+      "Alpha Tag": "PS ALL CALL",
+      "Description": "All Call Public Safety ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "27120 ",
+      "HEX ": "69f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIRE ALL CALL",
+      "Description": "All Call Fire Departments ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "27184 ",
+      "HEX ": "6a3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMS ALL CALL",
+      "Description": "All Call Baptist Memorial EMS ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26480 ",
+      "HEX ": "677 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OBION 911",
+      "Description": "Obion County E911 Center ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "24880 ",
+      "HEX ": "613 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OBION LAW",
+      "Description": "Obion County Wide Law Common ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "28816 ",
+      "HEX ": "709 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OBION FIRE ",
+      "Description": "Obion County Wide Fire Common ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "28848 ",
+      "HEX ": "70b ",
+      "Mode  ": "A",
+      "Alpha Tag": "OBION UTILITIES",
+      "Description": "Obion County Wide Utilities Common ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "26832 ",
+      "HEX ": "68d ",
+      "Mode  ": "A",
+      "Alpha Tag": "OBION CAP",
+      "Description": "Obion County Civil Air Patrol ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "25072 ",
+      "HEX ": "61f ",
+      "Mode  ": "A",
+      "Alpha Tag": "UNION CITY MA",
+      "Description": "Union City Citywide Mutual Aid ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "27152 ",
+      "HEX ": "6a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UTILITY-DPW ALL ",
+      "Description": "All Call Utilities & Public Works ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "24576 ",
+      "HEX ": "600 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS 1",
+      "Description": "Radio Service Technicians 1 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "24592 ",
+      "HEX ": "601 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS 2",
+      "Description": "Radio Service Technicians 2 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "24608 ",
+      "HEX ": "602 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS 3",
+      "Description": "Radio Service Technicians 3 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "24624 ",
+      "HEX ": "603 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RADIO TECHS 4",
+      "Description": "Radio Service Technicians 4 ",
+      "Tag  ": "Other "
+    }
+  ]
+}

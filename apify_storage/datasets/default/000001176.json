@@ -1,0 +1,28 @@
+{
+  "System Name": "Federal Detention Center Honolulu",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 16, 2018, 4:08 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "85C",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "407.6125c",
+        "409.0125a",
+        "409.4125a",
+        "409.6125a",
+        "410.4125"
+      ]
+    }
+  ]
+}

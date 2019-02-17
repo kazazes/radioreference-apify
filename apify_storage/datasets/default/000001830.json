@@ -1,0 +1,33 @@
+{
+  "System Name": "Communications Electronics",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 5, 2016, 8:33 pm (Added Talkgroup 102 Transport Service (buses))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.525 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TransSrv 101",
+      "Description": "Transport Service (vans) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TransSrv 102",
+      "Description": "Transport Service (buses) ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "System Name": "Sun Communications",
+  "Location": "Key West, FL",
+  "County": "Monroe",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 27, 2005, 9:09 pm (Changed Site-001)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 N/A ",
+        "06 N/A ",
+        "07 461.450 "
+      ]
+    }
+  ]
+}

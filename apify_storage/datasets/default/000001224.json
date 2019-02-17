@@ -1,0 +1,67 @@
+{
+  "System Name": "Lihue International Aiport Authority",
+  "Location": "Lihue , HI",
+  "County": "Kauai",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 3, 2017, 12:48 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "CD27",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.9625a",
+        "857.9625a",
+        "858.9625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "599 ",
+      "HEX ": "025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "4176 ",
+      "HEX ": "105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Airport Fire",
+      "Description": "Airport Fire ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "4240 ",
+      "HEX ": "109 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Airport PD",
+      "Description": "Airport Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4464 ",
+      "HEX ": "117 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Crash Fire",
+      "Description": "Crash Fire ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "4496 ",
+      "HEX ": "119 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

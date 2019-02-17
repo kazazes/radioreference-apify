@@ -1,0 +1,38 @@
+{
+  "System Name": "Malone Communications (Elizabethtown)",
+  "Location": "Elizabethtown, KY",
+  "County": "Hardin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 2, 2011, 1:57 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Elizabethtown",
+        "01 452.0625 ",
+        "02 452.6875 ",
+        "03 452.5125 ",
+        "04 452.1875 ",
+        "05 452.0875 ",
+        "06 464.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-02-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk Business",
+      "Description": "Unknown Business ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-02-205 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HVAC Service",
+      "Description": "HVAC Service Company ",
+      "Tag  ": "Business "
+    }
+  ]
+}

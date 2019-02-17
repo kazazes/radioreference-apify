@@ -1,0 +1,24 @@
+{
+  "System Name": "Star Crystal Communications - 900 MHz (Cook)",
+  "Location": "Cook County, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 12, 2010, 11:53 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "240A",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "935.725c",
+        "937.500c"
+      ]
+    }
+  ]
+}

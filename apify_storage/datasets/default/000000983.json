@@ -1,0 +1,37 @@
+{
+  "System Name": "SeaWorld Orlando",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 25, 2016, 10:49 pm (Updated Function Tag assignments for 1 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "353"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "SeaWorld",
+        "01 935.675 ",
+        "02 935.6875 ",
+        "03 936.1875 ",
+        "04 936.200 ",
+        "05 937.1875 ",
+        "06 938.1875 ",
+        "07 938.7125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SeaWorld Ops",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

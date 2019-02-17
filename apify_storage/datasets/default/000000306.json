@@ -1,0 +1,234 @@
+{
+  "System Name": "Delta Airlines - Los Angeles International Airport (Terminal 2-3)",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 24, 2018, 11:23 pm (Added Talkgroup 92 92(Airport Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Term 2",
+        "01 460.700 ",
+        "02 460.850 ",
+        "03 461.125 ",
+        "04 461.4125 ",
+        "05 461.8625 ",
+        "06 464.575 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "Mode  ": "T",
+      "Alpha Tag": "32",
+      "Description": "32 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "T",
+      "Alpha Tag": "50",
+      "Description": "50 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ACC",
+      "Description": "Airport Control Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ACS",
+      "Description": "Airport Customer Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ACS SUPV",
+      "Description": "Airport Customer Service - Supvervisors  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "54 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ACS",
+      "Description": "Airport Customer Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "55 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BAG RM",
+      "Description": "Bagroom ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "56 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BAG RM",
+      "Description": "Bagroom ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "57 ",
+      "Mode  ": "T",
+      "Alpha Tag": "57",
+      "Description": "57 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "58 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RCC",
+      "Description": "Ramp Control Center ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "59 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RAMP",
+      "Description": "Ramp ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RAMP",
+      "Description": "Ramp ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "61 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RAMP",
+      "Description": "Ramp ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "62 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FREIGHT DASH",
+      "Description": "Delta Cargo Freight Runner / DASH Package Service  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "66 ",
+      "Mode  ": "T",
+      "Alpha Tag": "INTL",
+      "Description": "International Arrivals ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "69 ",
+      "Mode  ": "T",
+      "Alpha Tag": "WCHR",
+      "Description": "Wheelchair ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "70 ",
+      "Mode  ": "T",
+      "Alpha Tag": "GSE",
+      "Description": "Ground Support Equipment Repair  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "74 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TECH OPS 1",
+      "Description": "Maintenance  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "75 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TECH OPS 2",
+      "Description": "Maintenance  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "77 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TOW",
+      "Description": "Tow Crew ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "78 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LOAD CTL",
+      "Description": "Load Control Ramp Closeouts  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "79 ",
+      "Mode  ": "T",
+      "Alpha Tag": "79",
+      "Description": "79 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "T",
+      "Alpha Tag": "80",
+      "Description": "80 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "81 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PSA RED COAT",
+      "Description": "Passenger Service Agent Red Coat ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "82 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BSO",
+      "Description": "Baggage Service Office ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "84 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CABIN SVC",
+      "Description": "Cabin Service Cleaners ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "85 ",
+      "Mode  ": "T",
+      "Alpha Tag": "RAMP",
+      "Description": "Ramp Tower to Ramp (RON tow request) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "91 ",
+      "Mode  ": "T",
+      "Alpha Tag": "91",
+      "Description": "DAL LAX ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "92 ",
+      "Mode  ": "T",
+      "Alpha Tag": "92",
+      "Description": "92 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "94 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LOAD CTL",
+      "Description": "Load Control ",
+      "Tag  ": "Business "
+    }
+  ]
+}

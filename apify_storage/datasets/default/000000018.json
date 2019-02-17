@@ -1,0 +1,21 @@
+{
+  "System Name": "Radio Direct",
+  "Location": "Birmingham, AL",
+  "County": "Jefferson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 9, 2004, 5:29 pm ()",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Birmingham",
+        "01 452.2125 ",
+        "02 452.2375 ",
+        "03 452.3375 ",
+        "04 452.3625 ",
+        "05 452.3875 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "System Name": "Parkview Regional Medical Center",
+  "Location": "Various, IN",
+  "County": "7 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "October 6, 2018, 7:36 pm (Changed System ID: [L346 | | ] to [346 | | ])",
+  "System ID List": [
+    {
+      "System ID": "346"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": "Columbia City",
+      "County": "Whitley",
+      "Freqs": [
+        "461.350",
+        "461.81875c",
+        "462.975",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Kendallville",
+      "County": "Noble",
+      "Freqs": [
+        "452.36875",
+        "461.41875",
+        "463.56875c",
+        "464.625"
+      ]
+    }
+  ]
+}

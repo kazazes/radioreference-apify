@@ -1,0 +1,76 @@
+{
+  "System Name": "Wireless Advanced Communications (LTR)",
+  "Location": "Various, CO",
+  "County": "2 counties",
+  "System Type": "LTR Standard and Passport",
+  "System Voice": "Analog",
+  "Last Updated": "December 10, 2018, 8:37 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Evans",
+      "County": [
+        "Weld",
+        "07 463.8125 ",
+        "14 461.6125 ",
+        "20 462.1375 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Horsetooth Mountain",
+      "County": [
+        "Larimer",
+        "01 463.6375 ",
+        "05 461.4875 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-07-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Greely Bus",
+      "Description": "Greeley Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Greely Bus",
+      "Description": "Greeley Bus Operations ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "001001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ShamrockTaxi",
+      "Description": "Shamrock Taxi/Bus Services ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "001002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ShamrockTaxi",
+      "Description": "Shamrock Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "001004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shamrock Bus",
+      "Description": "Shamrock Bus Services ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "001005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ShamrockTaxi",
+      "Description": "Shamrock Taxi/Transit Services ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

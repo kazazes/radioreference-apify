@@ -1,5 +1,5 @@
-import Apify, { PseudoUrl, Request } from "apify";
-import { Page } from "puppeteer";
+import Apify, { PseudoUrl } from "apify";
+import { Page, Request } from "puppeteer";
 
 export interface IHandlePageFnArgs {
   request: Request;
@@ -33,9 +33,19 @@ Apify.main(async () => {
 
   const handlePageFunction = async (args: IHandlePageFnArgs) => {
     const { request, page, $ } = args;
+    await page.setRequestInterception(true);
+    page.on("request", (r: Request) => {
+      const rUrl = r.url();
+      const filters = [
+          "analytics",
+          "quantserve",
+          "syndication",
+      ];
+      const shouldAbort = filters.some((urlPart) => rUrl.includes(urlPart));
+      if (shouldAbort) { r.abort(); } else { r.continue(); }
+  });
     console.log(`Processing ${request.url}...`);
     const url = args.page.url();
-    const systems: any[] = [];
     await page.waitForSelector(".footerText");
     await Apify.utils.puppeteer.injectJQuery(page);
     if (url === "https://www.radioreference.com/apps/db/") {
@@ -44,11 +54,22 @@ Apify.main(async () => {
       await handleState(page, $, requestQueue);
     } else if (url.indexOf("ctid=") >= 0) {
       await handleCounty(page, requestQueue, psuedoUrls);
-    } else if (url.indexOf("opt=all_tg") >= 0) {
-      const s = await handleSystemTables(page, $);
-      await Apify.pushData(s);
+    } else if (url.indexOf("siteId=") >= 0) {
+      const site = await handleSite(page, requestQueue);
+      await Apify.pushData(site);
+    } else if (url.indexOf("sid=") >= 0) {
+      if (url.indexOf("opt=all_tg")) {
+        const s = await handleSystemTables(page, requestQueue, $);
+        console.log(`${s["System Name"]} in ${s.Location}`);
+        await Apify.pushData(s);
+      } else {
+        requestQueue.addRequest({
+          url: url + "&opt=all_tg#tgs",
+        });
+      }
     } else {
-      console.log("Where AM I?", "");
+      console.error("Where AM I?", "");
+      console.log("You're at", url);
       debugger;
     }
   };
@@ -88,12 +109,50 @@ Apify.main(async () => {
   console.log("Crawler finished.");
 });
 
-async function handleSystemTables(page: Page, $: JQueryStatic) {
+async function handleSite(page: Page, requestQueue: any) {
+  console.log("Scraping site...", "");
+  return page.evaluate(() => {
+    const siteInfo: any = {};
+    $("td > .rrtable tr , th+ tr").each((idx: number, r: HTMLElement) => {
+      const row = r as HTMLTableRowElement;
+      const k = row.cells[0].innerText.replace(":", "");
+      const v = row.cells[1].innerText;
+      if (k && v) {
+        siteInfo[k] = v;
+      }
+    });
+    $(".rrtable td+ td , .rrtable span").each((idx, b) => {
+      if (!siteInfo.frequencies) {
+        siteInfo.frequencies = [];
+      }
+
+      const f = $(b).text();
+
+      siteInfo.frequencies.push(f);
+    });
+
+    siteInfo.fccLicenses = $("a").filter((i, a: any) => a.href.indexOf("fccCallsign") >= 0)
+    .map((i, a) => $(a).text()).toArray();
+
+    return siteInfo;
+  });
+}
+
+async function handleSystemTables(page: Page, requestQueue: any, $: JQueryStatic) {
+  await Apify.utils.enqueueLinks({
+    page,
+    psuedoUrls: [
+      new PseudoUrl("https://www.radioreference.com/apps/db/?siteId=[d+]", {
+        key: "Site",
+      }),
+    ],
+    requestQueue,
+    selector: "td a",
+  });
   console.log("Scraping tables...", "");
-  const system = await page.evaluate(() => {
+  return page.evaluate(() => {
     const systemInfo: any = {};
     $("td > .rrtable tr , th+ tr").each((idx: number, r: HTMLElement) => {
-      debugger;
       const row = r as HTMLTableRowElement;
       const k = row.cells[0].innerText.replace(":", "");
       const v = row.cells[1].innerText;
@@ -102,7 +161,6 @@ async function handleSystemTables(page: Page, $: JQueryStatic) {
       }
     });
     $("#tabcontents td .box").each((idx, b) => {
-      debugger;
       const box = $(b);
       const boxTitleElem = box.find("h2");
       if (boxTitleElem && typeof boxTitleElem[0] !== undefined) {
@@ -139,18 +197,18 @@ async function handleSystemTables(page: Page, $: JQueryStatic) {
         .toArray()
         .map((th) => th.innerText)
         .filter((h) => h.trim().length > 0);
-      const rows = table
+      const rows = $(t)
         .find("tr:has(> td)")
         .toArray()
         .reduce(
           (acc, cur) => {
-            debugger;
             const row = $(cur);
             const data = row.find("td");
             // check for wrapped frequency rows
-            const firstEmptyIdx = data
+            let firstEmptyIdx = data
               .toArray()
               .findIndex((d) => d.innerText.trim().length === 0);
+            if (firstEmptyIdx === -1) {firstEmptyIdx = Infinity; }
             const firstValueIdx = data
               .toArray()
               .findIndex((d) => d.innerText.trim().length > 0);
@@ -160,9 +218,12 @@ async function handleSystemTables(page: Page, $: JQueryStatic) {
                 .toArray()
                 .filter((d) => d.innerText.trim().length > 0);
               filtered.forEach((d) => {
-                debugger;
-                const datum = ($(d) as any).innerText as string;
-                const header = headers[firstValueIdx];
+                const datum = $(d).text();
+                let header = headers[firstValueIdx];
+                if (!header) {
+                  header = "Data";
+                  if (prev.Data === undefined) {prev.Data = []; }
+                }
                 prev[header].push(datum);
               });
             } else {
@@ -172,18 +233,19 @@ async function handleSystemTables(page: Page, $: JQueryStatic) {
                 const td = $(d) as any;
                 if (headers[j]) {
                   currentHeader = headers[j];
+                  debugger;
                   // check if key is array
                   if (
-                    j < rawHeaders.length &&
-                    rawHeaders[j + j].trim().length === 0
+                    j < rawHeaders.length - 1 &&
+                    rawHeaders[j + 1].trim().length === 0
                   ) {
-                    datum[currentHeader] = [td.innerText];
+                    datum[currentHeader] = [td.text()];
                   } else {
-                    datum[currentHeader] = td.innerText;
+                    datum[currentHeader] = td.text();
                   }
                 } else {
                   // this is an array, use last header
-                  datum[currentHeader].push(td.innerText);
+                  datum[currentHeader].push(td.text());
                 }
               });
               acc.push(datum);
@@ -192,12 +254,11 @@ async function handleSystemTables(page: Page, $: JQueryStatic) {
           },
           [] as any[],
         );
+      debugger;
       systemInfo[titles[i]] = rows;
     });
     return systemInfo;
   });
-
-  return system;
 }
 
 async function handleDBRoot(page: Page, $: JQueryStatic, requestQueue: any) {
@@ -221,6 +282,7 @@ async function handleDBRoot(page: Page, $: JQueryStatic, requestQueue: any) {
 }
 
 async function handleState(page: Page, $: JQueryStatic, requestQueue: any) {
+  console.log("Scraping state...")
   const reqs = await page.evaluate(() => {
     const countyIds = $('select[name="ctid"]')
       .first()
@@ -245,6 +307,7 @@ async function handleCounty(
   requestQueue: any,
   psuedoUrls: PseudoUrl[],
 ) {
+  console.log("Scraping county...")
   return Apify.utils.enqueueLinks({
     page,
     psuedoUrls,

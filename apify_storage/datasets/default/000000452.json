@@ -1,0 +1,828 @@
+{
+  "System Name": "Riverside County Public Safety Enterprise Communication Project (PSEC)",
+  "Location": "Riverside County, CA",
+  "County": "Riverside",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 1, 2018, 8:42 pm ((3) Talkgroups Updated (Corona))",
+  "System ID List": [
+    {
+      "System ID": "393",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Northwest",
+      "Freqs": [
+        "772.05625",
+        "772.19375",
+        "772.43125",
+        "772.56875",
+        "772.60625a",
+        "772.94375",
+        "773.45625c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Site 102",
+      "Freqs": [
+        "769.53125",
+        "770.03125",
+        "771.14375",
+        "771.39375c",
+        "771.44375a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Central",
+      "Freqs": [
+        "771.69375",
+        "771.81875a",
+        "772.13125",
+        "772.68125a",
+        "772.85625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Palm Springs (North)",
+      "Freqs": [
+        "771.38125",
+        "772.44375a",
+        "772.61875c",
+        "774.46875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Coachella Valley South (Indio)",
+      "Freqs": [
+        "769.31875",
+        "769.56875",
+        "770.06875a",
+        "770.30625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Site 106",
+      "Freqs": [
+        "769.30625",
+        "770.30625a",
+        "770.30625c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Toro Peak",
+      "Freqs": [
+        "771.16875",
+        "771.46875a",
+        "771.86875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Site 108",
+      "Freqs": [
+        "774.91875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Red Mountain",
+      "Freqs": [
+        "771.43125a",
+        "771.89375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Site 110",
+      "Freqs": [
+        "771.03125",
+        "771.18125c",
+        "771.39375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Elsinore Peak",
+      "Freqs": [
+        "770.53125",
+        "770.78125a",
+        "771.29375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Rice",
+      "Freqs": [
+        "772.31875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Site 113",
+      "Freqs": [
+        "772.56875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Site 114",
+      "Freqs": [
+        "772.43125c",
+        "772.81875a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Site 115",
+      "Freqs": [
+        "771.31875a",
+        "771.44375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Morongo (Banning Pass)",
+      "Freqs": [
+        "772.55625c",
+        "773.70625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "018 (12)",
+      "Name": "Lake Riverside",
+      "Freqs": [
+        "769.75625c",
+        "770.80625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "019 (13)",
+      "Name": "Site 119",
+      "Freqs": [
+        "773.20625a",
+        "773.45625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "Santiago Peak",
+      "Freqs": [
+        "770.54375",
+        "771.19375a",
+        "771.94375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "Site 121",
+      "Freqs": [
+        "161.9125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Site 122",
+      "Freqs": [
+        "161.950c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "023 (17)",
+      "Name": "Site 123",
+      "Freqs": [
+        "161.900a",
+        "162.000c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "Site 124",
+      "Freqs": [
+        "161.8625a",
+        "161.925c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Site 125",
+      "Freqs": [
+        "161.825",
+        "161.875a",
+        "161.9375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Billy Goat",
+      "Freqs": [
+        "770.06875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Site 127",
+      "Freqs": [
+        "772.55625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Site 129",
+      "Freqs": [
+        "774.70625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "Snow Peak",
+      "Freqs": [
+        "771.56875a",
+        "772.31875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Jurupa 1",
+      "Description": "Jurupa 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Jurupa 2",
+      "Description": "Jurupa 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "INQ WEST",
+      "Description": "Inquiry West ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "INQ CW",
+      "Description": "Inquiry Countywide ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "NW CALL",
+      "Description": "Northwest Call ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "BLUE?",
+      "Description": "Blue? ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RED",
+      "Description": "Red ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MO VAL 1",
+      "Description": "Moreno Valley 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MO VAL 2",
+      "Description": "Moreno Valley 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "116 ",
+      "HEX ": "074 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MV TAC 1",
+      "Description": "Moreno Valley Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "117 ",
+      "HEX ": "075 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MV TAC 2",
+      "Description": "Moreno Valley Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "118 ",
+      "HEX ": "076 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Perris 1",
+      "Description": "Perris 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "119 ",
+      "HEX ": "077 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Perris 2",
+      "Description": "Perris 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "120 ",
+      "HEX ": "078 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PER TAC 1",
+      "Description": "Perris Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "121 ",
+      "HEX ": "079 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PER TAC 2",
+      "Description": "Perris Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "122 ",
+      "HEX ": "07a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Cabazon 1",
+      "Description": "Cabazon 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "123 ",
+      "HEX ": "07b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Cabazon 2",
+      "Description": "Cabazon 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "130 ",
+      "HEX ": "082 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "CNT CALL",
+      "Description": "Central Call ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "131 ",
+      "HEX ": "083 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "HEM/SJ 1",
+      "Description": "Hemet/San Jacinto 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "HEM/SJ 2",
+      "Description": "Hemet/San Jacinto 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "133 ",
+      "HEX ": "085 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "HM/SJ TAC1",
+      "Description": "Hemet/San Jacinto Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "134 ",
+      "HEX ": "086 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "HM/SJ TAC2",
+      "Description": "Hemet/San Jacinto Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "135 ",
+      "HEX ": "087 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Elsinore 1",
+      "Description": "Lake Elsinore 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "136 ",
+      "HEX ": "088 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Elsinore 2",
+      "Description": "Lake Elsinore 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "137 ",
+      "HEX ": "089 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ELS TAC 1",
+      "Description": "Lake Elsinore Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "138 ",
+      "HEX ": "08a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "ELS TAC 2",
+      "Description": "Lake Elsinore Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "139 ",
+      "HEX ": "08b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SW EVNT 1",
+      "Description": "Southwest Event 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "140 ",
+      "HEX ": "08c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SW EVNT 2CL",
+      "Description": "Southwest Event 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "143 ",
+      "HEX ": "08f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SW CALL",
+      "Description": "Southwest Call ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "090 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Southwest 1",
+      "Description": "Southwest 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "145 ",
+      "HEX ": "091 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Southwest 2",
+      "Description": "Southwest 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "146 ",
+      "HEX ": "092 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SW TAC 1",
+      "Description": "Southwest Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "147 ",
+      "HEX ": "093 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SW TAC 2",
+      "Description": "Southwest Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "148 ",
+      "HEX ": "094 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PLMDST 1",
+      "Description": "Palm Desert 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "149 ",
+      "HEX ": "095 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "PLMDST 2",
+      "Description": "Palm Desert 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "156 ",
+      "HEX ": "09c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Indio 1",
+      "Description": "Indio 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "157 ",
+      "HEX ": "09d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Indio 2",
+      "Description": "Indio 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "158 ",
+      "HEX ": "09e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Indio Tac 1",
+      "Description": "Indio Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "159 ",
+      "HEX ": "09f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Indio Tac 2",
+      "Description": "Indio Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "0a0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Blythe 1",
+      "Description": "Blythe 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "161 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Blythe 2",
+      "Description": "Blythe 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "172 ",
+      "HEX ": "0ac ",
+      "Mode  ": "DE",
+      "Alpha Tag": "INQ EAST",
+      "Description": "Inquiry East ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "185 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RPDC 1",
+      "Description": "Robert Presley Detention Center 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "186 ",
+      "HEX ": "0ba ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RPDC 2",
+      "Description": "Robert Presley Detention Center 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "187 ",
+      "HEX ": "0bb ",
+      "Mode  ": "DE",
+      "Alpha Tag": "RPDC TAC 1",
+      "Description": "Robert Presley Detention Center Tac 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "189 ",
+      "HEX ": "0bd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SWDC 1",
+      "Description": "Southwest Detention Center 1? ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "193 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SCF 1",
+      "Description": "Smith Correctional Facility 1? ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "195 ",
+      "HEX ": "0c3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "INDIO JAIL 1",
+      "Description": "Indio Jail 1? ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "197 ",
+      "HEX ": "0c5 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "BLYTHE JAIL1",
+      "Description": "Blythe Jail 1? ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1103 ",
+      "HEX ": "44f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 1103",
+      "Description": "Unknown ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1126 ",
+      "HEX ": "466 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 1126",
+      "Description": "Unknown ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1146 ",
+      "HEX ": "47a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Encrypted 11464",
+      "Description": "Unknown ",
+      "Tag  ": "Law Talk "
+    }
+  ]
+}

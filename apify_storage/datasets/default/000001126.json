@@ -1,0 +1,75 @@
+{
+  "System Name": "US BOP Atlanta MOT",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "July 31, 2018, 8:23 pm (Changed Site # 001 (Prison) to 001 (Prison))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "C92B",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Prison",
+      "Freqs": [
+        "407.0125c",
+        "408.250c",
+        "409.2125c",
+        "409.4125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops Primary",
+      "Description": "Operations Primary ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Medical",
+      "Description": "Medical ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops Secondry",
+      "Description": "Operations Secondary ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

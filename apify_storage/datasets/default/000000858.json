@@ -1,0 +1,138 @@
+{
+  "System Name": "DeSoto County Public Services",
+  "Location": "Arcadia, FL",
+  "County": "DeSoto",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 26, 2015, 3:22 pm (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "7B31",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "851.0875",
+        "851.3375",
+        "852.2625",
+        "853.3125",
+        "853.5625a",
+        "853.8125c",
+        "854.4125a",
+        "855.5625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "54016 ",
+      "HEX ": "d30 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Arcadia Fire",
+      "Description": "Arcadia Fire Department ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "54240 ",
+      "HEX ": "d3e ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR",
+      "Description": "De Soto County Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "55552 ",
+      "HEX ": "d90 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR Rescue",
+      "Description": "DeSoto County Fire Rescue ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "55616 ",
+      "HEX ": "d94 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR Brush 2",
+      "Description": "DeSoto County Fire Rescue - Brush II ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "55632 ",
+      "HEX ": "d95 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR Brush 3",
+      "Description": "DeSoto County Fire Rescue - Brush III ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "55776 ",
+      "HEX ": "d9e ",
+      "Mode  ": "A",
+      "Alpha Tag": "Arcadia Fire",
+      "Description": "Arcadia Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "55808 ",
+      "HEX ": "da0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR A",
+      "Description": "DeSoto County Fire Rescue Channel A ",
+      "Tag  ": "Multi-Talk "
+    },
+    {
+      "DEC ": "56064 ",
+      "HEX ": "db0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCFR B",
+      "Description": "DeSoto County Fire Rescue Channel B ",
+      "Tag  ": "Multi-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "49408 ",
+      "HEX ": "c10 ",
+      "Mode  ": "A",
+      "Alpha Tag": "APD/DCSO",
+      "Description": "Arcadia Police Department / DeSoto County Sheriff's Office Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "49424 ",
+      "HEX ": "c11 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCSO",
+      "Description": "DeSoto County Sheriff's Office ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "49664 ",
+      "HEX ": "c20 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCSO Aux",
+      "Description": "DeSoto County Sheriff's Office Aux Channel (?) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "51968 ",
+      "HEX ": "cb0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCSO CI",
+      "Description": "DeSoto Correctional Institute ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "52064 ",
+      "HEX ": "cb6 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCSO Jail",
+      "Description": "Jail Visitation ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

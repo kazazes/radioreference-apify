@@ -1,0 +1,181 @@
+{
+  "System Name": "Tennessee Valley Authority",
+  "Location": "Various, TN KY",
+  "County": "8 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 15, 2018, 5:26 pm (Changed Site # 007 (KY-Paradise Fossil Plant) to 007 (KY-Paradise Fossil Plant))",
+  "System ID List": [
+    {
+      "System ID": "372",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "TN-Allen Fossil Plant",
+      "County": "Shelby, TN",
+      "Freqs": [
+        "407.7125c",
+        "408.225a",
+        "408.675a",
+        "410.675a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "TN-Bull Run Fossil Plant",
+      "County": "Anderson, TN",
+      "Freqs": [
+        "408.225c",
+        "408.7125c",
+        "410.1125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "TN-Cumberland City Fossil Plant",
+      "County": "Stewart, TN",
+      "Freqs": [
+        "407.7125a",
+        "408.225a",
+        "408.675c",
+        "409.1125a",
+        "410.625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "005 (5)",
+      "Name": "TN-Gallatin Fossil Plant",
+      "County": "Sumner, TN",
+      "Freqs": [
+        "406.9125c",
+        "407.3125a",
+        "408.1125a",
+        "410.5125a",
+        "410.9125a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "TN-Kingston Fossil Plant",
+      "County": "Roane, TN",
+      "Freqs": [
+        "407.3125c",
+        "408.1125a",
+        "408.375a",
+        "408.9125a",
+        "410.675a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "7 (7)",
+      "Site": "007 (7)",
+      "Name": "KY-Paradise Fossil Plant",
+      "County": "Muhlenberg, KY",
+      "Freqs": [
+        "406.3125a",
+        "407.7125c",
+        "408.075a",
+        "408.675a",
+        "408.975a",
+        "409.9125a",
+        "410.3125a",
+        "410.9125a"
+      ]
+    },
+    {
+      "RFSS": "8 (8)",
+      "Site": "008 (8)",
+      "Name": "KY-Shawnee Fossil Plant",
+      "County": "McCracken, KY",
+      "Freqs": [
+        "407.7125a",
+        "408.225c",
+        "408.5375a",
+        "410.825a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "14 (E)",
+      "Site": "014 (E)",
+      "Name": "TN-New Johnsonville Fossil Plant",
+      "County": "Humphreys, TN",
+      "Freqs": [
+        "407.3125c",
+        "408.1125a",
+        "410.9125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1000 ",
+      "HEX ": "3e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Paradse 1000",
+      "Description": "Plant Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1014 ",
+      "HEX ": "3f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Paradse 1014",
+      "Description": "Plant Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1016 ",
+      "HEX ": "3f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Paradse 1016",
+      "Description": "Plant Operations ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "802 ",
+      "HEX ": "322 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NwJohn 802",
+      "Description": "Plant Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "811 ",
+      "HEX ": "32b ",
+      "Mode  ": "D",
+      "Alpha Tag": "NwJohn 811",
+      "Description": "Plant Operations ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

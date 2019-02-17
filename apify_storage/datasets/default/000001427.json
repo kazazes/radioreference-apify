@@ -1,0 +1,129 @@
+{
+  "System Name": "Chicago O'Hare Airport Public Safety",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 24, 2018, 3:10 pm (Added a new news entry)",
+  "System ID List": [
+    {
+      "System ID": "1505",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "857.7625c",
+        "859.7625c",
+        "856.7625",
+        "858.7625c",
+        "859.7125",
+        "858.4125",
+        "855.3875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "49840 ",
+      "HEX ": "c2b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emergency H",
+      "Description": "Emergency H ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "49976 ",
+      "HEX ": "c33 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TravelersAid",
+      "Description": "Travelers Aid ",
+      "Tag  ": "Multi-Tac "
+    },
+    {
+      "DEC ": "50000 ",
+      "HEX ": "c35 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emergency M",
+      "Description": "Emergency M ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "4528 ",
+      "HEX ": "11b ",
+      "Mode  ": "A",
+      "Alpha Tag": " Snow Ops",
+      "Description": "Snow Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50192 ",
+      "HEX ": "c41 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Snow 1",
+      "Description": "Snow 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50224 ",
+      "HEX ": "c43 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Snow 2",
+      "Description": "Snow 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50256 ",
+      "HEX ": "c45 ",
+      "Mode  ": "A",
+      "Alpha Tag": "De-Icer 3",
+      "Description": "De-Icer 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50288 ",
+      "HEX ": "c47 ",
+      "Mode  ": "A",
+      "Alpha Tag": "De-Icer 4",
+      "Description": "De-Icer 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50320 ",
+      "HEX ": "c49 ",
+      "Mode  ": "A",
+      "Alpha Tag": "De-Icer 7",
+      "Description": "De-Icer 7 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50352 ",
+      "HEX ": "c4b ",
+      "Mode  ": "A",
+      "Alpha Tag": "De-Icer 5&6 ",
+      "Description": "De-Icer 6 & 5 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50384 ",
+      "HEX ": "c4d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sanders",
+      "Description": "Sanders ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50416 ",
+      "HEX ": "c4f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Salters",
+      "Description": "Salters ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

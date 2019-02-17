@@ -1,0 +1,76 @@
+{
+  "System Name": "Metropolitan Detention Center Los Angeles",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "March 9, 2017, 9:59 pm (Added Talkgroup 96 Operations)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "12.5",
+      "Offset": "397"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "CA0B",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "406.8125c",
+        "409.4125c",
+        "409.675c",
+        "409.950c",
+        "410.525c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 32",
+      "Description": "Operations ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 48",
+      "Description": "Operations ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 64",
+      "Description": "Operations ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Perimeter 80",
+      "Description": "Perimeter ",
+      "Tag  ": "Federal "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 96",
+      "Description": "Operations ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

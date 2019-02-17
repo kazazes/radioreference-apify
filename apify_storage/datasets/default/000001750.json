@@ -1,0 +1,21 @@
+{
+  "System Name": "Radcliff Public Safety",
+  "Location": "Radcliff, KY",
+  "County": "Hardin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 16, 2007, 4:41 pm (Changed Site-001)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Radcliff",
+        "01 453.175 ",
+        "02 453.425 ",
+        "03 453.550 ",
+        "04 453.725 ",
+        "05 453.800 "
+      ]
+    }
+  ]
+}

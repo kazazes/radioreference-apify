@@ -1,0 +1,49 @@
+{
+  "System Name": "Lexington Sanitation District",
+  "Location": "Lexington, KY",
+  "County": "Fayette",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 27, 2014, 8:20 am (Updated Talkgroups (3 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 (Lexington)",
+        "01 460.1625 ",
+        "02 453.7125 ",
+        "03 453.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lex San #1",
+      "Description": "Sanitation #1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lex San #2",
+      "Description": "Sanitation #2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lex San Trns",
+      "Description": "Transfer Station ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-070 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Lex San Opns",
+      "Description": "Operations ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

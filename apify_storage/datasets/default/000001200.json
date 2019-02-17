@@ -1,0 +1,28 @@
+{
+  "System Name": "University of Hawaii",
+  "Location": "Honolulu, HI, HI",
+  "County": "Honolulu",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 18, 2019, 2:28 pm (Changed Site # 001 (Manoa) to 001 (Manoa))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Manoa",
+      "Freqs": [
+        "463.2625",
+        "464.1125",
+        "464.7125c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Leeward CC",
+      "Freqs": [
+        "452.2625",
+        "461.8375",
+        "464.4375"
+      ]
+    }
+  ]
+}

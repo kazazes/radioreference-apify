@@ -1,0 +1,562 @@
+{
+  "System Name": "Arizona Wireless Integrated Network System (Az Wins)",
+  "Location": "AZ Statewide, AZ",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 21, 2018, 3:59 am (Changed Site # 016 (Mt Elden ) to 016 (Mt Elden ))",
+  "System ID List": [
+    {
+      "System ID": "15A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Yuma 1",
+      "County": "Yuma",
+      "Freqs": [
+        "769.09375",
+        "769.31875",
+        "769.55626",
+        "769.56875",
+        "769.76875",
+        "770.06875",
+        "770.26875",
+        "770.51875",
+        "770.76875",
+        "771.04375a",
+        "771.19375a",
+        "771.34375a",
+        "771.48125a",
+        "771.49375c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Yuma 2",
+      "County": "Yuma",
+      "Freqs": [
+        "769.08125",
+        "769.30625",
+        "769.55625",
+        "769.75625",
+        "770.05625",
+        "770.25625",
+        "770.50625",
+        "770.75625",
+        "771.03125a",
+        "771.18125a",
+        "771.33125a",
+        "774.48125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Telegraph Pass Mountain",
+      "County": "Yuma",
+      "Freqs": [
+        "769.26875",
+        "769.59375",
+        "769.84375",
+        "770.09375",
+        "770.20625c",
+        "770.36875a",
+        "770.61875a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "San Luis",
+      "County": "Yuma",
+      "Freqs": [
+        "769.25625",
+        "769.58125",
+        "769.83125",
+        "770.08125",
+        "770.35625a",
+        "770.60625c",
+        "771.49375a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Yuma Proving Grounds",
+      "County": "Yuma",
+      "Freqs": [
+        "769.20625",
+        "769.45625a",
+        "769.70625a",
+        "769.95625a",
+        "770.20625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Windy Hill (Tacna)",
+      "County": "Yuma",
+      "Freqs": [
+        "769.21875",
+        "769.46875",
+        "769.71875",
+        "769.96875a",
+        "770.21875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Oatman Mountain",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.18125",
+        "769.43125",
+        "769.68125",
+        "769.93125a",
+        "770.18125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Stone Cabin",
+      "County": "Yuma",
+      "Freqs": [
+        "774.58125a",
+        "774.83125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Cunningham (W of Quartzsite)",
+      "County": "La Paz",
+      "Freqs": [
+        "769.65625",
+        "769.90625",
+        "770.15625a",
+        "770.40625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Parker Mountain",
+      "County": "La Paz",
+      "Freqs": [
+        "769.44375",
+        "769.69375",
+        "769.94375",
+        "770.19375a",
+        "770.44375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Black Metal Mountain",
+      "County": "San Bernardino",
+      "Freqs": [
+        "770.16875a",
+        "770.41875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Smith Peak",
+      "County": "La Paz",
+      "Freqs": [
+        "774.05625a",
+        "774.30625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Guadalupe Mountain (E of Quartzsite)",
+      "County": "La Paz",
+      "Freqs": [
+        "770.65625",
+        "774.53125a",
+        "774.78125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Site 14 (West La Paz or Mohave County)",
+      "County": "",
+      "Freqs": [
+        "769.44375",
+        "769.69375",
+        "769.94375",
+        "770.19375c",
+        "770.44375a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Childs Mountain (Ajo)",
+      "County": "Pima",
+      "Freqs": [
+        "769.40625c",
+        "769.65625a",
+        "769.90625",
+        "770.15625",
+        "770.40625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Site 16 (Mohave Co?)",
+      "County": "",
+      "Freqs": [
+        "773.79375",
+        "774.04375c",
+        "774.29375a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "South Mountain",
+      "County": "Maricopa",
+      "Freqs": [
+        "773.06875",
+        "773.31875",
+        "773.56875",
+        "773.81875",
+        "774.06875a",
+        "774.31875c",
+        "774.56875",
+        "774.81875"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Mt Lemmon",
+      "County": "Pima",
+      "Freqs": [
+        "769.16875",
+        "769.41875",
+        "769.66875",
+        "769.91875",
+        "770.16875a",
+        "770.41875c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "003 (3)",
+      "Name": "White Tanks",
+      "County": "Maricopa",
+      "Freqs": [
+        "773.04375",
+        "773.29375",
+        "773.54375a",
+        "773.79375a",
+        "774.04375a",
+        "774.29375c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "004 (4)",
+      "Name": "Thompson Peak",
+      "County": "Maricopa",
+      "Freqs": [
+        "773.09375",
+        "773.34375",
+        "773.59375",
+        "773.84375",
+        "774.09375a",
+        "774.34375c",
+        "774.59375",
+        "774.84375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "005 (5)",
+      "Name": "Shaw Butte",
+      "County": "Maricopa",
+      "Freqs": [
+        "773.08125c",
+        "773.33125a",
+        "773.58125",
+        "773.83125",
+        "774.08125",
+        "774.33125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "006 (6)",
+      "Name": "Tumamoc Hill",
+      "County": "Pima",
+      "Freqs": [
+        "769.44375",
+        "769.69375",
+        "769.94375",
+        "770.19375a",
+        "770.44375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "007 (7)",
+      "Name": "Keystone Peak",
+      "County": "Pima",
+      "Freqs": [
+        "769.40625",
+        "769.65625",
+        "769.90625",
+        "770.15625a",
+        "770.40625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "008 (8)",
+      "Name": "Pinal Peak",
+      "County": "Gila",
+      "Freqs": [
+        "773.30625",
+        "773.55625",
+        "773.80625",
+        "774.05625a",
+        "774.30625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "009 (9)",
+      "Name": "Nogales",
+      "County": "Santa Cruz",
+      "Freqs": [
+        "769.43125",
+        "769.68125",
+        "769.93125",
+        "770.18125a",
+        "770.43125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "010 (A)",
+      "Name": "Texas Canyon",
+      "County": "Cochise",
+      "Freqs": [
+        "769.45625",
+        "769.70625",
+        "769.95625",
+        "770.20625a",
+        "770.45625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "011 (B)",
+      "Name": "Mule Mountain",
+      "County": "Cochise",
+      "Freqs": [
+        "769.44375",
+        "769.69375",
+        "769.94375",
+        "770.19375a",
+        "770.44375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "012 (C)",
+      "Name": "Bernardino Peak",
+      "County": "Cochise",
+      "Freqs": [
+        "769.40625",
+        "769.65625",
+        "769.90625",
+        "770.15625a",
+        "770.40625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "013 (D)",
+      "Name": "Heliograph Peak",
+      "County": "Graham",
+      "Freqs": [
+        "769.43125",
+        "769.68125",
+        "769.93125",
+        "770.18125a",
+        "770.43125c",
+        "770.45625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "014 (E)",
+      "Name": "Towers Mountain",
+      "County": "Yavapai",
+      "Freqs": [
+        "773.28125",
+        "773.53125",
+        "773.78125",
+        "774.03125a",
+        "774.28125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "015 (F)",
+      "Name": "Site 215",
+      "County": "",
+      "Freqs": [
+        "770.45625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "016 (10)",
+      "Name": "Mt Elden ",
+      "County": "Coconino",
+      "Freqs": [
+        "774.09375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1095 ",
+      "HEX ": "447 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ADOC Central",
+      "Description": "DC Central ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "100 ",
+      "HEX ": "064 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RANGE TEST1",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RANGE TEST2",
+      "Description": "Range testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1004 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "AzWin TechA",
+      "Description": "Az Wins Tech (heard on Mt Lemmon Site) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "AzWin Tech B",
+      "Description": "Az Wins Tech (heard on Mt Lemmon Site) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1006 ",
+      "HEX ": "3ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "AzWin Tech C",
+      "Description": "Az Wins Tech (heard on Mt Lemmon Site) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

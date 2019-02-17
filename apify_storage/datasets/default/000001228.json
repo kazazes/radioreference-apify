@@ -1,0 +1,61 @@
+{
+  "System Name": "Bannock Paving Company",
+  "Location": "Pocatello, ID",
+  "County": "3 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "February 2, 2008, 11:18 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Pocatello",
+      "County": "Bannock",
+      "Freqs": [
+        "855.1625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Burley",
+      "County": "Cassia",
+      "Freqs": [
+        "855.1375",
+        "855.3375",
+        "855.5125",
+        "855.5375",
+        "855.5625",
+        "855.5875",
+        "856.8125",
+        "856.8375",
+        "857.8125",
+        "857.8375",
+        "858.8125",
+        "858.8375",
+        "859.8125",
+        "859.8375",
+        "860.8125",
+        "860.8375"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Jerome",
+      "County": "Jerome",
+      "Freqs": [
+        "855.0875",
+        "855.4125",
+        "856.8875",
+        "857.8875",
+        "858.8875",
+        "860.8875",
+        " "
+      ]
+    }
+  ]
+}

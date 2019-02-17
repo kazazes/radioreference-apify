@@ -1,0 +1,21 @@
+{
+  "System Name": "Alcan Ingot",
+  "Location": "Henderson, KY",
+  "County": "Henderson",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 4, 2012, 3:56 am (Changed Site # 001 (Alcan Plant Site) to 001 (Henderson))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Henderson",
+        "03 461.6375 ",
+        "07 462.0125 ",
+        "11 463.7125 ",
+        "15 463.9625 ",
+        "19 464.8125 "
+      ]
+    }
+  ]
+}

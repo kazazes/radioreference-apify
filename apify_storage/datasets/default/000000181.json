@@ -1,0 +1,20 @@
+{
+  "System Name": "FutureFuel Company",
+  "Location": "Batesville, AR",
+  "County": "Independence",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 25, 2008, 8:12 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Eastman Company",
+        "01 856.3375 ",
+        "02 857.3375 ",
+        "03 858.3375 ",
+        "04 859.3375 "
+      ]
+    }
+  ]
+}

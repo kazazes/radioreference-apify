@@ -1,0 +1,172 @@
+{
+  "System Name": "San Bernardino County 13",
+  "Location": "Morongo Basin, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 29, 2017, 6:30 am (Deleted news entry ID=3840)",
+  "System ID List": [
+    {
+      "System ID": "232C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.475",
+        "857.475",
+        "858.225",
+        "858.250",
+        "858.725",
+        "859.725",
+        "860.225",
+        "860.250c",
+        "860.475",
+        "860.950c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-1",
+      "Description": "Morongo Basin (Station 9) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTAC-1",
+      "Description": "Morongo Basin (Station 9) Tactical ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-2",
+      "Description": "Twentynine Palms (Station 20) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTAC-2",
+      "Description": "Twentynine Palms (Station 20) Tactical ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-3",
+      "Description": "Yucca Valley (Station 23) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTAC-3",
+      "Description": "Yucca Valley (Station 23) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DC-4",
+      "Description": "Backup Dispatch (All Stations) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-DTAC-4",
+      "Description": "Backup Tactical (All Stations) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-ATAC-1",
+      "Description": "Desert Area Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-ATAC-2",
+      "Description": "Desert Area Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CTAC-1",
+      "Description": "Countywide Tactical 1 (Patched to all systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CTAC-2",
+      "Description": "Countywide Tactical 2 (Patched to all systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-CHASE",
+      "Description": "Pursuit Channel (All stations) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "40-KING",
+      "Description": "Air Support ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5136 ",
+      "HEX ": "141 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-MB AMB",
+      "Description": "MORONGO BASIN AMBULANCE ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "15888 ",
+      "HEX ": "3e1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-EMS",
+      "Description": "Interop w/Fire ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4-COMCENTER",
+      "Description": "COMCENTER ",
+      "Tag  ": "Multi-Talk "
+    }
+  ]
+}

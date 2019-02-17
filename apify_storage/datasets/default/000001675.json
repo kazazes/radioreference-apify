@@ -1,0 +1,128 @@
+{
+  "System Name": "Sumner County Public Safety",
+  "Location": "Riverdale, KS",
+  "County": "Sumner",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 12, 2017, 2:40 pm ((2) Talkgroups Updated (Sumner County))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Sumner Co",
+        "01 460.1125 ",
+        "02 460.3375 ",
+        "03 460.1375 ",
+        "04 460.0375 ",
+        "05 460.1875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo Patrol1",
+      "Description": "Sheriff Patrol 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1-02-075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo Patrol2",
+      "Description": "Sheriff Patrol 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-01-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCoPatrol1S",
+      "Description": "Sheriff Patrol 1 South ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1-01-151 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCoPatrol2S",
+      "Description": "Sheriff Patrol 2 South ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-01-078 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo SO Tac1",
+      "Description": "Sheriff Tactical 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-02-078 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo SO Tac2",
+      "Description": "Sheriff Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-01-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co Fire 1",
+      "Description": "Fie and EMS Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1-02-076 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co Fire 2",
+      "Description": "Fire and EMS 2 Tactical ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1-01-081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co EM 1",
+      "Description": "Emergency Management 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1-02-081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co EM 2",
+      "Description": "Emergency Management 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1-01-079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co Tac 11",
+      "Description": "Tactical 11 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-02-079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sumner Co Tac 12",
+      "Description": "Tactical 12 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1-01-083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo Common1",
+      "Description": "Common 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-02-083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SumnerCo Common2",
+      "Description": "Common 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-01-152 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Caldwell Police",
+      "Description": "Caldwell Police ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "System Name": "Federal Correctional Complex Florence",
+  "Location": "Florence, CO",
+  "County": "Fremont",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 17, 2013, 9:38 am (Updated General Trunked System Information)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.81250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "B137",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "406.8125c",
+        "407.050c",
+        "408.250c",
+        "408.8125c",
+        "409.0125",
+        "409.2125",
+        "409.4125",
+        "409.675",
+        "410.000"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONTROL 16",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OPERATIONS",
+      "Description": "Control, Compound, Visiting, Recreation ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONTROL 48",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-3",
+      "Description": "Channel-3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-4",
+      "Description": "Channel-4 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-5",
+      "Description": "Channel-5 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-6",
+      "Description": "Channel-6 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONTROL 304",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "16016 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "COUNT",
+      "Description": "Inmate Counting ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16032 ",
+      "HEX ": "3ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-1",
+      "Description": "Channel-1 - General Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16048 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CH-2",
+      "Description": "Channel-2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16064 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "CNTRL 16064",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16096 ",
+      "HEX ": "3ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "CNTRL 16096",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16128 ",
+      "HEX ": "3f0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintanance",
+      "Description": "Maintanance ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16224 ",
+      "HEX ": "3f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CNTRL 16224",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "16304 ",
+      "HEX ": "3fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CNTRL 16304",
+      "Description": "Control Center ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

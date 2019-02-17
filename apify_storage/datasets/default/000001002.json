@@ -1,0 +1,48 @@
+{
+  "System Name": "Wyndham Grand Jupiter at Harbourside Place",
+  "Location": "Jupiter, FL",
+  "County": "Palm Beach",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 16, 2018, 12:44 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 463.675 ",
+        "02 463.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "30 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "40 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Operations 80",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "90 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    }
+  ]
+}

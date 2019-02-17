@@ -1,0 +1,51 @@
+{
+  "System Name": "CNC Technical Services",
+  "Location": "Steamboat Springs, CO",
+  "County": "Routt",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 24, 2017, 11:03 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Storm Peak",
+        "03 452.050 ",
+        "07 452.300 ",
+        "11 463.750 ",
+        "15 464.000 ",
+        "19 464.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WgnrCatRentl",
+      "Description": "Wagner Caterpillar Rental ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-058 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttle Bus",
+      "Description": "Shuttle Bus ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Excavating 1",
+      "Description": "Excavating Co 1 (Snow Removal) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-15-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Excavating 2",
+      "Description": "Excavating Co 2 (Snow Removal) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

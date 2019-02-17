@@ -1,0 +1,90 @@
+{
+  "System Name": "Choptank Electric Cooperative",
+  "Location": "Various, MD",
+  "County": "6 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 2, 2018, 2:14 pm (Changed Site # 003 (Linkwood) to 003 (Linkwood))",
+  "System ID List": [
+    {
+      "System ID": "267"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Crumpton",
+      "County": [
+        "Queen Anne's",
+        "01 462.1375 ",
+        "02 463.6625c ",
+        "03 464.4125 ",
+        "04 464.9125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Denton",
+      "County": [
+        "Caroline",
+        "01 462.0375c ",
+        "02 463.5125c ",
+        "03 463.8875c ",
+        "04 464.7375 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Linkwood",
+      "County": [
+        "Dorchester",
+        "01 461.300c ",
+        "02 461.800c ",
+        "03 463.225 ",
+        "04 463.7875c "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Princess Anne",
+      "County": [
+        "Somerset",
+        "01 461.575 ",
+        "02 462.0875c ",
+        "03 463.4375c ",
+        "04 463.9875 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Whaleysville",
+      "County": [
+        "Worcester",
+        "01 463.3125 ",
+        "02 463.7125 ",
+        "03 464.150c ",
+        "04 464.9625 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "St. Michaels",
+      "County": [
+        "Talbot",
+        "01 461.4875 ",
+        "02 463.575 ",
+        "03 464.4375 ",
+        "04 464.8125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "33029 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ChptnkEC Dsp",
+      "Description": "Dispatch ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

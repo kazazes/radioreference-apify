@@ -1,0 +1,88 @@
+{
+  "System Name": "Cromwell",
+  "Location": "Cromwell, CT",
+  "County": "Middlesex",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 23, 2014, 1:27 pm (Added Talkgroup 102112 Travelers - Groundskeeping)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Cromwell",
+        "01 461.7625 ",
+        "02 461.9625 ",
+        "03 462.0125 ",
+        "04 463.3125 ",
+        "05 464.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-05-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Townwide All",
+      "Description": "Townwide All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-05-170 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire AllCall",
+      "Description": "Fire All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-05-171 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD All Call",
+      "Description": "Police All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-05-172 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DPW All Call",
+      "Description": "DPW All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-05-173 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WaterAllCall",
+      "Description": "Water Dept All Call ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1-05-174 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BoE All Call",
+      "Description": "Board of Education All Call ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1-05-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RadioService",
+      "Description": "Radio Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1-05-111 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Shop",
+      "Description": "Radio Service Shop ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1-05-112 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RadSvcAlarms",
+      "Description": "Alarms ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

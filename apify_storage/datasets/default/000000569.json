@@ -1,0 +1,63 @@
+{
+  "System Name": "Stanislaus Regional 911",
+  "Location": "Various, CA",
+  "County": "Stanislaus",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 26, 2018, 3:04 pm (Changed Site # 001 (Stanislaus Regional 911) to 001 (Stanislaus Regional 911))",
+  "System ID List": [
+    {
+      "System ID": "4AF",
+      "WACN": "02EDF"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Stanislaus Regional 911",
+      "Freqs": [
+        "851.400",
+        "852.2625",
+        "853.4375",
+        "853.7875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "21551 ",
+      "HEX ": "542f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ceres PD1",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "21552 ",
+      "HEX ": "5430 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ceres PD1",
+      "Description": "Police Ch 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "21553 ",
+      "HEX ": "5431 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ceres PD1",
+      "Description": "Police Ch 3 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "21500 ",
+      "HEX ": "53fc ",
+      "Mode  ": "D",
+      "Alpha Tag": "Turlock PD1",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

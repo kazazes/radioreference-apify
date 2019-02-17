@@ -1,0 +1,50 @@
+{
+  "System Name": "Bartow County",
+  "Location": "Cartersville, GA",
+  "County": "Bartow",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 13, 2019, 11:57 pm ((1) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "17D",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Cartersville",
+      "Freqs": [
+        "769.24375",
+        "771.70625",
+        "772.05625",
+        "772.53125",
+        "773.70625",
+        "774.13125",
+        "774.88125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "36153 ",
+      "HEX ": "8d39 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FIRE 36153",
+      "Description": "Fire Operations - Battalion 1 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "36205 ",
+      "HEX ": "8d6d ",
+      "Mode  ": "T",
+      "Alpha Tag": "TEST 36205",
+      "Description": "System Testing ",
+      "Tag  ": "Other "
+    }
+  ]
+}

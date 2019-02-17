@@ -1,0 +1,76 @@
+{
+  "System Name": "Unidentified Federal P25 A52-BD000",
+  "Location": "Various, NV CA AZ",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 21, 2018, 1:42 am (Added Site # 69 (Lake Havasu City))",
+  "System ID List": [
+    {
+      "System ID": "A52",
+      "WACN": "BD000"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "013 (D)",
+      "Name": "Site 13",
+      "County": "Riverside, CA",
+      "Freqs": [
+        "172.1125c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "061 (3D)",
+      "Name": "Site 61",
+      "County": "Yuma, AZ",
+      "Freqs": [
+        "172.650c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "065 (41)",
+      "Name": "Site 65",
+      "County": ", ",
+      "Freqs": [
+        "172.650",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "069 (45)",
+      "Name": "Lake Havasu City",
+      "County": "Mohave, AZ",
+      "Freqs": [
+        "172.1375",
+        "172.650"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "075 (4B)",
+      "Name": "Site 75",
+      "County": ", ",
+      "Freqs": [
+        "172.1375c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "122 (7A)",
+      "Name": "Hoover Dam",
+      "County": "Clark, NV",
+      "Freqs": [
+        "172.1125c",
+        " "
+      ]
+    }
+  ]
+}

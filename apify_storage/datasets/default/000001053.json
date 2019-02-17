@@ -1,0 +1,129 @@
+{
+  "System Name": "Bulloch County Public Safety MOT",
+  "Location": "Statesboro, GA",
+  "County": "Bulloch",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:11 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "872D",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary (Rebanded)",
+      "Freqs": [
+        "856.4875",
+        "856.9375",
+        "857.4875",
+        "854.0125c",
+        "855.1875c",
+        "855.5125c",
+        "855.9375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2960 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Interop 1",
+      "Description": "Law 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2992 ",
+      "HEX ": "0bb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Interop 2",
+      "Description": "Law 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3536 ",
+      "HEX ": "0dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Mutual Aid",
+      "Description": "Mutual Aid ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3568 ",
+      "HEX ": "0df ",
+      "Mode  ": "A",
+      "Alpha Tag": "Countywide",
+      "Description": "Countywide Mutual Aid ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3728 ",
+      "HEX ": "0e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GBI",
+      "Description": "Georgia Bureau of Investigation (GBI) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3856 ",
+      "HEX ": "0f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 1",
+      "Description": "Georgia State Patrol (GSP) 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3888 ",
+      "HEX ": "0f3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 2",
+      "Description": "Georgia State Patrol (GSP) 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3920 ",
+      "HEX ": "0f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 3",
+      "Description": "Georgia State Patrol (GSP) 3 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3952 ",
+      "HEX ": "0f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 4",
+      "Description": "Georgia State Patrol (GSP) 4 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3984 ",
+      "HEX ": "0f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 5",
+      "Description": "Georgia State Patrol (GSP) 5 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4016 ",
+      "HEX ": "0fb ",
+      "Mode  ": "A",
+      "Alpha Tag": "GSP Ch 6",
+      "Description": "Georgia State Patrol (GSP) 6 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4144 ",
+      "HEX ": "103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GA DNR",
+      "Description": "Department Natural Resources (DNR) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

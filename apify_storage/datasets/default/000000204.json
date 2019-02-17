@@ -1,0 +1,34 @@
+{
+  "System Name": "Georgia Pacific",
+  "Location": "Fort Smith, AR",
+  "County": "Sebastian",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 23, 2018, 6:58 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Fort Smith",
+        "01 461.950 ",
+        "02 462.250 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 1",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maint 1",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

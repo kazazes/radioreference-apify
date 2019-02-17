@@ -1,0 +1,153 @@
+{
+  "System Name": "Mobile County",
+  "Location": "Mobile, AL",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 21, 2019, 12:57 pm (Updated Function Tag assignments for 1 talkgroups(Mobile))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "927F4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Mount Vernon",
+      "County": "Mobile",
+      "Freqs": [
+        "769.61875",
+        "771.34375",
+        "771.79375c",
+        "772.03125",
+        "772.19375",
+        "772.81875",
+        "774.40625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Citronelle",
+      "County": "Mobile",
+      "Freqs": [
+        "770.34375c",
+        "771.56875a",
+        "771.84375a",
+        "772.09375a",
+        "772.44375a",
+        "773.88125a",
+        "774.65625a"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Salco Road",
+      "County": "Mobile",
+      "Freqs": [
+        "771.09375c",
+        "771.64375a",
+        "771.89375a",
+        "772.14375a",
+        "772.49375a",
+        "774.13125a",
+        "774.90625a"
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Mobile County",
+      "County": "Mobile",
+      "Freqs": [
+        "769.25625c",
+        "769.50625a",
+        "769.75625a",
+        "770.00625a",
+        "770.28125a",
+        "770.60625a",
+        "770.85625a",
+        "771.18125a",
+        "771.43125a",
+        "771.90625a",
+        "772.30625a",
+        "772.58125a",
+        "772.88125a",
+        "773.13125a",
+        "773.38125a",
+        "773.63125a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA-FIRE1",
+      "Description": "MA Fire-1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1006 ",
+      "HEX ": "3ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA-FIRE2",
+      "Description": "MA Fire-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1009 ",
+      "HEX ": "3f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FIREALRM",
+      "Description": "Fire Alarm ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1029 ",
+      "HEX ": "405 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HAZMTALL",
+      "Description": "Hazmat All ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1255 ",
+      "HEX ": "4e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA-FIRE3",
+      "Description": "MA Fire-3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1256 ",
+      "HEX ": "4e8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MA-FIRE4",
+      "Description": "MA Fire-4 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "9913 ",
+      "HEX ": "26b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "System Test",
+      "Description": "System Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9914 ",
+      "HEX ": "26ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "System Test",
+      "Description": "System Testing ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "System Name": "Chino Valley Unified School District",
+  "Location": "Chino, CA",
+  "County": "San Bernardino",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 26, 2017, 12:27 am (Added Talkgroup 106 District Ops)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 453.500 ",
+        "02 453.700 ",
+        "03 460.050 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "District Ops",
+      "Description": "District Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "District Ops",
+      "Description": "District Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "District Ops",
+      "Description": "District Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Transportation",
+      "Description": "Transportation ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "District Ops",
+      "Description": "District Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "District Ops",
+      "Description": "District Ops ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

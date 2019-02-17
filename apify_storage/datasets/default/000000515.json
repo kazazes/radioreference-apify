@@ -1,0 +1,73 @@
+{
+  "System Name": "SeaWorld San Diego California Theme Park",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 6, 2016, 2:06 pm (Changed Site # 001 (SeaWorld San Diego) to 001 (SeaWorld San Diego))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "SeaWorld San Diego",
+        "01 461.3875 ",
+        "02 461.475 ",
+        "03 462.000 ",
+        "04 462.375 ",
+        "05 463.8375 ",
+        "06 464.300 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Med Control",
+      "Description": "Med Control - EMS ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "119 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking",
+      "Description": "Parking  ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Park Ops",
+      "Description": "Park Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "122 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Rides",
+      "Description": "Ride Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "141 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cirque Show",
+      "Description": "Cirque de la Mer Acrobatic Show ",
+      "Tag  ": "Business "
+    }
+  ]
+}

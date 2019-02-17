@@ -1,0 +1,27 @@
+{
+  "System Name": "PGA Golf Club",
+  "Location": "Port Saint Lucie, FL",
+  "County": "St. Lucie",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 8, 2019, 10:59 am (Updated mode assignments for 1 talkgroups(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed ",
+        "01 464.6375 ",
+        "02 461.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Golf Course",
+      "Description": "Golf Course ",
+      "Tag  ": "Business "
+    }
+  ]
+}

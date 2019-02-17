@@ -1,0 +1,26 @@
+{
+  "System Name": "Reidy Rhodes and Taylor Communications (St. Augustine Capacity Plus)",
+  "Location": "Saint Augustine, FL",
+  "County": "St. Johns",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 5, 2018, 1:23 am ((1) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "St Augustine",
+        "01 461.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Smith Trucking ",
+      "Description": "Smith Trucking (St. Johns) ",
+      "Tag  ": "Business "
+    }
+  ]
+}

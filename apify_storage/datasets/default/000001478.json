@@ -1,0 +1,18 @@
+{
+  "System Name": "Aux Sable Liquid Products",
+  "Location": "Morris, IL",
+  "County": "Grundy",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 21, 2016, 5:19 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "00 463.8625 ",
+        "01 451.500 "
+      ]
+    }
+  ]
+}

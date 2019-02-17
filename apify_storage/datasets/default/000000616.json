@@ -1,0 +1,41 @@
+{
+  "System Name": "ACS Associates",
+  "Location": ", CO",
+  "County": "Clear Creek",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "April 22, 2018, 12:51 am (Changed Site # 037 (Squaw Mountain) to 037 (Squaw Mountain))",
+  "System Frequencies": [
+    {
+      "Site": "037 (25)",
+      "Name": "Squaw Mountain",
+      "Freqs": [
+        "152.9225c",
+        "152.9525"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ACE Xpres 1",
+      "Description": "Ace Express Coaches Ch 1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ACE Xpres 2",
+      "Description": "Ace Express Coaches Ch 2 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ACE Xpres 3",
+      "Description": "Ace Express Coaches Ch 3 ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

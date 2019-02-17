@@ -1,0 +1,35 @@
+{
+  "System Name": "Miner Electronics (Kankakee)",
+  "Location": "Bradley, IL",
+  "County": "Kankakee",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "June 13, 2011, 12:49 pm (Added Talkgroup 01030 service company)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.575 ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Unidentified LCN",
+        "11 464.275 ",
+        "12 464.200 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "service 1030",
+      "Description": "service company ",
+      "Tag  ": "Business "
+    }
+  ]
+}

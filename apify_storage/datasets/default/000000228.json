@@ -1,0 +1,17 @@
+{
+  "System Name": "University of California (Berkeley)",
+  "Location": "Berkeley, CA",
+  "County": "Alameda",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 3, 2018, 7:50 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 851.4875c "
+      ]
+    }
+  ]
+}

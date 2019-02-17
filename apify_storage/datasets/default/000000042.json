@@ -1,0 +1,109 @@
+{
+  "System Name": "Nextel License Holdings 1",
+  "Location": "Phenix City, AL",
+  "County": "Russell",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "November 28, 2010, 2:07 am (General text description updated)",
+  "System Fleetmap": [],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Phenix City",
+      "Freqs": [
+        "863.4875c",
+        "863.7125",
+        "863.9625",
+        "864.4875c",
+        "864.7125",
+        "864.9625",
+        "865.4875c",
+        "865.7125",
+        "865.9625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "000-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 000-02",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 000-06",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 001-01",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 001-07",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 001-09",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 201-04",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "300-12  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Manor Trans",
+      "Description": "MANOR TRANSPORT (NON-EMERGENCY MEDICAL TRANSPORT) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "500-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bi-City Tow",
+      "Description": "BI-CITY TOWING ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "701-12  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk 701-12",
+      "Description": "UNKNOWN ",
+      "Tag  ": "Business "
+    }
+  ]
+}

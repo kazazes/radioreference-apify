@@ -1,0 +1,126 @@
+{
+  "System Name": "Honolulu City and County Public Safety System (P25)",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 10, 2018, 1:40 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "8D0",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Metro Simulcast",
+      "Freqs": [
+        "851.5375c",
+        "851.6625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Winward Simulcast",
+      "Freqs": [
+        "851.5625c",
+        "851.8375a",
+        "853.3625a",
+        "854.1625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Northeast Simulcast",
+      "Freqs": [
+        "769.55625c",
+        "769.80625a",
+        "770.55625a",
+        "770.80625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Mokulei Ridge",
+      "Freqs": [
+        "771.48125c",
+        "771.73125a",
+        "772.48125a",
+        "772.73125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Waianae 1",
+      "Freqs": [
+        "772.43125c",
+        "772.68125a",
+        "772.93125a",
+        "773.18125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Waianae 2",
+      "Freqs": [
+        "769.50625c",
+        "769.75625a",
+        "770.50625a",
+        "770.75625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Waianae 3",
+      "Freqs": [
+        "769.53125c",
+        "769.78125a",
+        "770.53125a",
+        "772.78125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Makakilo",
+      "Freqs": [
+        "769.35625c",
+        "769.60625a",
+        "770.85625a",
+        "771.10625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Wahiawa",
+      "Freqs": [
+        "771.75625c",
+        "772.15625a",
+        "773.40625a",
+        "773.65625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Waialua",
+      "Freqs": [
+        "769.33125c",
+        "769.58125a",
+        "770.83125a",
+        "771.08125a"
+      ]
+    }
+  ]
+}

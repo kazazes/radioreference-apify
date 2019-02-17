@@ -1,0 +1,67 @@
+{
+  "System Name": "Federal Correctional Institution Taft",
+  "Location": "Taft, CA",
+  "County": "Kern",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "November 15, 2015, 5:27 am (Updated 1 Talkgroup Categories)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "25.0",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "440F",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "406.550c",
+        "407.350c",
+        "408.350c",
+        "406.950"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 48",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 80",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ch 3",
+      "Description": "Channel 3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 144",
+      "Description": "Operations ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

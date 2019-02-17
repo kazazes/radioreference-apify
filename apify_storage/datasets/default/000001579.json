@@ -1,0 +1,208 @@
+{
+  "System Name": "Corn Belt Power Cooperative",
+  "Location": ", IA",
+  "County": "17 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 2, 2018, 3:52 am (Changed Site # 003 (Storm Lake) to 003 (Storm Lake))",
+  "System ID List": [
+    {
+      "System ID": "103"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Quimby",
+      "County": [
+        "Cherokee",
+        "01 452.475c ",
+        "02 452.675 ",
+        "03 463.375 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Everly",
+      "County": [
+        "Clay",
+        "01 461.400 ",
+        "02 463.7875c ",
+        "03 464.600 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Storm Lake",
+      "County": [
+        "Buena Vista",
+        "01 463.5875a ",
+        "02 463.8125 ",
+        "03 451.8875 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Ruthven",
+      "County": [
+        "Palo Alto",
+        "01 451.875c ",
+        "02 452.300 ",
+        "03 463.525 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lake City",
+      "County": [
+        "Calhoun",
+        "01 451.350 ",
+        "02 452.2625c ",
+        "03 452.4375 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Glidden",
+      "County": [
+        "Carroll",
+        "01 451.9125 ",
+        "02 461.800 ",
+        "03 461.975 "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Pocahontas",
+      "County": [
+        "Pocahontas",
+        "01 451.7375 ",
+        "02 452.775c ",
+        "03 463.7125 "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Humboldt",
+      "County": [
+        "Humboldt",
+        "01 462.000c ",
+        "02 463.425 ",
+        "03 464.225 "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Burt",
+      "County": [
+        "Kossuth",
+        "01 452.325c ",
+        "02 452.825 ",
+        "03 452.075 "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Grand Junction",
+      "County": [
+        "Greene",
+        "01 462.225 ",
+        "02 463.7875 ",
+        "03 464.850c "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Webster City",
+      "County": [
+        "Hamilton",
+        "01 461.800c ",
+        "02 463.475 ",
+        "03 464.675 "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Klemme",
+      "County": [
+        "Hancock",
+        "01 451.8625 ",
+        "02 452.8375 ",
+        "03 451.6125c "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Nevada",
+      "County": [
+        "Story",
+        "01 451.9625c ",
+        "02 461.175 ",
+        "03 461.675 "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Hampton",
+      "County": [
+        "Franklin",
+        "01 461.300c ",
+        "02 462.1625 ",
+        "03 464.125 "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Wellsburg",
+      "County": [
+        "Grundy",
+        "01 463.975c ",
+        "02 462.525 ",
+        "03 464.175 "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Plainfield",
+      "County": [
+        "Bremer",
+        "01 463.2125 ",
+        "02 464.8125c ",
+        "03 461.250 "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Dinsdale",
+      "County": [
+        "Tama",
+        "01 463.9125c ",
+        "02 463.575 ",
+        "03 464.150 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10901 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CBP Franklin",
+      "Description": "Corn Belt Power - Franklin site ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CBP Garner",
+      "Description": "Corn Belt Power - Garner ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12301 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CBP Bremer",
+      "Description": "Corn Belt Power - Bremer site ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

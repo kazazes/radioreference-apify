@@ -1,0 +1,129 @@
+{
+  "System Name": "Interagency Communications Interoperability (ICI) Smartzone",
+  "Location": "Various, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "July 26, 2018, 11:25 pm (Changed Site # 003 (Montebello) to 003 (Montebello))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "470.01250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "482.00000",
+      "Spacing": "12.5",
+      "Offset": "500"
+    },
+    {
+      "Base": "480.50000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "469.05000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "482.05000",
+      "Spacing": "12.5",
+      "Offset": "581"
+    },
+    {
+      "Base": "479.53750",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "480.05000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "470.00000",
+      "Spacing": "12.5",
+      "Offset": "380"
+    },
+    {
+      "Base": "481.55000",
+      "Spacing": "12.5",
+      "Offset": "500"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "F108",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "003 (3)",
+      "Name": "Montebello",
+      "Freqs": [
+        "482.0375c",
+        "482.1125a",
+        "482.150",
+        "482.2125",
+        "482.3125",
+        "482.4125",
+        "482.5125",
+        "482.6125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "33056 ",
+      "HEX ": "812 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Air Tac",
+      "Description": "Interagency Air Calling / Air-to-Air - Burbank, Glendale, Pasadena  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "34336 ",
+      "HEX ": "862 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SGV Air Tac",
+      "Description": "ELMARS - Air Tac - El Monte, Montebello, Azusa, W Covina, Baldwin Park ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33008 ",
+      "HEX ": "80f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Comm-Net",
+      "Description": "Radio Techs ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33040 ",
+      "HEX ": "811 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs (Coverage Testing) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "33296 ",
+      "HEX ": "821 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Motonet",
+      "Description": "Motonet (Motorola Technicians) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

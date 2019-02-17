@@ -1,0 +1,76 @@
+{
+  "System Name": "Harlan County Public Safety",
+  "Location": "Various, KY",
+  "County": "Harlan",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "November 11, 2018, 10:59 pm (Changed Site # 003 (Grays Knob) to 003 (Grays Knob))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Rosspoint",
+      "Freqs": [
+        "460.2625",
+        "460.5875",
+        "461.700",
+        "463.2375"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Harlan",
+      "Freqs": [
+        "460.04375",
+        "450.59375",
+        "461.6125",
+        "463.2375"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Grays Knob",
+      "Freqs": [
+        "451.05625",
+        "451.900",
+        "453.16875",
+        "453.81875"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Bailey Creek",
+      "Freqs": [
+        "452.2625",
+        "452.600",
+        "453.31875",
+        "453.6375"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lou Ellen",
+      "Freqs": [
+        "451.90625",
+        "452.5875",
+        "453.23125",
+        "453.58125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCLE DISPATCH",
+      "Description": "Law Enforcement Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HCEMS DISPATCH",
+      "Description": "EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ]
+}

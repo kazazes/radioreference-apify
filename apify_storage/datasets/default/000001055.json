@@ -1,0 +1,231 @@
+{
+  "System Name": "Fort Stewart / Hunter Army Airfield MOT",
+  "Location": "Various, GA",
+  "County": "6 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 5, 2016, 2:24 pm (Updated General Trunked System Information)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.01250",
+      "Spacing": "12.5",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "6C25",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fort Stewart",
+      "County": "Liberty",
+      "Freqs": [
+        "406.1125c",
+        "406.7625a",
+        "406.9625",
+        "407.250",
+        "407.500",
+        "407.7625",
+        "409.350"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Hunter AAF",
+      "County": "Chatham",
+      "Freqs": [
+        "406.500c",
+        "407.075a",
+        "407.5625",
+        "408.125",
+        "408.3625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Richmond Hill",
+      "County": "Bryan",
+      "Freqs": [
+        "407.350c",
+        "408.050a",
+        "409.125",
+        "410.650",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Pembroke",
+      "County": "Bryan",
+      "Freqs": [
+        "407.1625c",
+        "407.425a",
+        "407.8625",
+        "410.150",
+        "410.3625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Taylor's Creek",
+      "County": "Tattnall",
+      "Freqs": [
+        "408.150c",
+        "408.5625a",
+        "409.025",
+        "409.300",
+        "410.325",
+        "410.5625",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Unknown",
+      "County": "",
+      "Freqs": [
+        "410.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ARMY COM",
+      "Description": "Army Common (Ch. 16 in all radios) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1968 ",
+      "HEX ": "07b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMERGENCY",
+      "Description": "Emergency (Ch. 15 in all radios and distress buttons) ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3568 ",
+      "HEX ": "0df ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3568",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3600 ",
+      "HEX ": "0e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3600",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3632 ",
+      "HEX ": "0e3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3632",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3664 ",
+      "HEX ": "0e5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3664",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3696 ",
+      "HEX ": "0e7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3696",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3760 ",
+      "HEX ": "0eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3760",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "3792 ",
+      "HEX ": "0ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 3792",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4112 ",
+      "HEX ": "101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 4112",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4144 ",
+      "HEX ": "103 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 4144",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4176 ",
+      "HEX ": "105 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 4176",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "4336 ",
+      "HEX ": "10f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 4336",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5168 ",
+      "HEX ": "143 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 5168",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "5232 ",
+      "HEX ": "147 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Assign 5232",
+      "Description": "As Assigned ",
+      "Tag  ": "Other "
+    }
+  ]
+}

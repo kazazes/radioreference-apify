@@ -1,0 +1,270 @@
+{
+  "System Name": "Western Area Regional Radio System Authority (WARRS)",
+  "Location": "Carollton, GA",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 23, 2018, 5:45 pm (Changed Site # 003 (Carroll/Haralson/Heard Simulcast) to 003 (Carroll/Haralson/Heard Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "241",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Coweta County Simulcast",
+      "County": "Coweta",
+      "Freqs": [
+        "769.24375",
+        "769.35625",
+        "771.08125c",
+        "771.63125a",
+        "772.40625",
+        "772.68125",
+        "773.45625",
+        "774.45625",
+        "774.73125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Carroll/Haralson/Heard Simulcast",
+      "County": "Carroll",
+      "Freqs": [
+        "851.400",
+        "852.100c",
+        "852.125",
+        "852.8625a",
+        "853.100",
+        "853.125",
+        "853.3625",
+        "853.8375",
+        "853.8875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Disp",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1002 ",
+      "HEX ": "3ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Ch 2",
+      "Description": "Sheriff Ch.2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1003 ",
+      "HEX ": "3eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO CID",
+      "Description": "Sheriff CID ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1004 ",
+      "HEX ": "3ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Tac 1",
+      "Description": "Sheriff Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO Tac 2",
+      "Description": "Sheriff Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2001 ",
+      "HEX ": "7d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "2003 ",
+      "HEX ": "7d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCFD Tac 1",
+      "Description": "Fire Tac-1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2004 ",
+      "HEX ": "7d4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCFD Tac 2",
+      "Description": "Fire Tac-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2005 ",
+      "HEX ": "7d5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCFD Tac 3",
+      "Description": "Fire Tac-3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2006 ",
+      "HEX ": "7d6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCFD Tac 4",
+      "Description": "Fire Tac-4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "2002 ",
+      "HEX ": "7d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WG EMS Disp",
+      "Description": "West Georgia EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "2007 ",
+      "HEX ": "7d7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WG EMS Ops",
+      "Description": "West Georgia EMS Operations ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "2032 ",
+      "HEX ": "7f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMS Hospital",
+      "Description": "EMS to Tanner Hospitals ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1101 ",
+      "HEX ": "44d ",
+      "Mode  ": "D",
+      "Alpha Tag": "CPD Dispatch",
+      "Description": "Carrollton Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1102 ",
+      "HEX ": "44e ",
+      "Mode  ": "D",
+      "Alpha Tag": "CPD Ch 2",
+      "Description": "Carrollton Police Ch.2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1401 ",
+      "HEX ": "579 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC Work Camp",
+      "Description": "Work Camp ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1406 ",
+      "HEX ": "57e ",
+      "Mode  ": "D",
+      "Alpha Tag": "Animal Disp",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1201 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "VRPD Disp 1",
+      "Description": "Villa Rica Police Dispatch 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1202 ",
+      "HEX ": "4b2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "VRPD Disp 2",
+      "Description": "Villa Rica Police Dispatch 2 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1301 ",
+      "HEX ": "515 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC MRD",
+      "Description": "Mt. Zion Police, Temple Police, Whitesburg Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1302 ",
+      "HEX ": "516 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BPD Dispatch",
+      "Description": "Bowden Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1104 ",
+      "HEX ": "450 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UWG DPS",
+      "Description": "University of West Georgia DPS ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1405 ",
+      "HEX ": "57d ",
+      "Mode  ": "D",
+      "Alpha Tag": "TAN MC SEC",
+      "Description": "Tanner Med Center Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2011 ",
+      "HEX ": "7db ",
+      "Mode  ": "D",
+      "Alpha Tag": "CC MA 13",
+      "Description": "WARRS Interop ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1006 ",
+      "HEX ": "3ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "WARRS LAW",
+      "Description": "Law Enforcement Interop ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "2009 ",
+      "HEX ": "7d9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WARRS FIRE",
+      "Description": "Fire Interop ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2010 ",
+      "HEX ": "7da ",
+      "Mode  ": "D",
+      "Alpha Tag": "WARRS EMS",
+      "Description": "EMS Interop ",
+      "Tag  ": "EMS-Talk "
+    }
+  ]
+}

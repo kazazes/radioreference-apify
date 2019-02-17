@@ -1,0 +1,302 @@
+{
+  "System Name": "Hawaii County Public Safety System",
+  "Location": "Varies, HI",
+  "County": "Hawaii",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 8, 2018, 4:46 pm ((2) Talkgroups Updated (Hawaii County Fire))",
+  "System ID List": [
+    {
+      "System ID": "855",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Pepeekeo",
+      "Freqs": [
+        "151.0175",
+        "151.235a",
+        "155.5875c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Captain Cook",
+      "Freqs": [
+        "155.2125c",
+        "155.3775a",
+        "155.5875",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Honokaa",
+      "Freqs": [
+        "151.0625a",
+        "151.4075c",
+        "154.8075a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Hilo",
+      "Freqs": [
+        "155.2125",
+        "155.3775",
+        "155.5725a",
+        "156.165c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Humuula (Mauna Kea)",
+      "Freqs": [
+        "151.085",
+        "151.295a",
+        "151.445c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Laupahoehoe",
+      "Freqs": [
+        "151.115",
+        "151.265c",
+        "151.4225a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Kahua Ranch (Kamuela)",
+      "Freqs": [
+        "151.205c",
+        "151.490a",
+        "155.400a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Kailua",
+      "Freqs": [
+        "151.0175",
+        "151.1525a",
+        "151.3925c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Kulani Cone (Volcano)",
+      "Freqs": [
+        "155.2275",
+        "155.3625a",
+        "155.625",
+        "156.1125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Moanuiahea",
+      "Freqs": [
+        "155.1825",
+        "155.325a",
+        "155.520c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Naalehu",
+      "Freqs": [
+        "151.0175",
+        "151.205c",
+        "151.3925a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Papa Bay Estates (Ohia Mill)",
+      "Freqs": [
+        "155.4525a",
+        "155.6775",
+        "155.955c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "South Point",
+      "Freqs": [
+        "155.400a",
+        "155.790c",
+        "156.105a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Waimea",
+      "Freqs": [
+        "151.100",
+        "155.6775a",
+        "156.105c",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6701 ",
+      "HEX ": "1a2d ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC CDA 1",
+      "Description": "Civil Defense Ops ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "6901 ",
+      "HEX ": "1af5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Hilo Ops",
+      "Description": "County of Hawaii Hilo Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6902 ",
+      "HEX ": "1af6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Hamakua Ops",
+      "Description": "County of Hawaii Hamakua Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6903 ",
+      "HEX ": "1af7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Kohala Ops",
+      "Description": "County of Hawaii Kohala Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6904 ",
+      "HEX ": "1af8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Kona Ops",
+      "Description": "County of Hawaii Kona Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6905 ",
+      "HEX ": "1af9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Ka'u Ops",
+      "Description": "County of Hawaii Ka'u Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6906 ",
+      "HEX ": "1afa ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Puna Ops",
+      "Description": "County of Hawaii Puna Ops ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6907 ",
+      "HEX ": "1afb ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Solid Waste",
+      "Description": "Solid Waste ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6908 ",
+      "HEX ": "1afc ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH P&R",
+      "Description": "Parks and Recreation ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6909 ",
+      "HEX ": "1afd ",
+      "Mode  ": "T",
+      "Alpha Tag": "CoH Aquatics",
+      "Description": "Aquatics Division ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6910 ",
+      "HEX ": "1afe ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hilo DWS",
+      "Description": "Hilo DWS ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6911 ",
+      "HEX ": "1aff ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hamakua DWS",
+      "Description": "Hamakua DWS ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6912 ",
+      "HEX ": "1b00 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Kohala DWS",
+      "Description": "Kohala DWS ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6913 ",
+      "HEX ": "1b01 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Kona DWS",
+      "Description": "Kailua-Kona DWS ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6914 ",
+      "HEX ": "1b02 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ka'u DWS",
+      "Description": "Ka'u DWS ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6915 ",
+      "HEX ": "1b03 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Puna DWS",
+      "Description": "Puna DWS ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

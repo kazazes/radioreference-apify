@@ -1,0 +1,1172 @@
+{
+  "System Name": "Westar Energy (KS/MO)",
+  "Location": "Various, KS MO",
+  "County": "40 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog",
+  "Last Updated": "May 10, 2018, 5:44 pm (Changed Site # 059 (Eureka, KS [EUREKA]) to 059 (Eureka, KS [EUREKA]))",
+  "System ID List": [
+    {
+      "System ID": "4033",
+      "Connect Tone": "97.30"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Abilene",
+      "County": "Dickinson, KS",
+      "Freqs": [
+        "935.3875",
+        "935.400",
+        "935.4125",
+        "935.425",
+        "935.4375",
+        "935.450",
+        "935.4625",
+        "935.475",
+        "935.4875",
+        "935.500c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Atchison",
+      "County": "Atchison, KS",
+      "Freqs": [
+        "937.4375",
+        "937.475",
+        "937.500",
+        "937.8875",
+        "938.500c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Beaumont",
+      "County": "Butler, KS",
+      "Freqs": [
+        "935.4625",
+        "935.475",
+        "935.4875",
+        "935.500",
+        "935.9125",
+        "935.925c",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Cherryvale",
+      "County": "Montgomery, KS",
+      "Freqs": [
+        "935.975",
+        "936.000",
+        "936.3875",
+        "936.400",
+        "936.4125",
+        "936.425",
+        "936.4375c"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Clay Center",
+      "County": "Clay, KS",
+      "Freqs": [
+        "935.9125",
+        "935.925",
+        "935.950",
+        "935.9625",
+        "935.975",
+        "936.000",
+        "936.3875",
+        "936.400c"
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Norway",
+      "County": "Republic, KS",
+      "Freqs": [
+        "936.4125",
+        "936.425",
+        "936.4375",
+        "936.450",
+        "936.4625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Ellsworth",
+      "County": "Ellsworth, KS",
+      "Freqs": [
+        "935.9125",
+        "935.925",
+        "935.950",
+        "935.9625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Florence",
+      "County": "Marion, KS",
+      "Freqs": [
+        "935.950",
+        "935.9625",
+        "936.9125",
+        "936.925",
+        "936.950",
+        "936.9625c",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Fort Scott",
+      "County": "Bourbon, KS",
+      "Freqs": [
+        "936.450",
+        "936.4625",
+        "936.475",
+        "936.4875",
+        "936.500",
+        "936.900",
+        "936.9125",
+        "936.925c"
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Great Bend",
+      "County": "Barton, KS",
+      "Freqs": [
+        "935.4375",
+        "935.450",
+        "935.4625",
+        "935.475",
+        "935.4875",
+        "935.500",
+        "935.900",
+        "935.975",
+        "936.000",
+        "936.3875c"
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "McPherson",
+      "County": "McPherson, KS",
+      "Freqs": [
+        "936.975",
+        "937.000",
+        "937.3875",
+        "937.400",
+        "937.4125",
+        "937.425",
+        "937.4375",
+        "937.450",
+        "937.4625",
+        "937.475c"
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Hunter",
+      "County": "Mitchell, KS",
+      "Freqs": [
+        "936.475",
+        "936.4875",
+        "936.500",
+        "936.900",
+        "936.9125",
+        "936.925c",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Hutchinson",
+      "County": "Reno, KS",
+      "Freqs": [
+        "935.3875",
+        "935.400",
+        "935.4125",
+        "935.425",
+        "936.400",
+        "936.4125",
+        "936.425",
+        "936.4375",
+        "936.450",
+        "936.4625c"
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "St. Marys",
+      "County": "Pottawatomie, KS",
+      "Freqs": [
+        "937.900",
+        "938.900",
+        "938.9125",
+        "938.925",
+        "938.9375",
+        "938.950c",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Kansas City, KS",
+      "County": "Wyandotte, KS",
+      "Freqs": [
+        "935.500",
+        "935.900",
+        "935.9125",
+        "935.925",
+        "935.950",
+        "935.9625",
+        "935.975",
+        "936.000",
+        "936.3875",
+        "936.400c",
+        "936.4125",
+        "936.425"
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Seneca",
+      "County": "Nemaha, KS",
+      "Freqs": [
+        "935.500",
+        "936.4375",
+        "936.4625",
+        "936.475",
+        "936.900c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Overland Park",
+      "County": "Johnson, KS",
+      "Freqs": [
+        "935.500",
+        "935.900",
+        "935.9125",
+        "935.925",
+        "936.4375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Marysville",
+      "County": "Marshall, KS",
+      "Freqs": [
+        "935.4375",
+        "935.475",
+        "935.900",
+        "937.500",
+        "937.925c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Emporia",
+      "County": "Lyon, KS",
+      "Freqs": [
+        "935.975",
+        "936.000",
+        "936.3875",
+        "936.400c",
+        "936.4875",
+        "936.500",
+        "936.900"
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Lawrence",
+      "County": "Douglas, KS",
+      "Freqs": [
+        "936.9125",
+        "936.925",
+        "936.950",
+        "936.9625",
+        "936.975",
+        "937.000",
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925",
+        "937.9375c"
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Elsmore [MARMTN]",
+      "County": "Allen, KS",
+      "Freqs": [
+        "935.4625",
+        "935.475",
+        "935.4875",
+        "935.500",
+        "935.9125",
+        "935.925c",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Salina",
+      "County": "Saline, KS",
+      "Freqs": [
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925",
+        "937.9375",
+        "937.950",
+        "937.9625",
+        "937.975c"
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Council Grove",
+      "County": "Morris, KS",
+      "Freqs": [
+        "936.4125",
+        "936.425",
+        "936.4375",
+        "936.450",
+        "936.4625",
+        "936.475c",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Murdock",
+      "County": "Kingman, KS",
+      "Freqs": [
+        "935.4875",
+        "935.500",
+        "935.900",
+        "935.9125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "031 (1F)",
+      "Name": "Neosho",
+      "County": "Labette, KS",
+      "Freqs": [
+        "937.4625c",
+        "937.450a",
+        "937.3875",
+        "937.400",
+        "937.4125",
+        "937.425",
+        "937.4375"
+      ]
+    },
+    {
+      "Site": "032 (20)",
+      "Name": "Newton",
+      "County": "Harvey, KS",
+      "Freqs": [
+        "935.975",
+        "936.000",
+        "936.3875",
+        "936.4875",
+        "936.500",
+        "936.900",
+        "937.4875",
+        "937.500c"
+      ]
+    },
+    {
+      "Site": "033 (21)",
+      "Name": "Ottawa",
+      "County": "Franklin, KS",
+      "Freqs": [
+        "937.950",
+        "937.9625",
+        "937.975",
+        "937.9875",
+        "938.000",
+        "938.8875c",
+        " "
+      ]
+    },
+    {
+      "Site": "034 (22)",
+      "Name": "Paola",
+      "County": "Miami, KS",
+      "Freqs": [
+        "936.4375",
+        "938.900",
+        "938.9125",
+        "938.925",
+        "938.9375",
+        "938.950c",
+        " "
+      ]
+    },
+    {
+      "Site": "035 (23)",
+      "Name": "Pittsburg [PITTSB]",
+      "County": "Crawford, KS",
+      "Freqs": [
+        "935.450",
+        "935.950",
+        "935.9625",
+        "936.950",
+        "936.9625",
+        "936.975",
+        "937.000c"
+      ]
+    },
+    {
+      "Site": "038 (26)",
+      "Name": "Manhattan",
+      "County": "Riley, KS",
+      "Freqs": [
+        "936.975",
+        "937.000",
+        "937.3875",
+        "937.400",
+        "937.4125",
+        "937.425",
+        "937.4375",
+        "937.450",
+        "937.4625",
+        "937.475c"
+      ]
+    },
+    {
+      "Site": "039 (27)",
+      "Name": "Topeka",
+      "County": "Shawnee, KS",
+      "Freqs": [
+        "938.700",
+        "938.7125",
+        "938.725",
+        "938.7375",
+        "938.750",
+        "938.975",
+        "938.9875",
+        "939.1375",
+        "939.150",
+        "939.3875",
+        "939.400",
+        "939.4125",
+        "939.425",
+        "939.4375",
+        "939.450",
+        "939.4625",
+        "939.475",
+        "939.900",
+        "939.950",
+        "939.9625c"
+      ]
+    },
+    {
+      "Site": "040 (28)",
+      "Name": "El Dorado",
+      "County": "Butler, KS",
+      "Freqs": [
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925",
+        "937.9375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "042 (2A)",
+      "Name": "Wichita",
+      "County": "Sedgwick, KS",
+      "Freqs": [
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925",
+        "937.9375",
+        "937.950",
+        "937.9625",
+        "937.975",
+        "937.9875",
+        "938.000",
+        "938.3875",
+        "938.400",
+        "938.4125",
+        "938.425",
+        "938.4375",
+        "938.450",
+        "938.4625",
+        "938.475",
+        "938.4875",
+        "938.500c"
+      ]
+    },
+    {
+      "Site": "043 (2B)",
+      "Name": "Burlington",
+      "County": "Coffey, KS",
+      "Freqs": [
+        "935.3875",
+        "935.400",
+        "935.4125",
+        "935.425",
+        "935.4375",
+        "935.450",
+        "935.950",
+        "935.9625c",
+        "938.9625"
+      ]
+    },
+    {
+      "Site": "044 (2C)",
+      "Name": "Yates Center",
+      "County": "Woodson, KS",
+      "Freqs": [
+        "937.475",
+        "937.4875",
+        "937.500",
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925c"
+      ]
+    },
+    {
+      "Site": "048 (30)",
+      "Name": "Pratt",
+      "County": "Pratt, KS",
+      "Freqs": [
+        "937.475",
+        "937.4875",
+        "937.500",
+        "937.8875",
+        "937.900",
+        "937.9125",
+        "937.925c"
+      ]
+    },
+    {
+      "Site": "051 (33)",
+      "Name": "Kansas City, MO",
+      "County": "Jackson, MO",
+      "Freqs": [
+        "937.3875",
+        "937.4125",
+        "937.425",
+        "937.450",
+        "937.4625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "052 (34)",
+      "Name": "Atlanta",
+      "County": "Cowley, KS",
+      "Freqs": [
+        "938.9125",
+        "938.925",
+        "938.9375",
+        "938.950c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "053 (35)",
+      "Name": "Shawnee",
+      "County": "Johnson, KS",
+      "Freqs": [
+        "936.950",
+        "936.9625c",
+        "936.975",
+        "937.000",
+        "939.925",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "054 (36)",
+      "Name": "Blue Rapids",
+      "County": "Marshall, KS",
+      "Freqs": [
+        "936.9625c",
+        "938.3875",
+        "938.400",
+        "938.4125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "055 (37)",
+      "Name": "Herington",
+      "County": "Morris, KS",
+      "Freqs": [
+        "936.9625c",
+        "938.425",
+        "938.4375",
+        "938.450",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "056 (38)",
+      "Name": "Leavenworth",
+      "County": "Leavenworth, KS",
+      "Freqs": [
+        "938.4375",
+        "938.450",
+        "938.4625",
+        "938.475",
+        "938.9625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "057 (39)",
+      "Name": "Arkansas City",
+      "County": "Cowley, KS",
+      "Freqs": [
+        "935.3875",
+        "935.400",
+        "935.4125",
+        "935.425",
+        "935.4375a",
+        "935.450c",
+        " "
+      ]
+    },
+    {
+      "Site": "059 (3B)",
+      "Name": "Eureka, KS [EUREKA]",
+      "County": "Greenwood, KS",
+      "Freqs": [
+        "937.4375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "13104 ",
+      "HEX ": "333 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE AtchsGas",
+      "Description": "KGE Atchison Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13232 ",
+      "HEX ": "33b ",
+      "Mode  ": "A",
+      "Alpha Tag": "KG&E I&S",
+      "Description": "KGE I&S ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13840 ",
+      "HEX ": "361 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE ManhnDis",
+      "Description": "Manhattan Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13872 ",
+      "HEX ": "363 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE Manhatan",
+      "Description": "Manhattan ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13904 ",
+      "HEX ": "365 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE ManhnGas",
+      "Description": "KGE Manhattan Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14096 ",
+      "HEX ": "371 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WestarWichta",
+      "Description": "Westar - Wichita Service Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14224 ",
+      "HEX ": "379 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE WichtCon",
+      "Description": "KGE Wichita Gas Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14320 ",
+      "HEX ": "37f ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE WichtDis",
+      "Description": "KGE Wichita Gas Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14352 ",
+      "HEX ": "381 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE Ark City",
+      "Description": "Arkansas City Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14480 ",
+      "HEX ": "389 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE ElDorado",
+      "Description": "Eldorado Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14640 ",
+      "HEX ": "393 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE Newton",
+      "Description": "KGE Newton Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14864 ",
+      "HEX ": "3a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE Parsons",
+      "Description": "Parsons Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14928 ",
+      "HEX ": "3a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE PrsnsGas",
+      "Description": "KGE Parsons Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14960 ",
+      "HEX ": "3a7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE Pittsbrg",
+      "Description": "Pittsburg Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15024 ",
+      "HEX ": "3ab ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE PitsGas",
+      "Description": "KGE Pittsburg Gas ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15696 ",
+      "HEX ": "3d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KG&E Tac 7",
+      "Description": "KGE Tac 7 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15728 ",
+      "HEX ": "3d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KG&E Tac 8",
+      "Description": "KGE Tac 8 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15760 ",
+      "HEX ": "3d9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KG&E Tac 9",
+      "Description": "KGE Tac 9 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15792 ",
+      "HEX ": "3db ",
+      "Mode  ": "A",
+      "Alpha Tag": "KG&E Tac 10",
+      "Description": "KGE Tac 10 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16400 ",
+      "HEX ": "401 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE GasEngnr",
+      "Description": "KGE Gas Engineering ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16432 ",
+      "HEX ": "403 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE GasConst",
+      "Description": "KGE Gas Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16496 ",
+      "HEX ": "407 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE WestPipe",
+      "Description": "KGE West Pipeline ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16592 ",
+      "HEX ": "40d ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE East Pip",
+      "Description": "KGE East Pipeline ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16656 ",
+      "HEX ": "411 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KGE SystemWd",
+      "Description": "KGE System-Wide ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 112",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 176",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 240",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "12944 ",
+      "HEX ": "329 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Leavenworth ",
+      "Description": "Leavenworth Dispatch (DB: Topeka) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13040 ",
+      "HEX ": "32f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Atchison Disp",
+      "Description": "Atchison Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13072 ",
+      "HEX ": "331 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WestarTopeka",
+      "Description": "Westar: Topeka Dispatch. ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13136 ",
+      "HEX ": "335 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HiawathaDisp",
+      "Description": "Hiawatha Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13200 ",
+      "HEX ": "339 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KC Dispatch",
+      "Description": "KC Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13360 ",
+      "HEX ": "343 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HutchisnDisp",
+      "Description": "Hutchison Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13392 ",
+      "HEX ": "345 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DSO Topeka",
+      "Description": "Westar Power Line DSO Topeka ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13456 ",
+      "HEX ": "349 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kinsley",
+      "Description": "Kinsley ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13552 ",
+      "HEX ": "34f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Greatbend Constr",
+      "Description": "Greatbend Construction ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13584 ",
+      "HEX ": "351 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Pratt Distributi",
+      "Description": "Pratt Distribution ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13616 ",
+      "HEX ": "353 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Salina Disp",
+      "Description": "Salina Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13648 ",
+      "HEX ": "355 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Wesetar13648",
+      "Description": "Westar Salina Ops (see notes*) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13712 ",
+      "HEX ": "359 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Abilene",
+      "Description": "Abilene ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13936 ",
+      "HEX ": "367 ",
+      "Mode  ": "A",
+      "Alpha Tag": "JunctnCity Disp",
+      "Description": "Junction City Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14000 ",
+      "HEX ": "36b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Marysville Disp",
+      "Description": "Marysville Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14064 ",
+      "HEX ": "36f ",
+      "Mode  ": "A",
+      "Alpha Tag": "RTI 14064",
+      "Description": "Westar RTI (Radio Telephone Interface) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14128 ",
+      "HEX ": "373 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DSO Wichita",
+      "Description": "Westar Power Line DSO Wichita ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14256 ",
+      "HEX ": "37b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Wichita CMBO",
+      "Description": "Wichita CMBO ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14288 ",
+      "HEX ": "37d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Wichita PMLS",
+      "Description": "Wichita PMLS ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "14608 ",
+      "HEX ": "391 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DSO 14608",
+      "Description": "Westar Power Line DSO (see notes*) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15248 ",
+      "HEX ": "3b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bartlesville",
+      "Description": "Bartlesville Dispatch ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15440 ",
+      "HEX ": "3c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Western Resr",
+      "Description": "Western Resources Claims ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16464 ",
+      "HEX ": "405 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ulysses-Minn",
+      "Description": "Ulysses-Minneola ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16528 ",
+      "HEX ": "409 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CALISTA",
+      "Description": "CALISTA ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "16560 ",
+      "HEX ": "40b ",
+      "Mode  ": "A",
+      "Alpha Tag": "TRAN HQ",
+      "Description": "TRAN Headquarters ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "17072 ",
+      "HEX ": "42b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 17072",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "17136 ",
+      "HEX ": "42f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 17136",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "17168 ",
+      "HEX ": "431 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 17168",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "23728 ",
+      "HEX ": "5cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 23728",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "23920 ",
+      "HEX ": "5d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 23920",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "24496 ",
+      "HEX ": "5fb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 24496",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "24528 ",
+      "HEX ": "5fd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 24528",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "24592 ",
+      "HEX ": "601 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data 24592",
+      "Description": "Data ",
+      "Tag  ": "Data "
+    }
+  ]
+}

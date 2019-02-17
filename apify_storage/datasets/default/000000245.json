@@ -1,0 +1,369 @@
+{
+  "System Name": "Shell Communications (Martinez)",
+  "Location": "Martinez, CA",
+  "County": "Contra Costa",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "March 4, 2012, 2:55 am (Added Talkgroup 816 Fire Tac 2)",
+  "System ID List": [
+    {
+      "System ID": "3437",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Repeater",
+      "Freqs": [
+        "935.2375",
+        "935.250",
+        "935.6375",
+        "936.950",
+        "937.3875a",
+        "937.8875c",
+        "939.6375",
+        "939.650a",
+        "939.6875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOP 1",
+      "Description": "LOP 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOP 2",
+      "Description": "LOP 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOP 3",
+      "Description": "LOP 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "64 ",
+      "HEX ": "004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LP-MNT",
+      "Description": "LP-MNT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OPCEN 1",
+      "Description": "OPCEN 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "96 ",
+      "HEX ": "006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OPCEN 2",
+      "Description": "OPCEN 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LOG",
+      "Description": "LOG ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "128 ",
+      "HEX ": "008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WHARF",
+      "Description": "Wharf Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LUBES 1",
+      "Description": "LUBES 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "00a ",
+      "Mode  ": "A",
+      "Alpha Tag": "CHEM",
+      "Description": "CHEM ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "DC",
+      "Description": "DC ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "192 ",
+      "HEX ": "00c ",
+      "Mode  ": "A",
+      "Alpha Tag": "OPC MNT",
+      "Description": "OPC MNT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "LUBES 2",
+      "Description": "LUBES 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "224 ",
+      "HEX ": "00e ",
+      "Mode  ": "A",
+      "Alpha Tag": "LL-MNT",
+      "Description": "LL-MNT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "DC MNT",
+      "Description": "DC MNT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "256 ",
+      "HEX ": "010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SP-OPS",
+      "Description": "SP-OPS ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WHSE",
+      "Description": "WHSE ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "352 ",
+      "HEX ": "016 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CMD",
+      "Description": "Command ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RIGGER",
+      "Description": "RIGGER ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "384 ",
+      "HEX ": "018 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECT 1",
+      "Description": "Electric 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "INST 1",
+      "Description": "INST 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "416 ",
+      "HEX ": "01a ",
+      "Mode  ": "A",
+      "Alpha Tag": "INST 2",
+      "Description": "INST 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "INST 3",
+      "Description": "INST 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "448 ",
+      "HEX ": "01c ",
+      "Mode  ": "A",
+      "Alpha Tag": "INST 4",
+      "Description": "INST 4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "TA 1",
+      "Description": "TA 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "480 ",
+      "HEX ": "01e ",
+      "Mode  ": "A",
+      "Alpha Tag": "TA 2",
+      "Description": "TA 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "TA 3",
+      "Description": "TA 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "512 ",
+      "HEX ": "020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TA 4",
+      "Description": "TA 4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SP MNT",
+      "Description": "SP MNT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "544 ",
+      "HEX ": "022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PROJ 1",
+      "Description": "PROJ 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "560 ",
+      "HEX ": "023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PROJ 2",
+      "Description": "PROJ 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "576 ",
+      "HEX ": "024 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PROJ 3",
+      "Description": "PROJ 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "SAFETY / FD",
+      "Description": "Safety / Fire Department ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "768 ",
+      "HEX ": "030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY/FT1",
+      "Description": "Security/Fire Tac 1 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "800 ",
+      "HEX ": "032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EMERG",
+      "Description": "Emergency Ops ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FIRE TAC 2",
+      "Description": "Fire Tac 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "832 ",
+      "HEX ": "034 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ECD/QA",
+      "Description": "ECD/QA ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "960 ",
+      "HEX ": "03c ",
+      "Mode  ": "A",
+      "Alpha Tag": "C11",
+      "Description": "C11 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELECT 2",
+      "Description": "Electric 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "03f ",
+      "Mode  ": "A",
+      "Alpha Tag": "C14",
+      "Description": "C14 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1024 ",
+      "HEX ": "040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "C15",
+      "Description": "C15 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "C16",
+      "Description": "C16 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

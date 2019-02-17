@@ -1,0 +1,35 @@
+{
+  "System Name": "Canton Public Safety NXDN",
+  "Location": "Canton, GA",
+  "County": "Cherokee",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "August 9, 2018, 12:49 am (Updated Sites)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Canton South",
+      "Freqs": [
+        "151.1675",
+        "151.4675"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Canton North",
+      "Freqs": [
+        "151.115",
+        "151.4225"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCSO DISPATCH",
+      "Description": "Cherokee County Sheriff - Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

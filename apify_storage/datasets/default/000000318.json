@@ -1,0 +1,55 @@
+{
+  "System Name": "FleetTalk Partners (Oat Mountain)",
+  "Location": "Oat Mountain, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 23, 2011, 1:31 am (Updated Talkgroups (4 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Oat Mountain",
+      "Freqs": [
+        "938.700c",
+        "938.7125c",
+        "938.725c",
+        "938.7375c",
+        "938.750"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 336",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4064 ",
+      "HEX ": "0fe ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 4064",
+      "Description": "Towing Company (Chatsworth/Canoga Park) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6496 ",
+      "HEX ": "196 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 6496",
+      "Description": "Towing Company (Canoga Park) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8240 ",
+      "HEX ": "203 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Constr 8240",
+      "Description": "construction company? ",
+      "Tag  ": "Business "
+    }
+  ]
+}

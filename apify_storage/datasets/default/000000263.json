@@ -1,0 +1,34 @@
+{
+  "System Name": "Dreyer's Grand Ice Cream Plant",
+  "Location": "Bakersfield, CA",
+  "County": "Kern",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 29, 2016, 5:16 am (Updated Talkgroups (2 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Dryers",
+        "01 463.8375 ",
+        "02 464.050 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Dreyers Prod",
+      "Description": "Production Line ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Dreyers Logs",
+      "Description": "Logistics ",
+      "Tag  ": "Business "
+    }
+  ]
+}

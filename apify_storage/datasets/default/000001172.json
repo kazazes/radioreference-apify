@@ -1,0 +1,48 @@
+{
+  "System Name": "ARINC (Honolulu International Airport)",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "April 3, 2017, 12:46 am (Changed System ID: [320F | | ] to [320F | 105.88 | ])",
+  "System ID List": [
+    {
+      "System ID": "320F",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.5875",
+        "856.8375",
+        "857.8375c",
+        "858.8375c",
+        "859.8375",
+        "860.8375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "8272 ",
+      "HEX ": "205 ",
+      "Mode  ": "A",
+      "Alpha Tag": "All Nippon 1",
+      "Description": "All Nippon Airlines Ch 1 ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "8336 ",
+      "HEX ": "209 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WFS BAG",
+      "Description": "Automated Baggage System Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

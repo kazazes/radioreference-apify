@@ -1,0 +1,518 @@
+{
+  "System Name": "Heartland Communications (Chicago)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "May 22, 2018, 2:31 am ((17) Talkgroups Updated (Transportation))",
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "A",
+      "B2": "B",
+      "B3": "B",
+      "B4": "C",
+      "B5": "C",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "S1",
+      "B2": "S2",
+      "B3": "S2",
+      "B4": "S3",
+      "B5": "S3",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "845 N. Michigan Ave.",
+      "Freqs": [
+        "852.4125c",
+        "851.5125c",
+        "851.1625c",
+        "851.1375",
+        "851.4375",
+        "854.0375",
+        "854.1875",
+        "851.2875",
+        "851.4125",
+        "851.7625",
+        "852.3125",
+        "852.7625",
+        "853.0375",
+        "853.7375",
+        "853.8125c",
+        "853.8875",
+        "854.2625",
+        "854.4875",
+        "858.8375",
+        "851.0875",
+        "851.9875",
+        "854.0125",
+        "854.6875",
+        "852.1125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "053-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "086-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "102-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "113-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "115-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "120-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "131-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Construction",
+      "Description": "construction/piping ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "167-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "207-00  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "207-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "214-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "300-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "306-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "catering 30602",
+      "Description": "catering service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "308-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Amvets ? 30801",
+      "Description": "Amvets ? ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "401-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "401-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "402-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "403-00  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "404-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "415-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "security 415-01",
+      "Description": "security service ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "420-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-00  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "car rental 70007",
+      "Description": "car rental agency ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-08  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-08  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "701-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "703-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "car rental 70301",
+      "Description": "car rental/OHare ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "703-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "car rental 70306",
+      "Description": "car rental agency ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "704-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "706-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Business Ops",
+      "Description": "Business Ops ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "117-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 11701",
+      "Description": "delivery service ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "122-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 12201",
+      "Description": "towing company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "198-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Limo Svc 19801",
+      "Description": "limo service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "203-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "messenger 20302",
+      "Description": "messenger service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "204-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "messenger 20401",
+      "Description": "messenger service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "208-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "taxicabs 20801",
+      "Description": "taxi service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "300-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "taxicabs 30001",
+      "Description": "taxi (northwest suburbs) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "302-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "hotelShttl 30201",
+      "Description": "hotel shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "305-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "towing? 30501",
+      "Description": "towing company ? ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "310-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "towing 31001",
+      "Description": "towing company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "313-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "towing 31301",
+      "Description": "towing company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "314-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "taxicabs 31401",
+      "Description": "taxi (southern suburbs) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "315-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "mat hauling31501",
+      "Description": "material hauling ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "402-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "mat hauling40206",
+      "Description": "material hauling ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "403-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "towing 40302",
+      "Description": "towing company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "412-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "trucking 41201",
+      "Description": "trucking company ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "hotelShttl 70006",
+      "Description": "hotel shuttle ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "System Name": "Indianapolis Department Of Public Safety",
+  "Location": "Indianapolis, IN",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 12, 2019, 4:56 pm (Updated encryption settings for 1 talkgroups(Arcadia))",
+  "System ID List": [
+    {
+      "System ID": "262",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Marion County Public Safety (System 1)",
+      "County": "Marion",
+      "Freqs": [
+        "854.9875",
+        "855.4875",
+        "855.9875",
+        "856.1625a",
+        "856.2125",
+        "856.4375",
+        "856.5125a",
+        "856.7625",
+        "856.9375",
+        "856.9875",
+        "857.2125",
+        "857.2625",
+        "857.6625c",
+        "857.7625",
+        "857.9375",
+        "858.1875a",
+        "858.2625",
+        "858.7625",
+        "858.9375",
+        "858.9875",
+        "859.2625",
+        "859.7625",
+        "859.9375",
+        "859.9875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Marion County Government (System 2)",
+      "County": "Marion",
+      "Freqs": [
+        "851.0375",
+        "851.125a",
+        "851.300",
+        "851.5375a",
+        "851.8125",
+        "851.8375a",
+        "852.1125c",
+        "852.2375",
+        "852.825",
+        "853.6875",
+        "855.4125",
+        "856.2875",
+        "856.4125",
+        "857.2875",
+        "857.3625",
+        "857.3875",
+        "857.4375",
+        "858.3375",
+        "858.4125",
+        "859.3375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Hamilton County Simulcast (System 3)",
+      "County": "Hamilton",
+      "Freqs": [
+        "851.7625",
+        "852.1875",
+        "852.350",
+        "852.775",
+        "852.800",
+        "853.075",
+        "853.325",
+        "853.550",
+        "853.6625",
+        "853.800",
+        "856.8125a",
+        "857.5125",
+        "857.8125c",
+        "858.8125a",
+        "859.8125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Madison County Simulcast (System 4)",
+      "County": "Madison",
+      "Freqs": [
+        "855.2125",
+        "855.4625",
+        "855.7125",
+        "856.2625",
+        "856.4625",
+        "857.1375",
+        "857.4625a",
+        "858.4625a",
+        "859.1875c",
+        "859.4625a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11502 ",
+      "HEX ": "2cee ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC CALL",
+      "Description": "Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11503 ",
+      "HEX ": "2cef ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC MA 1",
+      "Description": "Mutual Aid 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11504 ",
+      "HEX ": "2cf0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC MA 2",
+      "Description": "Mutual Aid 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11505 ",
+      "HEX ": "2cf1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC MA 3",
+      "Description": "Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11506 ",
+      "HEX ": "2cf2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC MA 4",
+      "Description": "Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "11507 ",
+      "HEX ": "2cf3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PSC MA 5",
+      "Description": "Mutual Aid 5 ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "29122 ",
+      "HEX ": "71c2 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SYS 3 MAINT",
+      "Description": "Radio System Mainanence ",
+      "Tag  ": "Other "
+    }
+  ]
+}

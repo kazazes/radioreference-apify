@@ -1,0 +1,19 @@
+{
+  "System Name": "Sierra Pacific Power (Alturas)",
+  "Location": "Alturas, CA",
+  "County": "Modoc",
+  "System Type": "EDACS Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 31, 2008, 12:27 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 854.9375 ",
+        "02 856.4125 ",
+        "03 859.4125 "
+      ]
+    }
+  ]
+}

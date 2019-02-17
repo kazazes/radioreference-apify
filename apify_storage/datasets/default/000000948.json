@@ -1,0 +1,567 @@
+{
+  "System Name": "Miami (City) Public Safety",
+  "Location": "Miami, FL",
+  "County": "Miami-Dade",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "July 12, 2016, 11:49 am (Updated Function Tag assignments for 2 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "151a",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "854.9625c",
+        "857.9625",
+        "855.2125c",
+        "858.2125",
+        "855.4625c",
+        "858.7125",
+        "855.7125c",
+        "858.9625",
+        "856.2125",
+        "859.2125",
+        "856.4625",
+        "859.4625",
+        "856.7125",
+        "859.7125",
+        "856.9625",
+        "859.9625",
+        "857.4625",
+        "860.2125",
+        "857.7125",
+        "860.4625",
+        "860.7125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "63120 ",
+      "HEX ": "f69 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC A",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "63152 ",
+      "HEX ": "f6b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC B",
+      "Description": "Fire Car-to-Car ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63184 ",
+      "HEX ": "f6d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC C",
+      "Description": "Rescue Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "63216 ",
+      "HEX ": "f6f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD D NET",
+      "Description": "Fire Permits ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63248 ",
+      "HEX ": "f71 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD JMH",
+      "Description": "JMH Medcom  ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63280 ",
+      "HEX ": "f73 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC F",
+      "Description": "Fire Tac-F (FCIO) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63312 ",
+      "HEX ": "f75 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC N",
+      "Description": "Fire Prevention 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63344 ",
+      "HEX ": "f77 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC G",
+      "Description": "Fire Tac-G (Fireground) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63376 ",
+      "HEX ": "f79 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC H",
+      "Description": "Fire Tac-H (Hazmat) ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63408 ",
+      "HEX ": "f7b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC I",
+      "Description": "Fire Tac-I ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63440 ",
+      "HEX ": "f7d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC J",
+      "Description": "Fire Tac-J ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63472 ",
+      "HEX ": "f7f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC K",
+      "Description": "Fire Tac-K ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63504 ",
+      "HEX ": "f81 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC L",
+      "Description": "Fire Tac-L ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63536 ",
+      "HEX ": "f83 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC M",
+      "Description": "Fire Tac-M (Rescue Divers) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63568 ",
+      "HEX ": "f85 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TAC O",
+      "Description": "Fire Tac-O (Mayday Channel) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "63696 ",
+      "HEX ": "f8d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD BLS",
+      "Description": "Fire B.L.S. ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63792 ",
+      "HEX ": "f93 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD FP2",
+      "Description": "Fire Prevention 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "63824 ",
+      "HEX ": "f95 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD DECON",
+      "Description": "Decontamination ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63856 ",
+      "HEX ": "f97 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD-KB",
+      "Description": "Key Biscayne ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63888 ",
+      "HEX ": "f99 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD TRT OPS",
+      "Description": "Tactical Rescue Team Operations (TRT Ops) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63920 ",
+      "HEX ": "f9b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD CIT",
+      "Description": "Indigent Care (CIT) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "63984 ",
+      "HEX ": "f9f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD FC TRN1",
+      "Description": "Fire College Training 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "64016 ",
+      "HEX ": "fa1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD FC TRN2",
+      "Description": "Fire College Training 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "64048 ",
+      "HEX ": "fa3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD EVENTS1",
+      "Description": "Special Events 1 (Arena Channel) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "64080 ",
+      "HEX ": "fa5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MFD EVENTS2",
+      "Description": "Special Events 2 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "60176 ",
+      "HEX ": "eb1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Marine CH-16",
+      "Description": "Simulcast of Marine CH- 16 (156.800) ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "62128 ",
+      "HEX ": "f2b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD N DISP",
+      "Description": "North Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "62160 ",
+      "HEX ": "f2d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD N TAC",
+      "Description": "North Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62192 ",
+      "HEX ": "f2f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD C DISP",
+      "Description": "Central Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "62224 ",
+      "HEX ": "f31 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD C TAC",
+      "Description": "Central Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62256 ",
+      "HEX ": "f33 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD W DISP",
+      "Description": "West Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "62288 ",
+      "HEX ": "f35 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD W TAC",
+      "Description": "West Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62320 ",
+      "HEX ": "f37 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD S DISP",
+      "Description": "South Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "62352 ",
+      "HEX ": "f39 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD S TAC",
+      "Description": "South Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62384 ",
+      "HEX ": "f3b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD DISP 9",
+      "Description": "Dispatch 9 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "62416 ",
+      "HEX ": "f3d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TAC 9",
+      "Description": "Tactical 9 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62448 ",
+      "HEX ": "f3f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TRAFFIC",
+      "Description": "Traffic ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62480 ",
+      "HEX ": "f41 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TAC 11",
+      "Description": "Tactical 11 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "62512 ",
+      "HEX ": "f43 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD INFO",
+      "Description": "Information ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62544 ",
+      "HEX ": "f45 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD EVENT",
+      "Description": "Special Events ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62576 ",
+      "HEX ": "f47 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD MARLIN",
+      "Description": "Marlin's Stadium ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62608 ",
+      "HEX ": "f49 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TRAIN 1",
+      "Description": "Training 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62640 ",
+      "HEX ": "f4b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD MOTORS",
+      "Description": "Motors ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62672 ",
+      "HEX ": "f4d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD M PATROL",
+      "Description": "Marine and Mounted Patrol ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62704 ",
+      "HEX ": "f4f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD PD1",
+      "Description": "Special Operations 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62768 ",
+      "HEX ": "f53 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD PD2",
+      "Description": "Special Operations 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62800 ",
+      "HEX ": "f55 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD PD3",
+      "Description": "Special Operations 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62832 ",
+      "HEX ": "f57 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD PD4",
+      "Description": "Special Operations 4 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62864 ",
+      "HEX ": "f59 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD PD5",
+      "Description": "Special Operations 5 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62896 ",
+      "HEX ": "f5b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD COMMAND",
+      "Description": "Command ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62928 ",
+      "HEX ": "f5d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD CIS",
+      "Description": "Criminal Investigation Section (CIS) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62960 ",
+      "HEX ": "f5f ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD K9",
+      "Description": "Canine (K9) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "62992 ",
+      "HEX ": "f61 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TF 1",
+      "Description": "Task Force 1  (TF 1-4 used for narcotics, surveillance and stings only) ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "63024 ",
+      "HEX ": "f63 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TF 2",
+      "Description": "Task Force 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "63056 ",
+      "HEX ": "f65 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TF 3",
+      "Description": "Task Force 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "63088 ",
+      "HEX ": "f67 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TF 4",
+      "Description": "Task Force 4 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "64688 ",
+      "HEX ": "fcb ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD TRAIN 2",
+      "Description": "Training 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "64752 ",
+      "HEX ": "fcf ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD MARINE",
+      "Description": "Marine Units ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "64784 ",
+      "HEX ": "fd1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD MARINE S",
+      "Description": "Marine Simulcast ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "65200 ",
+      "HEX ": "feb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Technicians ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "65360 ",
+      "HEX ": "ff5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD JOPSCALL",
+      "Description": "Joint Operations Calling ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "65392 ",
+      "HEX ": "ff7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD JOPSTAC1",
+      "Description": "Joint Operations Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "65424 ",
+      "HEX ": "ff9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD JOPSTAC2",
+      "Description": "Joint Operations Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "65456 ",
+      "HEX ": "ffb ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD JOPSTAC3",
+      "Description": "Joint Operations Tac 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "65488 ",
+      "HEX ": "ffd ",
+      "Mode  ": "A",
+      "Alpha Tag": "MPD JOPSTAC4",
+      "Description": "Joint Operations Tac 4 ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

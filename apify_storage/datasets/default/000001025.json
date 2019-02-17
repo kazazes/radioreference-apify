@@ -1,0 +1,39 @@
+{
+  "System Name": "Southern Wireless Systems (Fort Pierce)",
+  "Location": "Fort Pierce, FL",
+  "County": "St. Lucie",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 3, 2010, 6:16 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 N/A ",
+        "02 N/A ",
+        "03 461.8875 ",
+        " "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unconfirmed",
+        "01 461.150 ",
+        "02 462.400 ",
+        "03 463.4125 ",
+        "04 463.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "American Amb",
+      "Description": "American Ambulance - Broward Dispatch (Linked) ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

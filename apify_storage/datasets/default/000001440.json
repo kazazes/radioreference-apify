@@ -1,0 +1,77 @@
+{
+  "System Name": "Hyatt Regency McCormick Place",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 3, 2019, 4:50 pm ((1) Talkgroups Updated (Hotel Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 461.250 ",
+        "02 461.025 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 2",
+        "01 461.200 ",
+        "02 461.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 1",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 2",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 3",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 4",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 5",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 6",
+      "Description": "Event Services (Housemen, A/V, etc.) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HyattMcCormick 7",
+      "Description": "Engineering, Package Room ",
+      "Tag  ": "Business "
+    }
+  ]
+}

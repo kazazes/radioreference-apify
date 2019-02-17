@@ -1,0 +1,26 @@
+{
+  "System Name": "Newton County Public Safety OpenSky",
+  "Location": "Covington, GA",
+  "County": "Newton",
+  "System Type": "OpenSky 9600 baud",
+  "System Voice": "TDMA Digital",
+  "Last Updated": "October 5, 2016, 2:37 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.625",
+        "851.8125",
+        "851.850",
+        "852.425",
+        "852.7375",
+        "853.0375",
+        "853.175",
+        "853.2875",
+        "853.4125",
+        "853.900"
+      ]
+    }
+  ]
+}

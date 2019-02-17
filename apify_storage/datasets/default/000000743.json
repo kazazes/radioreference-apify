@@ -1,0 +1,19 @@
+{
+  "System Name": "Capitol Complex",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 22, 2017, 8:01 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 406.3875 ",
+        "02 408.5125 ",
+        "03 409.8375 "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "System Name": "White Cloud Communications",
+  "Location": "Pocatello, ID",
+  "County": "Bannock",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 22, 2018, 5:09 pm (Deleted 1 talkgroup(s) (General))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Pocatello",
+        "01 451.500 ",
+        "02 451.975 ",
+        "03 452.075 ",
+        "04 452.225 ",
+        "05 452.475 "
+      ]
+    }
+  ]
+}

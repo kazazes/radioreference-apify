@@ -1,0 +1,30 @@
+{
+  "System Name": "Tri-County Communications Dalton LTR",
+  "Location": "Dalton, GA",
+  "County": "Whitfield",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:27 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Dalton",
+        "01 856.6875 ",
+        "02 857.6875 ",
+        "03 858.6875 ",
+        "04 859.6876 ",
+        "05 860.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "D/WC Schools",
+      "Description": "Dalton/Whitfield County Schools ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

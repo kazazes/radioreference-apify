@@ -1,0 +1,28 @@
+{
+  "System Name": "Reidy Rhodes and Taylor Communications (Gainesville)",
+  "Location": "Gainesville, FL",
+  "County": "Alachua",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 11:00 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.825 ",
+        "05 452.275 ",
+        "20 452.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi 042",
+      "Description": "Taxi Service ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

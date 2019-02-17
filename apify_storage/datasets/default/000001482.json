@@ -1,0 +1,83 @@
+{
+  "System Name": "Big River Resources (Galva IL)",
+  "Location": "Galva, IL",
+  "County": "Henry",
+  "System Type": "DMR Hytera XPT",
+  "System Voice": "DMR",
+  "Last Updated": "January 2, 2018, 2:42 am ((9) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Ethanol Plant ",
+        "01 452.675 ",
+        "02 463.600 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 1000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 2000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 3000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 4000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 5000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 6000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 7000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 8000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9000 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 9000",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

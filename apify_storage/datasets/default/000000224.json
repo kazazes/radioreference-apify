@@ -1,0 +1,425 @@
+{
+  "System Name": "Signature Wireless Group iDAS Multitrunk (Bay Area)",
+  "Location": "San Rafael, CA",
+  "County": "12 counties",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 12, 2019, 5:27 am (Changed Site # 019 (Site 19 - Black Mountain) to 019 (Site 19 - Black Mountain))",
+  "System ID List": [
+    {
+      "System ID": "1-1"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 01 - Grizzly Peak?",
+      "County": "Alameda",
+      "Freqs": [
+        "451.450",
+        "463.6375c",
+        "451.6875",
+        "464.100",
+        "451.825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Site 02 - Livermore",
+      "County": "Alameda",
+      "Freqs": [
+        "452.775c",
+        "462.525c",
+        "451.850c",
+        "452.375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Site 03 - Big Rock Ridge",
+      "County": "Marin",
+      "Freqs": [
+        "461.725c",
+        "462.1375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Site 04 - Mt Diablo",
+      "County": "Contra Costa",
+      "Freqs": [
+        "461.700c",
+        "452.450c",
+        "461.075c",
+        "461.350c",
+        "451.7625c",
+        "454.20625c",
+        "461.975c",
+        "462.3625c",
+        "454.325c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Site 05 - Mt Oso",
+      "County": "Stanislaus",
+      "Freqs": [
+        "454.000c",
+        "464.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Site 06 - Wiedemann Hill",
+      "County": "Contra Costa",
+      "Freqs": [
+        "463.600c",
+        "464.5875c",
+        "463.6375",
+        "463.9125c",
+        "462.0875c",
+        "451.7625c",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Site 08 - Crystal Peak",
+      "County": "Santa Clara",
+      "Freqs": [
+        "451.400c",
+        "462.075c",
+        "463.375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Site 09 - Crystal Peak",
+      "County": "Santa Clara",
+      "Freqs": [
+        "461.300c",
+        "452.000c",
+        "452.350c",
+        "462.525c",
+        "462.0875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Site 10 - Cobb Mountain",
+      "County": "Lake",
+      "Freqs": [
+        "461.4375",
+        "463.975",
+        "463.4875c",
+        "463.6375",
+        "454.000c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Site 12 - Geyser Peak",
+      "County": "Sonoma",
+      "Freqs": [
+        "463.350c",
+        "461.675",
+        "461.675",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Site 13 - Montara Ridge",
+      "County": "San Mateo",
+      "Freqs": [
+        "461.375",
+        "452.475",
+        "452.850c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Site 14 - Twin Peaks?",
+      "County": "San Francisco",
+      "Freqs": [
+        "451.675",
+        "451.8875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Site 15 - Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "452.325",
+        "453.0125c",
+        "462.0375c",
+        "452.500",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Site 16 - Wolfback Ridge?",
+      "County": "Marin",
+      "Freqs": [
+        "463.5375c",
+        "452.1375",
+        "451.900c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Site 17 - San Francisco",
+      "County": "San Francisco",
+      "Freqs": [
+        "452.700",
+        "451.500c",
+        "451.6375c",
+        "464.7125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Site 18 - Belmont Hill",
+      "County": "San Mateo",
+      "Freqs": [
+        "451.8625c",
+        "464.950c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Site 19 - Black Mountain",
+      "County": "San Mateo",
+      "Freqs": [
+        "452.775c",
+        "452.7375c",
+        "461.900c",
+        "464.025c",
+        "462.050c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Site 22 - San Pedro Ridge",
+      "County": "Marin",
+      "Freqs": [
+        "463.525c",
+        "452.2625c",
+        "464.7125c",
+        "451.725",
+        "464.7625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Site 23 - Bay Area",
+      "County": "Alameda",
+      "Freqs": [
+        "461.7125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Site 24 - Sugar Loaf Mtn",
+      "County": "Solano",
+      "Freqs": [
+        "452.3625c",
+        "461.800",
+        "451.4625",
+        "464.200",
+        "463.250c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Site 25 - Mt Veeder",
+      "County": "Sonoma",
+      "Freqs": [
+        "461.500",
+        "460.7125c",
+        "460.7625",
+        "460.7875c",
+        "461.200",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Site 26 - Banner Mtn",
+      "County": "Nevada",
+      "Freqs": [
+        "461.6875",
+        "464.6375",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Site 27 - Pine Hill",
+      "County": "El Dorado",
+      "Freqs": [
+        "452.275c",
+        "461.6125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "01-0015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Recology SM",
+      "Description": "Recology of San Mateo  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Garbage-E SJ",
+      "Description": "Garbage Service - East San Jose ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0039 ",
+      "Mode  ": "D",
+      "Alpha Tag": "1-39 Tow",
+      "Description": "Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0041 ",
+      "Mode  ": "D",
+      "Alpha Tag": "1-41 Tow Rsv",
+      "Description": "Towing Roseville Area ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "01-0052 ",
+      "Mode  ": "D",
+      "Alpha Tag": "1-52 Tow",
+      "Description": "Action Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0056 ",
+      "Mode  ": "D",
+      "Alpha Tag": "waste/garbag",
+      "Description": "Waste/Garbage Service ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "01-0057 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Medic Amb",
+      "Description": "Medic Ambulance (100, 200, 300 Units) ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "01-0058 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Medic Amb",
+      "Description": "Medic Ambulance (700, 800 Units) ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "01-0059 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Medic Amb",
+      "Description": "Medic Ambulance ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "01-0070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dump Trucks",
+      "Description": "Dump Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0076 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dumpster Svc",
+      "Description": "Dumpster Service - South SF Bay Area ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "01-0081 ",
+      "Mode  ": "D",
+      "Alpha Tag": "School Buses",
+      "Description": "School Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

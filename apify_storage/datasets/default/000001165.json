@@ -1,0 +1,22 @@
+{
+  "System Name": "Kia Motors Manufacturing Georgia DMR",
+  "Location": "West Point, GA",
+  "County": "Troup",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 19, 2017, 6:35 pm (Changed Site # 001 (West Point) to 001 (West Point))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "West Point",
+        "01 452.275 ",
+        "02 461.4875c ",
+        "03 462.1625 ",
+        "04 463.2125 ",
+        "05 463.9125 ",
+        "06 464.9375 "
+      ]
+    }
+  ]
+}

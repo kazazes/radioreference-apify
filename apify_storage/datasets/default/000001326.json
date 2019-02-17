@@ -1,0 +1,1273 @@
+{
+  "System Name": "Diga-Talk",
+  "Location": "Various, IL IN WI MI",
+  "County": "86 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 17, 2019, 2:31 pm (Changed Site # 107 (De Pere, WI) to 107 (De Pere, WI))",
+  "System ID List": [
+    {
+      "System ID": "14"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Naperville",
+      "County": "DuPage, IL",
+      "Freqs": [
+        "464.225",
+        "464.850",
+        "472.396875",
+        "472.475",
+        "472.571875",
+        "472.946875c",
+        "471.700"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Lake Zurich",
+      "County": "Lake, IL",
+      "Freqs": [
+        "462.150",
+        "472.2125",
+        "472.246875",
+        "472.253125",
+        "472.296875",
+        "472.696875",
+        "472.703125",
+        "472.975c",
+        "454.396875"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Lockport",
+      "County": "Will, IL",
+      "Freqs": [
+        "461.250",
+        "463.525",
+        "463.700",
+        "471.321875",
+        "471.809375",
+        "471.815625",
+        "472.325",
+        "472.353125",
+        "472.650c"
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Kankakee",
+      "County": "Kankakee, IL",
+      "Freqs": [
+        "452.250",
+        "452.325",
+        "452.800",
+        "463.9375",
+        "461.5125",
+        "462.0125",
+        "452.746875c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Gary, IN",
+      "County": "Lake, IN",
+      "Freqs": [
+        "464.100",
+        "471.465625c",
+        "471.950",
+        "472.503125",
+        "472.6625",
+        "472.821875",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Chicago",
+      "County": "Cook, IL",
+      "Freqs": [
+        "452.025",
+        "452.425",
+        "461.8625",
+        "463.9375",
+        "471.300",
+        "471.315625",
+        "471.750",
+        "471.850",
+        "472.0875",
+        "472.259375",
+        "472.315625",
+        "472.425a",
+        "472.550",
+        "472.7125c",
+        "463.3125",
+        "472.000",
+        "472.025"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Melrose Park",
+      "County": "Cook, IL",
+      "Freqs": [
+        "452.2125",
+        "478.0125",
+        "478.184375",
+        "478.190625",
+        "478.334375",
+        "478.340625",
+        "478.484375",
+        "478.640625",
+        "452.23125c",
+        "452.36875"
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Wilmington ",
+      "County": "Will, IL",
+      "Freqs": [
+        "461.43125",
+        "461.659375",
+        "463.5875c",
+        "464.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Mokena ",
+      "County": "Will, IL",
+      "Freqs": [
+        "461.450",
+        "461.821875",
+        "461.828125",
+        "471.900",
+        "471.921875c",
+        "472.521875",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Carol Stream",
+      "County": "DuPage, IL",
+      "Freqs": [
+        "461.050",
+        "461.6875",
+        "471.4625",
+        "471.928125",
+        "472.446875c",
+        "472.453125",
+        "472.578125",
+        "472.825",
+        "461.66875"
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Minooka",
+      "County": "Kendall, IL",
+      "Freqs": [
+        "471.975c",
+        "472.209375",
+        "472.215625",
+        "472.346875",
+        "472.709375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Plato Center (**)",
+      "County": "Kane, IL",
+      "Freqs": [
+        "461.325",
+        "471.450c",
+        "472.0375",
+        "472.403125",
+        "472.725",
+        "472.953125",
+        "472.175"
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Johnsburg",
+      "County": "McHenry, IL",
+      "Freqs": [
+        "461.665625",
+        "462.03125",
+        "472.500c",
+        "472.76875",
+        "454.465625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Rockford",
+      "County": "Winnebago, IL",
+      "Freqs": [
+        "452.2125",
+        "461.3875",
+        "463.9125c",
+        "463.5625",
+        "461.6125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Compton",
+      "County": "Lee, IL",
+      "Freqs": [
+        "452.6125c",
+        "462.150",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Posen ",
+      "County": "Cook, IL",
+      "Freqs": [
+        "452.4625",
+        "452.875",
+        "471.350",
+        "472.196875",
+        "472.203125",
+        "472.700",
+        "472.925c",
+        "452.26875",
+        "454.390625",
+        "454.40625"
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "DeKalb",
+      "County": "DeKalb, IL",
+      "Freqs": [
+        "451.975",
+        "462.0875",
+        "463.3875c",
+        "463.8625",
+        "463.950",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Plano",
+      "County": "Kendall, IL",
+      "Freqs": [
+        "452.6875",
+        "462.0375c",
+        "451.7625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Bremen, IN",
+      "County": "Marshall, IN",
+      "Freqs": [
+        "463.81875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Valparaiso, IN",
+      "County": "Porter, IN",
+      "Freqs": [
+        "471.425",
+        "471.450",
+        "471.875c",
+        "472.250",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Shorewood",
+      "County": "Will, IL",
+      "Freqs": [
+        "462.03125",
+        "463.94375",
+        "463.76875",
+        "454.434375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Arlington Heights",
+      "County": "Cook, IL",
+      "Freqs": [
+        "451.850",
+        "462.0875",
+        "463.3875",
+        "463.450",
+        "463.500",
+        "464.8875",
+        "454.4125c"
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Kirkland",
+      "County": "DeKalb, IL",
+      "Freqs": [
+        "461.9625",
+        "463.4875",
+        "461.4125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Midway Airport (Chicago)",
+      "County": "Cook, IL",
+      "Freqs": [
+        "454.450c",
+        "451.84375",
+        "451.85625",
+        "452.88125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Aurora",
+      "County": "DuPage, IL",
+      "Freqs": [
+        "454.396875",
+        "454.475c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Marseilles",
+      "County": "La Salle, IL",
+      "Freqs": [
+        "461.4875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "097 (61)",
+      "Name": "Marengo (unconfirmed)",
+      "County": "McHenry, IL",
+      "Freqs": [
+        "461.9125",
+        "463.5375",
+        "463.7375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "098 (62)",
+      "Name": "Norway (unconfirmed)",
+      "County": "La Salle, IL",
+      "Freqs": [
+        "463.2125",
+        "461.8375",
+        "462.0125",
+        "461.5125",
+        "461.6875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "099 (63)",
+      "Name": "Sheridan (unconfirmed)",
+      "County": "La Salle, IL",
+      "Freqs": [
+        "451.99375",
+        "452.500",
+        "452.850",
+        "451.775",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Chilton, WI",
+      "County": "Calumet, WI",
+      "Freqs": [
+        "452.184375",
+        "452.190625",
+        "451.464625",
+        "451.559375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Brighton, WI",
+      "County": "Kenosha, WI",
+      "Freqs": [
+        "452.01875",
+        "452.075",
+        "452.775",
+        "461.49375c",
+        "461.70625",
+        "461.90625",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "New Berlin, WI",
+      "County": "Waukesha, WI",
+      "Freqs": [
+        "452.3875",
+        "452.4375c",
+        "453.0125",
+        "461.3875",
+        "451.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "De Pere, WI",
+      "County": "Brown, WI",
+      "Freqs": [
+        "451.550c",
+        "453.0125",
+        "463.4875",
+        "464.7875",
+        "460.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "108 (6C)",
+      "Name": "Oshkosh, WI",
+      "County": "Winnebago, WI",
+      "Freqs": [
+        "451.6375",
+        "451.850c",
+        "452.3625",
+        "460.9125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "109 (6D)",
+      "Name": "Appleton, WI",
+      "County": "Outagamie, WI",
+      "Freqs": [
+        "451.8375",
+        "452.125",
+        "452.7625",
+        "464.5625c",
+        "464.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "110 (6E)",
+      "Name": "Fontana, WI",
+      "County": "Walworth, WI",
+      "Freqs": [
+        "463.684375c",
+        "463.690625",
+        "463.934375",
+        "463.940625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "111 (6F)",
+      "Name": "Footville, WI",
+      "County": "Rock, WI",
+      "Freqs": [
+        "452.150a",
+        "452.446875c",
+        "464.759375",
+        "464.9375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "112 (70)",
+      "Name": "Madison, WI",
+      "County": "Dane, WI",
+      "Freqs": [
+        "464.859375",
+        "464.740625",
+        "464.865625c",
+        "464.734375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "113 (71)",
+      "Name": "Fond du Lac, WI",
+      "County": "Fond Du Lac, WI",
+      "Freqs": [
+        "454.440625c",
+        "454.446875",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "115 (73)",
+      "Name": "Bonduel, WI",
+      "County": "Shawano, WI",
+      "Freqs": [
+        "452.8875",
+        "463.9125c",
+        "464.6125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "116 (74)",
+      "Name": "Sturgeon Bay, WI",
+      "County": "Door, WI",
+      "Freqs": [
+        "461.925c",
+        "463.375",
+        "464.4625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "117 (75)",
+      "Name": "Baraboo, WI",
+      "County": "Sauk, WI",
+      "Freqs": [
+        "463.7125c",
+        "464.4125",
+        "464.8125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "118 (76)",
+      "Name": "New London, WI",
+      "County": "Outagamie, WI",
+      "Freqs": [
+        "463.6625",
+        "463.9625",
+        "464.7375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "119 (77)",
+      "Name": "West Bend, WI",
+      "County": "Washington, WI",
+      "Freqs": [
+        "462.0875c",
+        "463.6125",
+        "463.9125",
+        "464.4125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "120 (78)",
+      "Name": "Menominee, MI",
+      "County": "Menominee, MI",
+      "Freqs": [
+        "462.0375",
+        "463.8875",
+        "464.7125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "121 (79)",
+      "Name": "Wausau, WI",
+      "County": "Marathon, WI",
+      "Freqs": [
+        "452.0125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "122 (7A)",
+      "Name": "Ripon, WI",
+      "County": "Fond Du Lac, WI",
+      "Freqs": [
+        "463.9375c",
+        "464.6625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "123 (7B)",
+      "Name": "Stevens Point, WI",
+      "County": "Portage, WI",
+      "Freqs": [
+        "451.6625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "124 (7C)",
+      "Name": "Rudolph, WI",
+      "County": "Wood, WI",
+      "Freqs": [
+        "451.9875",
+        "452.6875c",
+        "461.6875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "125 (7D)",
+      "Name": "Marshfield, WI",
+      "County": "Wood, WI",
+      "Freqs": [
+        "451.565625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "126 (7E)",
+      "Name": "Irma, WI",
+      "County": "Lincoln, WI",
+      "Freqs": [
+        "464.7375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "127 (7F)",
+      "Name": "Hancock, WI",
+      "County": "Waushara, WI",
+      "Freqs": [
+        "463.3875",
+        "463.8875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "128 (80)",
+      "Name": "Sayner, WI",
+      "County": "Vilas, WI",
+      "Freqs": [
+        "452.4625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "129 (81)",
+      "Name": "Antigo, WI",
+      "County": "Langlade, WI",
+      "Freqs": [
+        "464.7875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "130 (82)",
+      "Name": "West Milwaukee, WI ",
+      "County": "Milwaukee, WI",
+      "Freqs": [
+        "452.7375c",
+        "463.9375",
+        "464.4375",
+        "464.7875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "201 (C9)",
+      "Name": "Salem",
+      "County": "Marion, IL",
+      "Freqs": [
+        "453.0125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "202 (CA)",
+      "Name": "Greenville",
+      "County": "Bond, IL",
+      "Freqs": [
+        "462.025c",
+        "0.000",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "203 (CB)",
+      "Name": "Mt. Sterling ",
+      "County": "Brown, IL",
+      "Freqs": [
+        "461.150c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "204 (CC)",
+      "Name": "Mattoon",
+      "County": "Coles, IL",
+      "Freqs": [
+        "452.2625",
+        "452.650c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "205 (CD)",
+      "Name": "Champaign",
+      "County": "Champaign, IL",
+      "Freqs": [
+        "454.400c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "219 (DB)",
+      "Name": "Gridley",
+      "County": "McLean, IL",
+      "Freqs": [
+        "454.4125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "225 (E1)",
+      "Name": "Minier",
+      "County": "Tazewell, IL",
+      "Freqs": [
+        "0.000",
+        "454.175c",
+        "0.000",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "226 (E2)",
+      "Name": "Springfield",
+      "County": "Sangamon, IL",
+      "Freqs": [
+        "461.550",
+        "461.675",
+        "461.9625",
+        "461.100c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "227 (E3)",
+      "Name": "Jacksonville",
+      "County": "Morgan, IL",
+      "Freqs": [
+        "463.200",
+        "462.250",
+        "462.375c",
+        "0.000",
+        "0.000",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "228 (E4)",
+      "Name": "Effingham",
+      "County": "Effingham, IL",
+      "Freqs": [
+        "452.3875c",
+        "0.000",
+        "0.000",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "229 (E5)",
+      "Name": "Carlinville",
+      "County": "Macoupin, IL",
+      "Freqs": [
+        "461.3875",
+        "461.7875",
+        "461.90625c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "299 (12B)",
+      "Name": "Dallas City, IL [unconfirmed]",
+      "County": "Hancock, IL",
+      "Freqs": [
+        "464.45625",
+        "461.425",
+        "463.800",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "68 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Chicago BoardUp",
+      "Description": "Chicago Board-Up Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "70 ",
+      "Mode  ": "D",
+      "Alpha Tag": "paving 70",
+      "Description": "road/street paving operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "87 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Park N Jet ORD",
+      "Description": "Park-N-Jet Chicago (O'Hare Parking and Hotel Shuttle) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "92 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Edward/LoyolaAmb",
+      "Description": "Loyola Medicine Transport (400s), Edward Ambulance Services (900s) ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "97 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RC Topsoil",
+      "Description": "RC Topsoil (Lake Barrington) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "98 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AdvancedSecurity",
+      "Description": "Advanced Security Solutions (Des Plaines) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "D",
+      "Alpha Tag": "materials 105",
+      "Description": "materials trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NAPA 317, 318",
+      "Description": "NAPA Auto Parts Stores 317 (Countryside) / 318 (Lyons) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "D",
+      "Alpha Tag": "intermodal 111",
+      "Description": "intermodal operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "125 ",
+      "Mode  ": "D",
+      "Alpha Tag": "materials 125",
+      "Description": "materials trucking ops, includes Estrada Transport (Berwyn) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "133 ",
+      "Mode  ": "D",
+      "Alpha Tag": "materials 133",
+      "Description": "materials hauling? concrete company? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "149 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Freedom EMS",
+      "Description": "Freedom EMS (Wilmington) ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "153 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ActionK9Security",
+      "Description": "Action K-9 Security (CTA 'L' stations) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "186 ",
+      "Mode  ": "D",
+      "Alpha Tag": "K-5 Construction",
+      "Description": "K-Five Construction ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "273 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NU Chgo Shuttles",
+      "Description": "Northwestern University (Chicago) Train Shuttle Busses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "295 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LoyolaMedicalNEV",
+      "Description": "Loyola Medicine Transport: Non-Emergency Vans ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "306 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ILC 306",
+      "Description": "Intermodal Logistics Center? (Elwood, IL) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "307 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ILC 307",
+      "Description": "Intermodal Logistics Center? (Elwood, IL) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1047 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UPRR Police",
+      "Description": "Union Pacific Railroad Police ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "1103 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ridge Ambulance",
+      "Description": "Ridge Ambulance (Montgomery) ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "1110 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NtnwideRailSvcs",
+      "Description": "Nationwide Rail Services (Burr Ridge) - Intermodal Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1136 ",
+      "Mode  ": "D",
+      "Alpha Tag": "taxi 1136",
+      "Description": "taxi company (Joliet area) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1144 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AT 1144",
+      "Description": "\"AT\" RID aliases ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1155 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Marquette Park S",
+      "Description": "Marquette Park Security - OOS ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "2256 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AGB Investigativ",
+      "Description": "AGB Investigative Services (security, Chicago) ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RKW Redi Mix",
+      "Description": "RKW Redi Mix (Burlington, WI) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pace Paratrans 1",
+      "Description": "Pace Paratransit (First Transit): Channel 1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pace Paratrans 2",
+      "Description": "Pace Paratransit (First Transit): Channel 2 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pace Paratrans 3",
+      "Description": "Pace Paratransit (First Transit): Channel 3 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3073 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UoC UGo Shuttle",
+      "Description": "University of Chicago UGo Shuttle Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "3084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "materials 3084",
+      "Description": "materials trucking - possibly Tonyan Bros.? (Ringwood, IL) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Bnsv Dial a Ride",
+      "Description": "Bensenville (IL) Dial-a-Ride ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1749 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Nielson Comm",
+      "Description": "Nielson Communications, Green Bay ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1785 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EZ Glide ",
+      "Description": "EZ Glide Doors, Little Chute ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1814 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Adv Disp Omro",
+      "Description": "Advanced Disposal, Omro ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1859 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Green Bay taxi ",
+      "Description": "Green Bay taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1912 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CHS Lrsn Sprayer",
+      "Description": "CHS Larsen Coop Sprayers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1913 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CHS Lrsn Readfld",
+      "Description": "CHS Larsen Coop, Readfield ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3300 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Adv Disp Horicon",
+      "Description": "Advanced Disposal, Horicon ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3535 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WSOR",
+      "Description": "Wisconsin Southern Railroad ",
+      "Tag  ": "Railroad "
+    },
+    {
+      "DEC ": "3551 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Van Galder Bus",
+      "Description": "Van Galder Bus, Janesville ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "4545 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Northland Door",
+      "Description": "Northland Door, Prairie du Sac ",
+      "Tag  ": "Business "
+    }
+  ]
+}

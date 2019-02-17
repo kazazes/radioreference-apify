@@ -1,0 +1,42 @@
+{
+  "System Name": "Paramount Studios",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 25, 2017, 4:14 pm (Changed Talkgroup Category: Studio Lot Operations to Studio Lot Operations(Studio Lot Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Paramount Studios",
+        "01 463.8875 ",
+        "02 463.9125 ",
+        "12 463.9375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY MAIN",
+      "Description": "Security - Main ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY TAC",
+      "Description": "Security - Tac - Ch3 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "T",
+      "Alpha Tag": "FACILITIES",
+      "Description": "Facilities ",
+      "Tag  ": "Business "
+    }
+  ]
+}

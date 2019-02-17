@@ -1,0 +1,122 @@
+{
+  "System Name": "Placer Communications (DMR)",
+  "Location": "Multiple, CA",
+  "County": "3 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 16, 2017, 7:53 am (Changed Site # 003 (Bloomer Hill) to 003 (Bloomer Hill))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Bald Mountain",
+      "County": [
+        "Yolo",
+        "01 451.8875 ",
+        "02 452.625 ",
+        "03 464.375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Sutter Buttes",
+      "County": [
+        "Sutter",
+        "01 461.050 ",
+        "02 464.7875 ",
+        "03 461.575 ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Bloomer Hill",
+      "County": [
+        "Butte",
+        "01 464.4125 ",
+        "02 463.625 ",
+        "03 461.125 ",
+        "04 464.7375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Propane Deli",
+      "Description": "Propane Delivery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Crop Dusting",
+      "Description": "Crop Dusting ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Crop Dusting",
+      "Description": "Crop Dusting ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Crop Dusting",
+      "Description": "Crop Dusting ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "123 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Farming",
+      "Description": "Farming ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "250 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    }
+  ]
+}

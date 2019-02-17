@@ -1,0 +1,49 @@
+{
+  "System Name": "Hertz Car Rental",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 24, 2016, 4:55 pm (Changed Site # 001 (Los Angeles Intl Airport) to 001 (Los Angeles Intl Airport))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Los Angeles Intl Airport",
+        "01 463.3375 ",
+        "02 464.575 ",
+        "03 464.675 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "101",
+      "Description": "Encrypted ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50001 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "50001",
+      "Description": "Encrypted ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50002 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "50002",
+      "Description": "Encrypted ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50003 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "50003",
+      "Description": "Encrypted ",
+      "Tag  ": "Business "
+    }
+  ]
+}

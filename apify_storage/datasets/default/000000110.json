@@ -1,0 +1,460 @@
+{
+  "System Name": "United States Air Force (3D6)",
+  "Location": "Various, AZ FL MS OK TX NY MA MN IN PA OH",
+  "County": "17 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 15, 2018, 5:27 am (Changed Talkgroup Category: Tyndall Air Force Base to Tyndall Air Force Base(Tyndall Air Force Base))",
+  "System ID List": [
+    {
+      "System ID": "3D6",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Lackland Air Force Base",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "406.3625c",
+        "406.500",
+        "407.1625",
+        "407.3625",
+        "407.7625",
+        "407.9625",
+        "408.0875",
+        "408.150",
+        "408.5625",
+        "408.7625",
+        "408.9625",
+        "410.3625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Medina Annex",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "407.8875c",
+        "409.1625",
+        "409.3625",
+        "409.9625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Randolph Air Force Base",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "407.475",
+        "407.8125c",
+        "408.125",
+        "409.025a",
+        "409.3125a",
+        "409.500",
+        "410.150",
+        "410.5625a",
+        "410.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Fort Sam Houston",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "406.5625c",
+        "406.9625a",
+        "407.250a",
+        "407.8625a",
+        "408.100",
+        "409.6375",
+        "409.8875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Camp Bullis",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "406.1125c",
+        "408.3625a",
+        "409.5625a",
+        "409.7625",
+        "410.1625a",
+        "410.550",
+        "410.700"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Central San Antonio",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "406.1625c",
+        "408.425",
+        "410.325",
+        "410.650",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "San Antonio VA Hospital",
+      "County": "Bexar, TX",
+      "Freqs": [
+        "406.550c",
+        "407.175",
+        "407.8375",
+        "408.000",
+        "409.300",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Sheppard Air Force Base",
+      "County": "Wichita, TX",
+      "Freqs": [
+        "406.3625c",
+        "407.7625a",
+        "408.1625a",
+        "408.9625a",
+        "409.5625",
+        "410.3625",
+        "410.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Tyndall Air Force Base",
+      "County": "Bay, FL",
+      "Freqs": [
+        "406.1625c",
+        "406.3625a",
+        "406.5625a",
+        "406.9625a",
+        "407.3625",
+        "407.7625",
+        "408.1625",
+        "408.5625",
+        "408.7625",
+        "408.9625",
+        "409.3625",
+        "409.7625",
+        "410.1625",
+        "410.5625",
+        "410.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Columbus Air Force Base",
+      "County": "Lowndes, MS",
+      "Freqs": [
+        "406.3625",
+        "406.5625",
+        "406.7625",
+        "406.9625a",
+        "407.9625a",
+        "408.7625a",
+        "410.3625c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Youngstown Air Reserve Station",
+      "County": "Trumbull, OH",
+      "Freqs": [
+        "173.4125a",
+        "173.4375c",
+        "173.4875",
+        "173.5875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Luke Air Force Base",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "385.0375c",
+        "385.7625a",
+        "385.975a",
+        "386.250a",
+        "386.500",
+        "386.975",
+        "387.4375",
+        "387.7875",
+        "387.975",
+        "388.150",
+        "388.300",
+        "388.575"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Pittsburgh Air Reserve Station",
+      "County": "Allegheny, PA",
+      "Freqs": [
+        "138.5875c",
+        "140.6625",
+        "141.4875",
+        "143.0125",
+        "143.0625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "Gila Bend Air Force Auxiliary Field",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "409.1625c",
+        "410.5625a",
+        "410.7625a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Ajo JSS Radar Site",
+      "County": "Pima, AZ",
+      "Freqs": [
+        "409.7625a",
+        "409.9625",
+        "410.3625c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Vance Air Force Base",
+      "County": "Garfield, OK",
+      "Freqs": [
+        "138.0375c",
+        "138.2375a",
+        "138.5125a",
+        "138.7125a",
+        "139.6375",
+        "139.9375",
+        "140.6625",
+        "142.0375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Westover Air Reserve Base",
+      "County": "Hampden, MA",
+      "Freqs": [
+        "138.1375c",
+        "138.1875a",
+        "138.2375",
+        "138.3125",
+        "138.3625",
+        "138.5125",
+        "138.5375",
+        "139.1875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "018 (12)",
+      "Name": "Goodfellow Air Force Base",
+      "County": "Tom Green, TX",
+      "Freqs": [
+        "138.0375c",
+        "138.7125",
+        "139.3375",
+        "139.9375",
+        "142.0375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "019 (13)",
+      "Name": "Altus Air Force Base",
+      "County": "Jackson, OK",
+      "Freqs": [
+        "138.0625c",
+        "138.2625a",
+        "138.5375a",
+        "138.7375a",
+        "139.7625",
+        "141.1125",
+        "141.4875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "Keesler Air Force Base",
+      "County": "Harrison, MS",
+      "Freqs": [
+        "385.350c",
+        "385.8875",
+        "386.200a",
+        "386.550",
+        "386.750a",
+        "386.9625",
+        "388.250a",
+        "388.5625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Homestead Air Reserve Base",
+      "County": "Miami-Dade, FL",
+      "Freqs": [
+        "138.0375c",
+        "138.0625",
+        "138.1875",
+        "138.2375",
+        "138.3375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "100 (64)",
+      "Name": "Minneapolis Air Reserve Station",
+      "County": "Hennepin, MN",
+      "Freqs": [
+        "173.050a",
+        "173.4625a",
+        "173.5125c",
+        "173.5625a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "102 (66)",
+      "Name": "Niagara Falls Air Reserve Station",
+      "County": "Niagara, NY",
+      "Freqs": [
+        "380.125c",
+        "380.3875a",
+        "380.5375",
+        "380.6625",
+        "380.9875",
+        "381.1625",
+        "381.7375",
+        "381.950"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "199 (C7)",
+      "Name": "Grissom Air Reserve Base",
+      "County": "Miami, IN",
+      "Freqs": [
+        "138.0375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4213 ",
+      "HEX ": "1075 ",
+      "Mode  ": "D",
+      "Alpha Tag": "AltusAFB Securty",
+      "Description": "Security Forces Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4216 ",
+      "HEX ": "1078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Altus AFB Fire",
+      "Description": "Fire Dispatch/Crash Net ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "4239 ",
+      "HEX ": "108f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Altus AFB Airfld",
+      "Description": "Airfield Management Ops/Ramp Net ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4242 ",
+      "HEX ": "1092 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Altus AFB MOC 1",
+      "Description": "Aircraft Maintenance Ops Center 1 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4244 ",
+      "HEX ": "1094 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Altus AFB MOC 2",
+      "Description": "Aircraft Maintenance Ops Center 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "4221 ",
+      "HEX ": "107d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Altus AFB Bugle",
+      "Description": "7 AM Reveille and 10 PM Taps Bugle Calls ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "13200 ",
+      "HEX ": "3390 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "YNGBaseOps",
+      "Description": "Base Operations ",
+      "Tag  ": "Military "
+    }
+  ]
+}

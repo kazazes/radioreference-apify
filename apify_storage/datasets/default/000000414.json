@@ -1,0 +1,25 @@
+{
+  "System Name": "Merced County (West County)",
+  "Location": "Los Banos, CA",
+  "County": "Merced",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "February 16, 2017, 10:01 am (Changed Site # 001 (Merced County) to 001 (Merced County))",
+  "System ID List": [
+    {
+      "System ID": "501B",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Merced County",
+      "Freqs": [
+        "854.1875c",
+        "854.3375c",
+        "854.4375"
+      ]
+    }
+  ]
+}

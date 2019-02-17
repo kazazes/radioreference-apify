@@ -1,0 +1,76 @@
+{
+  "System Name": "Nestle Purina PetCare",
+  "Location": "Denver, CO",
+  "County": "Denver",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 30, 2018, 9:51 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.4875 ",
+        "02 464.325 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant Security",
+      "Description": "Plant Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant 202",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Receiving",
+      "Description": "Receiving ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant 204",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "205 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant 205",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "206 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Loading Dock",
+      "Description": "Loading Dock ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Plant 208",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

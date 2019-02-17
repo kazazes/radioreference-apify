@@ -1,0 +1,77 @@
+{
+  "System Name": "Siemens Energy",
+  "Location": "Ft. Madison, IA",
+  "County": "Lee",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 12, 2016, 12:31 am (Updated Function Tag assignments for 2 talkgroups(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Ft Madison",
+        "01 464.9625 ",
+        "03 464.8375 ",
+        "04 464.7125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 7",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 11",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 12",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 13",
+      "Description": "Yard ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 14",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 16",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 24",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

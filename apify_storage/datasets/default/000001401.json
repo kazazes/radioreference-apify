@@ -1,0 +1,143 @@
+{
+  "System Name": "Novacom (LTR)",
+  "Location": "Cobden, IL",
+  "County": "12 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 3, 2018, 2:45 am (Added a new news entry)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Cobden (Confirmed LCN)",
+      "County": [
+        "Union",
+        "01 N/A ",
+        "02 N/A ",
+        "03 462.1375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Herod (Confirmed LCN)",
+      "County": [
+        "Pope",
+        "01 451.8625 ",
+        "02 N/A ",
+        "03 451.9625 ",
+        "04 452.4375 ",
+        "05 464.5875 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Herrin (Confirmed LCN)",
+      "County": [
+        "Williamson",
+        "01 452.4625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Mt Vernon (Identified LCN)",
+      "County": [
+        "Jefferson",
+        "01 451.8375 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "Cobden (Unidentified LCN)",
+      "County": [
+        "Union",
+        "01 461.9625 ",
+        "02 451.9125 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Herrin (Unidentified LCN)",
+      "County": [
+        "Williamson",
+        "01 463.8125 ",
+        "02 452.3625 ",
+        "03 452.050 ",
+        "04 451.9375 ",
+        " "
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Mt. Vernon (Unidentified LCN)",
+      "County": [
+        "Jefferson",
+        "01 463.8625 ",
+        "02 451.9875 ",
+        "03 452.3375 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Makanda (Unidentified LCN)",
+      "County": [
+        "Union",
+        "01 461.250 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Elco (Unidentified LCN)",
+      "County": [
+        "Alexander",
+        "01 461.375 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 010",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-040 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ricks Towing",
+      "Description": "Ricks Towing  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-125 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MtV Transp",
+      "Description": "Mt Vernon Transportation (taxi cabs) ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

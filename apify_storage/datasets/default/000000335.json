@@ -1,0 +1,387 @@
+{
+  "System Name": "Los Angeles County Metropolitan Transportation Authority - 900Mhz",
+  "Location": "Los Angeles, CA",
+  "County": "2 counties",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 2, 2017, 11:08 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "942A",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "County": "Los Angeles",
+      "Freqs": [
+        "935.950",
+        "937.2375",
+        "937.250",
+        "937.4125",
+        "938.1375",
+        "938.175",
+        "938.200",
+        "938.225",
+        "938.8875",
+        "938.900",
+        "938.925",
+        "938.9375",
+        "939.4625c",
+        "939.475c",
+        "939.4875c",
+        "939.500c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 16",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 48",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 80",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 112",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 144",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 176",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 208",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 240",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 272",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 304",
+      "Description": "Bus Operations  ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 336",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 368",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 400",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 432",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 464",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 496",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 528",
+      "Description": "Bus Operations  ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "560 ",
+      "HEX ": "023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 560",
+      "Description": "Bus Operations  ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "592 ",
+      "HEX ": "025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 592",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 624",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 656",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "688 ",
+      "HEX ": "02b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 688",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "720 ",
+      "HEX ": "02d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 720",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 752",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 784",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 816",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 848",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "880 ",
+      "HEX ": "037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 880",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "912 ",
+      "HEX ": "039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus 912",
+      "Description": "Bus Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "03f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Supervsr",
+      "Description": "Bus Supervisor to  ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Supervsr",
+      "Description": "Bus Supervisors ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1072 ",
+      "HEX ": "043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Maint",
+      "Description": "Bus Maintenance ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1104 ",
+      "HEX ": "045 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Maint",
+      "Description": "Bus Maintenance ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Sup LA",
+      "Description": "Bus Supervisors - LA Basin ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1168 ",
+      "HEX ": "049 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Sup SFV",
+      "Description": "Bus Supervisors - San Fernando Valley ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1200 ",
+      "HEX ": "04b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Sup Tac",
+      "Description": "Bus Supervisors - Tac (Ch 3) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Maint",
+      "Description": "Bus Maintenance ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1264 ",
+      "HEX ": "04f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Maint",
+      "Description": "Bus Maintenance ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BusMaint Pri",
+      "Description": "Bus Maintenance - Primary Dispatch ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus Maint",
+      "Description": "Bus Maintenance ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "1552 ",
+      "HEX ": "061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bus",
+      "Description": "Bus ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Shop",
+      "Description": "Radio Shop ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1776 ",
+      "HEX ": "06f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Telecom",
+      "Description": "Telecom (Radio Technicians) ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

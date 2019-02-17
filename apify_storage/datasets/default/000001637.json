@@ -1,0 +1,53 @@
+{
+  "System Name": "Electronic Engineering (Fort Dodge)",
+  "Location": "Fort Dodge, IA",
+  "County": "Webster",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "February 17, 2011, 11:14 pm (Updated Talkgroups (3 Updated))",
+  "System ID List": [
+    {
+      "System ID": "3738",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "856.1875",
+        "857.1875",
+        "858.1875",
+        "859.1875c",
+        "860.1875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6160 ",
+      "HEX ": "181 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming Ops",
+      "Description": "Farmer ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7632 ",
+      "HEX ": "1dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "FD Union Cab",
+      "Description": "Union Cab ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "7824 ",
+      "HEX ": "1e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CPS-Security",
+      "Description": "Corporate Protective Services ",
+      "Tag  ": "Security "
+    }
+  ]
+}

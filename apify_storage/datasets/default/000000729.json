@@ -1,0 +1,158 @@
+{
+  "System Name": "Windsor",
+  "Location": "Windsor, CT",
+  "County": "Hartford",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 25, 2017, 1:47 am (Deleted news entry ID=3049)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Windsor",
+        "01 451.750 ",
+        "02 453.475 ",
+        "03 453.5375 ",
+        "04 453.600 ",
+        "05 460.700 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD Dispatch",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "0-05-201 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD Disp Dir",
+      "Description": "Dispatch Direct ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "0-05-062 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD Tactical",
+      "Description": "Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-05-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD Detective",
+      "Description": "Detective ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-05-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD Supervsr",
+      "Description": "Supervisor ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-05-065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD CSU",
+      "Description": "CSU ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-05-066 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD MTS",
+      "Description": "MTS ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-05-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PD All-Call",
+      "Description": "All Call ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE Office",
+      "Description": "Board of Education Office ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-149 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE PlantSvc",
+      "Description": "Plant Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-141 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE HighSch1",
+      "Description": "High School 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-142 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE HighSch2",
+      "Description": "High School 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-143 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE SagePark",
+      "Description": "Sage Park ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-144 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE RWolcott",
+      "Description": "Roger Wolcott ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-145 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE Kennedy",
+      "Description": "Kennedy ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-146 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE CloverSt",
+      "Description": "Clover Street ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-147 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE Ellswrth",
+      "Description": "Oliver Ellsworth ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-148 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE Poquonck",
+      "Description": "Poquonock ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-140 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BOE All-Call",
+      "Description": "All Call ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

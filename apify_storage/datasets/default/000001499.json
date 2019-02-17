@@ -1,0 +1,34 @@
+{
+  "System Name": "Ventronics - DMR (Metro Chicago)",
+  "Location": "Metro Chicago, IL",
+  "County": "Kane",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 27, 2017, 10:13 pm (Added a new news entry)",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": [
+        "Aurora (Confrimed LCN)",
+        "01 153.2225 ",
+        "02 153.2525 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "E Aur Sch Buses",
+      "Description": "East Aurora School District 131: Buses (Durham ?) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Naperv Sch Buses",
+      "Description": "Naperville School District 203: Buses ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

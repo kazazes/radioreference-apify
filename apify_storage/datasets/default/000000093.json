@@ -1,0 +1,45 @@
+{
+  "System Name": "Motorola Phoenix Plant",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "February 22, 2008, 7:33 pm (Updated Function Tag assignments for 1 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "5702",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.250",
+        "937.7375",
+        "938.250c",
+        "938.7375c",
+        "939.250c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MAINTENANCE",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    }
+  ]
+}

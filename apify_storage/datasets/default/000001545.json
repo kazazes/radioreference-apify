@@ -1,0 +1,267 @@
+{
+  "System Name": "St. Louis Area Trunked Emergency Radio (SLATER)",
+  "Location": "St Louis Metro Area, IL MO",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 19, 2018, 1:48 am ((1) Talkgroups Updated (St Charles County))",
+  "System ID List": [
+    {
+      "System ID": "4F2",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "StL County - Urban North [P2]",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "851.125",
+        "851.425",
+        "851.4875",
+        "851.6125",
+        "851.9125",
+        "851.950",
+        "852.0625",
+        "852.4125",
+        "852.4625",
+        "852.6375",
+        "852.675",
+        "852.9125",
+        "852.975",
+        "853.0625",
+        "853.175",
+        "853.2375",
+        "853.4125",
+        "853.5125a",
+        "853.725a",
+        "853.825c",
+        "853.9125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "StL County - Urban South [P2]",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "851.0375",
+        "851.300",
+        "851.450",
+        "851.6625",
+        "851.7375",
+        "851.825",
+        "851.975",
+        "852.0375",
+        "852.275",
+        "852.4375",
+        "852.6125",
+        "852.725",
+        "852.9375",
+        "853.1125",
+        "853.200",
+        "853.300",
+        "853.4375",
+        "853.4625a",
+        "853.6875a",
+        "853.7875c",
+        "853.9375a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "St Charles County - Simulcast",
+      "County": "St. Charles, MO",
+      "Freqs": [
+        "851.0625",
+        "851.0875",
+        "851.2125",
+        "851.2375",
+        "851.400",
+        "851.4625",
+        "851.5357",
+        "851.7625",
+        "852.100",
+        "852.5625",
+        "852.7625",
+        "852.800",
+        "853.3375",
+        "853.3625",
+        "853.5875a",
+        "853.625a",
+        "853.8625c",
+        "853.975c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Jefferson County - South Simulcast [P2]",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "851.100",
+        "851.3125",
+        "851.750",
+        "852.1125",
+        "852.9625",
+        "853.1625",
+        "853.3125",
+        "853.350a",
+        "853.525a",
+        "853.8125c",
+        "853.9625c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Jefferson County - North Simulcast [P2] ",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "851.250",
+        "851.475",
+        "851.8125",
+        "852.050",
+        "852.7875",
+        "853.3125a",
+        "853.5625a",
+        "853.7125c",
+        "853.925a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "StL County - Site-On-Wheels (SOW)",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "770.05625c",
+        "770.55625a",
+        "771.55625a",
+        "771.98125a",
+        "772.80625",
+        "773.23125",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "53301 ",
+      "HEX ": "d035 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC-CALL",
+      "Description": "St Louis County - Interop Calling [SLC-CALL] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53302 ",
+      "HEX ": "d036 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO2",
+      "Description": "St Louis County - Interop 2 [SLC IO2] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53303 ",
+      "HEX ": "d037 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO3",
+      "Description": "St Louis County - Interop 3 [SLC IO3] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53304 ",
+      "HEX ": "d038 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO4",
+      "Description": "St Louis County - Interop 4 [SLC IO4] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53305 ",
+      "HEX ": "d039 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO5",
+      "Description": "St Louis County - Interop 5 [SLC IO5] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53306 ",
+      "HEX ": "d03a ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO6",
+      "Description": "St Louis County - Interop 6 [SLC IO6] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53307 ",
+      "HEX ": "d03b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO7",
+      "Description": "St Louis County - Interop 7 [SLC IO7] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53308 ",
+      "HEX ": "d03c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO8",
+      "Description": "St Louis County - Interop 8 [SLC IO8] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53309 ",
+      "HEX ": "d03d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO9",
+      "Description": "St Louis County - Interop 9 [SLC IO9] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53310 ",
+      "HEX ": "d03e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO10",
+      "Description": "St Louis County - Interop 10 [SLC IO10] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53311 ",
+      "HEX ": "d03f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO11",
+      "Description": "St Louis County - Interop 11 [SLC IO11] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53312 ",
+      "HEX ": "d040 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO12",
+      "Description": "St Louis County - Interop 12 [SLC IO12] ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "53313 ",
+      "HEX ": "d041 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SLC IO13",
+      "Description": "St Louis County - Interop 13 [SLC IO13] ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "23376 ",
+      "HEX ": "5b50 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DEA 23376",
+      "Description": "Drug Enforcement Agency (?): Ops (N County?) ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

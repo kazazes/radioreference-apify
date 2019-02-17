@@ -1,0 +1,43 @@
+{
+  "System Name": "Boone County Board of Education",
+  "Location": "Bellview, KY",
+  "County": "Boone",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 2, 2016, 6:26 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bellview",
+        "01 855.5875 ",
+        "02 856.8125 ",
+        "03 859.9375 ",
+        "04 860.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Buses 51",
+      "Description": "Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Buses 52",
+      "Description": "Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "151 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BC WaterDist",
+      "Description": "Boone County Water District ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

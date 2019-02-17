@@ -1,0 +1,480 @@
+{
+  "System Name": "Mammoth Mountain & June Mountain Ski Areas",
+  "Location": "Mammoth Mountain, CA",
+  "County": "Mono",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "January 2, 2015, 5:33 pm (Changed System ID: [393A | | ] to [393A | 76.6 | ])",
+  "System ID List": [
+    {
+      "System ID": "393A",
+      "Connect Tone": "76.6"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "K",
+      "B1": "",
+      "B2": "K",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S11",
+      "B1": "",
+      "B2": "S11",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mammoth Mtn Summit",
+      "Freqs": [
+        "854.9375c",
+        "855.8375c",
+        "856.5125c",
+        "857.5125c",
+        "858.5125c",
+        "858.8125c",
+        "859.5125c",
+        "860.1625c",
+        "860.5125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "600-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "1A SkiPatrol",
+      "Description": "Ch 1A - Ski Patrol ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "Subfleet ": "600-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "1B SkiPatrol",
+      "Description": "Ch 1B - Ski Patrol Alternate  ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "Subfleet ": "600-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "1C Pan Gond",
+      "Description": "Ch 1C - Panorama Gondola Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "2A Admin",
+      "Description": "Ch 2A - Host Supervisors/Lift Operations Supervisors/Administration/Bike Park * ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "2B Lift Ops",
+      "Description": "Ch 2B - Lift Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "2C Ski Hosts",
+      "Description": "Ch 2C - Ski Hosts ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3A Lift Mnt",
+      "Description": "Ch 3A - Lift Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3B Lift Mnt",
+      "Description": "Ch 3B - Lift Maintenance Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3C Lift Mnt",
+      "Description": "Ch 3C - Lift Maintenance Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4A Slope Mnt",
+      "Description": "Ch 4A - Slope Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4B Slope Mnt",
+      "Description": "Ch 4B - Slope Maintenance Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-11  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "4C Snow Cat",
+      "Description": "Ch 4C - Snow Cat Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-13  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5A Snow Pl/M",
+      "Description": "Ch 5A - Snow Placement (Snow Plowing & Snow Making)/Lift Construction * ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-14  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5B Snow Pl/M",
+      "Description": "Ch 5B - Snow Placement (Snow Plowing & Snow Making) Alternate ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "200-15  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5C Veh Maint",
+      "Description": "Ch 5C - Garage Calling (Vehicle Maintenance) ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6A Race Dept",
+      "Description": "Ch 6A - Race Department ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6B Events",
+      "Description": "Ch 6B - Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "000-11  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6C Jun Race",
+      "Description": "Ch 6C - Junior Race Teams ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7A Unbound",
+      "Description": "Ch 7A - Unbound (Snowboard play areas) (includes Unbound grooming) ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7B Events",
+      "Description": "Ch 7B - Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7C Events",
+      "Description": "Ch 7C - Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "001-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "8A Canyon SS",
+      "Description": "Ch 8A - Canyon Lodge Sports School/Sierra Star Golf Course Operations * ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "001-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "8B Canyon SS",
+      "Description": "Ch 8B - Canyon Lodge Sports School Alternate/Sierra Star Food Operations * ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "001-11  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "8C Wolly SS",
+      "Description": "Ch 8C - Main Lodge/Woollywood Sports Schools/Mammoth Mtn. Adventure Center * ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "000-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9A Eagle SS",
+      "Description": "Ch 9A - Eagle Lodge Sports School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "000-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9B Eagle SS",
+      "Description": "Ch 9B - Eagle Lodge Sports School Alternate ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "000-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9C Wolly SS",
+      "Description": "Ch 9C - Main Lodge/Woollywood Sports Schools Alternate ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "201-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10A Security",
+      "Description": "Ch 10A - Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "201-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10B Security",
+      "Description": "Ch 10B - Security Alternate ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "201-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "10C Snowmob",
+      "Description": "Ch 10C - Mammoth Snowmobile Adventures ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "11A Bldg Mnt",
+      "Description": "Ch 11A - Building Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "11B Housing",
+      "Description": "Ch 11B - Staff Housing ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "11C Telecom",
+      "Description": "Ch 11C - Telecommunications ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "12A MMI Mnt",
+      "Description": "Ch 12A - Mammoth Mountain Inn Operations - Maintenance/Grounds ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "12B MMI Hskp",
+      "Description": "Ch 12B - Mammoth Mountain Inn - Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-11  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "12C MMI Svcs",
+      "Description": "Ch 12C - Mammoth Mountain Inn Guest Services & Night Bus Lines ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "13A Cat/Bus",
+      "Description": "Ch 13A - Catering/Devils Postpile Shuttle Buses ** ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "13B FoodSvcs",
+      "Description": "Ch 13B - Food Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "13C Hotels",
+      "Description": "Ch 13C - Hotels ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "201-13  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "14A Transprt",
+      "Description": "Ch 14A - Transportation Red Line (Main Lodge) & Staff ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "201-14  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "14B Transprt",
+      "Description": "Ch 14B - Transportation Main Lodge Parking Control & Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "201-15  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "14C Transprt",
+      "Description": "Ch 14C - Transportation Green/Blue/Orange Lines/Canyon Parking Control/Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "700-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "15A Hotels",
+      "Description": "Ch 15A - Hotels ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "15B Hotels",
+      "Description": "Ch 15B - Hotels ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "15C Hotels",
+      "Description": "Ch 15C - Hotels ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-08  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "16B No Label",
+      "Description": "Ch 16B - Not Labeled ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "700-09  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "16C Testing",
+      "Description": "Ch 16C - Radio Test ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "System Name": "Pacific Maritime Services",
+  "Location": "Long Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 27, 2018, 5:58 am (Added Talkgroup 131 Port Operations(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 452.0375 ",
+        "02 452.025 ",
+        "03 452.075 ",
+        "04 452.125 ",
+        "05 452.250 ",
+        "06 452.7625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 109",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 110",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 111",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 112",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 113",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 114",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "126 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 126",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "127 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 127",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "128 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 128",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "129 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 129",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 130",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "131 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 131",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "132 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 132",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "133 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 133",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "134 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 134",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "135 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 135",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 136",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "137 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 137",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "138 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 138",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "139 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 139",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 140",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "141 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Pot Ops 141",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "142 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 142",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "143 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 143",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "144 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 144",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "145 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 145",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "146 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 146",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "147 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 147",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "148 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 148",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "149 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 149",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 150",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "151 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 151",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "152 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 152",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "153 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 153",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "154 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 154",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "155 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 155",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "156 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 156",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "157 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 157",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "158 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 158",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "159 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 159",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 160",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "161 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 161",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "162 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 162",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "163 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 163",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "164 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 164",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "166 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 166",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "172 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 172",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "181 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 181",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "182 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 182",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "183 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Port Ops 183",
+      "Description": "Port Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

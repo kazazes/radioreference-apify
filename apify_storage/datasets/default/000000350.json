@@ -1,0 +1,90 @@
+{
+  "System Name": "Michael Kors Distribution Center",
+  "Location": "Whittier, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 8, 2017, 4:56 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 452.7375 ",
+        "02 464.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "101",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "102",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "103",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "104",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "105",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "106",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "107",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "201",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "202",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "203",
+      "Description": "Distribution Center Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

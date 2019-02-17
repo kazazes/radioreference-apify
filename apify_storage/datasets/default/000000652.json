@@ -1,0 +1,62 @@
+{
+  "System Name": "Two Way Communications NXDN",
+  "Location": "Grand Junction, UT CO",
+  "County": "10 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "October 6, 2018, 8:53 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "133"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Palisade Point",
+      "County": "Mesa, CO",
+      "Freqs": [
+        "860.1625c",
+        "858.1625",
+        "858.5125",
+        "857.1625",
+        "859.5125c"
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Baxter Pass",
+      "County": "Mesa, CO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPE Disp 1",
+      "Description": "DPE Dispatch 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "200 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DPE Disp 2",
+      "Description": "DPE Dispatch 2 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

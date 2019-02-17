@@ -1,0 +1,100 @@
+{
+  "System Name": "Lee County Government 1",
+  "Location": "Fort Myers, FL",
+  "County": "Lee",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 10:52 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "1D22",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Fort Myers",
+      "Freqs": [
+        "859.2125c",
+        "854.9625",
+        "855.7125",
+        "856.2375",
+        "857.2125a",
+        "857.2375",
+        "858.2125",
+        "858.2375",
+        "859.2375",
+        "860.2125",
+        "860.2375",
+        "860.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RSW ARFF",
+      "Description": "Southwest Florida International Airport - Fire-Rescue ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "12880 ",
+      "HEX ": "325 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water Data",
+      "Description": "Water Utilities Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "12912 ",
+      "HEX ": "327 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Water Data",
+      "Description": "Water Utilities Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "28240 ",
+      "HEX ": "6e5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LeeTran 240",
+      "Description": "LeeTran Passport Mobile-to-Mobile ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "28272 ",
+      "HEX ": "6e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LeeTran 272",
+      "Description": "LeeTran Passport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "28304 ",
+      "HEX ": "6e9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LeeTran 304",
+      "Description": "LeeTran Passport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "28336 ",
+      "HEX ": "6eb ",
+      "Mode  ": "A",
+      "Alpha Tag": "LeeTran 336",
+      "Description": "LeeTran Passport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "28400 ",
+      "HEX ": "6ef ",
+      "Mode  ": "A",
+      "Alpha Tag": "LeeTran 400",
+      "Description": "LeeTran Passport \"1 Event\" ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

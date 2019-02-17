@@ -1,0 +1,131 @@
+{
+  "System Name": "Placer Countywide Interoperable Radio Network (CIRN)",
+  "Location": "Auburn, CA",
+  "County": "Placer",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 21, 2018, 9:16 am (Changed Site # 002 (Central Zone) to 002 (Central Zone))",
+  "System ID List": [
+    {
+      "System ID": "2DB",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "West Zone",
+      "Freqs": [
+        "161.800c",
+        "161.8125a",
+        "161.825a",
+        "161.8375a",
+        "161.850",
+        "161.875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Central Zone",
+      "Freqs": [
+        "152.0225a",
+        "152.0375a",
+        "161.8875c",
+        "161.9125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Signal Peak",
+      "Freqs": [
+        "152.0975c",
+        "152.1725a",
+        "152.1875a",
+        "152.6675",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2001 ",
+      "HEX ": "7d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCSO Dispatch 1",
+      "Description": "West Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2002 ",
+      "HEX ": "7d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCSO Dispatch 2",
+      "Description": "West Admin  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2003 ",
+      "HEX ": "7d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCSO Dispatch 3",
+      "Description": "Dispatch 3 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2004 ",
+      "HEX ": "7d4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PCS Auburn Jail",
+      "Description": "Auburn Jail ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1201 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PC Parks",
+      "Description": "Parks ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1421 ",
+      "HEX ": "58d ",
+      "Mode  ": "D",
+      "Alpha Tag": "PC A/C",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1901 ",
+      "HEX ": "76d ",
+      "Mode  ": "D",
+      "Alpha Tag": "PC Roads 1",
+      "Description": "Roads 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1902 ",
+      "HEX ": "76e ",
+      "Mode  ": "D",
+      "Alpha Tag": "PC Roads 2",
+      "Description": "Roads 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1911 ",
+      "HEX ": "777 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PC Transit",
+      "Description": "Transit ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "System Name": "Chuckawalla Valley State Prison/Ironwood State Prison",
+  "Location": "Blythe, CA",
+  "County": "Riverside",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "November 2, 2010, 7:10 am (Default Location Data Updated to 33.562210 / -114.917336 / 1)",
+  "System ID List": [
+    {
+      "System ID": "2F18",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Fleetmap": [],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "861.200",
+        "862.200",
+        "863.200",
+        "864.200",
+        "865.200c"
+      ]
+    }
+  ]
+}

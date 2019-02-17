@@ -1,0 +1,222 @@
+{
+  "System Name": "Jefferson County Public Services",
+  "Location": "Birmingham, AL",
+  "County": "2 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "December 19, 2018, 1:41 pm ((2) Talkgroups Updated (Warrior))",
+  "System ID List": [
+    {
+      "System ID": "A73C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Gilmore",
+      "County": "Jefferson",
+      "Freqs": [
+        "852.1625",
+        "853.3625a",
+        "851.200",
+        "852.725",
+        "853.750c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Huffman",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.1375",
+        "851.3625",
+        "851.6125",
+        "852.1375a",
+        "852.6125c",
+        "853.1125",
+        "853.7625",
+        "851.8625"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Wenonah",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.1125",
+        "851.3875",
+        "851.6375",
+        "851.8875",
+        "852.650a",
+        "853.275c",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Palmerdale",
+      "County": "Jefferson",
+      "Freqs": [
+        "854.4375",
+        "854.9125a",
+        "855.6375c",
+        "856.2125",
+        "856.9375",
+        "857.2125",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Warrior",
+      "County": "Jefferson",
+      "Freqs": [
+        "851.3125",
+        "851.5875",
+        "851.8375",
+        "852.1125",
+        "853.0625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Graysville",
+      "County": "Jefferson",
+      "Freqs": [
+        "852.8125",
+        "853.5125a",
+        "852.050",
+        "852.250",
+        "853.725c",
+        "856.4375",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Providence",
+      "County": "Jefferson",
+      "Freqs": [
+        "854.0875",
+        "855.6125a",
+        "856.3125c",
+        "856.7625",
+        "857.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Birmingham",
+      "County": "Jefferson",
+      "Freqs": [
+        "854.1125c",
+        "854.4625",
+        "856.0875",
+        "857.0625",
+        "858.0125",
+        "858.2625",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Simulcast",
+      "County": "Jefferson",
+      "Freqs": [
+        "854.2625",
+        "854.3875",
+        "854.5125a",
+        "854.6375a",
+        "854.7375",
+        "854.9375",
+        "855.1875",
+        "855.4375",
+        "855.6875c",
+        "856.2375",
+        "856.2875",
+        "856.4625",
+        "856.8375",
+        "856.9625",
+        "857.2375a",
+        "857.3375",
+        "857.4625",
+        "854.1375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "22896 ",
+      "HEX ": "597 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMA 1",
+      "Description": "Police Mutual Aid 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "22928 ",
+      "HEX ": "599 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMA 2",
+      "Description": "Police Mutual Aid 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "22960 ",
+      "HEX ": "59b ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMA 3",
+      "Description": "Police Mutual Aid 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "22992 ",
+      "HEX ": "59d ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMA 4",
+      "Description": "Police Mutual Aid 4 ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "38000 ",
+      "HEX ": "947 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SC Fire Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "38032 ",
+      "HEX ": "949 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SC Fire Tac-1",
+      "Description": "Fire Tac-1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "38064 ",
+      "HEX ": "94b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SC Fire Tac-2",
+      "Description": "Fire Tac-2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "38096 ",
+      "HEX ": "94d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SC Fire Admin",
+      "Description": "Fire Admin ",
+      "Tag  ": "Fire-Talk "
+    }
+  ]
+}

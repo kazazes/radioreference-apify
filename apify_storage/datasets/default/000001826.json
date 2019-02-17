@@ -1,0 +1,203 @@
+{
+  "System Name": "TWR Comms (Passport)",
+  "Location": "Various, MD WV",
+  "County": "8 counties",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "June 20, 2017, 3:06 am ((3) Talkgroups Updated (multi-category change))",
+  "System Frequencies": [
+    {
+      "Site": "000 (0)",
+      "Name": "Flintstone, MD",
+      "County": [
+        "Allegany, MD",
+        "01 463.775 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "000 (0)",
+      "Name": "Frederick, MD",
+      "County": [
+        "Frederick, MD",
+        "01 463.5875 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "000 (0)",
+      "Name": "Moorefield, WV",
+      "County": [
+        "Hardy, WV",
+        "01 451.8625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "000 (0)",
+      "Name": "Westernport, MD",
+      "County": [
+        "Allegany, MD",
+        "01 452.450 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "000 (0)",
+      "Name": "Petersburg, WV",
+      "County": [
+        "Grant, WV",
+        "01 461.9125 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "000 (0)",
+      "Name": "Oakland, MD",
+      "County": [
+        "Garrett, MD",
+        "01 452.0125 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Midland, MD",
+      "County": [
+        "Allegany, MD",
+        "01 451.7375 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Mt. Cacapon, WV",
+      "County": [
+        "Hampshire, WV",
+        "01 451.2875 ",
+        "02 451.8375 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "060 (3C)",
+      "Name": "Martinsburg, WV",
+      "County": [
+        "Berkeley, WV",
+        "01 451.3625 ",
+        "02 452.2875 ",
+        "03 452.6375 ",
+        "04 462.0125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "115 (73)",
+      "Name": "Romney, WV",
+      "County": [
+        "Hampshire, WV",
+        "01 461.9625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "121 (79)",
+      "Name": "Cumberland, MD",
+      "County": [
+        "Allegany, MD",
+        "01 461.5875 ",
+        "02 461.8875 ",
+        "03 463.5875 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "122 (7A)",
+      "Name": "Clear Spring, MD",
+      "County": [
+        "Washington, MD",
+        "01 451.3125 ",
+        "02 451.6875 ",
+        "03 451.7125 ",
+        "04 452.8375 ",
+        "05 452.9875 "
+      ]
+    },
+    {
+      "Site": "124 (7C)",
+      "Name": "Frostburg",
+      "County": [
+        "Garrett, MD",
+        "01 463.8625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "125 (7D)",
+      "Name": "Oldtown, MD",
+      "County": [
+        "Allegany, MD",
+        "01 463.3875 ",
+        "02 463.9375 ",
+        "03 464.5875 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "41084 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Garbage 41084",
+      "Description": "Garbage Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "41098 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Valley Medical?",
+      "Description": "Valley Medical Transport? ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "65536 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Repeater ID",
+      "Description": "Morse ID ",
+      "Tag  ": "Data "
+    }
+  ]
+}

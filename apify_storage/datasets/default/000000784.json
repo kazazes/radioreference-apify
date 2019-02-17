@@ -1,0 +1,544 @@
+{
+  "System Name": "Fleetcall",
+  "Location": "Various, PA DE MD NJ",
+  "County": "13 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "December 16, 2018, 9:40 pm (Changed Site # 003 (Philadelphia) to 003 (Philadelphia))",
+  "System ID List": [
+    {
+      "System ID": "50"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Delaware City",
+      "County": "New Castle, DE",
+      "Freqs": [
+        "464.6875",
+        "464.7625",
+        "501.800c",
+        "502.1125c",
+        "502.3375",
+        "501.6875",
+        "501.9375",
+        "502.2375",
+        "502.4375"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Booths Corner",
+      "County": "Delaware, PA",
+      "Freqs": [
+        "451.200c",
+        "451.425",
+        "461.400",
+        "462.150",
+        "463.30625",
+        "501.4625c",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Philadelphia",
+      "County": "Philadelphia, PA",
+      "Freqs": [
+        "506.700",
+        "506.975",
+        "507.900c",
+        "506.3375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Theodore",
+      "County": "Cecil, MD",
+      "Freqs": [
+        "451.225c",
+        "452.325",
+        "453.000",
+        "463.45625",
+        "463.725",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Frederica",
+      "County": "Kent, DE",
+      "Freqs": [
+        "461.6375",
+        "462.100",
+        "463.400",
+        "461.3875c",
+        "462.125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Millsboro",
+      "County": "Sussex, DE",
+      "Freqs": [
+        "451.7875",
+        "452.2375",
+        "463.300",
+        "463.825c",
+        "464.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Federalsburg",
+      "County": "Caroline, MD",
+      "Freqs": [
+        "451.26875c",
+        "452.21875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Aberdeen",
+      "County": "Harford, MD",
+      "Freqs": [
+        "463.69375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Towson",
+      "County": "Baltimore, MD",
+      "Freqs": [
+        "451.01875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Wyndmoor",
+      "County": "Montgomery, PA",
+      "Freqs": [
+        "462.7375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Wilmington",
+      "County": "New Castle, DE",
+      "Freqs": [
+        "452.26875",
+        "463.71875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Newark",
+      "County": "New Castle, DE",
+      "Freqs": [
+        "461.73125c",
+        "463.66875",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Princeton NJ?",
+      "County": ", ",
+      "Freqs": [
+        "454.425c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Waterford Works, NJ",
+      "County": "Camden, NJ",
+      "Freqs": [
+        "461.425c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "019 (13)",
+      "Name": "Tinton Falls",
+      "County": "Monmouth, NJ",
+      "Freqs": [
+        "451.04375",
+        "451.10625",
+        "451.11875c",
+        "451.14375",
+        "451.98125",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "21101 ",
+      "Mode  ": "D",
+      "Alpha Tag": "A-1 Sanitation",
+      "Description": "A-1 Sanitation Service Inc (Septic/Grease Traps) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BayComm Techs",
+      "Description": "BayComm Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Bear Materials",
+      "Description": "Bear Materials (Concrete) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17200 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ChichesterSchBus",
+      "Description": "Chichester School District Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "17001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ColonialApt P",
+      "Description": "Colonial Airport Park and Ride Shuttle Bus ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "100 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DelawareCityRefi",
+      "Description": "Delaware City Refinery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DelawareElec",
+      "Description": "Delaware Electric Cooperative ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dumpster 83",
+      "Description": "Dumpster Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "24000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dumpster 24000",
+      "Description": "Dumpster service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "36000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Dumpster 36000",
+      "Description": "Dumpster Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "917 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DynPhysThera 917",
+      "Description": "Dynamic Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "930 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DynPhysThera 930",
+      "Description": "Dynamic Physical Therapy ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "932 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DynPhysThera 932",
+      "Description": "Dynamic Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "939 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DynPhysThera 939",
+      "Description": "Dynamic Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Harris Towing",
+      "Description": "Harris Towing Group ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "502 ",
+      "Mode  ": "D",
+      "Alpha Tag": "HomeNurs 502",
+      "Description": "Home Nursing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1151 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OilRefinery 1151",
+      "Description": "Oil tanker vessels and refinery ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Payless A/p Shtl",
+      "Description": "Payless Airport Shuttle ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PennSTAR 1",
+      "Description": "PennSTAR Ch. 1 Dispatch (simulcast of 155.385) ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "911 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 911",
+      "Description": "Pivot Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "916 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 916",
+      "Description": "Pivot Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "923 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 923",
+      "Description": "Pivot Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "931 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 931",
+      "Description": "Pivot Physical Therapy ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "918 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 918",
+      "Description": "Pivot Physical Therapy (Medical Transit) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "921 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PivotPhysTh 921",
+      "Description": "Pivot Physical Therapy (Medical Transit) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21301 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PrimecareMed",
+      "Description": "Primecare Medical Transport (Milford, DE) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21300 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RPJ Waste Svcs",
+      "Description": "RPJ Waste Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "17300 ",
+      "Mode  ": "D",
+      "Alpha Tag": "School Bus 17300",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "21601 ",
+      "Mode  ": "D",
+      "Alpha Tag": "School Bus 21601",
+      "Description": "School Bus ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "21600 ",
+      "Mode  ": "D",
+      "Alpha Tag": "School Bus 21600",
+      "Description": "School Bus (North Wilmington DE Area) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "3201 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security 3201",
+      "Description": "Security Company ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "19000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sutton Bus 19000",
+      "Description": "Sutton Bus and Truck Company (Medical Transit and School Buses)  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sutton Med 19001",
+      "Description": "Sutton Bus and Truck Company (Medical Transit) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sutton Med 19003",
+      "Description": "Sutton Bus and Truck Company (Medical Transit) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "28010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sutton Sch Buses",
+      "Description": "Sutton Bus and Truck Company (School Buses Newark DE Area) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "27000 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Taxi 27000",
+      "Description": "Taxi (Lewes, Rehoboth and Dewey area) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 30",
+      "Description": "Trash Service (New Castle County area) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1506 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1506",
+      "Description": "Trash Service (Residential, Kent County, DE) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1502 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1502",
+      "Description": "Trash Service (Residential, New Castle County, DE) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1504 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1504",
+      "Description": "Trash Service (Residential, New Castle County, DE) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1500 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1500",
+      "Description": "Trash Service DE ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1501 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1501",
+      "Description": "Trash Service DE ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1505 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1505",
+      "Description": "Trash Service DE ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1507 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Trash 1507",
+      "Description": "Trash Service DE ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21500 ",
+      "Mode  ": "D",
+      "Alpha Tag": "W-S Sch Dist Bus",
+      "Description": "Wallingford-Swarthmore School District Buses ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

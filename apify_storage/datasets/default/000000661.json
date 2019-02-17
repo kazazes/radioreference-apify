@@ -1,0 +1,150 @@
+{
+  "System Name": "Fort Carson",
+  "Location": "Fort Carson, CO",
+  "County": "El Paso",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 10, 2016, 4:14 pm (Changed Site # 006 (Site 6) to 006 (Booth Mountain))",
+  "System ID List": [
+    {
+      "System ID": "354",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Signal Hill",
+      "Freqs": [
+        "407.075a",
+        "407.7625c",
+        "407.8125",
+        "408.125",
+        "409.3625",
+        "409.6875",
+        "409.7625",
+        "410.3625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Cheyenne Mountain",
+      "Freqs": [
+        "406.775a",
+        "407.9625c",
+        "408.425",
+        "409.125",
+        "410.150",
+        "410.1625",
+        "410.550",
+        "410.700"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Pinon Canyon",
+      "Freqs": [
+        "406.500c",
+        "406.9625a",
+        "408.0875",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Tank Hill",
+      "Freqs": [
+        "406.1125a",
+        "407.1625c",
+        "408.125",
+        "409.375",
+        "409.7125",
+        "410.175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Pueblo Chemical Depot",
+      "Freqs": [
+        "407.950c",
+        "408.5625a",
+        "409.375",
+        "409.7125",
+        "410.175",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Booth Mountain",
+      "Freqs": [
+        "407.175a",
+        "407.8625c",
+        "409.025",
+        "409.700",
+        "410.325",
+        "410.900",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "41 ",
+      "HEX ": "029 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtCrsn MP 1",
+      "Description": "Military Police 1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "42 ",
+      "HEX ": "02a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtCrsn MP 2",
+      "Description": "Military Police 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "030 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtCrsn Sec",
+      "Description": "Military Police Security Stations ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "217 ",
+      "HEX ": "0d9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtCrsn CID",
+      "Description": "Army Criminal Investigations Division ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "357 ",
+      "HEX ": "165 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FtCrsn GC PS",
+      "Description": "Golf Course - Pro Shop ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "System Name": "Union City Public Safety DMR",
+  "Location": "Union City, GA",
+  "County": "Fulton",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 5, 2016, 2:43 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "218"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Union City",
+        "01 460.575c ",
+        "02 460.275 ",
+        "03 460.175 ",
+        "04 460.1125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "UCFD Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "97 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 097",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "125 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 125",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "290 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TGRP 290",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Emergency Ops "
+    }
+  ]
+}

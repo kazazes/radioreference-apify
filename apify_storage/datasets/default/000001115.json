@@ -1,0 +1,21 @@
+{
+  "System Name": "Georgia Aquarium NXDN",
+  "Location": "Atlanta, GA",
+  "County": "Fulton",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "November 18, 2016, 8:14 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "452.300",
+        "452.350",
+        "452.400",
+        "461.8625",
+        "463.7875"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "System Name": "Southeast Georgia Regional Radio Network (SEGARRN)",
+  "Location": "Savannah, GA",
+  "County": "9 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 3, 2019, 11:04 pm ((1) Talkgroups Updated (Candler County EMS))",
+  "System ID List": [
+    {
+      "System ID": "2C5",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Bryan County Simulcast",
+      "County": "Bryan",
+      "Freqs": [
+        "851.1125c",
+        "851.3625",
+        "851.6125",
+        "851.9125",
+        "852.375",
+        "852.625",
+        "853.1375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Chatham County Simulcast",
+      "County": "Chatham",
+      "Freqs": [
+        "769.25625",
+        "769.53125",
+        "769.78125",
+        "770.03125",
+        "770.28125",
+        "770.53125",
+        "770.78125a",
+        "771.13125",
+        "771.38125",
+        "771.73125",
+        "771.98125",
+        "772.28125",
+        "772.53125c",
+        "772.78125",
+        "773.13125",
+        "773.48125",
+        "773.73125a",
+        "774.15625",
+        "774.40625a",
+        "774.65625",
+        "774.90625a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Statesboro",
+      "County": "Bulloch",
+      "Freqs": [
+        "772.65625",
+        "772.95625",
+        "773.45625",
+        "773.70625",
+        "773.98125a",
+        "774.38125a",
+        "774.70625c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Glynn County",
+      "County": "Glynn",
+      "Freqs": [
+        "771.68125",
+        "771.93125",
+        "772.30625a",
+        "772.55625c",
+        "854.0625",
+        "854.3875",
+        "854.6125",
+        "855.2375",
+        "855.7375",
+        "856.0125a",
+        "856.4375a",
+        "857.4375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Liberty County",
+      "County": "Liberty",
+      "Freqs": [
+        "772.20625",
+        "772.68125",
+        "772.98125",
+        "773.63125",
+        "773.88125",
+        "774.23125",
+        "774.48125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Effingham County",
+      "County": "Effingham",
+      "Freqs": [
+        "770.10625",
+        "771.08125",
+        "771.48125",
+        "771.80625",
+        "772.18125",
+        "772.60625",
+        "772.88125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Tybee Island",
+      "County": "Chatham",
+      "Freqs": [
+        "851.2375",
+        "851.8875c",
+        "852.6875",
+        "853.3875",
+        "853.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Candler County",
+      "County": "Candler",
+      "Freqs": [
+        "769.10625",
+        "769.80625",
+        "770.60625",
+        "771.33125c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2051 ",
+      "HEX ": "803 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS Common",
+      "Description": "Common ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2053 ",
+      "HEX ": "805 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS CMD 1",
+      "Description": "Command 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2061 ",
+      "HEX ": "80d ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS CMD 2",
+      "Description": "Command 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2069 ",
+      "HEX ": "815 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS CMD 3",
+      "Description": "Command 3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2057 ",
+      "HEX ": "809 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS LGSTC 1",
+      "Description": "Logistics 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2065 ",
+      "HEX ": "811 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS LGSTC 2",
+      "Description": "Logistics 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2085 ",
+      "HEX ": "825 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS LGSTC 3",
+      "Description": "Logistics 3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2055 ",
+      "HEX ": "807 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS OPS 1",
+      "Description": "Operations 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2063 ",
+      "HEX ": "80f ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS OPS 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2083 ",
+      "HEX ": "823 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS OPS 3",
+      "Description": "Operations 3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2059 ",
+      "HEX ": "80b ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS PLAN 1",
+      "Description": "Planning 1 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2067 ",
+      "HEX ": "813 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS PLAN 2",
+      "Description": "Planning 2 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2087 ",
+      "HEX ": "827 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS PLAN 3",
+      "Description": "Planning 3 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2389 ",
+      "HEX ": "955 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS RESRV A",
+      "Description": "Reserve A ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2391 ",
+      "HEX ": "957 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS RESRV B",
+      "Description": "Reserve B ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "2393 ",
+      "HEX ": "959 ",
+      "Mode  ": "D",
+      "Alpha Tag": "NIMS RESRV C",
+      "Description": "Reserve C ",
+      "Tag  ": "Fire-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Range Testing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3843 ",
+      "HEX ": "f03 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Radio Shop",
+      "Description": "City of Savannah, Radio Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4091 ",
+      "HEX ": "ffb ",
+      "Mode  ": "D",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Motorola Radio Technicians ",
+      "Tag  ": "Business "
+    }
+  ]
+}

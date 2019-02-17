@@ -1,0 +1,69 @@
+{
+  "System Name": "Ace Parking Management (San Diego Lindbergh Airport)",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 23, 2017, 11:59 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Lindbergh Field",
+        "01 451.9375 ",
+        "02 461.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "1",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "2",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "3",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "5",
+      "Description": "Shuttle Buses ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "6",
+      "Description": "Lot Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "7",
+      "Description": "7 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "8",
+      "Description": "Lot Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

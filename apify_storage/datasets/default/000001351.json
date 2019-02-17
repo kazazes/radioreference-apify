@@ -1,0 +1,50 @@
+{
+  "System Name": "J and K Communications (Indianapolis Nexedge)",
+  "Location": "Indianapolis, IN",
+  "County": "Marion",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "July 18, 2018, 10:35 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "370"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Downtown",
+      "Freqs": [
+        "451.14375",
+        "451.79375c",
+        "462.53125",
+        "462.10625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BUSINESS 10",
+      "Description": "Local Business Operations 10 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "APEX 12",
+      "Description": "APEX Operations 12 ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "32 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SECURE 32",
+      "Description": "Secure Talkgroup 32 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

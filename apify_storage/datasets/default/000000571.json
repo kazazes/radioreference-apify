@@ -1,0 +1,26 @@
+{
+  "System Name": "Unknown LTR Stanislaus",
+  "Location": ", CA",
+  "County": "Stanislaus",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 27, 2012, 6:12 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Unknown LTR Stanislaus",
+        "05 854.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-05-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "005022 Span",
+      "Description": "Spanish Comms ",
+      "Tag  ": "Business "
+    }
+  ]
+}

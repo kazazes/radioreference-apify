@@ -1,0 +1,156 @@
+{
+  "System Name": "Rosen Hotels and Resorts",
+  "Location": "Orlando, FL",
+  "County": "Orange",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 20, 2018, 6:56 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Rosen Shingle Creek",
+        "01 462.0875 ",
+        "02 463.500 ",
+        "03 464.0375 ",
+        "04 464.575 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Rosen Inn International",
+        "01 464.575 ",
+        "02 464.775 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Rosen Inn at Pointe Orlando",
+        "01 461.300 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Clarion Inn Lake Buena Vista",
+        "01 463.500 ",
+        "02 464.025 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": [
+        "Rosen Plaza Hotel",
+        "01 451.500 ",
+        "02 451.875 ",
+        "03 452.075 ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": [
+        "Rosen Centre Hotel",
+        "01 461.050 ",
+        "02 461.300 ",
+        "03 461.5875 ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bell Stand",
+      "Description": "Bell Stand ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Room Service",
+      "Description": "Room Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "All Banquets",
+      "Description": "All Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "BanquetSetup",
+      "Description": "Banquet Setup ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 111",
+      "Description": "Operations 111 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "136 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 136",
+      "Description": "Operations 136 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "200 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 200",
+      "Description": "Operations 200 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 201",
+      "Description": "Operations 201 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 202",
+      "Description": "Operations 202 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

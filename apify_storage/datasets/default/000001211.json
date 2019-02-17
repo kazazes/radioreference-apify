@@ -1,0 +1,79 @@
+{
+  "System Name": "Sheraton Waikiki",
+  "Location": "Honolulu, HI",
+  "County": "Honolulu",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 4, 2017, 1:15 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 856.9125 ",
+        "02 857.9125 ",
+        "03 858.9125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Site 2",
+        "01 858.8625 ",
+        "02 859.8625 ",
+        "03 860.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security Control",
+      "Description": "Security Control ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tech Services",
+      "Description": "Tech Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping 14",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Guest Services",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "45 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Food Beverage",
+      "Description": "Food and Beverage Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "51 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "74 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Housekeeping 74",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

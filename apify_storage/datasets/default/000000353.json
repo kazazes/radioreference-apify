@@ -1,0 +1,468 @@
+{
+  "System Name": "Metropolitan Water District of Southern California",
+  "Location": "Various, CA NV",
+  "County": "6 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 19, 2018, 4:08 am (Changed Site # 005 (Palos Verdes) to 005 (Palos Verdes))",
+  "System ID List": [
+    {
+      "System ID": "433"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Weymouth Treatment Plan",
+      "County": [
+        "Los Angeles, CA",
+        "01 451.1125 ",
+        "02 451.700 ",
+        "03 453.3375c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Johnstone Peak",
+      "County": [
+        "Los Angeles, CA",
+        "01 451.050 ",
+        "02 451.200 ",
+        "03 454.51875c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Pleasants Peak",
+      "County": [
+        "Riverside, CA",
+        "01 451.2625 ",
+        "02 454.41875a ",
+        "03 454.53125c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Palos Verdes",
+      "County": [
+        "Los Angeles, CA",
+        "01 454.43125 ",
+        "02 454.55625a ",
+        "03 460.0375c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Oat Mountain",
+      "County": [
+        "Los Angeles, CA",
+        "01 453.2375 ",
+        "02 453.3375 ",
+        "03 453.4125c ",
+        "04 453.5125 ",
+        "05 451.1125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Mt Lukens",
+      "County": [
+        "Los Angeles, CA",
+        "01 453.3125c ",
+        "02 453.8125c ",
+        "03 453.7375a ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Diemer Treatment Plant",
+      "County": [
+        "Orange, CA",
+        "01 460.3875c ",
+        "02 453.3625a ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Mills Treatment Plant",
+      "County": [
+        "Riverside, CA",
+        "01 453.1625 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Lake Elsinore ",
+      "County": [
+        "Riverside, CA",
+        "01 451.150 ",
+        "02 453.4375a ",
+        "03 453.6125c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Fallbrook",
+      "County": [
+        "San Diego, CA",
+        "01 451.025 ",
+        "02 451.1125 ",
+        "03 453.700c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Lake Matthews",
+      "County": [
+        "Riverside, CA",
+        "01 453.2625 ",
+        "02 453.6875c ",
+        "03 453.8375c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "017 (11)",
+      "Name": "Detention Peak",
+      "County": [
+        "Riverside, CA",
+        "01 453.6375c ",
+        "02 453.3125a ",
+        "03 451.075 ",
+        "04 451.650 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "018 (12)",
+      "Name": "Edom Hill",
+      "County": [
+        "Riverside, CA",
+        "01 451.025 ",
+        "02 451.050 ",
+        "03 451.200 ",
+        "04 453.025 ",
+        "05 453.675 ",
+        " "
+      ]
+    },
+    {
+      "Site": "020 (14)",
+      "Name": "Hinds Headgate",
+      "County": [
+        "Riverside, CA",
+        "01 453.075 ",
+        "02 453.550 ",
+        "03 453.925 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "021 (15)",
+      "Name": "Chuckawalla",
+      "County": [
+        "Riverside, CA",
+        "01 451.0375 ",
+        "02 451.2125 ",
+        "03 453.375 ",
+        "04 453.900 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "022 (16)",
+      "Name": "Eagle Mountain Plant",
+      "County": [
+        "Riverside, CA",
+        "01 453.100 ",
+        "02 453.400 ",
+        "03 453.725 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Iron Mountain Plant",
+      "County": [
+        "San Bernardino, CA",
+        "01 453.300 ",
+        "02 453.600 ",
+        "03 453.800 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "024 (18)",
+      "Name": "Iron Mountain 2",
+      "County": [
+        "San Bernardino, CA",
+        "01 451.1625 ",
+        "02 451.725 ",
+        "03 453.425c ",
+        "04 453.675 ",
+        "05 453.975 ",
+        " "
+      ]
+    },
+    {
+      "Site": "025 (19)",
+      "Name": "Blythe 87 Radio Hill",
+      "County": [
+        "Riverside, CA",
+        "01 451.050 ",
+        "02 451.275 ",
+        "03 453.825 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "026 (1A)",
+      "Name": "Cactus City",
+      "County": [
+        "Riverside, CA",
+        "01 451.075 ",
+        "02 452.975 ",
+        "03 453.2625 ",
+        "04 453.475c ",
+        "05 453.800 ",
+        " "
+      ]
+    },
+    {
+      "Site": "027 (1B)",
+      "Name": "Parker Dam",
+      "County": [
+        "San Bernardino, CA",
+        "01 451.200 ",
+        "02 452.975 ",
+        "03 453.900 ",
+        "04 453.275 ",
+        "05 453.575 ",
+        "06 453.750c "
+      ]
+    },
+    {
+      "Site": "028 (1C)",
+      "Name": "Camino Substation",
+      "County": [
+        "San Bernardino, CA",
+        "01 451.275 ",
+        "02 453.375 ",
+        "03 453.900c ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "029 (1D)",
+      "Name": "Christmas Tree Pass ",
+      "County": [
+        "Clark, NV",
+        "01 451.2625 ",
+        "02 452.0125 ",
+        "03 453.225 ",
+        "04 453.825 ",
+        "05 464.050 ",
+        " "
+      ]
+    },
+    {
+      "Site": "030 (1E)",
+      "Name": "Searchlight",
+      "County": [
+        "Clark, NV",
+        "01 453.3375 ",
+        "02 453.6375 ",
+        "03 453.7625 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "031 (1F)",
+      "Name": "Las Vegas / Boulder",
+      "County": [
+        "Clark, NV",
+        "01 453.3875c ",
+        "02 453.3125 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "201",
+      "Description": "201 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "202",
+      "Description": "202 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "204",
+      "Description": "204 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "208 ",
+      "Mode  ": "T",
+      "Alpha Tag": "208",
+      "Description": "208 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OC Ops",
+      "Description": "Orange County Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "219 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parker Dam Sec",
+      "Description": "Parker Dam Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "222 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EEOC",
+      "Description": "EEOC Control ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "226 ",
+      "Mode  ": "T",
+      "Alpha Tag": "226",
+      "Description": "226 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "227 ",
+      "Mode  ": "T",
+      "Alpha Tag": "227",
+      "Description": "227 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "228 ",
+      "Mode  ": "T",
+      "Alpha Tag": "228",
+      "Description": "228 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "240 ",
+      "Mode  ": "T",
+      "Alpha Tag": "240",
+      "Description": "240 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "243 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EOC",
+      "Description": "Emergency Operations Center ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "248 ",
+      "Mode  ": "T",
+      "Alpha Tag": "248",
+      "Description": "248 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "254 ",
+      "Mode  ": "T",
+      "Alpha Tag": "254",
+      "Description": "254 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "255 ",
+      "Mode  ": "T",
+      "Alpha Tag": "255",
+      "Description": "255 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "259 ",
+      "Mode  ": "T",
+      "Alpha Tag": "259",
+      "Description": "259 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "261 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "266 ",
+      "Mode  ": "T",
+      "Alpha Tag": "266",
+      "Description": "266 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

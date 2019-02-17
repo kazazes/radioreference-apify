@@ -1,0 +1,77 @@
+{
+  "System Name": "Meade County Public Safety",
+  "Location": "Meade, KS",
+  "County": "Meade",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 12, 2017, 12:13 pm ((7) Talkgroups Updated (Meade County))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Meade",
+        "01 453.1625 ",
+        "02 453.5125 ",
+        "03 453.8375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-00-100 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Sheriff",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "0-00-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Fire",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "0-00-110 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co EMS",
+      "Description": "EMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "0-00-140 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Tac 1",
+      "Description": "County Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-00-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Tac 2",
+      "Description": "County Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-00-160 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Tac 3",
+      "Description": "County Tac 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-00-130 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co Roads",
+      "Description": "Highway Maintenance ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-00-170 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Meade Co U-Call",
+      "Description": "U-Call ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

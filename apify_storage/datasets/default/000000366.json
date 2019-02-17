@@ -1,0 +1,55 @@
+{
+  "System Name": "MonteCedro - Retirement Homes",
+  "Location": "Altadena, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 22, 2017, 4:31 am (Added Talkgroup 15 15)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "MonteCedro ",
+        "01 451.1125 ",
+        "02 451.925 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "INTERCOM",
+      "Description": "Intercom announcements ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "13 ",
+      "Mode  ": "T",
+      "Alpha Tag": "13",
+      "Description": "13 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ENGINEERING",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "15 ",
+      "Mode  ": "T",
+      "Alpha Tag": "15",
+      "Description": "15 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

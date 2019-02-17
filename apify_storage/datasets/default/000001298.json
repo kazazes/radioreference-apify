@@ -1,0 +1,50 @@
+{
+  "System Name": "CSI Systems",
+  "Location": "Multiple, IN",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 23, 2013, 11:50 pm (Changed Talkgroup Category: Osceola to Osceola)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Osceola",
+      "County": [
+        "St. Joseph",
+        "01 452.4875 ",
+        "05 452.6875 ",
+        "07 452.1875 ",
+        "09 452.7125 ",
+        "13 452.8875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Rochester",
+      "County": [
+        "Fulton",
+        "09 462.1375 ",
+        "17 463.6625 ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Chkr City 53",
+      "Description": "Checker City Cab ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-05-054 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Chkr City 54",
+      "Description": "Checker City Cab ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

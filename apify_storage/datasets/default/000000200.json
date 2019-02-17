@@ -1,0 +1,40 @@
+{
+  "System Name": "Veterans Health Care System of the Ozarks",
+  "Location": "Fayetteville, AR",
+  "County": "Washington",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 12, 2018, 10:52 pm (Updated encryption settings for 1 talkgroups(All))",
+  "System ID List": [
+    {
+      "System ID": "032",
+      "WACN": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": "408.000c"
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "De",
+      "Alpha Tag": "Police",
+      "Description": "Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "710 ",
+      "HEX ": "2c6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Federal "
+    }
+  ]
+}

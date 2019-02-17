@@ -1,0 +1,102 @@
+{
+  "System Name": "Indiana University Health - LTR",
+  "Location": "Multiple, IN",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 28, 2018, 10:58 pm ((2) Talkgroups Updated (IU University, IU Methodist, IU Riley))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "IU Methodist Repeater",
+      "County": [
+        "Marion",
+        "00 451.975 ",
+        "00 461.425 ",
+        "00 463.350 ",
+        "01 461.450 ",
+        "05 452.075 ",
+        "09 461.500 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "IU Riley Repeater",
+      "County": [
+        "Marion",
+        "00 451.975 ",
+        "00 461.425 ",
+        "00 463.350 ",
+        "01 461.450 ",
+        "05 452.075 ",
+        "09 461.500 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "IU North Repeater",
+      "County": [
+        "Hamilton",
+        "03 461.025 ",
+        "07 463.225 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-09-036 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUH-FOOD SVCS",
+      "Description": "Food Services ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "0-09-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUH-TECH SERVICE",
+      "Description": "Tech Services (Now Using The DMR Systems) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-09-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUH PHONE PATCH",
+      "Description": "Phone Patch  ",
+      "Tag  ": "Hospital "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-01-032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUN OPERATIONS",
+      "Description": "Operations (Now on the DMR Systems) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-01-150 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUN PHONE PATCH",
+      "Description": "Phone Patch (Now on the DMR Systems) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-03-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUN MAINTENANCE",
+      "Description": "Maintenance (Now on the DMR Systems) ",
+      "Tag  ": "Deprecated "
+    },
+    {
+      "DEC ": "0-07-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IUN GROUNDS",
+      "Description": "Groundskeeping (Now on the DMR Systems) ",
+      "Tag  ": "Deprecated "
+    }
+  ]
+}

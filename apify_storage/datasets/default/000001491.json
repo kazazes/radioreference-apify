@@ -1,0 +1,124 @@
+{
+  "System Name": "KanCom - Kankakee City/County Public Safety",
+  "Location": "Kankakee, IL",
+  "County": "Kankakee",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 1, 2018, 4:23 am ((5) Talkgroups Updated (Bourbonnais))",
+  "System ID List": [
+    {
+      "System ID": "3831",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "856.7625c",
+        "857.7625c",
+        "858.7625c",
+        "859.7625c",
+        "857.4875",
+        "858.2125",
+        "859.2625",
+        "859.7375",
+        "855.2125",
+        "854.5625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1488 ",
+      "HEX ": "05d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Rechs",
+      "Description": "Radio Techs ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3184 ",
+      "HEX ": "0c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW 1",
+      "Description": "Countywide 1 / Rural Police: Dispatch (see notes) ",
+      "Tag  ": "Multi-Dispatch "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CW 2",
+      "Description": "Countywide 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kan Pub Svc",
+      "Description": "County Public Service ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5328 ",
+      "HEX ": "14d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kan Zoning",
+      "Description": "Sewer/Code Enforcement/Building Standards (Zoning) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8016 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RV Transit",
+      "Description": "River Valley Transit ",
+      "Tag  ": "Transportation "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "5456 ",
+      "HEX ": "155 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSD61: Bus",
+      "Description": "Bradley CUSD #61: Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5616 ",
+      "HEX ": "15f ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSD61: WGS",
+      "Description": "Bradley CUSD #61: West Grade School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5648 ",
+      "HEX ": "161 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSD61: Adm",
+      "Description": "Bradley CUSD #61: Administration ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5680 ",
+      "HEX ": "163 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSD61: CGS",
+      "Description": "Bradley CUSD #61: Central Grade School ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "5712 ",
+      "HEX ": "165 ",
+      "Mode  ": "A",
+      "Alpha Tag": "BSD61: EGS",
+      "Description": "Bradley CUSD #61: East Grade School ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "System Name": "Swissotel Chicago",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 20, 2018, 7:42 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Swissotel Chicago",
+        "01 464.300 ",
+        "02 464.725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "248 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel 248",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "249 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel Hsmn",
+      "Description": "Meetings Housemen ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "251 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel 251",
+      "Description": "Hotel Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "252 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel Hskpg",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "253 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel Engrs",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "254 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Swissotel Secrty",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

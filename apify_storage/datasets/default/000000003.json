@@ -1,0 +1,26 @@
+{
+  "System Name": "Wiregrass Electric Cooperative",
+  "Location": "Various, FL AL",
+  "County": "3 counties",
+  "System Type": "DMR Tier 3",
+  "System Voice": "DMR",
+  "Last Updated": "July 15, 2017, 11:05 pm (Changed Site # 004 (Paxton) to 004 (Paxton))",
+  "System Frequencies": [
+    {
+      "Region": "000",
+      "Site": "004 (4)",
+      "Name": "Paxton",
+      "County": "Walton, FL",
+      "Freqs": "451.050c"
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "63345 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Utilities",
+      "Description": "Utilities ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

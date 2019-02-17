@@ -1,0 +1,62 @@
+{
+  "System Name": "Loews Hotel Chicago",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "November 25, 2017, 4:38 pm (Changed Site # 001 (Site 1) to 001 (Site 1))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 462.1375 ",
+        "02 464.3875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "249 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi Bellmen",
+      "Description": "Loews Hotel Chicago: Bellmen ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "250 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi Engrs",
+      "Description": "Loews Hotel Chicago: Building Engineers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "251 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi Securty",
+      "Description": "Loews Hotel Chicago: Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "252 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi FoodBev",
+      "Description": "Loews Hotel Chicago: Food  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "253 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi Hskpng",
+      "Description": "Loews Hotel Chicago: Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "254 ",
+      "Mode  ": "T",
+      "Alpha Tag": "LoewsChi RoomSvc",
+      "Description": "Loews Hotel Chicago: Room Service, Concierge? ",
+      "Tag  ": "Business "
+    }
+  ]
+}

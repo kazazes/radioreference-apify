@@ -1,0 +1,167 @@
+{
+  "System Name": "Action Communications",
+  "Location": "Various, CO WY NE",
+  "County": "10 counties",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 20, 2018, 8:55 pm (Changed Talkgroup Category: Transportation to Transportation(Transportation))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Sterling",
+      "County": [
+        "Logan, CO",
+        "01 464.075 ",
+        "02 463.600 ",
+        "03 463.925 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Fort Morgan",
+      "County": [
+        "Morgan, CO",
+        "01 463.500 ",
+        "02 462.175 ",
+        "03 461.500 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "New Raymer",
+      "County": [
+        "Weld, CO",
+        "01 461.175 ",
+        "02 461.850 ",
+        "03 463.275 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Buckhorn Mountain",
+      "County": [
+        "Larimer, CO",
+        "01 463.350 ",
+        "02 462.0125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Lookout Mountain",
+      "County": [
+        "Jefferson, CO",
+        "01 452.800 ",
+        "02 452.300 ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Windsor",
+      "County": [
+        "Weld, CO",
+        "01 463.375 ",
+        "02 464.025 ",
+        "03 464.7125 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Cheyenne",
+      "County": [
+        "Laramie, WY",
+        "01 461.6375 ",
+        "02 463.4875 ",
+        "03 464.0375 "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Loveland",
+      "County": [
+        "Larimer, CO",
+        "01 464.800 ",
+        "02 463.925 ",
+        " "
+      ]
+    },
+    {
+      "Site": "099 (63)",
+      "Name": "Dalton",
+      "County": [
+        "Morrill, NE",
+        "01 461.9375 ",
+        "02 463.4875 ",
+        "03 464.5875 "
+      ]
+    },
+    {
+      "Site": "099 (63)",
+      "Name": "Kimball",
+      "County": [
+        "Kimball, NE",
+        "01 461.5875 ",
+        "02 463.4125 ",
+        "03 464.2875 "
+      ]
+    },
+    {
+      "Site": "099 (63)",
+      "Name": "Lyman",
+      "County": [
+        "Scotts Bluff, NE",
+        "01 461.8875 ",
+        "02 463.2875 ",
+        "03 464.4125 "
+      ]
+    },
+    {
+      "Site": "099 (63)",
+      "Name": "Fort Collins",
+      "County": [
+        "Larimer, CO",
+        "01 461.9625 ",
+        "02 463.6625 ",
+        "03 464.3125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "26 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Livestock Haul",
+      "Description": "Livestock Hauling ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Special Needs",
+      "Description": "Special Needs Bus ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sterling Truck",
+      "Description": "Sterling Trucking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Super Shuttle N",
+      "Description": "Super Shuttle North Bound ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Super Shuttle S",
+      "Description": "Super Shuttle South Bound ",
+      "Tag  ": "Business "
+    }
+  ]
+}

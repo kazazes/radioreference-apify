@@ -1,0 +1,45 @@
+{
+  "System Name": "Sprowls Communications",
+  "Location": "Elizabethtown, KY",
+  "County": "Hardin",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 31, 2010, 11:33 pm (Changed Site # 001 (Site 65 (unconfirmed LCN)) to 065 (Site 65 (unconfirmed LCN)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 (Elizabethtown)",
+        "01 451.600 ",
+        "03 452.300 ",
+        "05 452.850 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "065 (41)",
+      "Name": [
+        "Site 65 (unconfirmed LCN)",
+        "01 451.600 ",
+        "02 451.975 ",
+        "03 452.300 ",
+        "04 452.850 ",
+        "05 461.050 ",
+        "06 461.950 ",
+        "07 464.100 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Taxi Company",
+      "Description": "Taxi Company ",
+      "Tag  ": "Business "
+    }
+  ]
+}

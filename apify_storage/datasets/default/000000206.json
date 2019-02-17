@@ -1,0 +1,29 @@
+{
+  "System Name": "Total Radio Arkansas: Fort Smith",
+  "Location": "Fort Smith, AR",
+  "County": "Sebastian",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 22, 2011, 8:42 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hartford",
+        "01 452.7375 ",
+        "02 461.9875 ",
+        "10 463.2125 ",
+        "11 463.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-10-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Delivery 008",
+      "Description": "Trucking and Delivery Service ",
+      "Tag  ": "Business "
+    }
+  ]
+}

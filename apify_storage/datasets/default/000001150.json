@@ -1,0 +1,119 @@
+{
+  "System Name": "American Family Life Assurance Company MOT",
+  "Location": "Columbus, GA",
+  "County": "Muscogee",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "October 5, 2016, 2:16 pm (Updated General Trunked System Information)",
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "855.7875",
+        "856.7875",
+        "857.7875c",
+        "857.3125c",
+        "858.3125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "100-07  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security Dsp",
+      "Description": "Security Dispatch ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "100-15  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security Tac",
+      "Description": "Security Tactical ",
+      "Tag  ": "Security "
+    },
+    {
+      "Subfleet ": "100-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Supply",
+      "Description": "Maintenance Warehouse ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "100-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bldg Svcs",
+      "Description": "Aflac Maint. ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "100-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tech Support",
+      "Description": "Computer Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "100-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 100-01",
+      "Description": "Unknown Use ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "100-05  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 100-05",
+      "Description": "Unknown Use ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "100-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unid 100-06",
+      "Description": "Unknown Use ",
+      "Tag  ": "Business "
+    }
+  ]
+}

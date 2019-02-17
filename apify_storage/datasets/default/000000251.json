@@ -1,0 +1,201 @@
+{
+  "System Name": "The Radio Guys",
+  "Location": "Various, CA",
+  "County": "12 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 25, 2019, 3:27 am (Changed Site # 023 (Site 23) to 023 (Mt Diablo))",
+  "System ID List": [
+    {
+      "System ID": "101"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mt Diablo",
+      "County": "Contra Costa",
+      "Freqs": [
+        "483.375c",
+        "482.925",
+        "483.900",
+        "484.425",
+        "452.825",
+        "461.875"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Pine Hill",
+      "County": "El Dorado",
+      "Freqs": [
+        "452.4375c",
+        "461.125",
+        "461.8875",
+        "464.375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "461.300",
+        "461.600",
+        "462.225",
+        "463.350",
+        "464.000",
+        "464.150c"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Twin Peaks",
+      "County": "San Francisco",
+      "Freqs": [
+        "482.700c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Mt Vaca",
+      "County": "Solano",
+      "Freqs": [
+        "483.725c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Black Mountain",
+      "County": "Santa Clara",
+      "Freqs": [
+        "484.725c",
+        "482.850",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Sutter Buttes",
+      "County": "Sutter",
+      "Freqs": [
+        "461.700",
+        "463.225",
+        "464.125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Stockton",
+      "County": "San Joaquin",
+      "Freqs": [
+        "461.950c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Mt Oso",
+      "County": "Stanislaus",
+      "Freqs": [
+        "451.15625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "Site 15 - Central Valley",
+      "County": "Stanislaus",
+      "Freqs": [
+        "462.150c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "016 (10)",
+      "Name": "Site 16 - Bakersfield",
+      "County": "Kern",
+      "Freqs": [
+        "451.69375c",
+        "452.300",
+        "452.975",
+        "461.150c",
+        "453.01875",
+        " "
+      ]
+    },
+    {
+      "Site": "023 (17)",
+      "Name": "Mt Diablo",
+      "County": "Contra Costa",
+      "Freqs": [
+        "483.425c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "210 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cemex",
+      "Description": "Cemex - South Bay Area ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "211 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cemex",
+      "Description": "Cemex - South Bay Area ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "212 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cemex",
+      "Description": "Cemex - South Bay Area ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "213 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Cemex",
+      "Description": "Cemex - South Bay Area ",
+      "Tag  ": "Business "
+    }
+  ]
+}

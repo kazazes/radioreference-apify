@@ -1,0 +1,19 @@
+{
+  "System Name": "SunLine Transit Agency",
+  "Location": "Thousand Palms, CA",
+  "County": "Riverside",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "October 9, 2015, 3:46 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 451.350 ",
+        "02 452.250 ",
+        "03 461.025 "
+      ]
+    }
+  ]
+}

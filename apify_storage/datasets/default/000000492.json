@@ -1,0 +1,488 @@
+{
+  "System Name": "San Bernardino County 06/07",
+  "Location": "Valley Areas, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "August 25, 2018, 10:00 pm (Changed Site # 001 (Simulcast) to 001 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "3C33",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "852.1625",
+        "852.3625",
+        "852.6375",
+        "852.6875",
+        "853.1625c",
+        "853.3375c",
+        "853.6125",
+        "853.6625",
+        "855.1875",
+        "855.4375",
+        "855.6125",
+        "855.6625",
+        "855.8625",
+        "859.8375",
+        "866.3375",
+        "866.3875",
+        "866.6125",
+        "866.8375",
+        "866.8875",
+        "867.4125",
+        "867.8875",
+        "868.3875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVC-1",
+      "Description": "Rancho Cucamonga (Station 11) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVC-2",
+      "Description": "West Foothill (Station 3) / Chino Hills (Station 22) Dispatch (Patched to 8-Mtn-2) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVC-3",
+      "Description": "West Valley Backup Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-EVC-1",
+      "Description": "Central (Station 1) / Grand Terrace (Station 12) / Highland (Station 13) / Loma Linda (Station 15) Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-EVC-2",
+      "Description": "Yucaipa (Station 4/14) Dispatch (Patched to 8-Mtn-1) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-EVC-3",
+      "Description": "East Valley Special Event/Special Operations Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "624 ",
+      "HEX ": "027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WTac-1",
+      "Description": "West Valley Records/Secondary Dispatch (Patched to 7-ETac-1 and 8-Tac-1) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WTac-2",
+      "Description": "West Valley Special Event/Special Operations Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "688 ",
+      "HEX ": "02b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WTac-3",
+      "Description": "West Valley Car-to-Car Tac ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-ETac-1",
+      "Description": "East Valley Records/Secondary Dispatch (Patched to 6-WTac-1 and 8-Tac-1) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-ETac-2",
+      "Description": "East Valley Special Event/Special Operations Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-ETac-3",
+      "Description": "East Valley Car-to-Car Tac ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "944 ",
+      "HEX ": "03b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-ATac-1",
+      "Description": "West Valley Area Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-ATac-2",
+      "Description": "West Valley Area Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Chase",
+      "Description": "Pursuit Channel ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2448 ",
+      "HEX ": "099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Red",
+      "Description": "Interagency Incident Notification (BOLs) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-40King",
+      "Description": "Airship Calling/Air-to-Air ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Court-1",
+      "Description": "Court 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Court-2",
+      "Description": "Court 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Court-3",
+      "Description": "Court 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "720 ",
+      "HEX ": "02d ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-SpeOp-1",
+      "Description": "Special Operations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "752 ",
+      "HEX ": "02f ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-SpeOp-2",
+      "Description": "Special Operations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2160 ",
+      "HEX ": "087 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-CTac-1",
+      "Description": "Countywide Tac 1 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "089 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-CTac-2",
+      "Description": "Countywide Tac 2 (Patched to All Systems) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1424 ",
+      "HEX ": "059 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Train-1",
+      "Description": "Sheriff Academy ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1456 ",
+      "HEX ": "05b ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Train-2",
+      "Description": "Sheriff Academy ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1488 ",
+      "HEX ": "05d ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Train-3",
+      "Description": "Sheriff Academy ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1520 ",
+      "HEX ": "05f ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Train-4",
+      "Description": "Sheriff Academy ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "912 ",
+      "HEX ": "039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-Train-5",
+      "Description": "Sheriff Academy ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-CDC-1",
+      "Description": "Central Detention Center 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-CDC-2",
+      "Description": "Central Detention Center 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1360 ",
+      "HEX ": "055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-GHRC-1",
+      "Description": "Glen Helen Rehabilitation Center 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "560 ",
+      "HEX ": "023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "7-GHRC-2",
+      "Description": "Glen Helen Rehabilitation Center 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1328 ",
+      "HEX ": "053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVDC-1",
+      "Description": "West Valley Detention Center 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVDC-2",
+      "Description": "West Valley Detention Center 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVDC-3",
+      "Description": "West Valley Detention Center 3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-WVDC-4",
+      "Description": "West Valley Detention Center 4 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1392 ",
+      "HEX ": "057 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GlenHelenTra",
+      "Description": "Glen Helen Transport ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "2864 ",
+      "HEX ": "0b3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RBCR Offcls",
+      "Description": "Redlands Bicycle Classic Race - Officials ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2896 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RBCR Marshl",
+      "Description": "Redlands Bicycle Classic Race - Marshals ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "2960 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RBCR Ops",
+      "Description": "Redlands Bicycle Classic Race - Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "3184 ",
+      "HEX ": "0c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "RBCR Medical",
+      "Description": "Redlands Bicycle Classic Race - Medical Operations ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "3792 ",
+      "HEX ": "0ed ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Patton",
+      "Description": "Patton State Hospital Security Channel 2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3952 ",
+      "HEX ": "0f7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Cho FD",
+      "Description": "Chino Valley Independent Fire Protectoin District Administration ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "3984 ",
+      "HEX ": "0f9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9-Fire Disp",
+      "Description": "West Fire Dispatch (System 9) ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "5936 ",
+      "HEX ": "173 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9-Fire Cmd 2",
+      "Description": "Fire Command 2 (System 9) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "6032 ",
+      "HEX ": "179 ",
+      "Mode  ": "A",
+      "Alpha Tag": "9-Fire Cmd 1",
+      "Description": "Fire Command 1 (System 9) ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "15120 ",
+      "HEX ": "3b1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Data",
+      "Description": "Mobile Data ",
+      "Tag  ": "Data "
+    },
+    {
+      "DEC ": "15984 ",
+      "HEX ": "3e7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-ChinoAir",
+      "Description": "Chino Airport Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "19504 ",
+      "HEX ": "4c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6/7-SBMP-1",
+      "Description": "San Bernardino Metro Patrol ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "19536 ",
+      "HEX ": "4c5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-SMPTc-1",
+      "Description": "San Bernardino Metro Patrol ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "19568 ",
+      "HEX ": "4c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OmnitransSec",
+      "Description": "Omnitrans Transit Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "33040 ",
+      "HEX ": "811 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-CommTest",
+      "Description": "Radio Communications Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "37200 ",
+      "HEX ": "915 ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-BDCFD",
+      "Description": "County Fire Non-Incident Talkaround ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "37296 ",
+      "HEX ": "91b ",
+      "Mode  ": "A",
+      "Alpha Tag": "6-Lom FD",
+      "Description": "Loma Linda Fire Department Administration ",
+      "Tag  ": "Fire-Talk "
+    }
+  ]
+}

@@ -1,0 +1,1135 @@
+{
+  "System Name": "Baltimore County",
+  "Location": "Various, MD",
+  "County": "Baltimore",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "August 1, 2018, 3:49 pm (Added Talkgroup 9687 Highways(Local Government))",
+  "System ID List": [
+    {
+      "System ID": "389",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "North",
+      "Freqs": [
+        "854.0125",
+        "854.0625a",
+        "854.0875a",
+        "854.4375",
+        "856.4625a",
+        "856.6875c",
+        "857.1625",
+        "857.2125",
+        "857.4625",
+        "858.1125",
+        "858.4625",
+        "859.1625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "South",
+      "Freqs": [
+        "854.0375a",
+        "854.5625",
+        "856.0625",
+        "856.2125c",
+        "856.7125",
+        "856.9625",
+        "857.0625",
+        "857.1125",
+        "857.5375",
+        "857.6875",
+        "857.7125",
+        "857.9625a",
+        "858.2125a",
+        "858.6875",
+        "858.7125",
+        "858.9625",
+        "859.2125",
+        "859.4625",
+        "859.5875",
+        "859.7125",
+        "859.9625",
+        "860.2125",
+        "860.4625",
+        "860.7125",
+        "860.9625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9450 ",
+      "HEX ": "24ea ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Main",
+      "Description": "Main Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "9451 ",
+      "HEX ": "24eb ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Central",
+      "Description": "Central Ops ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9452 ",
+      "HEX ": "24ec ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD North",
+      "Description": "North Ops ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9453 ",
+      "HEX ": "24ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD East",
+      "Description": "East Ops ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9454 ",
+      "HEX ": "24ee ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD West",
+      "Description": "West Ops ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9455 ",
+      "HEX ": "24ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD A3 ADO",
+      "Description": "A3 ADO ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9456 ",
+      "HEX ": "24f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD A8 ADM",
+      "Description": "A8 ADM ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9457 ",
+      "HEX ": "24f1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD A4 SUP",
+      "Description": "A4 SUP ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9458 ",
+      "HEX ": "24f2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD A2 EMS",
+      "Description": "A2 EMS ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9459 ",
+      "HEX ": "24f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD A5 DFM",
+      "Description": "A5 DFM ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9460 ",
+      "HEX ": "24f4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B12",
+      "Description": "B12 AC 10 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9461 ",
+      "HEX ": "24f5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B11 T11",
+      "Description": "B11 Tac 11 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9462 ",
+      "HEX ": "24f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B3 T12",
+      "Description": "B3 Tac 12 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9463 ",
+      "HEX ": "24f7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B4 T13",
+      "Description": "B4 Tac 13 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9464 ",
+      "HEX ": "24f8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B5 T14",
+      "Description": "B5 Tac 14 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9465 ",
+      "HEX ": "24f9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B6 T15",
+      "Description": "B6 Tac 15 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9466 ",
+      "HEX ": "24fa ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B7 T16",
+      "Description": "B7 Tac 16 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9467 ",
+      "HEX ": "24fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B8 T17",
+      "Description": "B8 Tac 17 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9468 ",
+      "HEX ": "24fc ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B9 T18",
+      "Description": "B9 Tac 18 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9469 ",
+      "HEX ": "24fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD B10 T19",
+      "Description": "B10 Tac 19 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9470 ",
+      "HEX ": "24fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J12",
+      "Description": "J12 AC 110N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9471 ",
+      "HEX ": "24ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J11",
+      "Description": "J11 BATAC 111N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9472 ",
+      "HEX ": "2500 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J3",
+      "Description": "J3 BATAC 112N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9473 ",
+      "HEX ": "2501 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J4",
+      "Description": "J4 BATAC 113N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9474 ",
+      "HEX ": "2502 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J5",
+      "Description": "J5 BATAC 114N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9475 ",
+      "HEX ": "2503 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J6",
+      "Description": "J6 BATAC 115N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9476 ",
+      "HEX ": "2504 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J7",
+      "Description": "J7 BATAC 116N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9477 ",
+      "HEX ": "2505 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J8",
+      "Description": "J8 BATAC 117N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9478 ",
+      "HEX ": "2506 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J9",
+      "Description": "J9 BATAC 118N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9479 ",
+      "HEX ": "2507 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD J10",
+      "Description": "J10 BATAC 119N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9480 ",
+      "HEX ": "2508 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D12",
+      "Description": "D12 AC 20 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9481 ",
+      "HEX ": "2509 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D11 T21",
+      "Description": "D11 Tac 21 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9482 ",
+      "HEX ": "250a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D3 T22",
+      "Description": "D3 Tac 22 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9483 ",
+      "HEX ": "250b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D4 T23",
+      "Description": "D4 Tac 23 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9484 ",
+      "HEX ": "250c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D5 T24",
+      "Description": "D5 Tac 24 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9485 ",
+      "HEX ": "250d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D6 T25",
+      "Description": "D6 Tac 25 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9486 ",
+      "HEX ": "250e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D7 T26",
+      "Description": "D7 Tac 26 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9487 ",
+      "HEX ": "250f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D8 T27",
+      "Description": "D8 Tac 27 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9488 ",
+      "HEX ": "2510 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D9 T28",
+      "Description": "D9 Tac 28 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9489 ",
+      "HEX ": "2511 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD D10 T29",
+      "Description": "D10 Tac 29 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9490 ",
+      "HEX ": "2512 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K12",
+      "Description": "K12 AC 120N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9491 ",
+      "HEX ": "2513 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K11",
+      "Description": "K11 Tac 121N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9492 ",
+      "HEX ": "2514 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K3",
+      "Description": "K3 Tac 122N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9493 ",
+      "HEX ": "2515 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K4",
+      "Description": "K4 Tac 123N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9494 ",
+      "HEX ": "2516 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K5",
+      "Description": "K5 Tac 124N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9495 ",
+      "HEX ": "2517 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K6",
+      "Description": "K6 Tac 125N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9496 ",
+      "HEX ": "2518 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K7",
+      "Description": "K7 Tac 126N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9497 ",
+      "HEX ": "2519 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K8",
+      "Description": "K8 Tac 127N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9498 ",
+      "HEX ": "251a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K9",
+      "Description": "K9 Tac 128N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9499 ",
+      "HEX ": "251b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD K10",
+      "Description": "K10 Tac 129N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9500 ",
+      "HEX ": "251c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F12",
+      "Description": "F12 AC 30S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9501 ",
+      "HEX ": "251d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F11",
+      "Description": "F11 Tac 31S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9502 ",
+      "HEX ": "251e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F3 T32S",
+      "Description": "F3 Tac 32S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9503 ",
+      "HEX ": "251f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F4 T33S",
+      "Description": "F4 Tac 33S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9504 ",
+      "HEX ": "2520 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F5 T34S",
+      "Description": "F5 Tac 34S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9505 ",
+      "HEX ": "2521 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F6 T35S",
+      "Description": "F6 Tac 35S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9506 ",
+      "HEX ": "2522 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F7 T36S",
+      "Description": "F7 Tac 36S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9507 ",
+      "HEX ": "2523 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F8 T37S",
+      "Description": "F8 Tac 37S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9508 ",
+      "HEX ": "2524 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F9 T38S",
+      "Description": "F9 Tac 38S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9509 ",
+      "HEX ": "2525 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD F10",
+      "Description": "F10 Tac 39S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9510 ",
+      "HEX ": "2526 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G12",
+      "Description": "G12 AC 40S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9511 ",
+      "HEX ": "2527 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G11",
+      "Description": "G11 Tac 41S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9512 ",
+      "HEX ": "2528 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G3 T42S",
+      "Description": "G3 Tac 42S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9513 ",
+      "HEX ": "2529 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G4 T43S",
+      "Description": "G4 Tac 43S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9514 ",
+      "HEX ": "252a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G5 T44S",
+      "Description": "G5 Tac 44S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9515 ",
+      "HEX ": "252b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G6 T45S",
+      "Description": "G6 Tac 45S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9516 ",
+      "HEX ": "252c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G7 T46S",
+      "Description": "G7 Tac 46S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9517 ",
+      "HEX ": "252d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G8 T47S",
+      "Description": "G8 Tac 47S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9518 ",
+      "HEX ": "252e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G9 T48S",
+      "Description": "G9 Tac 48S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9519 ",
+      "HEX ": "252f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD G10",
+      "Description": "G10 Tac 49S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9520 ",
+      "HEX ": "2530 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E12",
+      "Description": "E12 AC 50 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9521 ",
+      "HEX ": "2531 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E11 T51",
+      "Description": "E11 Tac 51 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9522 ",
+      "HEX ": "2532 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E3 T52",
+      "Description": "E3 Tac 52 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9523 ",
+      "HEX ": "2533 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E4 T53",
+      "Description": "E4 Tac 53 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9524 ",
+      "HEX ": "2534 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E5 T54",
+      "Description": "E5 Tac 54 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9525 ",
+      "HEX ": "2535 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E6 T55",
+      "Description": "E6 Tac 55 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9526 ",
+      "HEX ": "2536 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E7 T56",
+      "Description": "E7 Tac 56 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9527 ",
+      "HEX ": "2537 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E8 T57",
+      "Description": "E8 Tac 57 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9528 ",
+      "HEX ": "2538 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E9 T58",
+      "Description": "E9 Tac 58 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9529 ",
+      "HEX ": "2539 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD E10 T59",
+      "Description": "E10 Tac 59 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9530 ",
+      "HEX ": "253a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C12",
+      "Description": "C12 AC 60 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9531 ",
+      "HEX ": "253b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C11 T61",
+      "Description": "C11 Tac 61 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9532 ",
+      "HEX ": "253c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C3 T62",
+      "Description": "C3 Tac 62 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9533 ",
+      "HEX ": "253d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C4 T63",
+      "Description": "C4 Tac 63 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9534 ",
+      "HEX ": "253e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C5 T64",
+      "Description": "C5 Tac 64 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9535 ",
+      "HEX ": "253f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C6 T65",
+      "Description": "C6 Tac 65 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9536 ",
+      "HEX ": "2540 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C7 T66",
+      "Description": "C7 Tac 66 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9537 ",
+      "HEX ": "2541 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C8 T67",
+      "Description": "C8 Tac 67 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9538 ",
+      "HEX ": "2542 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C9 T68",
+      "Description": "C9 Tac 68 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9539 ",
+      "HEX ": "2543 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD C10 T69",
+      "Description": "C10 Tac 69 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9540 ",
+      "HEX ": "2544 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H12",
+      "Description": "H12 AC 70 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9541 ",
+      "HEX ": "2545 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H11 T71",
+      "Description": "H11 Tac 71 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9542 ",
+      "HEX ": "2546 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H3 T72",
+      "Description": "H3 Tac 72 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9543 ",
+      "HEX ": "2547 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H4 T73",
+      "Description": "H4 Tac 73 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9544 ",
+      "HEX ": "2548 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H5 T74",
+      "Description": "H5 Tac 74 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9545 ",
+      "HEX ": "2549 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H6 T75",
+      "Description": "H6 Tac 75 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9546 ",
+      "HEX ": "254a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H7 T76",
+      "Description": "H7 Tac 76 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9547 ",
+      "HEX ": "254b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H8 T77",
+      "Description": "H8 Tac 77 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9548 ",
+      "HEX ": "254c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H9 T78",
+      "Description": "H9 Tac 78 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9549 ",
+      "HEX ": "254d ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD H10 T79",
+      "Description": "H10 Tac 79 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9550 ",
+      "HEX ": "254e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I12",
+      "Description": "I12 AC 80 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9551 ",
+      "HEX ": "254f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I11 T81",
+      "Description": "I11 Tac 81 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9552 ",
+      "HEX ": "2550 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I3 T82",
+      "Description": "I3 Tac 82 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9553 ",
+      "HEX ": "2551 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I4 T83",
+      "Description": "I4 Tac 83 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9554 ",
+      "HEX ": "2552 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I5 T84",
+      "Description": "I5 Tac 84 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9555 ",
+      "HEX ": "2553 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I6 T85",
+      "Description": "I6 Tac 85 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9556 ",
+      "HEX ": "2554 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I7 T86",
+      "Description": "I7 Tac 86 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9557 ",
+      "HEX ": "2555 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I8 T87",
+      "Description": "I8 Tac 87 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9558 ",
+      "HEX ": "2556 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I9 T88",
+      "Description": "I9 Tac 88 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9559 ",
+      "HEX ": "2557 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD I10 T89",
+      "Description": "I10 Tac 89 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9560 ",
+      "HEX ": "2558 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Trng 1",
+      "Description": "Training 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9561 ",
+      "HEX ": "2559 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Trng 2S",
+      "Description": "Training 2S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9562 ",
+      "HEX ": "255a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Trng 3S",
+      "Description": "Training 3S ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9563 ",
+      "HEX ": "255b ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD Trng 4N",
+      "Description": "Training 4N ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9564 ",
+      "HEX ": "255c ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD ACAD",
+      "Description": "ACAD ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9566 ",
+      "HEX ": "255e ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD PF97",
+      "Description": "PF97 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9567 ",
+      "HEX ": "255f ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD PF98",
+      "Description": "PF98 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9568 ",
+      "HEX ": "2560 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD PF99",
+      "Description": "PF99 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "9569 ",
+      "HEX ": "2561 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M1 191",
+      "Description": "M1 191 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9570 ",
+      "HEX ": "2562 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M2 192",
+      "Description": "M2 192 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9571 ",
+      "HEX ": "2563 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M3 193",
+      "Description": "M3 193 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9572 ",
+      "HEX ": "2564 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M4 194",
+      "Description": "M4 194 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9573 ",
+      "HEX ": "2565 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M5 195",
+      "Description": "M5 195 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9574 ",
+      "HEX ": "2566 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M6 196",
+      "Description": "M6 196 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9575 ",
+      "HEX ": "2567 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M7 197",
+      "Description": "M7 197 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9576 ",
+      "HEX ": "2568 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD M8 198",
+      "Description": "M8 198 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9577 ",
+      "HEX ": "2569 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD VOL",
+      "Description": "VOL ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9578 ",
+      "HEX ": "256a ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCFD FID",
+      "Description": "FID ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "9579 ",
+      "HEX ": "256b ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMRC Call221",
+      "Description": "EMRC Call 221 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "9580 ",
+      "HEX ": "256c ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMRC 224",
+      "Description": "EMRC 224 ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "9581 ",
+      "HEX ": "256d ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMRC 228",
+      "Description": "EMRC 228 ",
+      "Tag  ": "Hospital "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "9440 ",
+      "HEX ": "24e0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCo Sch Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "9441 ",
+      "HEX ": "24e1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BCo SchTrans",
+      "Description": "Transportation ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

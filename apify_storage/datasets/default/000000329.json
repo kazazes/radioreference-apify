@@ -1,0 +1,107 @@
+{
+  "System Name": "KABC-TV",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "October 26, 2018, 4:39 pm (Changed Site # 005 (Site 5) to 005 (Site 5))",
+  "System ID List": [
+    {
+      "System ID": "105"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "450.128125",
+        "450.140625",
+        "450.165625",
+        "450.303125c",
+        "450.315625c"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Western Los Angeles Co",
+      "Freqs": [
+        "450.146875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "San Bernardino Area",
+      "Freqs": [
+        "450.146875c",
+        "450.159375",
+        "450.309375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "High Desert Victorville",
+      "Freqs": [
+        "450.146875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Site 5",
+      "Freqs": [
+        "450.13125",
+        "450.150c",
+        "450.171875",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ASSIGN DESK",
+      "Description": "Assignment Desk ",
+      "Tag  ": "Media "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ENGINEERING",
+      "Description": "Engineering ",
+      "Tag  ": "Media "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "IFB",
+      "Description": "Playback IFB ",
+      "Tag  ": "Media "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ABC 7",
+      "Description": "ABC 7 Spare ",
+      "Tag  ": "Media "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAINTENANCE",
+      "Description": "Maintenance ",
+      "Tag  ": "Media "
+    }
+  ]
+}

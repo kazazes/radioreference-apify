@@ -1,0 +1,19 @@
+{
+  "System Name": "Milford Electric Department",
+  "Location": "Milford, DE",
+  "County": "Kent",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 18, 2015, 5:12 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 151.670 ",
+        "03 151.970 ",
+        "05 152.870 "
+      ]
+    }
+  ]
+}

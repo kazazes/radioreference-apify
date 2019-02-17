@@ -1,0 +1,47 @@
+{
+  "System Name": "Maryland Zoo in Baltimore",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 8, 2018, 11:17 am (Changed Talkgroup Category: All to All(All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 464.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Zoo 1",
+      "Description": "Ch. 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Zoo 2",
+      "Description": "Ch. 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Zoo 3",
+      "Description": "Ch. 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "25 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MD Zoo 6",
+      "Description": "Ch. 6 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "System Name": "Marion County FL Public Safety",
+  "Location": "Ocala, FL",
+  "County": "Marion",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 8, 2018, 11:53 am (Updated encryption settings for 29 talkgroups(Marion County Sheriff))",
+  "System ID List": [
+    {
+      "System ID": "1D4",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.225",
+        "851.250",
+        "851.5875",
+        "851.750",
+        "851.875",
+        "852.125",
+        "852.225",
+        "852.250",
+        "852.375",
+        "852.625",
+        "852.725",
+        "852.750",
+        "852.875",
+        "853.250",
+        "853.650c",
+        "853.725",
+        "853.900"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1113 ",
+      "HEX ": "459 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR AllCall",
+      "Description": "Fire All-Call ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1100 ",
+      "HEX ": "44c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR North",
+      "Description": "Fire North Region Response ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1101 ",
+      "HEX ": "44d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR South",
+      "Description": "Fire South Region Response ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1102 ",
+      "HEX ": "44e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Talk",
+      "Description": "Fire Talk Around ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1103 ",
+      "HEX ": "44f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCFR Primary",
+      "Description": "Fire Primary ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1104 ",
+      "HEX ": "450 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Scene 1",
+      "Description": "Fire Scene 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1105 ",
+      "HEX ": "451 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Scene 2",
+      "Description": "Fire Scene 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1106 ",
+      "HEX ": "452 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Scene 3",
+      "Description": "Fire Scene 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1107 ",
+      "HEX ": "453 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Scene 4",
+      "Description": "Fire Scene 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1108 ",
+      "HEX ": "454 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR SpecOps",
+      "Description": "Special Operations ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1109 ",
+      "HEX ": "455 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Admin",
+      "Description": "Fire Administration ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1110 ",
+      "HEX ": "456 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Support",
+      "Description": "Support ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1111 ",
+      "HEX ": "457 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Prevent",
+      "Description": "Fire Prevention ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1112 ",
+      "HEX ": "458 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Train",
+      "Description": "Training ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1210 ",
+      "HEX ": "4ba ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBFR Helo",
+      "Description": "Helicoptor ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "1124 ",
+      "HEX ": "464 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR BCC",
+      "Description": "Board of County Commissioners ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1115 ",
+      "HEX ": "45b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR LCFD",
+      "Description": "Lake County Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1116 ",
+      "HEX ": "45c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Vill FD",
+      "Description": "Village Fire ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1117 ",
+      "HEX ": "45d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Dunn FD",
+      "Description": "Dunnellon FD ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1118 ",
+      "HEX ": "45e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR Forest",
+      "Description": "Forestry ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "1211 ",
+      "HEX ": "4bb ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MBFR Village",
+      "Description": "Villages ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1212 ",
+      "HEX ": "4bc ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MBFR 7Rivers",
+      "Description": "7 Rivers ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1213 ",
+      "HEX ": "4bd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MBFR N Coast",
+      "Description": "N Coast ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1214 ",
+      "HEX ": "4be ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MBFR Lk Sumt",
+      "Description": "Lake Sumter ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "1125 ",
+      "HEX ": "465 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR CW CRB",
+      "Description": "CW CRB ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1126 ",
+      "HEX ": "466 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR CW GMB",
+      "Description": "CW GMB ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1127 ",
+      "HEX ": "467 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR CW LSSB",
+      "Description": "CW LSSB ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1128 ",
+      "HEX ": "468 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR CW MSB",
+      "Description": "CW MSB ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1129 ",
+      "HEX ": "469 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MCFR CW PWB",
+      "Description": "CW PWB ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "1215 ",
+      "HEX ": "4bf ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MBFR CMH",
+      "Description": "CMH ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1200 ",
+      "HEX ": "4b0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Disp",
+      "Description": "EMSA Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "1201 ",
+      "HEX ": "4b1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Tac",
+      "Description": "EMSA Tac ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1202 ",
+      "HEX ": "4b2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Tac 1",
+      "Description": "EMSA Tac 1 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1203 ",
+      "HEX ": "4b3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Tac 2",
+      "Description": "EMSA Tac 2 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1204 ",
+      "HEX ": "4b4 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Tac 3",
+      "Description": "EMSA Tac 3 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1205 ",
+      "HEX ": "4b5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Tac 4",
+      "Description": "EMSA Tac 4 ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "1206 ",
+      "HEX ": "4b6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA NonEmer",
+      "Description": "EMSA Non-Emergency ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "1207 ",
+      "HEX ": "4b7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Admin",
+      "Description": "EMSA Admin ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "1208 ",
+      "HEX ": "4b8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA Train",
+      "Description": "EMSA Training ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "1209 ",
+      "HEX ": "4b9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA SpecOps",
+      "Description": "EMSA Special Operations ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "1216 ",
+      "HEX ": "4c0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EMSA AllCall",
+      "Description": "EMSA All-Call ",
+      "Tag  ": "EMS Dispatch "
+    },
+    {
+      "DEC ": "1119 ",
+      "HEX ": "45f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EMS-MRMC",
+      "Description": "EMS-To-Monroe Regional Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1120 ",
+      "HEX ": "460 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EMS-ORMC",
+      "Description": "EMS-To-Ocala Regional Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1121 ",
+      "HEX ": "461 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EMS-WMCH",
+      "Description": "EMS-To-West Marion Community Hospital ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1122 ",
+      "HEX ": "462 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EMS-TRMC",
+      "Description": "EMS-To-Timber Ridge Medical Center ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1123 ",
+      "HEX ": "463 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EMS-STC",
+      "Description": "EMS to Shands Trauma Center ",
+      "Tag  ": "Hospital "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1035 ",
+      "HEX ": "40b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EM 1",
+      "Description": "Emergency Management 1 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1036 ",
+      "HEX ": "40c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EM 2",
+      "Description": "Emergency Management 2 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1037 ",
+      "HEX ": "40d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EM 3",
+      "Description": "Emergency Management 3 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1038 ",
+      "HEX ": "40e ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC EM 4",
+      "Description": "Emergency Management 4 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "1416 ",
+      "HEX ": "588 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC LG A/C",
+      "Description": "Local Government All-Call ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1412 ",
+      "HEX ": "584 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Transp",
+      "Description": "Transportation Department? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1414 ",
+      "HEX ": "586 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC State Att",
+      "Description": "State Attorney's Office? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1415 ",
+      "HEX ": "587 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Sch Board",
+      "Description": "School Board ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1417 ",
+      "HEX ": "589 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Health",
+      "Description": "Health Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1033 ",
+      "HEX ": "409 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC Maint 1",
+      "Description": "Maintenance 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1034 ",
+      "HEX ": "40a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC Maint 2",
+      "Description": "Maintenance 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1041 ",
+      "HEX ": "411 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MC YouthSvcs",
+      "Description": "Youth Services ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1400 ",
+      "HEX ": "578 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Admin",
+      "Description": "Administration ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1401 ",
+      "HEX ": "579 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Anim Cntl",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1402 ",
+      "HEX ": "57a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Building",
+      "Description": "Building Department? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1403 ",
+      "HEX ": "57b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Code",
+      "Description": "Code Enforcement ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1404 ",
+      "HEX ": "57c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FC Facility",
+      "Description": "Facilities Management? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1405 ",
+      "HEX ": "57d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Fleet",
+      "Description": "Fleet Management? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1406 ",
+      "HEX ": "57e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Info Sys",
+      "Description": "Information Systems? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1407 ",
+      "HEX ": "57f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Parks",
+      "Description": "Parks Department? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1408 ",
+      "HEX ": "580 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Prop Ap",
+      "Description": "Property Appraisal? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1409 ",
+      "HEX ": "581 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Roads",
+      "Description": "Roads Departments? ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1410 ",
+      "HEX ": "582 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Signs",
+      "Description": "Signs ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1411 ",
+      "HEX ": "583 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Solid Wst",
+      "Description": "Solid Waste ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1413 ",
+      "HEX ": "585 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MC Utility",
+      "Description": "Utility ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

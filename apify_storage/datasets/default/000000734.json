@@ -1,0 +1,95 @@
+{
+  "System Name": "Wethersfield (Motorola)",
+  "Location": "Wethersfield, CT",
+  "County": "Hartford",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 12, 2017, 11:24 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "8C2C",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "853.7875c",
+        "853.5875c",
+        "853.075c",
+        "852.8375c",
+        "852.300"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "80 ",
+      "HEX ": "005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police 1",
+      "Description": "Patrol ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police 2",
+      "Description": "Car-to-Car ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police 3",
+      "Description": "Patrol Supervisors ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police 4",
+      "Description": "Special Operations ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "009 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police 5",
+      "Description": "Detectives ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Police ATG",
+      "Description": "Police All Call ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "12816 ",
+      "HEX ": "321 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TW Routine",
+      "Description": "Townwide Routine (All Radios Have This Talkgroup) ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "14416 ",
+      "HEX ": "385 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emergency",
+      "Description": "Emergency ",
+      "Tag  ": "Interop "
+    }
+  ]
+}

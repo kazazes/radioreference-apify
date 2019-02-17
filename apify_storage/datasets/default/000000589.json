@@ -1,0 +1,193 @@
+{
+  "System Name": "Dick's Sporting Goods Park",
+  "Location": "Commerce City, CO",
+  "County": "Adams",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 21, 2017, 4:44 am (Updated Function Tag assignments for 2 talkgroups(Park Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Commerce City",
+        "01 463.3625 ",
+        "04 461.7875 ",
+        "07 462.0875 ",
+        "10 464.4625 ",
+        "13 464.8625 ",
+        "16 461.4375 ",
+        "19 463.9875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Command",
+      "Description": "Command Channel ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Safety",
+      "Description": "Safety Team ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 1",
+      "Description": "Security-1 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-01-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 2",
+      "Description": "Security-2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-01-021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Guest",
+      "Description": "Guest Relations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Box Office",
+      "Description": "Box Office - Ticketing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Retail",
+      "Description": "Retail Sales ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-027 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Info-Tech",
+      "Description": "IT Department ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grounds",
+      "Description": "Grounds Team ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Janitorial",
+      "Description": "Janitorial ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parking",
+      "Description": "Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concessions1",
+      "Description": "Concessions-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concessions2",
+      "Description": "Concessions-2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Gate-1",
+      "Description": "Entry Gates-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Gate-1",
+      "Description": "Entry Gates-2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-04-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fld Sec 1",
+      "Description": "Field Security-1 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-04-037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fld Sec 2",
+      "Description": "Field Security-2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-07-011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Team 1",
+      "Description": "Colorado Rapids Team Channel 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Team Con",
+      "Description": "Colorado Rapids Team Concierge ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Team 2",
+      "Description": "Colorado Rapids Team Channel 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sponsorship",
+      "Description": "Colorado Rapids Sponsorship Team ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Team Chkin",
+      "Description": "Team Check-in ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-07-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Team Med",
+      "Description": "First Aid - Medical Teams ",
+      "Tag  ": "Business "
+    }
+  ]
+}

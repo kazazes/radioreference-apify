@@ -1,0 +1,26 @@
+{
+  "System Name": "Unidentified Federal P25 00001-001",
+  "Location": "Unknown, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 28, 2015, 3:21 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "001",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "Freqs": [
+        "411.450c",
+        "412.450a",
+        "413.450a"
+      ]
+    }
+  ]
+}

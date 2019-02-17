@@ -1,0 +1,56 @@
+{
+  "System Name": "Delmarva Two-Way Radio",
+  "Location": "Bethany Beach, DE",
+  "County": "Sussex",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 1, 2011, 12:55 pm (Updated Talkgroups (3 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.675 ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Unconfirmed LCN",
+        "01 451.275 ",
+        "02 451.750 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-212 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OCMD Taxi",
+      "Description": "Ocean City MD Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-224 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OC Cad",
+      "Description": "OC Cad. ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-233 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SB Beach Pat",
+      "Description": "South Bethany Beach Patrol ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "0-01-239 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OceanOutlets",
+      "Description": "Security at the Ocean Outlets ",
+      "Tag  ": "Security "
+    }
+  ]
+}

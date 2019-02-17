@@ -1,0 +1,76 @@
+{
+  "System Name": "Supreme Radio Communications (E Peoria/Galesburg)",
+  "Location": "East Peoria, IL",
+  "County": "11 counties",
+  "System Type": "LTR Standard and Passport",
+  "System Voice": "Analog",
+  "Last Updated": "September 18, 2017, 2:06 am (Changed Site # 103 (Farland (Unverified LCN)) to 103 (Farland (Unverified LCN)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "East Peoria",
+      "County": [
+        "Tazewell",
+        "01 451.8625 ",
+        "02 452.0125 ",
+        "03 451.9125 ",
+        " "
+      ]
+    },
+    {
+      "Site": "101 (65)",
+      "Name": "E Peoria (Passport - Unverified LCN)",
+      "County": [
+        "Tazewell",
+        "04 452.500 ",
+        "05 452.200 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Galesburg (Unverified LCN)",
+      "County": [
+        "Knox",
+        "06 452.200 ",
+        "07 452.500 ",
+        "08 452.0875 ",
+        "09 451.4875 "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Farland (Unverified LCN)",
+      "County": [
+        "Marshall",
+        "10 452.500 ",
+        "11 452.200 ",
+        "12 452.275 ",
+        " "
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Pleasant View (Unverified LCN)",
+      "County": [
+        "Fulton",
+        "13 452.100 ",
+        "14 452.500 ",
+        "15 452.400 ",
+        "16 452.200 "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Macomb (Unverified LCN)",
+      "County": [
+        "McDonough",
+        "21 452.200 ",
+        "22 452.400 ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

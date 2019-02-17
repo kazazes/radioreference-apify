@@ -1,0 +1,32 @@
+{
+  "System Name": "Vail Ski Resort",
+  "Location": "Vail, CO",
+  "County": "Eagle",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "July 21, 2014, 5:10 pm (Changed Site # 001 (Site-1) to 001 (Vail Ski Resort))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Vail Ski Resort",
+        "01 451.9375 ",
+        "02 452.2375 ",
+        "03 452.650 ",
+        "04 461.375 ",
+        "05 461.5625 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Beaver Creek Ski Resort",
+        "01 452.2625 ",
+        "02 452.6875 ",
+        "03 461.5625 ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

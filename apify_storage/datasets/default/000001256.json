@@ -1,0 +1,28 @@
+{
+  "System Name": "ExpressAir",
+  "Location": "Coeur d'Alene, ID",
+  "County": "Kootenai",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 23, 2016, 8:31 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mica Peak",
+        "01 855.3875 ",
+        "05 855.6125 ",
+        "09 855.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-09-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CWID",
+      "Description": "Morse Code ID ",
+      "Tag  ": "Business "
+    }
+  ]
+}

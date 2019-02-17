@@ -1,0 +1,205 @@
+{
+  "System Name": "Floyd County",
+  "Location": "Rome, GA",
+  "County": "Floyd",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "September 29, 2017, 1:13 am (General text description updated)",
+  "System ID List": [
+    {
+      "System ID": "039",
+      "WACN": "92741"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Rome / Floyd County Simulcast",
+      "Freqs": [
+        "851.275c",
+        "851.4375c",
+        "851.825c",
+        "852.250c",
+        "852.450c",
+        "852.6375c",
+        "852.8125c",
+        "853.1125c",
+        "853.1875c",
+        "853.6875c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Disp",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "12 ",
+      "HEX ": "00c ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Cmd",
+      "Description": "Police Command ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Tac 3",
+      "Description": "Police Tactical 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Tac 4",
+      "Description": "Police Tactical 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Tac 5",
+      "Description": "Police Tactical 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Tac 6",
+      "Description": "Police Tactical 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD SWAT 1",
+      "Description": "Police SWAT 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD SWAT 2",
+      "Description": "Police SWAT 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD CID 1",
+      "Description": "Police CID 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD CID 2",
+      "Description": "Police CID 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FCPD Bomb",
+      "Description": "Bomb Squad / Response Unit ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "FCPD DTF",
+      "Description": "Rome/Floyd Metro Drug Task Force ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 1",
+      "Description": "Event 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 2",
+      "Description": "Event 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 3",
+      "Description": "Event 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 4",
+      "Description": "Event 4 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 5",
+      "Description": "Event 5 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 6",
+      "Description": "Event 6 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FCPD Event 7",
+      "Description": "Event 7 ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "50001 ",
+      "HEX ": "c351 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO TECH 1",
+      "Description": "Radio and Range Testing 1 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "50020 ",
+      "HEX ": "c364 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RADIO TECH20",
+      "Description": "Radio and Range Testing 20 ",
+      "Tag  ": "Other "
+    }
+  ]
+}

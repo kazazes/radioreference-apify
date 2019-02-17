@@ -1,0 +1,15 @@
+{
+  "System Name": "Cobb EMC TETRA",
+  "Location": "Marietta, GA",
+  "County": "Cobb",
+  "System Type": "TETRA Standard",
+  "System Voice": "Tetra Digital",
+  "Last Updated": "October 5, 2016, 2:32 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Marietta",
+      "Freqs": "454.6125"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "System Name": "San Onofre Nuclear Generating Station (SONGS - SCE)",
+  "Location": "San Onofre, CA",
+  "County": "San Diego",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 31, 2011, 11:17 pm (Updated Talkgroups (5 Updated))",
+  "System ID List": [
+    {
+      "System ID": "0939",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.275",
+        "857.275c",
+        "857.650",
+        "858.425c",
+        "859.425c",
+        "859.600",
+        "860.275"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "19248 ",
+      "HEX ": "4b3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire 1",
+      "Description": "Fire 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "19280 ",
+      "HEX ": "4b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HazMat Team",
+      "Description": "HazMat Team ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19312 ",
+      "HEX ": "4b7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire Watches",
+      "Description": "Fire Watches ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "20976 ",
+      "HEX ": "51f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Facilities",
+      "Description": "Facilities ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "24016 ",
+      "HEX ": "5dd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint Unit 1",
+      "Description": "Maintenance Unit 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "27216 ",
+      "HEX ": "6a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security A1",
+      "Description": "Security A1 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "27248 ",
+      "HEX ": "6a7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security A2",
+      "Description": "Security A2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "27280 ",
+      "HEX ": "6a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security A3",
+      "Description": "Security A3 ",
+      "Tag  ": "Security "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "21136 ",
+      "HEX ": "529 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-C",
+      "Description": "MT-C ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25616 ",
+      "HEX ": "641 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-A",
+      "Description": "MT-A ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25648 ",
+      "HEX ": "643 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-B",
+      "Description": "MT-B ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25712 ",
+      "HEX ": "647 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-D",
+      "Description": "MT-D ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25744 ",
+      "HEX ": "649 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-E",
+      "Description": "MT-E ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25776 ",
+      "HEX ": "64b ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-F",
+      "Description": "Electricians ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "25808 ",
+      "HEX ": "64d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MT-G",
+      "Description": "Fire Detection/Supression System Testing ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "System Name": "Tracy Unified School District",
+  "Location": "Tracy, CA",
+  "County": "San Joaquin",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 12, 2018, 7:55 pm ((2) Talkgroups Updated (North Elementary))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Tracy USD",
+        "01 451.450 ",
+        "02 451.8375 ",
+        "03 451.9875 ",
+        "04 452.3375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "121 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CE Ops",
+      "Description": "Ops ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "123 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NE Ops",
+      "Description": "Ops ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "124 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NE Ch 4",
+      "Description": "Channel 4 ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

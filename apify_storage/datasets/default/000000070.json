@@ -1,0 +1,20 @@
+{
+  "System Name": "American Airlines",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 9, 2017, 8:29 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Phoenix Airport",
+        "01 935.1875 ",
+        "02 937.9375 ",
+        "05 935.1625 ",
+        "06 935.175 "
+      ]
+    }
+  ]
+}

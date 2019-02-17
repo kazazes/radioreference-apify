@@ -1,0 +1,62 @@
+{
+  "System Name": "PDV Spectrum Holding",
+  "Location": "Patterson, CA",
+  "County": "Stanislaus",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "July 23, 2016, 8:22 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "3706",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mike's Peak",
+      "Freqs": [
+        "935.150",
+        "935.6625",
+        "936.1625c",
+        "936.250c",
+        "936.700c",
+        "937.7375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 176",
+      "Description": "Farm ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "416 ",
+      "HEX ": "01a ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 416",
+      "Description": "Farm ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1088 ",
+      "HEX ": "044 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sch Bus 1088",
+      "Description": "School Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit 1136",
+      "Description": "Transit Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

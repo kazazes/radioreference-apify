@@ -1,0 +1,26 @@
+{
+  "System Name": "Skywheel Panama City Beach",
+  "Location": "Panama City Beach, FL",
+  "County": "Bay",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 15, 2018, 1:26 pm (Changed Site # 001 (Confirmed) to 001 (Confirmed))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 461.825c "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "100 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ferris Wheel Ops",
+      "Description": "Ferris Wheel Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

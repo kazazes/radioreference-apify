@@ -1,0 +1,179 @@
+{
+  "System Name": "Aurora Public School District 129",
+  "Location": "Aurora, IL",
+  "County": "Kane",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "September 6, 2018, 2:20 am ((20) Talkgroups Updated (452.0875))",
+  "System Frequencies": [
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Junior High / Admin",
+        "452.0875 (CC 10)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "500 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DIST ADMIN",
+      "Description": "DIST ADMIN ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "501 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN WEST AUROR",
+      "Description": "ADMIN WEST AURORA ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "502 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN FEARN",
+      "Description": "ADMIN FEARN ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "503 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN JEWEL",
+      "Description": "ADMIN JEWEL ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "504 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN GOODWIN",
+      "Description": "ADMIN GOODWIN ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "505 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN SCHNEIDER",
+      "Description": "ADMIN SCHNEIDER ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "506 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN BLACKHAWK",
+      "Description": "ADMIN BLACKHAWK ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "507 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN HERGET",
+      "Description": "ADMIN HERGET ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "508 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN SMITH",
+      "Description": "ADMIN SMITH ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "509 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN HOPE WALL",
+      "Description": "ADMIN HOPE WALL ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "510 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN HALL",
+      "Description": "ADMIN HALL ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "511 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN MCCLEERY",
+      "Description": "ADMIN MCCLEERY ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "512 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN HILL",
+      "Description": "ADMIN HILL ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "513 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN JEFFERSON",
+      "Description": "ADMIN JEFFERSON ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "514 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN TODD",
+      "Description": "ADMIN TODD ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "515 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN GREENMAN",
+      "Description": "ADMIN GREENMAN ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "516 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN FREEMAN",
+      "Description": "ADMIN FREEMAN ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "517 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN WASHINGTON",
+      "Description": "ADMIN WASHINGTON ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "518 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADMIN NICHOLSON",
+      "Description": "ADMIN NICHOLSON ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "519 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DIST MAINT",
+      "Description": "DIST MAINT ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

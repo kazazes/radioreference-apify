@@ -1,0 +1,72 @@
+{
+  "System Name": "Pinto Valley Mining Corporation",
+  "Location": "Miami, AZ",
+  "County": "Gila",
+  "System Type": "DMR Motorola Capacity Plus Multi Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 11, 2018, 3:34 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mill",
+        "01 152.3375 ",
+        "02 151.565 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Red Hill",
+        "01 152.465 ",
+        "02 151.910 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": [
+        "Pit Overlook",
+        "01 151.970 ",
+        "02 153.425 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "4-Dam",
+        "01 151.580 ",
+        "02 151.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PV MineOps 104",
+      "Description": "Mining Operations 104 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PV Mine Pit",
+      "Description": "Mine Pit Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PV MineOps 106",
+      "Description": "Mining Operations 106 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PV Security",
+      "Description": "Security / Main Gate / Safety ",
+      "Tag  ": "Security "
+    }
+  ]
+}

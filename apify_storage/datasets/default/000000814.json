@@ -1,0 +1,27 @@
+{
+  "System Name": "Kennedy Space Center Visitors Complex",
+  "Location": "Cape Canaveral, FL",
+  "County": "Brevard",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 27, 2017, 10:20 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed ",
+        "01 152.345 ",
+        "02 152.405 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bus Ops",
+      "Description": "Bus Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

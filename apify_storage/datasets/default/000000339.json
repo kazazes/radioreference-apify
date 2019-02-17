@@ -1,0 +1,50 @@
+{
+  "System Name": "Los Angeles County Office Of Education",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "November 20, 2008, 4:48 am (Updated Talkgroups (1 Updated, 0 Deleted))",
+  "System ID List": [
+    {
+      "System ID": "2C31",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mount Lukens",
+      "Freqs": [
+        "936.000c",
+        "936.950c",
+        "937.425c",
+        "937.9625",
+        "938.1875",
+        "939.1375",
+        "939.150",
+        "939.1625",
+        "939.175",
+        "939.1875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9888 ",
+      "HEX ": "26a ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Buses",
+      "Description": " School Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "9904 ",
+      "HEX ": "26b ",
+      "Mode  ": "A",
+      "Alpha Tag": "School Buses",
+      "Description": "School Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

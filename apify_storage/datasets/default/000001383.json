@@ -1,0 +1,35 @@
+{
+  "System Name": "Indiana Department of Health",
+  "Location": "Evansville, IN",
+  "County": "Vanderburgh",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 24, 2013, 12:06 am (Changed Talkgroup Category: All to Facility)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Evansville",
+        "01 453.7375 ",
+        "03 453.575 ",
+        "05 453.325 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IDH Maint 1",
+      "Description": "Maintenance Channel 1 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "0-01-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "IDH Hskpng",
+      "Description": "Housekeeping ",
+      "Tag  ": "Other "
+    }
+  ]
+}

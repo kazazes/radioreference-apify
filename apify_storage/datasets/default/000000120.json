@@ -1,0 +1,1517 @@
+{
+  "System Name": "Utah Communications Authority",
+  "Location": "Various, UT WY AZ",
+  "County": "3 counties",
+  "System Type": "Motorola Type II SmartZone Omnilink",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "December 19, 2018, 7:00 am (Updated Function Tag assignments for 1 talkgroups(Kane County))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "851.02500",
+      "Spacing": "25",
+      "Offset": "440"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "643E",
+      "Connect Tone": "138.46"
+    },
+    {
+      "System ID": "7202",
+      "Connect Tone": "138.46"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Sysid": "643E",
+      "Site": "002 (2)",
+      "Name": "Toquerville Hill",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.2375",
+        "851.650",
+        "851.975",
+        "852.350",
+        "852.7375a",
+        "853.0625",
+        "853.6375c"
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "003 (3)",
+      "Name": "Utah Hill",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.3125",
+        "851.8125",
+        "852.225",
+        "852.8375a",
+        "853.150",
+        "853.475c",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "004 (4)",
+      "Name": "Big Mountain",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.825",
+        "852.125",
+        "852.9375a",
+        "853.4125",
+        "853.6625",
+        "853.9125c",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "005 (5)",
+      "Name": "Little Creek",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.4125c",
+        "851.7875a",
+        "852.4125",
+        "852.925a",
+        "853.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "006 (6)",
+      "Name": "Rockville",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.4375a",
+        "851.9125a",
+        "852.4375c",
+        "852.950",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "007 (7)",
+      "Name": "Windy Ridge",
+      "County": "Iron, UT",
+      "Freqs": [
+        "851.3875a",
+        "851.8875c",
+        "852.325",
+        "852.8625",
+        "853.3375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "008 (8)",
+      "Name": "Frisco Peak",
+      "County": "Beaver, UT",
+      "Freqs": [
+        "851.3375c",
+        "855.2375a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "009 (9)",
+      "Name": "Gillies Hill",
+      "County": "Beaver, UT",
+      "Freqs": [
+        "851.0875a",
+        "851.6875",
+        "852.100",
+        "852.550c",
+        "852.975",
+        "853.5875",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "010 (A)",
+      "Name": "Cedar Mountain (Millard)",
+      "County": "Millard, UT",
+      "Freqs": [
+        "852.4375c",
+        "856.2625",
+        "857.2625",
+        "857.9875",
+        "858.2625a",
+        "859.2625",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "011 (B)",
+      "Name": "Teasdale",
+      "County": "Wayne, UT",
+      "Freqs": [
+        "853.7375c",
+        "854.7375",
+        "855.7375",
+        "856.7375",
+        "857.7375",
+        "858.7375",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "012 (C)",
+      "Name": "Monroe Peak",
+      "County": "Sevier, UT",
+      "Freqs": [
+        "854.9625c",
+        "855.9625a",
+        "856.9625",
+        "857.9625",
+        "858.9625",
+        "859.9625",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "013 (D)",
+      "Name": "Scipio",
+      "County": "Millard, UT",
+      "Freqs": [
+        "853.4375c",
+        "853.9375a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "014 (E)",
+      "Name": "Gunnison Prison",
+      "County": "Sanpete, UT",
+      "Freqs": [
+        "853.725c",
+        "852.8875a",
+        "852.2875",
+        "852.575",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "015 (F)",
+      "Name": "Point of Mountain",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "853.725c",
+        "852.8875a",
+        "851.7875",
+        "852.2875",
+        "851.325",
+        "852.575",
+        "853.250"
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "016 (10)",
+      "Name": "ADC Jail",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "853.9375c",
+        "853.4375a",
+        "853.0375",
+        "851.675",
+        "852.775",
+        "867.325",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "017 (11)",
+      "Name": "White Pine Peak",
+      "County": "Millard, UT",
+      "Freqs": [
+        "854.2125c",
+        "855.2125",
+        "856.2125",
+        "857.2125",
+        "858.2125",
+        "859.2125",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "018 (12)",
+      "Name": "Green River",
+      "County": "Grand, UT",
+      "Freqs": [
+        "851.0625c",
+        "851.6125",
+        "852.0875",
+        "852.775",
+        "853.300",
+        "853.6625",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "019 (13)",
+      "Name": "Bruin Point",
+      "County": "Carbon, UT",
+      "Freqs": [
+        "851.4375",
+        "851.8875",
+        "852.5875",
+        "852.900",
+        "853.375c",
+        "853.775a",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "020 (14)",
+      "Name": "Cedar Mountain (Emery)",
+      "County": "Emery, UT",
+      "Freqs": [
+        "853.975",
+        "856.9875a",
+        "857.9875c",
+        "858.9875",
+        "859.4375",
+        "859.9875",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "021 (15)",
+      "Name": "New Harmony",
+      "County": "Iron, UT",
+      "Freqs": [
+        "851.575c",
+        "852.0625",
+        "852.5625",
+        "853.0375",
+        "853.700",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "022 (16)",
+      "Name": "Iron Mountain",
+      "County": "Iron, UT",
+      "Freqs": [
+        "851.5375c",
+        "851.950",
+        "852.475",
+        "852.9875",
+        "853.5625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "023 (17)",
+      "Name": "St. George Simulcast",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.1875",
+        "851.600",
+        "851.8375",
+        "852.0375",
+        "852.275",
+        "852.6625a",
+        "853.1875",
+        "853.6125c"
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "024 (18)",
+      "Name": "Bald Mesa",
+      "County": "Grand, UT",
+      "Freqs": [
+        "851.400",
+        "851.750c",
+        "852.375",
+        "852.8625",
+        "853.4625",
+        "853.7875",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "025 (19)",
+      "Name": "Abajo Peak",
+      "County": "San Juan, UT",
+      "Freqs": [
+        "851.5875",
+        "852.300",
+        "852.9125",
+        "853.225c",
+        "853.575",
+        "853.825",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "026 (1A)",
+      "Name": "Barney Top",
+      "County": "Garfield, UT",
+      "Freqs": [
+        "851.800c",
+        "853.2625",
+        "852.5375",
+        "852.9375",
+        "853.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "027 (1B)",
+      "Name": "Clear Creek Mtn",
+      "County": "Kane, UT",
+      "Freqs": [
+        "851.1375",
+        "851.7375",
+        "852.1875c",
+        "855.2125",
+        "856.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "028 (1C)",
+      "Name": "Spencer's Bench",
+      "County": "Kane, UT",
+      "Freqs": [
+        "851.2125c",
+        "851.775",
+        "852.650",
+        "852.9625",
+        "853.8125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "029 (1D)",
+      "Name": "Vermillian Cliffs",
+      "County": "Kane, UT",
+      "Freqs": [
+        "851.2375c",
+        "851.925",
+        "852.625a",
+        "853.050a",
+        "853.075",
+        "853.8625a",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "030 (1E)",
+      "Name": "Provo-BYU",
+      "County": "Utah, UT",
+      "Freqs": [
+        "851.175c",
+        "851.575a",
+        "851.950",
+        "852.3625",
+        "852.7875",
+        "852.9875",
+        "859.0125",
+        "852.750"
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "031 (1F)",
+      "Name": "Point of Rocks",
+      "County": "Mohave, AZ",
+      "Freqs": [
+        "851.1625a",
+        "851.700c",
+        "852.175",
+        "853.3125",
+        "853.7875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "032 (20)",
+      "Name": "Buckskin Mtn",
+      "County": "Kane, UT",
+      "Freqs": [
+        "851.0875c",
+        "851.3375",
+        "851.825",
+        "852.2125",
+        "852.5625",
+        "852.8875",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "033 (21)",
+      "Name": "Hurricane Mesa",
+      "County": "Washington, UT",
+      "Freqs": [
+        "851.0625a",
+        "851.7125",
+        "852.5375",
+        "853.1125c",
+        "853.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "034 (22)",
+      "Name": "Grand County EOC",
+      "County": "Grand, UT",
+      "Freqs": [
+        "851.100c",
+        "851.475",
+        "851.800",
+        "852.250",
+        "852.850",
+        "853.200",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "035 (23)",
+      "Name": "Delta Landfill",
+      "County": "Millard, UT",
+      "Freqs": [
+        "851.575c",
+        "851.2625",
+        "852.050",
+        "852.7125",
+        "853.125",
+        "853.600",
+        " "
+      ]
+    },
+    {
+      "Sysid": "643E",
+      "Site": "036 (24)",
+      "Name": "Wilson Peak",
+      "County": "Garfield, UT",
+      "Freqs": [
+        "851.2625",
+        "851.5625",
+        "851.8625",
+        "852.2625",
+        "852.8125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "001 (1)",
+      "Name": "Weber County Simulcast",
+      "County": "Weber, UT",
+      "Freqs": [
+        "851.350",
+        "851.950",
+        "852.275",
+        "852.300",
+        "852.5875",
+        "852.6125",
+        "852.900",
+        "852.925",
+        "853.2375a",
+        "853.2875a",
+        "853.9625a",
+        "853.9875c"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "002 (2)",
+      "Name": "Davis County Simulcast",
+      "County": "Davis, UT",
+      "Freqs": [
+        "851.925",
+        "852.200",
+        "852.225",
+        "852.450",
+        "852.475",
+        "852.8125a",
+        "852.8375c",
+        "853.150",
+        "853.175",
+        "853.600a",
+        "853.850a",
+        "859.0125"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "003 (3)",
+      "Name": "Salt Lake County Simulcast",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "853.0875a",
+        "853.1125c",
+        "853.4125",
+        "853.5125a",
+        "854.5875",
+        "855.4625",
+        "856.2375",
+        "856.9875",
+        "857.4625",
+        "857.9375",
+        "859.4625",
+        "859.7375",
+        "860.7125",
+        "851.875",
+        "852.150",
+        "852.175",
+        "852.400",
+        "852.425",
+        "852.6875",
+        "852.725"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "004 (4)",
+      "Name": "Utah County Simulcast",
+      "County": "Utah, UT",
+      "Freqs": [
+        "851.725",
+        "851.975",
+        "852.0875",
+        "852.325",
+        "852.375",
+        "852.6375a",
+        "852.6625c",
+        "852.950",
+        "853.0625",
+        "853.3375",
+        "853.3625a"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "005 (5)",
+      "Name": "Cache Valley Simulcast",
+      "County": "Cache, UT",
+      "Freqs": [
+        "851.3375",
+        "851.6125",
+        "851.8625",
+        "852.1375c",
+        "855.7375a",
+        "856.2125a",
+        "857.9875a",
+        "859.9375"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "006 (6)",
+      "Name": "Promontory Point",
+      "County": "Weber, UT",
+      "Freqs": [
+        "851.250",
+        "851.575a",
+        "851.7375",
+        "852.875",
+        "853.350a",
+        "853.700c",
+        "854.4375"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "007 (7)",
+      "Name": "Mount Ogden",
+      "County": "Weber, UT",
+      "Freqs": [
+        "851.1875",
+        "851.4375",
+        "851.550",
+        "851.7625",
+        "852.3625",
+        "851.150",
+        "851.800c",
+        "852.075",
+        "853.625a",
+        "853.650",
+        "853.875",
+        "853.900"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "008 (8)",
+      "Name": "Morgan Peak",
+      "County": "Morgan, UT",
+      "Freqs": [
+        "851.7125c",
+        "851.3875a",
+        "851.0875",
+        "852.100",
+        "852.675",
+        "852.975",
+        "853.525"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "009 (9)",
+      "Name": "Francis Peak",
+      "County": "Davis, UT",
+      "Freqs": [
+        "851.225",
+        "851.4875",
+        "851.825a",
+        "852.5625",
+        "853.3125",
+        "853.675",
+        "853.825c",
+        "854.2125",
+        "854.3625"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "010 (A)",
+      "Name": "Davis County Landfill",
+      "County": "Davis, UT",
+      "Freqs": [
+        "851.0625a",
+        "851.2875",
+        "851.4625",
+        "852.7875",
+        "853.050",
+        "853.775c",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "011 (B)",
+      "Name": "Nelson Peak",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "851.0375",
+        "851.100",
+        "851.125",
+        "851.375",
+        "851.650",
+        "851.700",
+        "851.400",
+        "851.900a",
+        "852.1125",
+        "852.5375",
+        "852.750",
+        "852.9875",
+        "853.550c",
+        "853.575",
+        "853.800",
+        "854.2375"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "012 (C)",
+      "Name": "Medicine Butte",
+      "County": "Uinta, WY",
+      "Freqs": [
+        "856.4375c",
+        "857.4375a",
+        "858.4375",
+        "859.4375",
+        "859.7625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "013 (D)",
+      "Name": "Parley's Canyon",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "851.1625",
+        "853.6375c",
+        "851.4625",
+        "852.0375",
+        "852.8625",
+        "851.750a",
+        "852.350"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "014 (E)",
+      "Name": "Logan Peak",
+      "County": "Cache, UT",
+      "Freqs": [
+        "854.9625",
+        "855.2125",
+        "856.7625c",
+        "857.2125",
+        "858.9375a",
+        "860.9875",
+        "860.2125"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "016 (10)",
+      "Name": "Howell",
+      "County": "Box Elder, UT",
+      "Freqs": [
+        "851.175",
+        "851.3125",
+        "851.9375c",
+        "857.7625a",
+        "859.5125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "017 (11)",
+      "Name": "Hobble Creek Canyon",
+      "County": "Utah, UT",
+      "Freqs": [
+        "851.3875c",
+        "852.550",
+        "853.6375",
+        "853.8125",
+        "854.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "018 (12)",
+      "Name": "Lake IR",
+      "County": "Utah, UT",
+      "Freqs": [
+        "853.6375",
+        "853.8875a",
+        "853.9625",
+        "853.9875",
+        "854.1875",
+        "854.2875",
+        "859.0125",
+        "859.1625",
+        "851.425c",
+        "851.750"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "019 (13)",
+      "Name": "Teat Peak",
+      "County": "Utah, UT",
+      "Freqs": [
+        "851.3625",
+        "851.6375c",
+        "852.850",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "020 (14)",
+      "Name": "Black Crook Peak",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "851.775c",
+        "853.1875",
+        "851.475",
+        "852.2625",
+        "852.9375a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "021 (15)",
+      "Name": "Strawberry Peak",
+      "County": "Wasatch, UT",
+      "Freqs": [
+        "851.2375",
+        "851.6625",
+        "852.050",
+        "853.8125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "022 (16)",
+      "Name": "Lewis Peak",
+      "County": "Summit, UT",
+      "Freqs": [
+        "852.3125",
+        "852.600",
+        "852.9125c",
+        "853.1375",
+        "853.225a",
+        "853.3875",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "023 (17)",
+      "Name": "Mount Baldy",
+      "County": "Sanpete, UT",
+      "Freqs": [
+        "851.5375c",
+        "852.1125",
+        "852.7875",
+        "853.0875",
+        "853.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "024 (18)",
+      "Name": "Wasatch Simulcast",
+      "County": "Wasatch, UT",
+      "Freqs": [
+        "851.9375a",
+        "852.4625c",
+        "852.7375",
+        "852.800",
+        "853.250",
+        "853.5375",
+        "854.9875",
+        "858.2125"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "025 (19)",
+      "Name": "Scotts Peak",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "853.6125c",
+        "856.4625",
+        "857.9875a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "026 (1A)",
+      "Name": "Clayton Peak",
+      "County": "Wasatch, UT",
+      "Freqs": [
+        "851.5875",
+        "851.9125",
+        "852.4875",
+        "853.7875c",
+        "853.475a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "027 (1B)",
+      "Name": "Daniels Canyon",
+      "County": "Wasatch, UT",
+      "Freqs": [
+        "851.6875",
+        "852.1875a",
+        "853.9125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "028 (1C)",
+      "Name": "Currant Creek",
+      "County": "Wasatch, UT",
+      "Freqs": [
+        "852.250c",
+        "857.7625a",
+        "859.7625",
+        "863.2375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "029 (1D)",
+      "Name": "Vernon Hills",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "851.2125",
+        "851.8375",
+        "852.2375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "030 (1E)",
+      "Name": "South Mountain",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "851.625",
+        "852.0375a",
+        "853.2625",
+        "853.4625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "031 (1F)",
+      "Name": "Delle",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "851.100",
+        "851.125",
+        "852.3375",
+        "852.5375",
+        "852.650",
+        "852.9625a",
+        "853.375c"
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "032 (20)",
+      "Name": "Wendover Peak",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "851.5375c",
+        "851.7875a",
+        "853.8125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "033 (21)",
+      "Name": "Levan Peak",
+      "County": "Juab, UT",
+      "Freqs": [
+        "856.4875c",
+        "857.4875a",
+        "858.4875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "034 (22)",
+      "Name": "Barton Peak",
+      "County": "Sanpete, UT",
+      "Freqs": [
+        "856.4375c",
+        "857.4375a",
+        "858.4375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "035 (23)",
+      "Name": "Tabby Mountain",
+      "County": "Duchesne, UT",
+      "Freqs": [
+        "851.1375a",
+        "851.3125",
+        "851.4875",
+        "852.575",
+        "856.7625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "036 (24)",
+      "Name": "Cliff Lodge",
+      "County": "Salt Lake, UT",
+      "Freqs": [
+        "851.300",
+        "852.0625a",
+        "852.550c",
+        "853.8375",
+        "853.8875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "037 (25)",
+      "Name": "Ibapah",
+      "County": "Tooele, UT",
+      "Freqs": [
+        "856.4375c",
+        "857.4375a",
+        "858.4375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "038 (26)",
+      "Name": "Ford Ridge",
+      "County": "Carbon, UT",
+      "Freqs": [
+        "851.3875c",
+        "856.4625",
+        "857.4625",
+        "858.4625",
+        "859.4625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "039 (27)",
+      "Name": "Cal Mountain",
+      "County": "Box Elder, UT",
+      "Freqs": [
+        "851.6375a",
+        "851.8875",
+        "852.3875",
+        "853.075",
+        "853.475c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "040 (28)",
+      "Name": "Hansel Mountain",
+      "County": "Box Elder, UT",
+      "Freqs": [
+        "851.050",
+        "851.150",
+        "851.6625c",
+        "852.4625",
+        "853.325",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "041 (29)",
+      "Name": "Humpy Peak",
+      "County": "Summit, UT",
+      "Freqs": [
+        "851.3375c",
+        "853.0375a",
+        "851.050a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "042 (2A)",
+      "Name": "Echo Peak",
+      "County": "Summit, UT",
+      "Freqs": [
+        "851.3625c",
+        "851.850a",
+        "852.650",
+        "853.200",
+        "853.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "043 (2B)",
+      "Name": "American Fork Canyon",
+      "County": "Utah, UT",
+      "Freqs": [
+        "851.3875c",
+        "852.0375",
+        "852.6125",
+        "853.5625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "044 (2C)",
+      "Name": "Beaver Mountain",
+      "County": "Cache, UT",
+      "Freqs": [
+        "852.2375c",
+        "852.0375a",
+        "851.300",
+        "852.775",
+        "853.4375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "045 (2D)",
+      "Name": "Herd Mountain",
+      "County": "Morgan, UT",
+      "Freqs": [
+        "852.4375c",
+        "852.1625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "046 (2E)",
+      "Name": "Lynn",
+      "County": "Box Elder, UT",
+      "Freqs": [
+        "852.4875c",
+        "854.2125",
+        "854.5375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "047 (2F)",
+      "Name": "Laketown",
+      "County": "Rich, UT",
+      "Freqs": [
+        "851.8125",
+        "852.625",
+        "853.125",
+        "853.6625a",
+        "853.9125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "048 (30)",
+      "Name": "Crawford Mountain",
+      "County": "Rich, UT",
+      "Freqs": [
+        "856.4875c",
+        "857.4875a",
+        "858.4875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "049 (31)",
+      "Name": "Pilot Range",
+      "County": "Box Elder, UT",
+      "Freqs": [
+        "853.225c",
+        "851.1125a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "050 (32)",
+      "Name": "Elizabeth Ridge",
+      "County": "Summit, UT",
+      "Freqs": [
+        "851.775c",
+        "853.450a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "051 (33)",
+      "Name": "China Ridge",
+      "County": "Summit, UT",
+      "Freqs": [
+        "852.8375",
+        "853.1125c",
+        "856.9875a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "052 (34)",
+      "Name": "Red Spur",
+      "County": "Rich, UT",
+      "Freqs": [
+        "852.2125a",
+        "853.4625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "053 (35)",
+      "Name": "Steamboat Mountain",
+      "County": "Duchesne, UT",
+      "Freqs": [
+        "852.4375c",
+        "853.6625",
+        "856.2625",
+        "857.2625",
+        "858.2625",
+        "859.2625",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "054 (36)",
+      "Name": "Little Mountain",
+      "County": "Uintah, UT",
+      "Freqs": [
+        "854.2125c",
+        "855.2125",
+        "856.2125",
+        "857.2125",
+        "858.2125",
+        "859.2125",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "055 (37)",
+      "Name": "Godiva Peak",
+      "County": "Juab, UT",
+      "Freqs": [
+        "851.250c",
+        "851.5875",
+        "855.9875",
+        "858.7375",
+        "859.9375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "057 (39)",
+      "Name": "Asphalt Ridge",
+      "County": "Uintah, UT",
+      "Freqs": [
+        "851.0875c",
+        "851.750a",
+        "852.3125",
+        "852.8625",
+        "853.2625",
+        "853.6375",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "058 (3A)",
+      "Name": "Willow Peak",
+      "County": "Grand, UT",
+      "Freqs": [
+        "851.1875c",
+        "851.5625",
+        "852.2375",
+        "852.6625",
+        "853.2875",
+        "854.0375",
+        " "
+      ]
+    },
+    {
+      "Sysid": "7202",
+      "Site": "062 (3E)",
+      "Name": "Dog Valley",
+      "County": "Juab, UT",
+      "Freqs": [
+        "851.1875",
+        "851.4375c",
+        "851.8125",
+        "852.900",
+        "853.7125",
+        "856.0125",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "17600 ",
+      "HEX ": "44c ",
+      "Mode  ": "A",
+      "Alpha Tag": "SE Regional",
+      "Description": "Southeast: Carbon, Grand, San Juan, Emery ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17632 ",
+      "HEX ": "44e ",
+      "Mode  ": "A",
+      "Alpha Tag": "NE Regional",
+      "Description": "Northeast: Summit, Wasatch, Daggett, Uintah, Duchesne ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17664 ",
+      "HEX ": "450 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SW Regional",
+      "Description": "Southwest: Juab, Millard, Beaver, Iron, Washington ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17696 ",
+      "HEX ": "452 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ctr Regional",
+      "Description": "Central: Utah, Wayne, Garfield, Sanpete, Sevier, Piute, Kane ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17728 ",
+      "HEX ": "454 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NW Regional",
+      "Description": "Northwest: Davis, Weber, Morgan, Cache, Box Elder, Rich ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "17760 ",
+      "HEX ": "456 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SL Regional",
+      "Description": "Salt Lake: Salt Lake, Tooele ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "27648 ",
+      "HEX ": "6c0 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UnPacificDet",
+      "Description": "Union Pacific Railroad Detectives ",
+      "Tag  ": "Railroad "
+    }
+  ]
+}

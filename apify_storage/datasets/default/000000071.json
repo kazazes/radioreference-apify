@@ -1,0 +1,128 @@
+{
+  "System Name": "Northern Arizona University",
+  "Location": "Flagstaff, AZ",
+  "County": "Coconino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 17, 2017, 3:11 pm (General text description deleted)",
+  "System ID List": [
+    {
+      "System ID": "6032",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.2125",
+        "856.2125",
+        "857.2125c",
+        "857.9875c",
+        "858.9875",
+        "859.4375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9712 ",
+      "HEX ": "25f ",
+      "Mode  ": "A",
+      "Alpha Tag": "FLPD F2 INFO",
+      "Description": "Police Ch 2 Info (Records) (Patch with Flagstaff TRS) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "9904 ",
+      "HEX ": "26b ",
+      "Mode  ": "A",
+      "Alpha Tag": "FLPD EVENTS",
+      "Description": "Police Event Channel  (Patch with Flagstaff TRS) ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "9936 ",
+      "HEX ": "26d ",
+      "Mode  ": "A",
+      "Alpha Tag": "FLPD F1 DISP",
+      "Description": "Police Ch 1 Dispatch  (Patch with Flagstaff TRS) ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "11248 ",
+      "HEX ": "2bf ",
+      "Mode  ": "A",
+      "Alpha Tag": "FL Strt Mnt",
+      "Description": "Streets Maintenance Division (Patch from CIty of Flagstaff) ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "11376 ",
+      "HEX ": "2c7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk User 1",
+      "Description": "Unknown User ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "11408 ",
+      "HEX ": "2c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Unk User 2",
+      "Description": "Unknown User ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU PARKING",
+      "Description": "Parking - Operations ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "4816 ",
+      "HEX ": "12d ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU SHUTTLE",
+      "Description": "Shuttles ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "6448 ",
+      "HEX ": "193 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU MAINT A",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6480 ",
+      "HEX ": "195 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU MAINT B",
+      "Description": "Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6544 ",
+      "HEX ": "199 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU GENSVC A",
+      "Description": "General Services ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "6608 ",
+      "HEX ": "19d ",
+      "Mode  ": "A",
+      "Alpha Tag": "NAU GENSVC B",
+      "Description": "General Services ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "System Name": "Hawaii Wireless Interoperability Network (HIWIN)",
+  "Location": "Varies, HI",
+  "County": "Statewide",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 1, 2018, 12:52 pm (Added a new news entry)",
+  "System ID List": [
+    {
+      "System ID": "888",
+      "WACN": "0000B"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Site: 1-16",
+      "County": "Kauai",
+      "Freqs": [
+        "773.79375c",
+        "774.29375a",
+        "774.54375a",
+        "774.79375a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "Site: 1-28",
+      "County": "Maui",
+      "Freqs": [
+        "773.79375a",
+        "774.04375a",
+        "774.29375c",
+        "774.54375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Site: 1-32",
+      "County": "Kauai",
+      "Freqs": [
+        "769.18125a",
+        "769.43125c",
+        "769.68125a",
+        "769.93125a",
+        "770.43125a",
+        "770.68125a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "033 (21)",
+      "Name": "Site: 1-33",
+      "County": "Hawaii",
+      "Freqs": [
+        "769.18125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "034 (22)",
+      "Name": "Site: 1-34",
+      "County": "",
+      "Freqs": [
+        "769.16875a",
+        "769.41875c",
+        "769.66875a",
+        "769.91875a",
+        "770.16875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "036 (24)",
+      "Name": "Honolulu",
+      "County": "Honolulu",
+      "Freqs": [
+        "769.35625",
+        "769.61875",
+        "769.70625c",
+        "769.95625",
+        "770.29375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "037 (25)",
+      "Name": "Honolulu 2",
+      "County": "Honolulu",
+      "Freqs": [
+        "769.15625c",
+        "769.40625",
+        "769.65625",
+        "769.90625",
+        "770.15625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "038 (26)",
+      "Name": "Site: 1-38",
+      "County": "Statewide",
+      "Freqs": [
+        "773.55625",
+        "773.80625",
+        "774.30625",
+        "774.55625",
+        "774.80625c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "039 (27)",
+      "Name": "Site: 1-39",
+      "County": "",
+      "Freqs": [
+        "770.40625c",
+        "770.90625",
+        "773.03125",
+        "773.28125",
+        "773.53125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "040 (28)",
+      "Name": "East Honolulu",
+      "County": "Honolulu",
+      "Freqs": [
+        "765.9375c",
+        "773.55625a",
+        "773.80625a",
+        "774.30625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "046 (2E)",
+      "Name": "Site: 1-46",
+      "County": "Maui",
+      "Freqs": [
+        "773.84375",
+        "774.09375c",
+        "774.34375",
+        "774.59375c",
+        "774.84375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "048 (30)",
+      "Name": "Site: 1-48",
+      "County": "Maui",
+      "Freqs": [
+        "769.21875a",
+        "769.46875a",
+        "769.71875a",
+        "769.96875c",
+        "770.46875a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "067 (43)",
+      "Name": "Site: 1-67",
+      "County": "",
+      "Freqs": [
+        "769.19375a",
+        "769.44375c",
+        "769.69375a",
+        "769.94375a",
+        "770.19375a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "071 (47)",
+      "Name": "Site: 1-71",
+      "County": "",
+      "Freqs": [
+        "773.79375a",
+        "774.29375a",
+        "774.54375a",
+        "774.79375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "090 (5A)",
+      "Name": "Kona",
+      "County": "Hawaii",
+      "Freqs": [
+        "769.20625c",
+        "769.45625a",
+        "769.70625a",
+        "769.95625a",
+        "770.20625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "094 (5E)",
+      "Name": "Kawaihae",
+      "County": "Hawaii",
+      "Freqs": [
+        "773.83125",
+        "774.33125a",
+        "774.83125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "008 (8)",
+      "Name": "Hilo",
+      "County": "Hawaii",
+      "Freqs": [
+        "769.15625c",
+        "769.40625a",
+        "769.65625",
+        "769.90625",
+        "770.15625",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Tech 1",
+      "Description": "Range and Audio Testing ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Tech 2",
+      "Description": "Range and Audio Testing ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Tech 7",
+      "Description": "Range and Audio Testing ",
+      "Tag  ": "Other "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "7952 ",
+      "HEX ": "1f10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "UHM Home",
+      "Description": "Univ of Hawaii at Manoa: Dept of Public Safety - Primary Ops ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "System Name": "Cook's Communications ValleyNet",
+  "Location": "Various, CA",
+  "County": "4 counties",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 15, 2019, 8:06 pm (Changed Site # 002 (Site 02 - ) to 002 (Site 02 - ))",
+  "System ID List": [
+    {
+      "System ID": "6"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 01 - ",
+      "County": "Fresno",
+      "Freqs": [
+        "454.1125c",
+        "454.2125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Site 02 - ",
+      "County": "Fresno",
+      "Freqs": [
+        "454.3375c",
+        "454.3625c",
+        "454.2625",
+        "454.26875",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Site 03 - Mt Adelaide",
+      "County": "Kern",
+      "Freqs": [
+        "452.525c",
+        "452.550c",
+        "452.575",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Site 04 - Hatchet Peak/Blue Ridge",
+      "County": "Tulare",
+      "Freqs": [
+        "460.7625c",
+        "460.8125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Site 05 - ",
+      "County": "Fresno",
+      "Freqs": [
+        "454.24375",
+        "454.26875",
+        "454.35625",
+        "454.325c",
+        "454.350c"
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Site 06 - ",
+      "County": "Fresno",
+      "Freqs": [
+        "454.0125c",
+        "454.0625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Site 07 - Deadwood Peak",
+      "County": "Madera",
+      "Freqs": [
+        "461.4875c",
+        "462.2125c",
+        "463.3375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Site 08",
+      "County": "Fresno",
+      "Freqs": [
+        "454.19375c",
+        "454.200c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Site 9",
+      "County": "",
+      "Freqs": [
+        "454.25625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Site 10",
+      "County": "",
+      "Freqs": [
+        "454.31875c",
+        "454.33125c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "180 ",
+      "Mode  ": "D",
+      "Alpha Tag": "STC Sec",
+      "Description": "STC Security Fresno ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "220 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    }
+  ]
+}

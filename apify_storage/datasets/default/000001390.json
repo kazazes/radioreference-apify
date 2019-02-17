@@ -1,0 +1,33 @@
+{
+  "System Name": "Evansville Water Department",
+  "Location": "Evansville, IN",
+  "County": "Vanderburgh",
+  "System Type": "NXDN Icom IDAS Type D",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "June 13, 2018, 7:38 pm (Changed Site # 001 (Evansville) to 001 (Evansville))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Evansville",
+      "Freqs": [
+        "453.1625",
+        "453.2625",
+        "460.150",
+        "460.2625",
+        "460.3875",
+        "460.4125",
+        "460.4625",
+        "453.5375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "00-0001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EWD Dispatch",
+      "Description": "Service Dispatch ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

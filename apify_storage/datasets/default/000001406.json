@@ -1,0 +1,89 @@
+{
+  "System Name": "Princeton IL Government",
+  "Location": "Princeton, IL",
+  "County": "Bureau",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "October 15, 2018, 4:28 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "104 (68)",
+      "Name": [
+        "Downtown",
+        "98 155.820 "
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": [
+        "North",
+        "99 155.580 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Police",
+      "Description": "Police: Disaptch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Power",
+      "Description": "Power ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Street",
+      "Description": "Street ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Water",
+      "Description": "Water ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "5 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Garbag",
+      "Description": "Garbage ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Water ",
+      "Description": "Water 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Govt 7",
+      "Description": "Government ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "8 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Princeton Govt 8",
+      "Description": "Government ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "9 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Princeton PD2ENC",
+      "Description": "Police 2 Encrypted ",
+      "Tag  ": "Law Tac "
+    }
+  ]
+}

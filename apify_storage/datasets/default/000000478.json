@@ -1,0 +1,94 @@
+{
+  "System Name": "Marine Corps Air Ground Combat Center Twentynine Palms",
+  "Location": "Twentynine Palms, CA",
+  "County": "San Bernardino",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "October 31, 2011, 3:10 pm (Updated Talkgroups (7 Updated))",
+  "Custom Frequency Tables": [
+    {
+      "Base": "406.00000",
+      "Spacing": "25.0",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "4317",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "407.150c",
+        "407.350c",
+        "408.125c",
+        "409.350c",
+        "410.025c",
+        "413.125",
+        "413.825c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMO",
+      "Description": "PMO ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PMO Ch 2",
+      "Description": "PMO Ch 2 ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire",
+      "Description": "Fire Department ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "8880 ",
+      "HEX ": "22b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Rifle Range",
+      "Description": "Rifle Range ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "9104 ",
+      "HEX ": "239 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Crash Crew",
+      "Description": "Crash Crew ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "9136 ",
+      "HEX ": "23b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ARFF",
+      "Description": "Airport Rescue and Fire Fighting ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "26224 ",
+      "HEX ": "667 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Radio Techs",
+      "Description": "Radio Technicians ",
+      "Tag  ": "Military "
+    }
+  ]
+}

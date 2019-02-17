@@ -1,0 +1,236 @@
+{
+  "System Name": "Emergency Radio Service 800 Mhz",
+  "Location": "Multiple, IN",
+  "County": "7 counties",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "July 2, 2013, 11:18 pm (Updated 5 Talkgroup Categories)",
+  "System ID List": [
+    {
+      "System ID": "1D3E",
+      "Connect Tone": "116.3"
+    },
+    {
+      "System ID": "2F3B",
+      "Connect Tone": "105.88"
+    },
+    {
+      "System ID": "491F",
+      "Connect Tone": "90.0"
+    },
+    {
+      "System ID": "4B21",
+      "Connect Tone": "90.0"
+    },
+    {
+      "System ID": "592B",
+      "Connect Tone": "116.13"
+    },
+    {
+      "System ID": "6537",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "D",
+      "B7": "D"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S4",
+      "B7": "S4"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Dunlap",
+      "County": "Elkhart",
+      "Freqs": [
+        "851.3375",
+        "852.0375",
+        "854.0125",
+        "854.7375",
+        "856.5375",
+        "857.5375",
+        "858.5375c",
+        "859.5375",
+        "860.5375"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Fort Wayne",
+      "County": "Allen",
+      "Freqs": [
+        "852.0625",
+        "853.1625",
+        "854.1625c",
+        "854.7125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Muncie",
+      "County": "Delaware",
+      "Freqs": [
+        "854.5625",
+        "856.0125",
+        "857.0125",
+        "859.0125a",
+        "860.0125",
+        "860.5875c",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Kokomo",
+      "County": "Howard",
+      "Freqs": [
+        "856.1125",
+        "857.1125c",
+        "858.1125",
+        "859.1125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Anderson",
+      "County": "Madison",
+      "Freqs": [
+        "852.6625",
+        "853.6375c",
+        "854.6375c",
+        "858.0375",
+        "856.5875c",
+        "859.5625",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Peru",
+      "County": "Miami",
+      "Freqs": [
+        "859.0625",
+        "860.0625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Marion",
+      "County": "Grant",
+      "Freqs": [
+        "852.0625",
+        "853.1625",
+        "854.1625",
+        "854.7125c",
+        "856.8625",
+        "860.0375c",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "000-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TaxiService",
+      "Description": "Muncie/Anderson Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "500-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dlwre Hiway ",
+      "Description": "Delaware County Highway Backup ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "Subfleet ": "500-4  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ball U PD BU",
+      "Description": "Ball State University Police backup ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "57600 ",
+      "HEX ": "e10 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Muncie PD BU",
+      "Description": "Muncie Police Dispatch - Backup System ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "700-01  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "KokomoSkls",
+      "Description": "Kokomo Schools Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "700-03  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kokomo HS",
+      "Description": "Kokomo High School Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "700-04  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kokomo maint",
+      "Description": "Kokomo Schools Maintenance ",
+      "Tag  ": "Schools "
+    },
+    {
+      "Subfleet ": "700-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kokomo HS Ad",
+      "Description": "Kokomo High School Administration ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

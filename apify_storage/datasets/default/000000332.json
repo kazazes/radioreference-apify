@@ -1,0 +1,78 @@
+{
+  "System Name": "Kaiser Permanente Downey Medical Center",
+  "Location": "Downey, CA",
+  "County": "Los Angeles",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "October 9, 2015, 11:35 pm (Added Talkgroup 107104 Operations)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Downey",
+        "03 464.7875 ",
+        "07 452.2125 ",
+        "11 461.9375 ",
+        "15 463.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-03-079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-03-158 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-03-202 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-03-204 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Admin",
+      "Description": "Admin Channel ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-07-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-07-109 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Orderlies ",
+      "Description": "Orderlies  ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-07-114 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "1-07-115 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Commisary",
+      "Description": "Commisary ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

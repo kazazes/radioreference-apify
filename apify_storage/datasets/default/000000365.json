@@ -1,0 +1,56 @@
+{
+  "System Name": "Montage Hotel Beverly Hills",
+  "Location": "Beverly Hills, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 18, 2019, 6:21 pm (Changed Site # 001 (Montage BH) to 001 (Montage BH))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Montage BH",
+        "01 461.4625 ",
+        "02 464.6625 ",
+        "03 464.7875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MONTAGE SEC",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MONTAGE ENG",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MONTAGE PARK",
+      "Description": "Valet Parking / Bellman / Butlers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MONTAGE HK",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "6 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MONTAGE FB",
+      "Description": "Food and Beverage ",
+      "Tag  ": "Business "
+    }
+  ]
+}

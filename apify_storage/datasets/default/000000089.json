@@ -1,0 +1,47 @@
+{
+  "System Name": "Mesa Communications",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "March 12, 2014, 4:48 am (Changed Talkgroup Category: Buckeye Police Dept. to Buckeye Police)",
+  "System ID List": [
+    {
+      "System ID": "7E3B",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mesa",
+      "Freqs": [
+        "936.6625c",
+        "936.475c",
+        "936.4125",
+        "936.450",
+        "936.4625",
+        "936.4375",
+        "939.6625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1952 ",
+      "HEX ": "07a ",
+      "Mode  ": "A",
+      "Alpha Tag": "BPD DISP",
+      "Description": "Dispatch Ch-1 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1968 ",
+      "HEX ": "07b ",
+      "Mode  ": "A",
+      "Alpha Tag": "BPD CAR",
+      "Description": "Car-to-Car Ch-2 ",
+      "Tag  ": "Law Talk "
+    }
+  ]
+}

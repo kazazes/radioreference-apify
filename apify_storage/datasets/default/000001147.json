@@ -1,0 +1,28 @@
+{
+  "System Name": "Johnson County Sheriff's Office",
+  "Location": "Wrightsville, GA",
+  "County": "Johnson",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 11, 2018, 7:03 pm ((1) Talkgroups Updated (Johnson County))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Wrightsville",
+        "01 154.355 ",
+        "02 158.805c ",
+        "03 159.570 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "245 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JCLE DISPATCH",
+      "Description": "Law Enforcement Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

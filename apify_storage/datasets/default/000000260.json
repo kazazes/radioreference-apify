@@ -1,0 +1,27 @@
+{
+  "System Name": "Gilcomm (Bear Mountain)",
+  "Location": "Bear Valley Springs, CA",
+  "County": "Kern",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 12, 2016, 3:39 am (Changed Site # 001 (Bear Mountain) to 001 (Bear Mountain))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bear Mountain",
+        "01 461.950 ",
+        "05 464.075 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-128 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Kern Transit",
+      "Description": "Kern Regional Transit Bus Operations ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

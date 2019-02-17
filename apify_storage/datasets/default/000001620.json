@@ -1,0 +1,28 @@
+{
+  "System Name": "Principal Life Insurance",
+  "Location": "Des Moines, IA",
+  "County": "Polk",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 12, 2016, 4:18 pm (Changed Site # 001 (Des Moines) to 001 (Des Moines))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Des Moines",
+        "01 461.700 ",
+        "02 464.350 ",
+        "03 464.725 "
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Johnston",
+        "01 461.250 ",
+        "02 461.750 ",
+        " "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "System Name": "Central Georgia Interoperable Regional Radio System (CGIRRS)",
+  "Location": "Various, GA",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 11, 2018, 1:27 am ((1) Talkgroups Updated (Monroe County Sheriff))",
+  "System ID List": [
+    {
+      "System ID": "00A",
+      "WACN": "92589"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Bibb County Simulcast",
+      "County": "Bibb",
+      "Freqs": [
+        "854.0625c",
+        "854.7125c",
+        "855.2375c",
+        "855.4875c",
+        "855.5875c",
+        "855.8875c",
+        "855.9875c",
+        "856.2375c",
+        "856.2625c",
+        "856.5875c",
+        "856.9875c",
+        "857.4875c"
+      ]
+    },
+    {
+      "RFSS": "20 (14)",
+      "Site": "020 (14)",
+      "Name": "Monroe County Simulcast",
+      "County": "Monroe",
+      "Freqs": [
+        "769.60625c",
+        "770.33125c",
+        "771.38125c",
+        "771.78125c",
+        "772.25625c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Dispatch 1",
+      "Description": "Fire Dispatch 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "133 ",
+      "HEX ": "085 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Dispatch 2",
+      "Description": "Fire Dispatch 2 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "134 ",
+      "HEX ": "086 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Scene 2",
+      "Description": "Fire Scene 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "135 ",
+      "HEX ": "087 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Scene 3",
+      "Description": "Fire Scene 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "136 ",
+      "HEX ": "088 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Scene 4",
+      "Description": "Fire Scene 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "137 ",
+      "HEX ": "089 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Scene 5",
+      "Description": "Fire Scene 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "138 ",
+      "HEX ": "08a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Scene 6",
+      "Description": "Fire Scene 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "139 ",
+      "HEX ": "08b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Prevention",
+      "Description": "Fire Prevention ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "140 ",
+      "HEX ": "08c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Utility",
+      "Description": "Fire Utility ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "144 ",
+      "HEX ": "090 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Training",
+      "Description": "Fire Training ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "151 ",
+      "HEX ": "097 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Event 1",
+      "Description": "Fire Events 1 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "152 ",
+      "HEX ": "098 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MBCFD Event 2",
+      "Description": "Fire Events 2 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Dispatch",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    }
+  ]
+}

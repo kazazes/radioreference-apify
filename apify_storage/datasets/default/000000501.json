@@ -1,0 +1,52 @@
+{
+  "System Name": "LEGOLAND California Theme Park",
+  "Location": "Carlsbad, CA",
+  "County": "San Diego",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 5, 2017, 6:25 am (Changed Talkgroup Category: LEGOLAND California Theme Park to LEGOLAND California Theme Park(LEGOLAND California Theme Park))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 461.3875 ",
+        "02 461.7875 ",
+        "03 463.9625 ",
+        "04 464.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "255 ",
+      "Mode  ": "T",
+      "Alpha Tag": "All Call",
+      "Description": "All Call ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hotel Housekpg",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hotel Bellhops",
+      "Description": "Bellhops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hotel Restaurant",
+      "Description": "Hotel Restaurant ",
+      "Tag  ": "Business "
+    }
+  ]
+}

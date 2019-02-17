@@ -1,0 +1,69 @@
+{
+  "System Name": "Breckenridge Resort",
+  "Location": "Breckenridge, CO",
+  "County": "Summit",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 22, 2012, 9:48 pm (Updated Talkgroups (7 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 454.300 ",
+        "02 454.050 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-101 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeepng1",
+      "Description": "Ch. 1 Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-102 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeepng2",
+      "Description": "Ch. 2 Housekeeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-103 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-104 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CourtesyShtl",
+      "Description": "Courtesy Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-105 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maintenance",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-106 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CnstrctnCrew",
+      "Description": "Construction Crews ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-107 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CourtesyBus",
+      "Description": "Transportation (Courtesy Bus) ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

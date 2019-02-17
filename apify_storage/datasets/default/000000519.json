@@ -1,0 +1,147 @@
+{
+  "System Name": "Oracle Park",
+  "Location": "San Francisco, CA",
+  "County": "San Francisco",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 23, 2019, 12:08 am (Changed Site # 001 (ATT Park) to 001 (Oracle Park))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Oracle Park",
+        "01 452.0625 ",
+        "02 452.1875 ",
+        "03 452.2875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 1",
+      "Description": "BP Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 2",
+      "Description": "Engineers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "70 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 3",
+      "Description": "GE Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "80 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 4",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "90 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 5",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "100 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 6",
+      "Description": "Promotions ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 7",
+      "Description": "Rapid Response ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 8",
+      "Description": "Security 1 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "130 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 9",
+      "Description": "Security 2 ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "140 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 10",
+      "Description": "Suites ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "150 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 11",
+      "Description": "Tours ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "30 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 12",
+      "Description": "Events 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "40 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 13",
+      "Description": "Events 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "50 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 14",
+      "Description": "Events 3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "60 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 15",
+      "Description": "Events 4 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "160 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 16",
+      "Description": "Events 5 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "170 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP 17",
+      "Description": "Events 6 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OP CC",
+      "Description": "Command Center ",
+      "Tag  ": "Business "
+    }
+  ]
+}

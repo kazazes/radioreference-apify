@@ -1,0 +1,628 @@
+{
+  "System Name": "Pacific NorthWest DMR",
+  "Location": "Various, WA ID OR",
+  "County": "27 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "November 3, 2018, 4:45 pm (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Blossom",
+      "County": [
+        "Kootenai, ID",
+        "440.925 (CC 1)"
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Buxton",
+      "County": [
+        "Washington, OR",
+        "444.025 (CC 9)"
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Colton",
+      "County": [
+        "Clackamas, OR",
+        "442.750 (CC 1)"
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Eugene",
+      "County": [
+        "Benton, OR",
+        "442.9625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Mt Hebo",
+      "County": [
+        "Tillamook, OR",
+        "442.8125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Portland",
+      "County": [
+        "Multnomah, OR",
+        "440.625 (CC 1)"
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Redmond",
+      "County": [
+        "Jefferson, OR",
+        "442.950 (CC 1)"
+      ]
+    },
+    {
+      "Site": "108 (6C)",
+      "Name": "Timberline",
+      "County": [
+        "Clackamas, OR",
+        "442.9875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "109 (6D)",
+      "Name": "Salem",
+      "County": [
+        "Polk, OR",
+        "442.8875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "110 (6E)",
+      "Name": "Megler",
+      "County": [
+        "Pacific, WA",
+        "444.2375 (CC 9)"
+      ]
+    },
+    {
+      "Site": "111 (6F)",
+      "Name": "Vancouver",
+      "County": [
+        "Clark, WA",
+        "442.950 (CC 1)"
+      ]
+    },
+    {
+      "Site": "112 (70)",
+      "Name": "Hospital VHF",
+      "County": [
+        "Clark, WA",
+        "146.730 (CC 1)"
+      ]
+    },
+    {
+      "Site": "201 (C9)",
+      "Name": "Bellingham",
+      "County": [
+        "Whatcom, WA",
+        "440.925 (CC 1)"
+      ]
+    },
+    {
+      "Site": "202 (CA)",
+      "Name": "BawFaw",
+      "County": [
+        "Lewis, WA",
+        "440.7375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "203 (CB)",
+      "Name": "Gold",
+      "County": [
+        "Kitsap, WA",
+        "440.700 (CC 1)"
+      ]
+    },
+    {
+      "Site": "204 (CC)",
+      "Name": "Ellensburg",
+      "County": [
+        "Kittitas, WA",
+        "440.925 (CC 1)"
+      ]
+    },
+    {
+      "Site": "205 (CD)",
+      "Name": "Ferndale",
+      "County": [
+        "Whatcom, WA",
+        "440.7375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "206 (CE)",
+      "Name": "Rainier Hill",
+      "County": [
+        "Cowlitz, WA",
+        "441.700 (CC 1)"
+      ]
+    },
+    {
+      "Site": "207 (CF)",
+      "Name": "Mazama",
+      "County": [
+        "Okanogan, WA",
+        "433.150 (CC 3)"
+      ]
+    },
+    {
+      "Site": "208 (D0)",
+      "Name": "Mazama",
+      "County": [
+        "Okanogan, WA",
+        "145.510 (CC 3)"
+      ]
+    },
+    {
+      "Site": "209 (D1)",
+      "Name": "Moses Lake",
+      "County": [
+        "Grant, WA",
+        "440.925 (CC 9)"
+      ]
+    },
+    {
+      "Site": "210 (D2)",
+      "Name": "Capital Peak",
+      "County": [
+        "Thurston, WA",
+        "440.7125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "211 (D3)",
+      "Name": "Cougar Mtn",
+      "County": [
+        "King, WA",
+        "441.2875 (CC 1)"
+      ]
+    },
+    {
+      "Site": "212 (D4)",
+      "Name": "Oso",
+      "County": [
+        "Snohomish, WA",
+        "444.150 (CC 1)"
+      ]
+    },
+    {
+      "Site": "213 (D5)",
+      "Name": "Columbia Heights North",
+      "County": [
+        "Cowlitz, WA",
+        "444.7125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "216 (D8)",
+      "Name": "Lookout Point",
+      "County": [
+        "Spokane, WA",
+        "444.150 (CC 1)"
+      ]
+    },
+    {
+      "Site": "217 (D9)",
+      "Name": "Tacoma",
+      "County": [
+        "Pierce, WA",
+        "441.350 (CC 1)"
+      ]
+    },
+    {
+      "Site": "218 (DA)",
+      "Name": "Haystack",
+      "County": [
+        "Snohomish, WA",
+        "444.400 (CC 1)"
+      ]
+    },
+    {
+      "Site": "219 (DB)",
+      "Name": "Ruston",
+      "County": [
+        "Pierce, WA",
+        "440.725 (CC 1)"
+      ]
+    },
+    {
+      "Site": "220 (DC)",
+      "Name": "Elephant VHF",
+      "County": [
+        "Yakima, WA",
+        "147.120 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "9999 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Audio Test",
+      "Description": "Audio Test ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3100 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bridge",
+      "Description": "Bridge ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3027 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "British Columbia",
+      "Description": "British Columbia ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3106 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "California",
+      "Description": "California ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3191 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cascades East",
+      "Description": "Cascades East ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3777215 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Comm 1",
+      "Description": "Comm 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3160 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DCI 1",
+      "Description": "DCI 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3162 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DCI 2",
+      "Description": "DCI 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9939 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Dronk",
+      "Description": "Dronk ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3115 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hawaii 1",
+      "Description": "Hawaii 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3116 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Idaho",
+      "Description": "Idaho ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31160 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Idaho ARES",
+      "Description": "Idaho ARES ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3168 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW I-5",
+      "Description": "Interstate 5 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3181 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Local 1",
+      "Description": "Local 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3166 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Local 2",
+      "Description": "Local 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31301 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MacPass 1",
+      "Description": "MacPass 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3130 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Montana",
+      "Description": "Montana ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3177 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Mountain Regiona",
+      "Description": "Mountain Regional ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3163 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "North America",
+      "Description": "North America ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3141 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Oregon 1",
+      "Description": "Oregon 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3187 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW 1",
+      "Description": "Pacific NorthWest 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "103187 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW 2",
+      "Description": "Pacific NorthWest 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31771 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Regional",
+      "Description": "PNW Regional ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3190 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Public Service 1",
+      "Description": "Public Service 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "103190 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Public Service 2",
+      "Description": "Public Service 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8954 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SAR 2",
+      "Description": "SAR 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "31328 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SNARS 1",
+      "Description": "SNARS 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "123 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac English",
+      "Description": "Tac English ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8951 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 1",
+      "Description": "Tactical 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8952 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 2",
+      "Description": "Tactical 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "8953 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 3",
+      "Description": "Tactical 3 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "310 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 310",
+      "Description": "Tactical 310 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 311",
+      "Description": "Tactical 311 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "312 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 312",
+      "Description": "Tactical 312 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "313 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 313",
+      "Description": "Tactical 313 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "314 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 314",
+      "Description": "Tactical 314 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "315 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 315",
+      "Description": "Tactical 315 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "316 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 316",
+      "Description": "Tactical 316 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "317 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 317",
+      "Description": "Tactical 317 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "318 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 318",
+      "Description": "Tactical 318 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "319 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tac 319",
+      "Description": "Tactical 319 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "92104 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TelRad",
+      "Description": "TelRad ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "1776 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "USA",
+      "Description": "USA ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3153 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Wash 1",
+      "Description": "Washington 1 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "103153 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PNW Wash 2",
+      "Description": "Washington 2 ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3161 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Worldwide",
+      "Description": "Worldwide ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "13 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Worldwide Eng",
+      "Description": "Worldwide English ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

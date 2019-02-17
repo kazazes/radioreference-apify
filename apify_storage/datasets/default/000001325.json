@@ -1,0 +1,21 @@
+{
+  "System Name": "State of The Art Communications",
+  "Location": "Russiaville, IN",
+  "County": "Howard",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 24, 2013, 12:28 am (Changed Site # 001 (Primary) to 001 (Russiaville))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Russiaville",
+        "00 464.8875 ",
+        "00 463.4875 ",
+        "00 461.4125 ",
+        "00 463.9125 ",
+        "00 463.2125 "
+      ]
+    }
+  ]
+}

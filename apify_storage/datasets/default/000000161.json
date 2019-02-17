@@ -1,0 +1,45 @@
+{
+  "System Name": "Smith Two-Way Radio",
+  "Location": "Arkansas and Oklahoma, OK AR",
+  "County": "5 counties",
+  "System Type": "NXDN NEXEDGE 9600",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "February 9, 2019, 3:41 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "241"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Rose, OK",
+      "County": "Delaware, OK",
+      "Freqs": [
+        "461.025",
+        "461.950",
+        "461.300"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Chance. OK",
+      "County": "Adair, OK",
+      "Freqs": [
+        "461.7875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Prairie Grove",
+      "County": "Washington, AR",
+      "Freqs": [
+        "463.3875",
+        "463.6125",
+        " "
+      ]
+    }
+  ]
+}

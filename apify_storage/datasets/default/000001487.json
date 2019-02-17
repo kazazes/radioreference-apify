@@ -1,0 +1,20 @@
+{
+  "System Name": "Shawnee Correctional Center -- IDOC (Johnson)",
+  "Location": "Vienna, IL",
+  "County": "Johnson",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "January 4, 2014, 11:58 pm (Changed Site # 001 (Prison) to 001 (Vienna))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Vienna",
+      "Freqs": [
+        "858.7125",
+        "857.7125",
+        "856.7125",
+        "859.2625"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "System Name": "Radio Communications",
+  "Location": "Cedar Rapids, IA",
+  "County": "Linn",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 12, 2011, 8:08 pm (Deleted 1 talkgroup(s))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 856.0625 ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 857.0625 ",
+        "06 N/A ",
+        "07 N/A "
+      ],
+      "Data": [
+        "08 N/A ",
+        "09 858.0625 ",
+        "10 N/A ",
+        "11 N/A ",
+        "12 N/A ",
+        "13 859.0625 ",
+        "14 N/A ",
+        "15 N/A ",
+        "16 N/A ",
+        "17 860.0625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1-01-046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 046",
+      "Description": "Plowing Snow (trucks and sidewalk crews) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-055 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Towing 055",
+      "Description": "Towing/snow removal? ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-01-161 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security 161",
+      "Description": "Security Company ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "1-05-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 010",
+      "Description": "Plowing Snow ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-13-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 060",
+      "Description": "Plowing Snow ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-13-075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 075",
+      "Description": "Plowing Snow ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-13-120 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 120",
+      "Description": "Plowing Snow ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1-13-220 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SnowPlow 220",
+      "Description": "Plowing Snow ",
+      "Tag  ": "Business "
+    }
+  ]
+}

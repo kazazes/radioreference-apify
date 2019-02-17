@@ -1,0 +1,87 @@
+{
+  "System Name": "Menard Correctional Center - IDOC (Randolph)",
+  "Location": "Chester, IL",
+  "County": "Randolph",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "January 4, 2014, 11:54 pm (Changed Site # 001 (Site 001) to 001 (Chester))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Chester",
+      "Freqs": [
+        "856.2625",
+        "857.2625",
+        "858.2625",
+        "859.2625c",
+        "860.2625"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "112 ",
+      "HEX ": "007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 112",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "176 ",
+      "HEX ": "00b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 176",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 208",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 272",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 336",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 368",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 464",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "496 ",
+      "HEX ": "01f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ops 496",
+      "Description": "Prison Operations ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

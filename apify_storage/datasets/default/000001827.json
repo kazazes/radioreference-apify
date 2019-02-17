@@ -1,0 +1,31 @@
+{
+  "System Name": "Baltimore Gas and Electric",
+  "Location": "Various, MD",
+  "County": "11 counties",
+  "System Type": "iDEN Harmony",
+  "System Voice": "iDEN TDMA",
+  "Last Updated": "June 9, 2014, 6:54 pm (General text description deleted)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site 1",
+      "County": "",
+      "Freqs": [
+        "860.2875",
+        "859.2875",
+        "858.2875",
+        "857.2875",
+        "856.2875",
+        "855.1875",
+        "855.3625",
+        "855.4125",
+        "855.6125",
+        "855.6375",
+        "859.0125",
+        "857.7875",
+        "858.6625",
+        "856.6625"
+      ]
+    }
+  ]
+}

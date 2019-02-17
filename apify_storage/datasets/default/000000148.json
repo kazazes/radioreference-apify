@@ -1,0 +1,18 @@
+{
+  "System Name": "Tohono O'Odham Gaming Enterprise 2",
+  "Location": "Sahuarita, AZ",
+  "County": "Pima",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "January 14, 2017, 10:06 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Pima Mine Rd",
+        "01 461.6875 ",
+        "02 464.375 "
+      ]
+    }
+  ]
+}

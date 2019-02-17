@@ -1,0 +1,394 @@
+{
+  "System Name": "Gwinnett County",
+  "Location": "Lawrenceville, GA",
+  "County": "Gwinnett",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 15, 2017, 6:05 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "27A",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.2125",
+        "851.3875",
+        "852.9625",
+        "853.1125",
+        "853.1375",
+        "853.4875",
+        "854.7875",
+        "854.8125a",
+        "854.8375a",
+        "855.3125",
+        "855.4875c",
+        "855.7625",
+        "855.7875a",
+        "855.8125",
+        "856.2875",
+        "856.8125",
+        "856.8375",
+        "856.9125",
+        "857.8125",
+        "857.8375",
+        "857.9125",
+        "858.7875",
+        "858.8125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10603 ",
+      "HEX ": "296b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Disp",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "10609 ",
+      "HEX ": "2971 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 2",
+      "Description": "Fire Tactical 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10611 ",
+      "HEX ": "2973 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 3",
+      "Description": "Fire Tactical 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10613 ",
+      "HEX ": "2975 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 4",
+      "Description": "Fire Tactical 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10615 ",
+      "HEX ": "2977 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 5",
+      "Description": "Fire Tactical 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10617 ",
+      "HEX ": "2979 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 6",
+      "Description": "Fire Tactical 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10619 ",
+      "HEX ": "297b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 7",
+      "Description": "Fire Tactical 7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10621 ",
+      "HEX ": "297d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 8",
+      "Description": "Fire Tactical 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10623 ",
+      "HEX ": "297f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 9",
+      "Description": "Fire Tactical 9 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10625 ",
+      "HEX ": "2981 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Tac 10",
+      "Description": "Fire Tactical 10 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "10601 ",
+      "HEX ": "2969 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Admin",
+      "Description": "Fire Admin ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "11035 ",
+      "HEX ": "2b1b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Fire Traing",
+      "Description": "Fire Training ",
+      "Tag  ": "Fire-Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "10203 ",
+      "HEX ": "27db ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10203",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10605 ",
+      "HEX ": "296d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10605",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10627 ",
+      "HEX ": "2983 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10627",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10905 ",
+      "HEX ": "2a99 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10905",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10911 ",
+      "HEX ": "2a9f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10911",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10915 ",
+      "HEX ": "2aa3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10915",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10923 ",
+      "HEX ": "2aab ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10923",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10929 ",
+      "HEX ": "2ab1 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10929",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10937 ",
+      "HEX ": "2ab9 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10937",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10943 ",
+      "HEX ": "2abf ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 10943",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11005 ",
+      "HEX ": "2afd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11005",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11011 ",
+      "HEX ": "2b03 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11011",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11013 ",
+      "HEX ": "2b05 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11013",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11015 ",
+      "HEX ": "2b07 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11015",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11017 ",
+      "HEX ": "2b09 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11017",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11019 ",
+      "HEX ": "2b0b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11019",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11021 ",
+      "HEX ": "2b0d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11021",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11023 ",
+      "HEX ": "2b0f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11023",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11051 ",
+      "HEX ": "2b2b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11051",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11061 ",
+      "HEX ": "2b35 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11061",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11063 ",
+      "HEX ": "2b37 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11063",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11065 ",
+      "HEX ": "2b39 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11065",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11067 ",
+      "HEX ": "2b3b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11067",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11069 ",
+      "HEX ": "2b3d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11069",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11075 ",
+      "HEX ": "2b43 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11075",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11207 ",
+      "HEX ": "2bc7 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11207",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11217 ",
+      "HEX ": "2bd1 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11217",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11219 ",
+      "HEX ": "2bd3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11219",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11223 ",
+      "HEX ": "2bd7 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11223",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11403 ",
+      "HEX ": "2c8b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11403",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "11507 ",
+      "HEX ": "2cf3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "TGRP 11507",
+      "Description": "Unidentified Usage ",
+      "Tag  ": "Other "
+    }
+  ]
+}

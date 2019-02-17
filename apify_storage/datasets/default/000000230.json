@@ -1,0 +1,305 @@
+{
+  "System Name": "California Department of Corrections and Rehabilitation",
+  "Location": "Various, CA",
+  "County": "12 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 18, 2018, 5:19 am (Changed Site # 020 (Deuel Vocational Institution) to 020 (Deuel Vocational Institution))",
+  "System ID List": [
+    {
+      "System ID": "2A9",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "California Health Care Facility",
+      "County": "San Joaquin",
+      "Freqs": [
+        "851.9875a",
+        "852.4875a",
+        "852.9875a",
+        "853.4875",
+        "857.2625c",
+        "858.2625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "California City Correctional Facility",
+      "County": "Kern",
+      "Freqs": [
+        "856.9625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Pelican Bay SP",
+      "County": "Del Norte",
+      "Freqs": [
+        "855.2125",
+        "856.1625c",
+        "857.2625a",
+        "858.2625a",
+        "859.2625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Mule Creek SP",
+      "County": "Amador",
+      "Freqs": [
+        "851.3625a",
+        "852.2875",
+        "853.0625",
+        "856.1625a",
+        "858.2625a",
+        "859.2625c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Richard J. Donovan CF",
+      "County": "San Diego",
+      "Freqs": [
+        "769.45625a",
+        "769.65625",
+        "770.16875c",
+        "770.46875a",
+        "770.96875a",
+        "774.59375",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Central California Women's Facility/Valley State Prison",
+      "County": "Madera",
+      "Freqs": [
+        "856.1625a",
+        "857.2625a",
+        "858.2625a",
+        "858.9375c",
+        "859.2625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "California Institute for Men/Women",
+      "County": "San Bernardino",
+      "Freqs": [
+        "770.16875c",
+        "770.46875a",
+        "770.96875",
+        "770.96875",
+        "770.96875a",
+        "774.09375a",
+        "774.09375",
+        "774.59375",
+        "774.59375",
+        "774.59375"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "California Men's Colony",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "855.2125",
+        "856.1625c",
+        "857.2625a",
+        "858.2625a",
+        "859.2625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "California Medical Facility/CSP Solano",
+      "County": "Solano",
+      "Freqs": [
+        "856.1625",
+        "856.4375c",
+        "857.2625a",
+        "857.4375",
+        "858.2625a",
+        "859.2625a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "Deuel Vocational Institution",
+      "County": "San Joaquin",
+      "Freqs": [
+        "854.6625a",
+        "854.7375c",
+        "856.1625c",
+        "858.2625",
+        "859.2625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "CSP Sacramento/Folsom SP",
+      "County": "Sacramento",
+      "Freqs": [
+        "769.65625c",
+        "769.90625a",
+        "770.46875",
+        "770.70625a",
+        "773.84375",
+        "774.09375",
+        "774.46875a"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "San Quentin SP",
+      "County": "Marin",
+      "Freqs": [
+        "770.46875c",
+        "770.69375a",
+        "770.96875a",
+        "774.29375a",
+        "774.59375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "041 (29)",
+      "Name": "Richard McGee Training Center",
+      "County": "Sacramento",
+      "Freqs": [
+        "858.2625c",
+        "859.2625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "999 (3E7)",
+      "Name": "Calipatria SP",
+      "County": "Imperial",
+      "Freqs": [
+        "862.200a",
+        "863.200",
+        "864.200",
+        "865.200c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "251 ",
+      "HEX ": "0fb ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCCF Guards 251",
+      "Description": "Guard Operations  ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "253 ",
+      "HEX ": "0fd ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCCF Guards 253",
+      "Description": "Guard Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "254 ",
+      "HEX ": "0fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCCF Guards 254",
+      "Description": "Guard Operations ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "265 ",
+      "HEX ": "109 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CCCF Medical",
+      "Description": "Medical ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1401 ",
+      "HEX ": "579 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SQ All Call",
+      "Description": "All Call ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1421 ",
+      "HEX ": "58d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SQ Main Guards",
+      "Description": "Main Guards ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1428 ",
+      "HEX ": "594 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SQ Tower",
+      "Description": "Guard Tower ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "1432 ",
+      "HEX ": "598 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SQ Fire",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "1437 ",
+      "HEX ": "59d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SQ Commissary",
+      "Description": "Commissary ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

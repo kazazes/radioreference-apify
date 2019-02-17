@@ -1,0 +1,49 @@
+{
+  "System Name": "Halekulani Hotel",
+  "Location": "Honolulu, HI, HI",
+  "County": "Honolulu",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 14, 2017, 3:09 pm (Changed Site # 001 (Site 1) to 001 (Hotel))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Hotel",
+        "01 461.5375 ",
+        "02 463.9625 ",
+        "03 463.725 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "11 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "31 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Maint",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "61 ",
+      "Mode  ": "T",
+      "Alpha Tag": "House",
+      "Description": "House Keeping ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "72 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Guest Serv",
+      "Description": "Guest Services ",
+      "Tag  ": "Business "
+    }
+  ]
+}

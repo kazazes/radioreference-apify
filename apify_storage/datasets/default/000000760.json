@@ -1,0 +1,41 @@
+{
+  "System Name": "Jefferson Hotel",
+  "Location": "Washington, DC",
+  "County": "Washington DC",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "May 22, 2016, 4:17 pm (Changed Site # 001 (Confirmed LCN) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.9625 ",
+        "02 463.8625 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JeffHotelH/K",
+      "Description": "Housekeeping  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "21 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JeffHotelEng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "22 ",
+      "Mode  ": "T",
+      "Alpha Tag": "JeffHotelDin",
+      "Description": "In-Room Dining ",
+      "Tag  ": "Business "
+    }
+  ]
+}

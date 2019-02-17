@@ -1,0 +1,53 @@
+{
+  "System Name": "VoTran - Volusia County Transit",
+  "Location": "South Daytona, FL",
+  "County": "Volusia",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 28, 2013, 9:41 pm (Deleted 1 talkgroup(s))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 453.3875 ",
+        "02 N/A ",
+        "03 460.6125 ",
+        "04 N/A ",
+        "05 453.950 ",
+        "06 N/A ",
+        "07 453.6875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-07-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Disp",
+      "Description": "Transit Dispatch (fixed route buses) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Supv",
+      "Description": "Supervisors (route and pickup changes) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Gold",
+      "Description": "Paratransit \"Gold\" Dispatch (buses and vans) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-07-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transit Para",
+      "Description": "Paratransit Dispatch ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

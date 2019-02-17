@@ -1,0 +1,176 @@
+{
+  "System Name": "Ray's Radio Shop",
+  "Location": "Twain Harte, CA",
+  "County": "Tuolumne",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "October 19, 2013, 3:44 am (Added Talkgroup 0 49 Taxi)",
+  "System ID List": [
+    {
+      "System ID": "4A0D",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "2",
+      "B2": "B",
+      "B3": "",
+      "B4": "",
+      "B5": "G",
+      "B6": "I",
+      "B7": ""
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "S0",
+      "B2": "S2",
+      "B3": "",
+      "B4": "",
+      "B5": "S7",
+      "B6": "S9",
+      "B7": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Mt. Elizabeth",
+      "Freqs": [
+        "858.4125c",
+        "857.4125",
+        "856.0375",
+        "855.2625",
+        "860.0875c",
+        "854.0125",
+        "854.7125",
+        "858.0875c",
+        "857.0375",
+        "856.2875",
+        "860.8875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "001-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cement Trks ",
+      "Description": "Cement Trks 1-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "012-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "012-1 Taxi",
+      "Description": "Taxi Service ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "035-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Spanish 0351",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "057-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dirt Hauling",
+      "Description": "Dirt Hauling 0057-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "072-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Battery Deli",
+      "Description": "Battery Deliv ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "086-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dial A Ride ",
+      "Description": "Dial A Ride 86-1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "088-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 0088",
+      "Description": "Farming 0088-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "110-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Farming 0110",
+      "Description": "Farming 0110-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "116-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AgTrucking 1",
+      "Description": "AgTrucking 116-1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "119-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "119-1 Unk",
+      "Description": "Forign Lang Unknown ",
+      "Tag  ": "Business "
+    },
+    {
+      "Subfleet ": "125.1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "49Taxi",
+      "Description": "49 Taxi ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "502-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "502-1 Taxi",
+      "Description": "Taxi Sonora Area ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "Subfleet ": "512-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "512-1 Taxi",
+      "Description": "Taxi Stockton/Turlock Area ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

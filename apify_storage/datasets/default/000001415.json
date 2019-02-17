@@ -1,0 +1,140 @@
+{
+  "System Name": "CK Communications / MJM Electric Cooperative (DMR)",
+  "Location": "Carlinville, IL",
+  "County": "5 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "August 12, 2018, 9:54 pm ((7) Talkgroups Updated (All))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Carlinville ",
+      "County": [
+        "Macoupin",
+        "463.8375 (CC 1)",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Litchfield",
+      "County": [
+        "Montgomery",
+        "452.500 (CC )",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Jerseyville ",
+      "County": [
+        "Jersey",
+        "452.300 (CC 1)",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Grafton",
+      "County": [
+        "Jersey",
+        "452.500 (CC )",
+        "452.500 (CC )"
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Nokomis",
+      "County": [
+        "Montgomery",
+        "452.800 (CC 0)",
+        "451.400 (CC 0)"
+      ]
+    },
+    {
+      "Site": "105 (69)",
+      "Name": "Nokomis (Unidentified) ",
+      "County": [
+        "Montgomery",
+        "452.0125 (CC 0)",
+        " "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Rosamond",
+      "County": [
+        "Christian",
+        "463.4125 (CC 1)",
+        " "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Taylorville",
+      "County": [
+        "Christian",
+        "461.625 (CC 1)",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "106000 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "schbus106000",
+      "Description": "unid School Bus (? A and M CUSD 21 ?) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "109000 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MJM 109000",
+      "Description": "MJM Electric Cooperative: Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "113000 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "school bus 11300",
+      "Description": "unid School Bus (SL 1/2) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "113100 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "MJM 113100",
+      "Description": "MJM Electric Cooperative: Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "116000 ",
+      "Slot ": "* ",
+      "Mode  ": "T",
+      "Alpha Tag": "ops 116000",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "116200 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ops 116200",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "119000 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ops 119000",
+      "Description": "business operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

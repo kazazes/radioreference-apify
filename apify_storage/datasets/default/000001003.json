@@ -1,0 +1,86 @@
+{
+  "System Name": "PGA National Resort and Spa (Palm Beach Gardens)",
+  "Location": "Palm Beach Gardens, FL",
+  "County": "Palm Beach",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 30, 2018, 7:34 am ((1) Talkgroups Updated (Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Palm Beach Gardens",
+        "06 463.650 ",
+        "08 463.8625 ",
+        "10 464.3375 ",
+        "12 461.9625 ",
+        "14 463.350 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-06-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Banquets",
+      "Description": "Banquet Set Up Attendants  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Engineering",
+      "Description": "Maintenance Engineers  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-06-025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Irrigation ",
+      "Description": "Golf Course Irrigation Technicians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-030 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Food Bev ",
+      "Description": "Food and Beverage (Wave and IBar)  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-08-035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Concessions ",
+      "Description": "Concessions Cart Attendants ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Conference S",
+      "Description": "Conference Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-010 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bellman ",
+      "Description": "Bell Staff  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Starters",
+      "Description": "Starter Marshals/ Pro Shop ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-12-019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HKeeping",
+      "Description": "Housekeeping Room Attendants  ",
+      "Tag  ": "Business "
+    }
+  ]
+}

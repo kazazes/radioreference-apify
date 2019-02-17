@@ -1,0 +1,77 @@
+{
+  "System Name": "DuPont Experimental Station",
+  "Location": "Wilmington, DE",
+  "County": "New Castle",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 23, 2013, 6:35 pm (Updated Talkgroups (1 Updated))",
+  "System ID List": [
+    {
+      "System ID": "4007",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "935.6875",
+        "937.1625c",
+        "937.250c",
+        "938.175c",
+        "939.250c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1616 ",
+      "HEX ": "065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Operations 2",
+      "Description": "Operations 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Main Gate",
+      "Description": "Main Gate Access ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "4816 ",
+      "HEX ": "12d ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "6416 ",
+      "HEX ": "191 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Gate Sec.",
+      "Description": "Gate Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "6480 ",
+      "HEX ": "195 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Chem control",
+      "Description": "Chemical Control ",
+      "Tag  ": "Business "
+    }
+  ]
+}

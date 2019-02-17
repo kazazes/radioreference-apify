@@ -1,0 +1,34 @@
+{
+  "System Name": "Vesta Towers America",
+  "Location": "Pueblo, CO",
+  "County": "Pueblo",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "April 6, 2018, 6:11 pm (Changed Talkgroup Category: Operations to Operations(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "100 Towers Drive",
+        "01 461.4875 ",
+        "02 463.8875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Manufacturing",
+      "Description": "Manufacturing 101 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Manufacturing",
+      "Description": "Manufacturing 115 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

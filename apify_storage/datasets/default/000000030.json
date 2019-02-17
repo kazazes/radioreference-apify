@@ -1,0 +1,32 @@
+{
+  "System Name": "Hurricane Electronics (Mobile North)",
+  "Location": "Mobile, AL",
+  "County": "Mobile",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 3, 2011, 10:31 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mobile North *Confirmed LCN*",
+        "01 N/A ",
+        "02 N/A ",
+        "03 N/A ",
+        "04 N/A ",
+        "05 464.7625 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Mobile North *Unconfirmed LCN*",
+        "00 461.7875 ",
+        "00 462.1125 ",
+        "00 463.4625 ",
+        "00 463.8875 ",
+        " "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "System Name": "Dollar Rent A Car",
+  "Location": "Denver Airport, CO",
+  "County": "Denver",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "September 20, 2012, 7:35 pm (Updated Talkgroups (1 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Denver Airport",
+        "07 464.9375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-07-020 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dollar Bus",
+      "Description": "Terminal Shuttle Bus ",
+      "Tag  ": "Business "
+    }
+  ]
+}

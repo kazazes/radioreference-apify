@@ -1,0 +1,41 @@
+{
+  "System Name": "Children's Hospital Colorado",
+  "Location": "Aurora, CO",
+  "County": "Adams",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 16, 2018, 6:57 pm (Updated encryption settings for 3 talkgroups(Operations))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Children's Hospital Colorado",
+        "02 461.575 ",
+        "03 463.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "105 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "105 Enc",
+      "Description": "105 Encrypted ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "106 Enc",
+      "Description": "106 Encypted ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "107 Enc",
+      "Description": "107 Encrypted ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

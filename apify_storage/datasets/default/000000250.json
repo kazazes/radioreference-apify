@@ -1,0 +1,253 @@
+{
+  "System Name": "Tesoro Petroleum (Golden Eagle Refinery)",
+  "Location": "Martinez, CA",
+  "County": "Contra Costa",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 19, 2013, 8:35 am (Changed System ID: [283e | 90.00 | ] to [283E | 90.0 | ])",
+  "System ID List": [
+    {
+      "System ID": "283E",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "On Site",
+      "Freqs": [
+        "937.9875",
+        "938.000c",
+        "938.9625c",
+        "938.975",
+        "938.9875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "TFD/HS1",
+      "Description": "Tesoro Fire Dept / Health & Safety 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "208 ",
+      "HEX ": "00d ",
+      "Mode  ": "A",
+      "Alpha Tag": "MainOps",
+      "Description": "Refinery Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "240 ",
+      "HEX ": "00f ",
+      "Mode  ": "A",
+      "Alpha Tag": "CATCRAC",
+      "Description": "Ops - Cat Cracker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "272 ",
+      "HEX ": "011 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3HDS",
+      "Description": "Ops - 3 HDS Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "304 ",
+      "HEX ": "013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3CRUDE",
+      "Description": "Ops - 3 Crude Unit ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "336 ",
+      "HEX ": "015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "3REF",
+      "Description": "Ops - 3 Reformer Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "368 ",
+      "HEX ": "017 ",
+      "Mode  ": "A",
+      "Alpha Tag": "50UNIT",
+      "Description": "Ops - 50 Unit ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "400 ",
+      "HEX ": "019 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HYDROCR",
+      "Description": "Ops - Hydro Cracker ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "432 ",
+      "HEX ": "01b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ALKY",
+      "Description": "Ops - Alky Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "464 ",
+      "HEX ": "01d ",
+      "Mode  ": "A",
+      "Alpha Tag": "1&2HDS",
+      "Description": "Ops - 1 & 2 HDS Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "528 ",
+      "HEX ": "021 ",
+      "Mode  ": "A",
+      "Alpha Tag": "COKER",
+      "Description": "Ops - Coker Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "560 ",
+      "HEX ": "023 ",
+      "Mode  ": "A",
+      "Alpha Tag": "2REF",
+      "Description": "Ops - 2 Reformer Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "592 ",
+      "HEX ": "025 ",
+      "Mode  ": "A",
+      "Alpha Tag": "WWTP",
+      "Description": "Ops - WWTP/API ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "656 ",
+      "HEX ": "029 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ALLCALL",
+      "Description": "All Call (all talkgroups) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "784 ",
+      "HEX ": "031 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AVON",
+      "Description": "Avon Wharf ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "816 ",
+      "HEX ": "033 ",
+      "Mode  ": "A",
+      "Alpha Tag": "GAUGE",
+      "Description": "Gaugers ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "848 ",
+      "HEX ": "035 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UTIL",
+      "Description": "Utilities ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "912 ",
+      "HEX ": "039 ",
+      "Mode  ": "A",
+      "Alpha Tag": "OPS2",
+      "Description": "Plant Ops 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "976 ",
+      "HEX ": "03d ",
+      "Mode  ": "A",
+      "Alpha Tag": "ELEC",
+      "Description": "Electricians ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1040 ",
+      "HEX ": "041 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MAINT",
+      "Description": "Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1072 ",
+      "HEX ": "043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HAZWA",
+      "Description": "Haz Waste ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1120 ",
+      "HEX ": "046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "5GAS",
+      "Description": "Ops - 5 Gas Plant ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1808 ",
+      "HEX ": "071 ",
+      "Mode  ": "A",
+      "Alpha Tag": "AMORCO",
+      "Description": "Amorco Wharf ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1872 ",
+      "HEX ": "075 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UTIL2",
+      "Description": "Utilities 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1904 ",
+      "HEX ": "077 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SECURTY",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "1936 ",
+      "HEX ": "079 ",
+      "Mode  ": "A",
+      "Alpha Tag": "EXHANGE",
+      "Description": "Exchangers Crew ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2416 ",
+      "HEX ": "097 ",
+      "Mode  ": "A",
+      "Alpha Tag": "DCS",
+      "Description": "DCS ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2576 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "INST",
+      "Description": "Instrumentation Crew ",
+      "Tag  ": "Business "
+    }
+  ]
+}

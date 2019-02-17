@@ -1,0 +1,166 @@
+{
+  "System Name": "FL-DMR Linked Amateur Radio Network",
+  "Location": "Various, FL",
+  "County": "3 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "January 16, 2019, 9:50 pm (Added Talkgroup 3174 DMR-MARC Southeast Regional (PTT 5 Min)(On-demand))",
+  "System Frequencies": [
+    {
+      "Site": "310059 (4BB2B)",
+      "Name": "Tampa East (VHF)",
+      "County": [
+        "Hillsborough",
+        "145.410 (CC 5)"
+      ]
+    },
+    {
+      "Site": "311201 (4BFA1)",
+      "Name": "Tampa East (UHF)",
+      "County": [
+        "Hillsborough",
+        "443.775 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311202 (4BFA2)",
+      "Name": "Plant City",
+      "County": [
+        "Hillsborough",
+        "442.675 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311205 (4BFA5)",
+      "Name": "Lakeland South",
+      "County": [
+        "Polk",
+        "442.025 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311255 (4BFD7)",
+      "Name": "Tampa",
+      "County": [
+        "Hillsborough",
+        "443.1125 (CC 1)"
+      ]
+    },
+    {
+      "Site": "311275 (4BFEB)",
+      "Name": "Lakeland Downtown",
+      "County": [
+        "Polk",
+        "442.975 (CC 1)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Local",
+      "Description": "Local Area Talk Group (System-Wide Link) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "North America",
+      "Description": "DMR-MARC North America ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Local RPTR",
+      "Description": "Local Repeater (Stand Alone Repeater Only) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3112 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Florida",
+      "Description": "Florida State-Wide ",
+      "Tag  ": "Ham "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "310 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC-310",
+      "Description": "TAC-310 (World-Wide Link) (PTT 15 Min)  ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "311 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC-311",
+      "Description": "TAC-311 (World-Wide Link) (PTT 15 Min)  ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "312 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC-312",
+      "Description": "TAC-312 (World-Wide Link) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "400 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC-400",
+      "Description": "TAC-400 (System-Wide Link) (PTT 5 Min) \t ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "410 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TAC-410",
+      "Description": "TAC-410 (System-Wide Link) (PTT 5 Min) \t ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "444 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "NY-Metro",
+      "Description": "NY-Metro-BronxTRBO Network (PTT 15 min) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3100 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Bridge",
+      "Description": "Bridge-3100 (World-Wide Link) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "3174 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Southeast ",
+      "Description": "DMR-MARC Southeast Regional (PTT 5 Min) ",
+      "Tag  ": "Ham "
+    },
+    {
+      "DEC ": "9998 ",
+      "Slot ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DMR Parrot",
+      "Description": "Parrot Audio Test ",
+      "Tag  ": "Ham "
+    }
+  ]
+}

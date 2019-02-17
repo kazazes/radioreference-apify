@@ -1,0 +1,43 @@
+{
+  "System Name": "Motorola Corporate EME Research Laboratory 137 (Plantation)",
+  "Location": "Plantation, FL",
+  "County": "Broward",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "July 17, 2018, 8:43 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "137",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "001",
+      "Freqs": [
+        "854.9875",
+        "855.7375",
+        "856.3625",
+        "856.3875",
+        "856.9875",
+        "857.3875c",
+        "858.3875",
+        "859.3875",
+        "860.3625",
+        "860.3875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "4100 ",
+      "HEX ": "1004 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

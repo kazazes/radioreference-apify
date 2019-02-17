@@ -1,0 +1,48 @@
+{
+  "System Name": "Oakland P25",
+  "Location": "Oakland, CA",
+  "County": "Alameda",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 3, 2018, 1:31 am (Changed Site # 002 (Simulcast) to 002 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "136",
+      "WACN": "92556"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.175",
+        "852.2875c",
+        "852.8875",
+        "853.3375c",
+        "853.4625c",
+        "853.700c",
+        "853.8375c",
+        "854.1875c",
+        "854.2625",
+        "854.4125"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Fire Station 28",
+      "Freqs": [
+        "852.1125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

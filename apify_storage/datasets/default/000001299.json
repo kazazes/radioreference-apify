@@ -1,0 +1,28 @@
+{
+  "System Name": "Harmonic Electronics",
+  "Location": "Jasper, IN",
+  "County": "Dubois",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "April 6, 2013, 12:53 pm (Changed Site # 002 (Crystal) to 002 (Crystal))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Jasper",
+        "01 452.000 ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Crystal",
+        "01 461.4375 ",
+        "02 463.3875 ",
+        "03 463.4875 "
+      ]
+    }
+  ]
+}

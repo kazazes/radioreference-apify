@@ -1,0 +1,56 @@
+{
+  "System Name": "Fort Mojave Indian Tribe",
+  "Location": "Fort Mohave, AZ",
+  "County": "Mohave",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 16, 2018, 3:26 am (Added Talkgroup 1011 Animal Control)",
+  "System ID List": [
+    {
+      "System ID": "70a",
+      "WACN": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "155.235c",
+        "155.490",
+        "155.700c",
+        "159.2175",
+        "159.300"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1001 ",
+      "HEX ": "3e9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "FMIT PD Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "3f0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Car to Car",
+      "Description": "Car to Car ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1011 ",
+      "HEX ": "3f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Animal Control",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

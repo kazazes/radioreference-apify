@@ -1,0 +1,91 @@
+{
+  "System Name": "Salt River Agricultural Project",
+  "Location": "E of Page, AZ",
+  "County": "Coconino",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "September 8, 2015, 4:09 pm (Updated Function Tag assignments for 6 talkgroups)",
+  "Custom Frequency Tables": [
+    {
+      "Base": "450.00000",
+      "Spacing": "25",
+      "Offset": "380"
+    }
+  ],
+  "System ID List": [
+    {
+      "System ID": "7110",
+      "Connect Tone": "Unknown"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Navajo Generating Station",
+      "Freqs": [
+        "451.050",
+        "451.200",
+        "451.525",
+        "451.575c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "32 ",
+      "HEX ": "002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS Ops",
+      "Description": "Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "160 ",
+      "HEX ": "00a ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS Coal Yd",
+      "Description": "Coal Yard ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "800 ",
+      "HEX ": "032 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGSCarpenter",
+      "Description": "Carpenters ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1056 ",
+      "HEX ": "042 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS Electric",
+      "Description": "Electricians ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1312 ",
+      "HEX ": "052 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS Mechs",
+      "Description": "Mechanics ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1824 ",
+      "HEX ": "072 ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "5280 ",
+      "HEX ": "14a ",
+      "Mode  ": "A",
+      "Alpha Tag": "NGS CraneOps",
+      "Description": "Crane Ops ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

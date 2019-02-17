@@ -1,0 +1,111 @@
+{
+  "System Name": "Roseville",
+  "Location": "Roseville, CA",
+  "County": "Placer",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 21, 2018, 2:14 am (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "73B",
+      "WACN": "BEE01"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Roseville",
+      "Freqs": [
+        "851.575a",
+        "852.375a",
+        "852.825a",
+        "853.350c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD Patrol 1",
+      "Description": "Patrol 1  ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD Patrol 2",
+      "Description": "Patrol 2  ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD Investig",
+      "Description": "Investigations  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD Tac 1",
+      "Description": "Tactical 1  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD Tac 2",
+      "Description": "Tactical 2  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD 6",
+      "Description": "Ch. 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD 7",
+      "Description": "Ch. 7 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl PD 8",
+      "Description": "Ch. 8 ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "401 ",
+      "HEX ": "191 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl Buses 401",
+      "Description": "Buses ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "403 ",
+      "HEX ": "193 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Rsvl Buses 403",
+      "Description": "Buses ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "System Name": "Dodger Stadium",
+  "Location": "Los Angeles, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "March 30, 2018, 9:01 am (Updated encryption settings for 21 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Dodger Stadium",
+        "01 451.325 ",
+        "02 451.400 ",
+        "03 452.7875 ",
+        "04 461.5625 ",
+        "05 462.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "STADIUM OPS",
+      "Description": "Stadium Ops ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "SECURITY",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "PARKING",
+      "Description": "Parking ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "DISABLE RIDE",
+      "Description": "Courtesy Parking Lot ADA Shuttle  ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "HOUSEKEEPING",
+      "Description": "Housekeeping Custodial ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "SOA",
+      "Description": "Stadium Operations Assistants ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "IT",
+      "Description": "Information Technology ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "PREMIUM",
+      "Description": "Premium ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "109 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "EVENTS",
+      "Description": "Events ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "110 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "LAX",
+      "Description": "LAX ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "111 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "MEDICAL",
+      "Description": "Medical ",
+      "Tag  ": "EMS-Tac "
+    },
+    {
+      "DEC ": "112 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "ELEVATOR",
+      "Description": "Elevators ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "113 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FAN SERV",
+      "Description": "Fan Services ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "114 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "EXT SECUR",
+      "Description": "Exterior Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "115 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FIELD SEC",
+      "Description": "Field Pavillion Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "116 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "FIELDPAVGS",
+      "Description": "Field Pavillion Guest Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "117 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "LOGECLBSEC",
+      "Description": "Loge Club Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "118 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "LOGECLB GS",
+      "Description": "Loge Club Guest Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "119 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "RSVTD SEC",
+      "Description": "Reserve Top Deck Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "120 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "RSVTD GS",
+      "Description": "Reserve Top Deck Guest Service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "121 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TAC 1",
+      "Description": "Tactical ",
+      "Tag  ": "Business "
+    }
+  ]
+}

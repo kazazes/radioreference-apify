@@ -1,0 +1,45 @@
+{
+  "System Name": "Douglas County Public Safety DMR",
+  "Location": "Douglasville, GA",
+  "County": "Douglas",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "December 23, 2016, 9:16 pm (Updated Function Tag assignments for 1 talkgroups(Douglas County E911))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Douglasville",
+        "01 152.0825c ",
+        "02 152.8175 ",
+        "03 152.5625 ",
+        "04 152.7425 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "220 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DCFD MAIN",
+      "Description": "County Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "221 ",
+      "Mode  ": "T",
+      "Alpha Tag": "DCFD TAC 1",
+      "Description": "County Fire Tactical 1 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "150 ",
+      "Mode  ": "T",
+      "Alpha Tag": "E911 TG 150",
+      "Description": "Unknown Usage ",
+      "Tag  ": "Multi-Tac "
+    }
+  ]
+}

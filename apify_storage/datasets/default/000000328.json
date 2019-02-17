@@ -1,0 +1,49 @@
+{
+  "System Name": "Long Beach Memorial Medical Center",
+  "Location": "Long Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 17, 2017, 1:35 am ((1) Talkgroups Updated (Long Beach Memorial Medical Center))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "LBMMC",
+        "01 461.950 ",
+        "02 462.300 ",
+        "03 464.775 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Engineering",
+      "Description": "Engineering ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "3 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Custodial",
+      "Description": "Custodial ",
+      "Tag  ": "Hospital "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Shuttle Bus",
+      "Description": "Shuttle Bus ",
+      "Tag  ": "Hospital "
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "System Name": "VEI Communications Kentucky",
+  "Location": "Various, KY",
+  "County": "7 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "June 9, 2014, 12:31 pm (Updated Talkgroups (3 Updated))",
+  "System Frequencies": [
+    {
+      "Site": "101 (65)",
+      "Name": "Albany",
+      "County": [
+        "Clinton",
+        "07 462.350 ",
+        "08 463.325 ",
+        "09 463.825 ",
+        " "
+      ]
+    },
+    {
+      "Site": "102 (66)",
+      "Name": "Cave City",
+      "County": [
+        "Barren",
+        "03 461.775 ",
+        "05 464.300 ",
+        "09 464.225 ",
+        " "
+      ]
+    },
+    {
+      "Site": "103 (67)",
+      "Name": "Franklin",
+      "County": [
+        "Simpson",
+        "01 463.850 ",
+        "10 463.325 ",
+        "16 464.950 ",
+        " "
+      ]
+    },
+    {
+      "Site": "104 (68)",
+      "Name": "Hopkinsville",
+      "County": [
+        "Christian",
+        "05 451.600 ",
+        "08 452.325 ",
+        "15 452.875 ",
+        "17 461.525 "
+      ]
+    },
+    {
+      "Site": "106 (6A)",
+      "Name": "Russellville",
+      "County": [
+        "Logan",
+        "01 461.075 ",
+        "03 461.900 ",
+        "06 463.375 ",
+        "18 460.675 "
+      ]
+    },
+    {
+      "Site": "107 (6B)",
+      "Name": "Scottsville",
+      "County": [
+        "Allen",
+        "01 461.050 ",
+        "04 461.525 ",
+        "11 463.475 ",
+        " "
+      ]
+    },
+    {
+      "Site": "108 (6C)",
+      "Name": "Rockford",
+      "County": [
+        "Warren",
+        "03 460.800 ",
+        "13 463.250 ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN Prks",
+      "Description": "Parks Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-046 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN SO K9",
+      "Description": "Sheriff K9 Units ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "0-01-047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN EMS",
+      "Description": "EMS Link ",
+      "Tag  ": "EMS-Talk "
+    },
+    {
+      "DEC ": "0-01-048 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN SO Adm",
+      "Description": "Sheriff Administration ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "0-01-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Frn/Smp FDMA",
+      "Description": "Simpson County/Franklin Fire Mutual Aid ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "0-01-053 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN Jail",
+      "Description": "Detention Center ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "0-01-054 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN SO DSP",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "0-01-065 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN Skls",
+      "Description": "Board of Education ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-01-073 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSN Roads",
+      "Description": "Road Department ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "0-01-091 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SMPSNSklsMnt",
+      "Description": "Board of Education Maintenance ",
+      "Tag  ": "Schools "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "0-11-063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CagleChixFrm",
+      "Description": "Cagle Keystone Poultry Farms - Feed Mill Trucks ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-11-064 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CagleChixFrm",
+      "Description": "Cagle Keystone Poultry Farms - Hatchery Trucks ",
+      "Tag  ": "Business "
+    }
+  ]
+}

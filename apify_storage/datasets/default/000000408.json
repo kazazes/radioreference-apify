@@ -1,0 +1,51 @@
+{
+  "System Name": "GR Partnership (Mt Bullion)",
+  "Location": "Mount Bullion, CA",
+  "County": "Mariposa",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "February 5, 2014, 10:30 pm (Changed Site # 001 (Site-1) to 001 (Site-1))",
+  "System ID List": [
+    {
+      "System ID": "643A",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "",
+      "B7": ""
+    },
+    {
+      "Type": "TT",
+      "B0": "",
+      "B1": "",
+      "B2": "",
+      "B3": "",
+      "B4": "",
+      "B5": "",
+      "B6": "",
+      "B7": ""
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "854.2875c",
+        "854.5375c",
+        "855.8625",
+        "856.1875",
+        "860.3875c"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "System Name": "Monterey County",
+  "Location": "Various, CA",
+  "County": "Monterey",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 5, 2019, 4:57 pm (Changed Site # 010 (Site 10) to 010 (Northern Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "33F",
+      "WACN": "908EE"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Lewis (North)",
+      "Freqs": [
+        "151.030c",
+        "151.060",
+        "151.075",
+        "151.090",
+        "152.0425c",
+        "152.060",
+        "152.3755",
+        "152.550",
+        "154.085",
+        "154.755",
+        "155.100",
+        "155.775c"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "Bryant Canyon (Soledad)",
+      "Freqs": [
+        "154.355a",
+        "154.785",
+        "155.190c",
+        "155.535",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "005 (5)",
+      "Name": "Williams Hill (South)",
+      "Freqs": [
+        "770.11875c",
+        "771.13125a",
+        "771.24375",
+        "771.83125a",
+        "771.89375",
+        "772.41875",
+        "773.26875",
+        "773.68125a",
+        "774.66875",
+        "778.36875"
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "King City",
+      "Freqs": [
+        "152.090",
+        "154.725",
+        "154.860c",
+        "154.995",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "010 (A)",
+      "Name": "Northern Simulcast",
+      "Freqs": [
+        "151.015",
+        "151.060",
+        "151.090c",
+        "152.030a",
+        "152.040",
+        "152.120c",
+        "152.150a",
+        "152.180a",
+        "152.550",
+        "152.630a",
+        "152.720a",
+        "152.810a"
+      ]
+    },
+    {
+      "RFSS": "20 (14)",
+      "Site": "020 (14)",
+      "Name": "Monterey Peninsula",
+      "Freqs": [
+        "769.85625c",
+        "770.34375c",
+        "771.09375a",
+        "771.89375a",
+        "772.41875c",
+        "772.71875a",
+        "773.91875a",
+        "774.66875a"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2 ",
+      "HEX ": "002 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO 1",
+      "Description": "Sheriff Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3 ",
+      "HEX ": "003 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO 2",
+      "Description": "Sheriff Records ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4 ",
+      "HEX ": "004 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO 3",
+      "Description": "Sheriff Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "5 ",
+      "HEX ": "005 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO 4",
+      "Description": "Tactical ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "6 ",
+      "HEX ": "006 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO DIC 1",
+      "Description": "Detectives 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "7 ",
+      "HEX ": "007 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO DIC 2",
+      "Description": "Detectives 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "8 ",
+      "HEX ": "008 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO NARC 1",
+      "Description": "Narcotics 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "9 ",
+      "HEX ": "009 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO NARC 2",
+      "Description": "Narcotics 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "10 ",
+      "HEX ": "00a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO SWAT 1",
+      "Description": "SWAT 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "11 ",
+      "HEX ": "00b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO SWAT 2",
+      "Description": "SWAT 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "12 ",
+      "HEX ": "00c ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO SAR 1",
+      "Description": "Search and Rescue 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "13 ",
+      "HEX ": "00d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO SAR 2",
+      "Description": "Search and Rescue 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "14 ",
+      "HEX ": "00e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO BOMB 1",
+      "Description": "Bomb Squad 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "15 ",
+      "HEX ": "00f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO BOMB 2",
+      "Description": "Bomb Squad 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "16 ",
+      "HEX ": "010 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO GTF 1",
+      "Description": "Gang Task Force 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO GTF 2",
+      "Description": "Gang Task Force 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO WARRANTS",
+      "Description": "Warrants ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "MontSO HNT 1",
+      "Description": "Hostage Negotiation Team 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO HNT 2",
+      "Description": "Hostage Negotiation Team 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "21 ",
+      "HEX ": "015 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO JAIL 1",
+      "Description": "Jail 1 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "22 ",
+      "HEX ": "016 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO JAIL 2",
+      "Description": "Jail 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "23 ",
+      "HEX ": "017 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO BAILIFF 1",
+      "Description": "Bailiffs 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "24 ",
+      "HEX ": "018 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MonStO BAILIFF 2",
+      "Description": "Bailiffs 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "25 ",
+      "HEX ": "019 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO Cooks",
+      "Description": "Jail Cooks ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "26 ",
+      "HEX ": "01a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO JAIL ISS",
+      "Description": "Jail Inmate Service Specialists ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "27 ",
+      "HEX ": "01b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MontSO JAIL MED",
+      "Description": "Jail Medical Services ",
+      "Tag  ": "Corrections "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "638 ",
+      "HEX ": "27e ",
+      "Mode  ": "DE",
+      "Alpha Tag": "S Cities PD Disp",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "490 ",
+      "HEX ": "1ea ",
+      "Mode  ": "DE",
+      "Alpha Tag": "S Cities PD Det1",
+      "Description": "Detectives 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "491 ",
+      "HEX ": "1eb ",
+      "Mode  ": "DE",
+      "Alpha Tag": "S Cities PD Det2",
+      "Description": "Detectives 2 ",
+      "Tag  ": "Law Talk "
+    }
+  ]
+}

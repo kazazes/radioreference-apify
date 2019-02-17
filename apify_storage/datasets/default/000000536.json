@@ -1,0 +1,223 @@
+{
+  "System Name": "San Mateo County",
+  "Location": "Redwood City, CA",
+  "County": "San Mateo",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "April 4, 2018, 7:25 am (Updated Function Tag assignments for 6 talkgroups(System Wide))",
+  "System ID List": [
+    {
+      "System ID": "38D",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Brisbane",
+      "Freqs": [
+        "771.05625",
+        "772.18125a",
+        "772.63125a",
+        "772.93125a",
+        "773.88125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "Towne Ridge",
+      "Freqs": [
+        "771.80625",
+        "772.18125a",
+        "772.63125a",
+        "772.93125a",
+        "773.88125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Countywide Simulcast",
+      "Freqs": [
+        "770.03125",
+        "770.30625",
+        "771.28125",
+        "771.43125",
+        "771.58125",
+        "771.88125",
+        "772.03125a",
+        "772.40625a",
+        "772.70625c",
+        "773.48125c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Pigeon Point",
+      "Freqs": [
+        "769.34375",
+        "771.35625a",
+        "772.25625a",
+        "773.96875a",
+        "774.63125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Pescadero",
+      "Freqs": [
+        "769.30625",
+        "772.10625a",
+        "772.78125a",
+        "773.40625a",
+        "774.70625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Point Montara",
+      "Freqs": [
+        "771.80625",
+        "772.18125a",
+        "772.63125a",
+        "772.93125a",
+        "773.88125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "La Honda",
+      "Freqs": [
+        "769.10625",
+        "771.35625a",
+        "772.25625a",
+        "773.96875a",
+        "774.63125c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "35601 ",
+      "HEX ": "8b11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Interop 1",
+      "Description": "Interop 1 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35602 ",
+      "HEX ": "8b12 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Interop 2",
+      "Description": "Interop 2 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35603 ",
+      "HEX ": "8b13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Interop 3",
+      "Description": "Interop 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35604 ",
+      "HEX ": "8b14 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Interop 4",
+      "Description": "Interop 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35605 ",
+      "HEX ": "8b15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Interop 5",
+      "Description": "Interop 5 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "35606 ",
+      "HEX ": "8b16 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SMC Calling",
+      "Description": "Calling ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "541 ",
+      "HEX ": "21d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 1",
+      "Description": "SamTrans Transit Trunking Ch 1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "542 ",
+      "HEX ": "21e ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 2",
+      "Description": "SamTrans Transit Trunking Ch 2 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "543 ",
+      "HEX ": "21f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 3",
+      "Description": "SamTrans Transit Trunking Ch 3 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "544 ",
+      "HEX ": "220 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 4",
+      "Description": "SamTrans Transit Trunking Ch 4 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "545 ",
+      "HEX ": "221 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 5",
+      "Description": "SamTrans Transit Trunking Ch 5 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "546 ",
+      "HEX ": "222 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SamTrans 6",
+      "Description": "SamTrans Transit Trunking Ch 6 ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

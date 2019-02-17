@@ -1,0 +1,75 @@
+{
+  "System Name": "Apollo Group Inc",
+  "Location": "Phoenix, AZ",
+  "County": "Maricopa",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "August 19, 2016, 5:51 pm (Changed Site # 004 (Hohokam) to 004 (Hohokam))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "North Riverpoint",
+        "01 461.4125 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": [
+        "Tempe",
+        "01 463.300 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": [
+        "Hohokam",
+        "01 464.6125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Command",
+      "Description": "Command ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "S Riverpoint",
+      "Description": "South Riverpoint ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "N Riverpoint",
+      "Description": "North Riverpoint ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "104 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Hohokam",
+      "Description": "Hohokam ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tempe",
+      "Description": "Tempe ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Talkaround",
+      "Description": "Talkaround ",
+      "Tag  ": "Security "
+    }
+  ]
+}

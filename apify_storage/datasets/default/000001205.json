@@ -1,0 +1,18 @@
+{
+  "System Name": "The Fairmont Orchid Hawaii",
+  "Location": "Kamuela, HI",
+  "County": "Hawaii",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 23, 2017, 1:32 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Orchid",
+        "01 461.325 ",
+        "02 466.325 "
+      ]
+    }
+  ]
+}

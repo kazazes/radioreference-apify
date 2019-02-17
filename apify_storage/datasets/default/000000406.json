@@ -1,0 +1,26 @@
+{
+  "System Name": "Fresno Mobile Radio",
+  "Location": "Various, CA",
+  "County": "Mariposa",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 18, 2017, 5:42 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Bullion",
+        "03 856.5875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-230 ",
+      "Mode  ": "A",
+      "Alpha Tag": "03230 spanish",
+      "Description": "Spanish ",
+      "Tag  ": "Business "
+    }
+  ]
+}

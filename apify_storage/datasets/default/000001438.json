@@ -1,0 +1,76 @@
+{
+  "System Name": "FedEx - O'Hare International Airport (DMR 177)",
+  "Location": "Chicago, IL",
+  "County": "Cook",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 9, 2018, 6:03 pm ((7) Talkgroups Updated (All))",
+  "System ID List": [
+    {
+      "System ID": "177"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "O'Hare",
+        "02 939.225c ",
+        "03 939.2375a ",
+        "04 939.250 ",
+        "05 939.200 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "800002 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800002",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800003 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800003",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800004 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800004",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800005 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800005",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800006 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800006",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800007 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800007",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "800011 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Ops 800011",
+      "Description": "Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

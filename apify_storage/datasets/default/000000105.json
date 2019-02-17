@@ -1,0 +1,421 @@
+{
+  "System Name": "Regional Wireless Cooperative (RWC)",
+  "Location": "Phoenix, AZ",
+  "County": "3 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "January 5, 2019, 11:12 pm ((1) Talkgroups Updated (multi-category change))",
+  "System ID List": [
+    {
+      "System ID": "534",
+      "WACN": "BEE08"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast B:  Phoenix Fire and Public Works",
+      "County": "Maricopa",
+      "Freqs": [
+        "770.83125c",
+        "771.13125a",
+        "771.18125a",
+        "771.38125",
+        "771.43125a",
+        "771.63125",
+        "771.88125",
+        "771.98125",
+        "772.13125",
+        "772.23125",
+        "772.38125",
+        "772.43125",
+        "772.63125",
+        "772.68125",
+        "772.88125",
+        "773.13125",
+        "773.38125",
+        "773.68125",
+        "774.18125",
+        "774.43125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Simulcast C: Chandler",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.10625",
+        "769.35625",
+        "769.60625",
+        "769.85625",
+        "770.10625a",
+        "770.35625a",
+        "770.60625",
+        "770.85625",
+        "771.10625",
+        "771.35625",
+        "771.60625",
+        "771.85625",
+        "772.10625a",
+        "772.35625c",
+        "772.60625",
+        "772.85625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Sky Harbor IR",
+      "County": "Maricopa",
+      "Freqs": [
+        "772.08125a",
+        "772.33125c",
+        "772.58125a",
+        "772.83125a",
+        "773.15625",
+        "773.40625",
+        "773.65625"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Simulcast A: Phoenix PD and City Services",
+      "County": "Maricopa",
+      "Freqs": [
+        "771.68125c",
+        "771.79375a",
+        "771.93125",
+        "772.04375a",
+        "772.18125a",
+        "772.29375",
+        "772.48125",
+        "772.54375",
+        "772.73125",
+        "772.79375",
+        "772.93125",
+        "773.18125",
+        "773.43125",
+        "774.23125",
+        "774.48125",
+        "774.73125"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Anthem/New River Simulcast",
+      "County": "Maricopa",
+      "Freqs": [
+        "772.08125a",
+        "772.33125a",
+        "772.58125c",
+        "772.83125a",
+        "773.15625",
+        "773.40625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "005 (5)",
+      "Name": "Simulcast F: Tempe",
+      "County": "Maricopa",
+      "Freqs": [
+        "771.16875",
+        "771.41875",
+        "771.66875",
+        "771.91875a",
+        "772.16875",
+        "772.41875",
+        "772.55625",
+        "772.66875",
+        "772.80625",
+        "772.91875",
+        "773.16875a",
+        "773.41875",
+        "773.66875",
+        "773.91875",
+        "774.16875a",
+        "774.41875c"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "001 (1)",
+      "Name": "Simulcast H: Scottsdale",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.34375",
+        "769.59375",
+        "769.84375",
+        "770.09375",
+        "770.34375",
+        "770.59375",
+        "770.84375",
+        "771.09375a",
+        "771.34375a",
+        "771.59375a",
+        "771.84375c"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "001 (1)",
+      "Name": "South Mountain High",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.30625a",
+        "769.55625c",
+        "769.80625a",
+        "770.05625a",
+        "770.30625",
+        "770.55625",
+        "770.80625",
+        "771.05625",
+        "771.30625",
+        "771.55625"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "002 (2)",
+      "Name": "North Mountain High",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.28125c",
+        "769.53125a",
+        "769.78125a",
+        "770.03125a",
+        "770.28125",
+        "770.53125",
+        "770.78125",
+        "771.03125",
+        "771.28125",
+        "771.53125"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "003 (3)",
+      "Name": "Far North Mountain (Mt. Gillen) High",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.25625a",
+        "769.50625c",
+        "769.75625a",
+        "770.00625a",
+        "770.25625",
+        "770.50625",
+        "770.75625",
+        "771.00625",
+        "771.25625"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "Sacaton Mountain High",
+      "County": "Pinal",
+      "Freqs": [
+        "772.46875a",
+        "772.71875c",
+        "772.96875a",
+        "773.21875a",
+        "773.46875",
+        "773.71875",
+        "773.96875",
+        "774.21875",
+        "774.46875",
+        "774.71875"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "005 (5)",
+      "Name": "Thompson Peak High",
+      "County": "Maricopa",
+      "Freqs": [
+        "771.76875a",
+        "772.01875c",
+        "772.26875a",
+        "772.98125a",
+        "773.14375",
+        "773.23125",
+        "773.39375",
+        "773.48125",
+        "773.73125",
+        "773.98125"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "006 (6)",
+      "Name": "Towers Mountain High",
+      "County": "Yavapai",
+      "Freqs": [
+        "772.49375c",
+        "772.74375a",
+        "772.99375a",
+        "773.24375a",
+        "773.49375",
+        "773.74375",
+        "773.99375",
+        "774.24375",
+        "774.49375",
+        "774.74375"
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "007 (7)",
+      "Name": "White Tanks Regional Park",
+      "County": "Maricopa",
+      "Freqs": [
+        "772.44375c",
+        "772.69375a",
+        "772.94375a",
+        "773.19375a",
+        "773.44375",
+        "773.69375",
+        "773.94375",
+        "774.19375",
+        "774.44375"
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "001 (1)",
+      "Name": "Simulcast G: West Valley",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.31875",
+        "769.56875",
+        "769.81875",
+        "770.06875",
+        "770.31875",
+        "770.56875",
+        "770.81875",
+        "771.06875c",
+        "771.31875",
+        "771.56875a",
+        "771.61875a",
+        "771.86875a",
+        "772.05625",
+        "772.11875",
+        "772.30625",
+        "772.36875",
+        "772.61875",
+        "772.86875"
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "002 (2)",
+      "Name": "Quintero IR",
+      "County": "Maricopa",
+      "Freqs": [
+        "772.06875a",
+        "772.31875a",
+        "772.56875c",
+        "772.81875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "003 (3)",
+      "Name": "Simulcast J: Buckeye",
+      "County": "Maricopa",
+      "Freqs": [
+        "769.11875c",
+        "769.36875a",
+        "769.61875a",
+        "769.86875a",
+        "770.11875",
+        "770.36875",
+        "772.78125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2191 ",
+      "HEX ": "88f ",
+      "Mode  ": "DE",
+      "Alpha Tag": "AZ DPS CI",
+      "Description": "AZ DPS CI ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2192 ",
+      "HEX ": "890 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "AZ DPS CI",
+      "Description": "AZ DPS CI ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "201 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sim A Test",
+      "Description": "Simulcast A Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "202 ",
+      "HEX ": "0ca ",
+      "Mode  ": "D",
+      "Alpha Tag": "Sim B Test",
+      "Description": "Simulcast B Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "203 ",
+      "HEX ": "0cb ",
+      "Mode  ": "T",
+      "Alpha Tag": "Sim C Test",
+      "Description": "Simulcast C Test ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1589 ",
+      "HEX ": "635 ",
+      "Mode  ": "D",
+      "Alpha Tag": "RM/RWC Ops",
+      "Description": "Radio Maintenance RWC Operations ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1590 ",
+      "HEX ": "636 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 1590",
+      "Description": "Radio Maintenance Testing ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1594 ",
+      "HEX ": "63a ",
+      "Mode  ": "D",
+      "Alpha Tag": "WirelessRadT",
+      "Description": "Wireless Radio Technicians ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1804 ",
+      "HEX ": "70c ",
+      "Mode  ": "D",
+      "Alpha Tag": "Test 1804",
+      "Description": "Radio Techs ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

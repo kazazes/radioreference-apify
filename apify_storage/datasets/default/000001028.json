@@ -1,0 +1,40 @@
+{
+  "System Name": "Daytona International Speedway",
+  "Location": "Daytona Beach, FL",
+  "County": "Volusia",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 19, 2016, 2:06 pm (Added Talkgroup 207 Encrypted)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Speedway",
+        "01 452.850 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "153 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Shuttle",
+      "Description": "Shuttle ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "207 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "Encrypted",
+      "Description": "Encrypted ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "250 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    }
+  ]
+}

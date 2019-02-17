@@ -1,0 +1,23 @@
+{
+  "System Name": "Dow Corning (Carrollton)",
+  "Location": "Carrollton, KY",
+  "County": "Carroll",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 31, 2010, 7:23 pm (Changed Site # 001 (Site 1 (Carrollton)) to 001 (Site 1 (Carrollton)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1 (Carrollton)",
+        "01 451.7875 ",
+        "02 461.5125 ",
+        "03 461.7125 ",
+        "04 462.0625 ",
+        "05 462.1625 ",
+        "06 463.4125 ",
+        "07 463.9625 "
+      ]
+    }
+  ]
+}

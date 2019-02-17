@@ -1,0 +1,1470 @@
+{
+  "System Name": "WyoLink",
+  "Location": "Statewide, WY ID CO",
+  "County": "4 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 4, 2019, 6:07 pm (Changed Talkgroup Category: University of Wyoming to University of Wyoming(University of Wyoming))",
+  "System ID List": [
+    {
+      "System ID": "1A4",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "85 South",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "154.070c",
+        "154.1075",
+        "154.695",
+        "154.845",
+        "155.430a",
+        "155.5275",
+        "155.985"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Fox Farm 800",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "852.2625",
+        "852.450",
+        "852.700",
+        "852.8875",
+        "853.300",
+        "853.5375a",
+        "853.750c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Pinkham Mountain",
+      "County": "Jackson, CO",
+      "Freqs": [
+        "171.3125c",
+        "171.4625",
+        "171.5625",
+        "172.3125",
+        "172.6625a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Sherman Hill",
+      "County": "Albany, WY",
+      "Freqs": [
+        "154.130",
+        "154.725",
+        "154.785",
+        "155.070a",
+        "155.190c",
+        "155.5875a",
+        "155.850"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Snow King",
+      "County": "Teton, WY",
+      "Freqs": [
+        "150.890c",
+        "151.0625",
+        "151.280",
+        "153.4025",
+        "155.535a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "Hell Hole",
+      "County": "Bear Lake, ID",
+      "Freqs": [
+        "171.3125",
+        "171.3375c",
+        "171.4625",
+        "172.3125a",
+        "172.6625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Cheyenne Water Tank",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "161.825",
+        "161.850",
+        "169.625c",
+        "169.7125a",
+        "169.775",
+        "170.075",
+        "170.3625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Oyster Ridge",
+      "County": "Lincoln, WY",
+      "Freqs": [
+        "153.7475a",
+        "153.935",
+        "156.1275c",
+        "156.1425",
+        "170.8625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Signal Mountain",
+      "County": "Teton, WY",
+      "Freqs": [
+        "151.1825c",
+        "153.0575a",
+        "153.110",
+        "155.0175",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "010 (A)",
+      "Name": "North Albin",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "154.325a",
+        "155.505c",
+        "155.820",
+        "155.955",
+        "156.240",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "011 (B)",
+      "Name": "Sage Junction",
+      "County": "Lincoln, WY",
+      "Freqs": [
+        "150.980c",
+        "151.175",
+        "151.3775",
+        "151.4675a",
+        "152.510",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Black Mountain",
+      "County": "Bonneville, ID",
+      "Freqs": [
+        "150.8975",
+        "151.415",
+        "153.410",
+        "161.850",
+        "169.7875c",
+        "170.025a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Russell Hill",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "154.010a",
+        "154.355c",
+        "155.595",
+        "155.625",
+        "155.670",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "014 (E)",
+      "Name": "Salt Pass",
+      "County": "Lincoln, WY",
+      "Freqs": [
+        "151.2575",
+        "151.2725c",
+        "153.8975",
+        "154.3025a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "015 (F)",
+      "Name": "First Divide",
+      "County": "Uinta, WY",
+      "Freqs": [
+        "152.060",
+        "154.085a",
+        "154.1075c",
+        "154.1675",
+        "155.6625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "016 (10)",
+      "Name": "Whitcomb Hill",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "154.770a",
+        "154.830c",
+        "154.905",
+        "155.0325",
+        "155.325",
+        "155.700",
+        "155.9175"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "017 (11)",
+      "Name": "Road 222 800",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "855.2125",
+        "855.4875",
+        "855.7375",
+        "855.9875",
+        "856.4375",
+        "856.9375a",
+        "857.2125"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "018 (12)",
+      "Name": "Burns 800",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "856.2625",
+        "856.7125",
+        "856.9875",
+        "857.2625",
+        "857.9625a",
+        "857.9625",
+        "858.4375c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "019 (13)",
+      "Name": "Hogsback Ridge",
+      "County": "Sublette, WY",
+      "Freqs": [
+        "155.190",
+        "155.3925a",
+        "155.6175c",
+        "155.7975",
+        "155.895",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "020 (14)",
+      "Name": "Church Buttes",
+      "County": "Uinta, WY",
+      "Freqs": [
+        "151.3625a",
+        "154.2725",
+        "154.9125c",
+        "156.060",
+        "156.210",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "021 (15)",
+      "Name": "Strouss Hill",
+      "County": "Albany, WY",
+      "Freqs": [
+        "150.890c",
+        "150.950a",
+        "151.280",
+        "153.0275",
+        "153.4175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "022 (16)",
+      "Name": "Aspen Mountain",
+      "County": "Sweetwater, WY",
+      "Freqs": [
+        "150.830c",
+        "150.935a",
+        "151.865",
+        "166.875",
+        "169.9875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "024 (18)",
+      "Name": "South Pass",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "153.785c",
+        "153.890",
+        "154.175",
+        "154.310",
+        "154.665",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "025 (19)",
+      "Name": "Delaney Rim",
+      "County": "Sweetwater, WY",
+      "Freqs": [
+        "151.0475a",
+        "151.190",
+        "151.220",
+        "151.3925",
+        "151.835c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "026 (1A)",
+      "Name": "Aspen Ridge",
+      "County": "Sublette, WY",
+      "Freqs": [
+        "151.0175c",
+        "154.1975",
+        "155.5425a",
+        "155.805",
+        "155.8125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "027 (1B)",
+      "Name": "Narrows Hill",
+      "County": "Lincoln, WY",
+      "Freqs": [
+        "151.070c",
+        "153.8225",
+        "155.5575a",
+        "156.0675",
+        "156.1575",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "028 (1C)",
+      "Name": "Archer 800",
+      "County": "Laramie, WY",
+      "Freqs": [
+        "851.1125",
+        "851.300",
+        "851.4625",
+        "851.625",
+        "851.9875",
+        "852.1625a",
+        "852.350c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "029 (1D)",
+      "Name": "Jade Mountain",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "151.085c",
+        "151.400a",
+        "153.845",
+        "153.980",
+        "156.0375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "030 (1E)",
+      "Name": "White Pine",
+      "County": "Sublette, WY",
+      "Freqs": [
+        "150.8825c",
+        "151.0025",
+        "151.2125",
+        "151.2275",
+        "151.460",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "031 (1F)",
+      "Name": "Virgin Hill",
+      "County": "Platte, WY",
+      "Freqs": [
+        "151.2575c",
+        "151.2725",
+        "153.8975a",
+        "153.950a",
+        "154.3025",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Baggs Hill",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "150.8975c",
+        "150.9425a",
+        "154.0025",
+        "155.1225",
+        "155.5425",
+        "155.5575",
+        "155.655",
+        "155.7225",
+        "155.8575"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "034 (22)",
+      "Name": "Divide Hill",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "150.9725c",
+        "151.1675",
+        "154.250",
+        "154.3325a",
+        "155.325",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "036 (24)",
+      "Name": "Mansface Hill",
+      "County": "Sweetwater, WY",
+      "Freqs": [
+        "151.040",
+        "151.310c",
+        "154.0025",
+        "154.1825a",
+        "154.6725",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "037 (25)",
+      "Name": "Nine Mile Hill",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "151.1825c",
+        "151.2425a",
+        "152.750",
+        "152.810",
+        "153.740",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "038 (26)",
+      "Name": "Rawlins Hill",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "151.1525c",
+        "151.3625",
+        "154.2725",
+        "155.565",
+        "156.060a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "039 (27)",
+      "Name": "Wheatland",
+      "County": "Platte, WY",
+      "Freqs": [
+        "150.9725c",
+        "151.1225a",
+        "155.175",
+        "161.825",
+        "161.850",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "040 (28)",
+      "Name": "Muddy Gap",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "150.8825c",
+        "151.0025a",
+        "151.2125",
+        "151.4375",
+        "151.460",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "041 (29)",
+      "Name": "Halleck Ridge",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "154.0925c",
+        "154.2275a",
+        "154.965",
+        "155.655",
+        "155.715",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "042 (2A)",
+      "Name": "Laramie Cemetery",
+      "County": "Albany, WY",
+      "Freqs": [
+        "151.2125c",
+        "151.2275a",
+        "151.4375",
+        "151.460",
+        "155.2725",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "043 (2B)",
+      "Name": "Shirley Mountain",
+      "County": "Carbon, WY",
+      "Freqs": [
+        "153.830a",
+        "153.920c",
+        "154.625",
+        "156.000",
+        "156.0025",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "046 (2E)",
+      "Name": "Torrington",
+      "County": "Goshen, WY",
+      "Freqs": [
+        "150.8825",
+        "151.0025",
+        "151.2275c",
+        "151.460a",
+        "155.745",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "001 (1)",
+      "Name": "Casper Port of Entry",
+      "County": "Natrona, WY",
+      "Freqs": [
+        "150.805a",
+        "150.9725",
+        "152.570",
+        "152.660c",
+        "153.9125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "Pine Ridge",
+      "County": "Platte, WY",
+      "Freqs": [
+        "150.920",
+        "151.055c",
+        "151.205",
+        "153.6425a",
+        "156.2025",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "003 (3)",
+      "Name": "77 Hill",
+      "County": "Niobrara, WY",
+      "Freqs": [
+        "153.080c",
+        "153.8825a",
+        "154.7625",
+        "154.7775",
+        "155.460",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "004 (4)",
+      "Name": "Morton Hill",
+      "County": "Converse, WY",
+      "Freqs": [
+        "150.775c",
+        "150.790a",
+        "151.0925",
+        "156.195",
+        "156.225",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "005 (5)",
+      "Name": "Casper Mountain",
+      "County": "Natrona, WY",
+      "Freqs": [
+        "152.510c",
+        "153.815",
+        "154.2125a",
+        "154.6875",
+        "155.250",
+        "156.180",
+        "171.5375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "006 (6)",
+      "Name": "Waltman Hill",
+      "County": "Natrona, WY",
+      "Freqs": [
+        "150.905c",
+        "151.3025a",
+        "153.1925",
+        "153.755",
+        "156.0825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "007 (7)",
+      "Name": "Copper Mountain",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "153.8225c",
+        "154.0625",
+        "154.650a",
+        "156.1575",
+        "173.825",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "008 (8)",
+      "Name": "Winkleman Dome",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "153.7925a",
+        "153.9875c",
+        "154.115",
+        "154.3175",
+        "154.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "009 (9)",
+      "Name": "Windy Ridge",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "154.040a",
+        "155.1375c",
+        "155.5125",
+        "155.6025",
+        "155.9925",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "010 (A)",
+      "Name": "Cedar Mountain",
+      "County": "Park, WY",
+      "Freqs": [
+        "155.6925",
+        "156.165c",
+        "156.2325",
+        "169.625a",
+        "169.775",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "011 (B)",
+      "Name": "Dead Indian",
+      "County": "Park, WY",
+      "Freqs": [
+        "153.2525c",
+        "153.4625a",
+        "153.4925",
+        "170.8125",
+        "172.1375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "012 (C)",
+      "Name": "Torch Hill",
+      "County": "Big Horn, WY",
+      "Freqs": [
+        "151.3475",
+        "154.025c",
+        "154.0475",
+        "154.3625a",
+        "155.7225",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "013 (D)",
+      "Name": "Rattlesnake Ridge",
+      "County": "Washakie, WY",
+      "Freqs": [
+        "150.920c",
+        "151.205",
+        "153.6425",
+        "154.0325a",
+        "156.2025",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "014 (E)",
+      "Name": "Banner Ridge",
+      "County": "Sheridan, WY",
+      "Freqs": [
+        "150.9725",
+        "152.540c",
+        "152.630a",
+        "154.250",
+        "154.920",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "015 (F)",
+      "Name": "Tisdale Divide",
+      "County": "Johnson, WY",
+      "Freqs": [
+        "151.0475",
+        "151.190c",
+        "151.220a",
+        "151.3925",
+        "153.905",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "016 (10)",
+      "Name": "Tisdale Mountain",
+      "County": "Johnson, WY",
+      "Freqs": [
+        "151.4075c",
+        "154.1225a",
+        "154.190",
+        "156.030",
+        "156.0525",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "017 (11)",
+      "Name": "Pumpkin Buttes",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "151.0175c",
+        "154.0175a",
+        "154.1975",
+        "155.4975",
+        "169.7125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "018 (12)",
+      "Name": "Lone Tree",
+      "County": "Converse, WY",
+      "Freqs": [
+        "151.040c",
+        "151.0775a",
+        "151.310",
+        "154.160",
+        "154.6725",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "019 (13)",
+      "Name": "Rozet Hill",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "153.7775a",
+        "153.920",
+        "154.625a",
+        "155.415c",
+        "156.2175",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "020 (14)",
+      "Name": "Chicken Creek",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "154.2425c",
+        "154.3775a",
+        "154.755",
+        "155.1975",
+        "155.4225",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "021 (15)",
+      "Name": "Warren Peak",
+      "County": "Crook, WY",
+      "Freqs": [
+        "153.6575c",
+        "169.650a",
+        "170.025",
+        "170.8125",
+        "172.1375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "022 (16)",
+      "Name": "Mount Pisgah",
+      "County": "Weston, WY",
+      "Freqs": [
+        "150.8975",
+        "150.9425",
+        "151.0325",
+        "151.475",
+        "151.925c",
+        "153.275",
+        "156.150a",
+        "169.9875",
+        "170.3875",
+        "171.3375"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "023 (17)",
+      "Name": "Cemetery Separation 800",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "851.200c",
+        "851.750",
+        "852.4375",
+        "853.0875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "024 (18)",
+      "Name": "Southern Drive 800",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "851.475c",
+        "852.0875a",
+        "852.4375",
+        "852.750",
+        "853.3625",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "025 (19)",
+      "Name": "3 Mile",
+      "County": "Park, WY",
+      "Freqs": [
+        "151.2575a",
+        "151.2725c",
+        "153.995",
+        "154.9275",
+        "155.685",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "026 (1A)",
+      "Name": "Duncan Lake",
+      "County": "Sheridan, WY",
+      "Freqs": [
+        "152.060c",
+        "152.090a",
+        "152.210",
+        "152.510",
+        "152.810",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "027 (1B)",
+      "Name": "Riverton Main Street",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "154.7625",
+        "154.8975c",
+        "155.490",
+        "155.9325",
+        "156.225",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "028 (1C)",
+      "Name": "Casper Mountain 800",
+      "County": "Natrona, WY",
+      "Freqs": [
+        "854.9875a",
+        "855.2125",
+        "855.7125",
+        "855.9875a",
+        "856.2125",
+        "856.7125",
+        "857.2125",
+        "857.7125",
+        "858.2125a",
+        "858.7125a",
+        "859.2125c",
+        "859.7125"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "029 (1D)",
+      "Name": "Thermopolis Owl Creek Road",
+      "County": "Hot Springs, WY",
+      "Freqs": [
+        "150.875",
+        "151.100",
+        "151.1975a",
+        "151.2875c",
+        "151.3325a",
+        "154.0325a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "031 (1F)",
+      "Name": "Lander Landfill",
+      "County": "Fremont, WY",
+      "Freqs": [
+        "151.4825c",
+        "151.4975a",
+        "153.800",
+        "154.340",
+        "155.2125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "033 (21)",
+      "Name": "Sheridan Kroe Lane",
+      "County": "Sheridan, WY",
+      "Freqs": [
+        "151.3175",
+        "154.220",
+        "155.100",
+        "155.3625",
+        "156.1575c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "035 (23)",
+      "Name": "Gillette Boxelder",
+      "County": "Campbell, WY",
+      "Freqs": [
+        "154.1375c",
+        "154.2725a",
+        "154.385",
+        "154.9125",
+        "156.210",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "038 (26)",
+      "Name": "Douglas Yellowstone Hwy",
+      "County": "Converse, WY",
+      "Freqs": [
+        "151.3625",
+        "154.2725",
+        "154.9125",
+        "156.060a",
+        "156.210c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "041 (29)",
+      "Name": "McCullough Peaks",
+      "County": "Park, WY",
+      "Freqs": [
+        "152.510a",
+        "152.540c",
+        "152.630",
+        "152.660",
+        "152.750",
+        "152.810",
+        " "
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "042 (2A)",
+      "Name": "Alcova Hill 800",
+      "County": "Natrona, WY",
+      "Freqs": [
+        "851.225",
+        "851.275",
+        "851.6375",
+        "851.8875",
+        "852.325",
+        "852.3875a",
+        "852.675"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "043 (2B)",
+      "Name": "Tall Grass 800",
+      "County": "Converse, WY",
+      "Freqs": [
+        "855.2375",
+        "855.4875",
+        "855.7375",
+        "856.2375a",
+        "856.4875c",
+        "856.7375",
+        "856.9875",
+        "857.2375",
+        "857.4875",
+        "857.7375",
+        "857.9875",
+        "858.2375"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 0",
+      "Description": "State Agencies - Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 0A",
+      "Description": "State Agencies - Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 0B",
+      "Description": "State Agencies - Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 0C",
+      "Description": "State Agencies - Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13000 ",
+      "HEX ": "32c8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 1",
+      "Description": "Zone 1 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13001 ",
+      "HEX ": "32c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 1A",
+      "Description": "Zone 1 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13002 ",
+      "HEX ": "32ca ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 1B",
+      "Description": "Zone 1 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13003 ",
+      "HEX ": "32cb ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 1C",
+      "Description": "Zone 1 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13004 ",
+      "HEX ": "32cc ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 2",
+      "Description": "Zone 2 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13005 ",
+      "HEX ": "32cd ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 2A",
+      "Description": "Zone 2 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13006 ",
+      "HEX ": "32ce ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 2B",
+      "Description": "Zone 2 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13007 ",
+      "HEX ": "32cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 2C",
+      "Description": "Zone 2 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 3",
+      "Description": "Zone 3 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 3A",
+      "Description": "Zone 3 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 3B",
+      "Description": "Zone 3 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "108 ",
+      "HEX ": "06c ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 3C",
+      "Description": "Zone 3 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "109 ",
+      "HEX ": "06d ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 4",
+      "Description": "Zone 4 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "110 ",
+      "HEX ": "06e ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 4A",
+      "Description": "Zone 4 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "111 ",
+      "HEX ": "06f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 4B",
+      "Description": "Zone 4 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "112 ",
+      "HEX ": "070 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 4C",
+      "Description": "Zone 4 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "113 ",
+      "HEX ": "071 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 5",
+      "Description": "Zone 5 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "114 ",
+      "HEX ": "072 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 5A",
+      "Description": "Zone 5 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "115 ",
+      "HEX ": "073 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 5B",
+      "Description": "Zone 5 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "116 ",
+      "HEX ": "074 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 5C",
+      "Description": "Zone 5 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13008 ",
+      "HEX ": "32d0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 6",
+      "Description": "Zone 6 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13009 ",
+      "HEX ": "32d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 6A",
+      "Description": "Zone 6 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13010 ",
+      "HEX ": "32d2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 6B",
+      "Description": "Zone 6 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "13011 ",
+      "HEX ": "32d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 6C",
+      "Description": "Zone 6 Ops C ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "117 ",
+      "HEX ": "075 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 7",
+      "Description": "Zone 7 Calling ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "118 ",
+      "HEX ": "076 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 7A",
+      "Description": "Zone 7 Ops A ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "119 ",
+      "HEX ": "077 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 7B",
+      "Description": "Zone 7 Ops B ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "120 ",
+      "HEX ": "078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MAT 7C",
+      "Description": "Zone 7 Ops C ",
+      "Tag  ": "Interop "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "15519 ",
+      "HEX ": "3c9f ",
+      "Mode  ": "D",
+      "Alpha Tag": "21-UPD",
+      "Description": "Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "15507 ",
+      "HEX ": "3c93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "21-UFD",
+      "Description": "Fire ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "15522 ",
+      "HEX ": "3ca2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "21-UPW",
+      "Description": "Public Works ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

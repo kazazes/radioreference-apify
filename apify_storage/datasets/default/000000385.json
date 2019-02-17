@@ -1,0 +1,168 @@
+{
+  "System Name": "Tesoro Oil Pipeline Marine Terminal (Long Beach)",
+  "Location": "Long Beach, CA",
+  "County": "Los Angeles",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "February 11, 2019, 10:19 pm (Added Talkgroup 108 Plant Operations(Pier B Plant))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Pier B",
+        "01 463.600 ",
+        "02 464.050 ",
+        "03 464.450 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "70 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 70",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "71 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 71",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "73 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 73",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "74 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 74",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "75 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 75",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "77 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 77",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "78 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 78",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "79 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 79",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "81 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 81",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "84 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 84",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "85 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 85",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "86 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 86",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "88 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 88",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "89 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 89",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "90 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 90",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "94 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 94",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "97 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 97",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 101",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 105",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro 106",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Tesoro",
+      "Description": "Plant Operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "System Name": "BCI Communications (Oldsmar Capacity Plus)",
+  "Location": "Oldsmar, FL",
+  "County": "Pinellas",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "June 5, 2016, 1:14 am (Updated Function Tag assignments for 1 talkgroups)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 452.750 ",
+        "02 452.750 ",
+        "03 452.725 ",
+        "04 452.725 ",
+        "05 452.225 ",
+        "06 452.225 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "176 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Trans Care",
+      "Description": "Trans Care Dispatch\tEMS Dispatch ",
+      "Tag  ": "EMS Dispatch "
+    }
+  ]
+}

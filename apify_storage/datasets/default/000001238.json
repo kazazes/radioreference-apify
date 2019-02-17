@@ -1,0 +1,84 @@
+{
+  "System Name": "Gem State Communications (Connect Plus)",
+  "Location": "Various, ID",
+  "County": "Ada",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "July 18, 2018, 1:37 am (Deleted 1 talkgroup(s) (All))",
+  "System Frequencies": [
+    {
+      "Site": "9999 (270F)",
+      "Name": [
+        "Lower Deer Point (Boise)",
+        "01 451.8375a ",
+        "02 452.4625a ",
+        "04 454.250a "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Boise Val Towing",
+      "Description": "Boise Valley Towing ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Towing 10",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "12 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Alamo Car",
+      "Description": "Alamo Car Rental ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "14 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Locksmith",
+      "Description": "Locksmith service ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "16 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Emmett Bus",
+      "Description": "Emmett School Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "17 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Landscaping",
+      "Description": "Landscaping Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "19 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Preschool",
+      "Description": "Preschool ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Towing 20",
+      "Description": "Towing Company ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "23 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking Shuttle",
+      "Description": "Parking Shuttle ",
+      "Tag  ": "Business "
+    }
+  ]
+}

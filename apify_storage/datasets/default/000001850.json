@@ -1,0 +1,21 @@
+{
+  "System Name": "ARINC (BWI Airport)",
+  "Location": "BWI Airport, MD",
+  "County": "Anne Arundel",
+  "System Type": "iDEN Standard",
+  "System Voice": "iDEN TDMA",
+  "Last Updated": "October 14, 2010, 2:56 am (Default Location Data Updated to 39.173723 / -76.671524 / 6)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Site-1",
+      "Freqs": [
+        "856.8875",
+        "857.8875",
+        "858.8875",
+        "859.8875",
+        "860.8875"
+      ]
+    }
+  ]
+}

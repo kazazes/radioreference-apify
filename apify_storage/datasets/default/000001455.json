@@ -1,0 +1,27 @@
+{
+  "System Name": "Motorola C and E Plant (Cook)",
+  "Location": "Schaumburg, IL",
+  "County": "Cook",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 10, 2017, 11:48 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "153b",
+      "Connect Tone": "105.88"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.1875c",
+        "937.200c",
+        "937.2125c",
+        "937.225c",
+        "937.2375"
+      ]
+    }
+  ]
+}

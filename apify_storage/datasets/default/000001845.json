@@ -1,0 +1,51 @@
+{
+  "System Name": "University of Maryland Medical Center",
+  "Location": "Baltimore, MD",
+  "County": "Baltimore",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 12, 2011, 4:13 pm (Changed Site # 001 (Site-1) to 001 (Confirmed LCN))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 451.8375 ",
+        "05 452.0125 ",
+        "09 452.3375 ",
+        "13 461.5125 ",
+        "17 463.7375 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-022 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMMC Eng",
+      "Description": "Engineering ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-043 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMMC Sec",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "0-01-072 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMMC Escorts",
+      "Description": "Escorts ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-162 ",
+      "Mode  ": "A",
+      "Alpha Tag": "UMMC Hskpng",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "System Name": "University of California (San Diego)",
+  "Location": "San Diego, CA",
+  "County": "San Diego",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 9, 2018, 2:14 am (Changed Site # 001 (UCSD Campus (Muir College)) to 001 (UCSD Campus (Muir College)))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "UCSD Campus (Muir College)",
+        "01 462.1375 ",
+        "02 462.350 ",
+        "03 463.2125 ",
+        "04 463.5125 ",
+        "05 463.9875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ParkingSigns",
+      "Description": "Transportation and Parking Services - Events Services (Parking Signs) ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "103 ",
+      "Mode  ": "T",
+      "Alpha Tag": "OSD GolfCart",
+      "Description": "Office of Students with Disabilities - Golf Cart Rides ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Parking Enf",
+      "Description": "Transportation and Parking Services - Parking Enforcement ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "106 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Shuttle Ops",
+      "Description": "Transportation and Parking Services - Shuttle Operations ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Shuttle TRN1",
+      "Description": "Transportation and Parking Services - Shuttle Training 1 ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "201 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HousingMaint",
+      "Description": "Housing, Dining and Hospitality - Maintenance 1 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "202 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HousingMant2",
+      "Description": "Housing, Dining and Hospitality - Maintenance 2 ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "203 ",
+      "Mode  ": "T",
+      "Alpha Tag": "203",
+      "Description": "UCSD ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "204 ",
+      "Mode  ": "T",
+      "Alpha Tag": "The Village",
+      "Description": "Housing, Dining and Hospitality - The Village (Transfer Housing) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "213 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Cleaning Svc",
+      "Description": "Housing, Dining and Hospitality - Cleaning Service (Spanish) ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "216 ",
+      "Mode  ": "T",
+      "Alpha Tag": "216",
+      "Description": "UCSD ",
+      "Tag  ": "Schools "
+    }
+  ]
+}

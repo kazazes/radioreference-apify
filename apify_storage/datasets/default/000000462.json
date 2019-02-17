@@ -1,0 +1,876 @@
+{
+  "System Name": "Sacramento Regional Radio Communications System (SRRCS) P25",
+  "Location": "Sacramento, CA",
+  "County": "2 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "February 11, 2019, 3:47 pm ((1) Talkgroups Updated (Citrus Heights))",
+  "System ID List": [
+    {
+      "System ID": "5F2",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "Countywide Simulcast",
+      "County": "Sacramento",
+      "Freqs": [
+        "851.3875",
+        "851.600",
+        "851.625",
+        "851.650",
+        "851.825",
+        "852.075",
+        "852.350a",
+        "852.575",
+        "853.1875c",
+        "853.450c",
+        "853.6125",
+        "853.875c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "013 (D)",
+      "Name": "Twitchell Island",
+      "County": "Sacramento",
+      "Freqs": [
+        "769.10625",
+        "770.03125",
+        "770.58125",
+        "771.05625",
+        "771.50625",
+        "771.88125",
+        "772.33125",
+        "772.70625",
+        "773.48125a",
+        "773.88125a",
+        "774.23125a",
+        "774.63125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3847 ",
+      "HEX ": "f07 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 1",
+      "Description": "Sheriff Dispatch - North ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3849 ",
+      "HEX ": "f09 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 2",
+      "Description": "Sheriff Dispatch - East ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3851 ",
+      "HEX ": "f0b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 3",
+      "Description": "Sheriff Dispatch - South ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3853 ",
+      "HEX ": "f0d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 4",
+      "Description": "Sheriff Dispatch - Rancho Cordova ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3855 ",
+      "HEX ": "f0f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 5",
+      "Description": "Sheriff Records ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3857 ",
+      "HEX ": "f11 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 6",
+      "Description": "Sheriff Airport Detail ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3859 ",
+      "HEX ": "f13 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 7",
+      "Description": "Sheriff Juvenile Hall Court Security ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3861 ",
+      "HEX ": "f15 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 8",
+      "Description": "Sheriff Security Officers ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3863 ",
+      "HEX ": "f17 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 9",
+      "Description": "Sheriff Work Release ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3865 ",
+      "HEX ": "f19 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD 10",
+      "Description": "Sheriff Special Events ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "2981 ",
+      "HEX ": "ba5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SEO",
+      "Description": "Sheriff Special Electronics Operations ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3867 ",
+      "HEX ": "f1b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD CMT1",
+      "Description": "Sheriff CAL-MMET 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3869 ",
+      "HEX ": "f1d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD CMT2",
+      "Description": "Sheriff CAL-MMET 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3871 ",
+      "HEX ": "f1f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD CNET",
+      "Description": "Sheriff Centralized Narcotics Enforcement Team ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3873 ",
+      "HEX ": "f21 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD CRIPS",
+      "Description": "Sheriff Crank Rock Impact Project ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3875 ",
+      "HEX ": "f23 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD HIDTA",
+      "Description": "Sheriff High Impact Drug Trafficking Area Grant  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3877 ",
+      "HEX ": "f25 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD NID",
+      "Description": "Sheriff Narcotic Investigations Division ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3879 ",
+      "HEX ": "f27 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET1",
+      "Description": "Sheriff Detectives Main ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "3881 ",
+      "HEX ": "f29 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET2",
+      "Description": "Sheriff Detectives North ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3883 ",
+      "HEX ": "f2b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET3",
+      "Description": "Sheriff Detectives South ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3885 ",
+      "HEX ": "f2d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET4",
+      "Description": "Sheriff Detectives Warrants ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3887 ",
+      "HEX ": "f2f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET5",
+      "Description": "Sheriff Explosives Unit ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3889 ",
+      "HEX ": "f31 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET6",
+      "Description": "Sheriff Detectives 6 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3891 ",
+      "HEX ": "f33 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD DET7",
+      "Description": "Sheriff Detectives 7 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3893 ",
+      "HEX ": "f35 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD TRAFC",
+      "Description": "Sheriff Traffic ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3895 ",
+      "HEX ": "f37 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD NARCS1",
+      "Description": "Sheriff NARCS Major ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3897 ",
+      "HEX ": "f39 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD NARCS2",
+      "Description": "Sheriff NARCS Street Team ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3899 ",
+      "HEX ": "f3b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD NARCS3",
+      "Description": "Sheriff NARCS 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3901 ",
+      "HEX ": "f3d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD POP1",
+      "Description": "Sheriff Problem Oriented Policing 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3903 ",
+      "HEX ": "f3f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD POP2",
+      "Description": "Sheriff Problem Oriented Policing 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3905 ",
+      "HEX ": "f41 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD POP3",
+      "Description": "Sheriff Problem Oriented Policing 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3907 ",
+      "HEX ": "f43 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SIIB1",
+      "Description": "Sheriff Special Investigations/Intelligence Bureau 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3909 ",
+      "HEX ": "f45 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SIIB2",
+      "Description": "Sheriff Special Investigations/Intelligence Bureau 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3911 ",
+      "HEX ": "f47 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T1",
+      "Description": "Sheriff North Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3913 ",
+      "HEX ": "f49 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T2",
+      "Description": "Sheriff Northeast Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3915 ",
+      "HEX ": "f4b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T3",
+      "Description": "Sheriff South Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3917 ",
+      "HEX ": "f4d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T4",
+      "Description": "Rancho Cordova Police Tac ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3919 ",
+      "HEX ": "f4f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T5",
+      "Description": "Sheriff Tac 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3921 ",
+      "HEX ": "f51 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T5",
+      "Description": "Sheriff Tac 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3923 ",
+      "HEX ": "f53 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T7",
+      "Description": "Sheriff Tac 7 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3925 ",
+      "HEX ": "f55 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD T8",
+      "Description": "Sheriff Tac 8 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3927 ",
+      "HEX ": "f57 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC1",
+      "Description": "Sheriff Folsom Dam Patrols ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3929 ",
+      "HEX ": "f59 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC2",
+      "Description": "Sheriff Security/Corrections 2 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3931 ",
+      "HEX ": "f5b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC3",
+      "Description": "Sheriff Security/Corrections 3 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3933 ",
+      "HEX ": "f5d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC4",
+      "Description": "Sheriff Security/Corrections 4 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3935 ",
+      "HEX ": "f5f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC5",
+      "Description": "Sheriff Security/Corrections 5 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3937 ",
+      "HEX ": "f61 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC6",
+      "Description": "Sheriff Security/Corrections 6 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3939 ",
+      "HEX ": "f63 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SC7",
+      "Description": "Sheriff Security/Corrections 7 ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "DEC ": "3941 ",
+      "HEX ": "f65 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DAI 1",
+      "Description": "District Attorney Investigators 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3943 ",
+      "HEX ": "f67 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DAI 2",
+      "Description": "District Attorney Investigators 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3945 ",
+      "HEX ": "f69 ",
+      "Mode  ": "D",
+      "Alpha Tag": "DAI 3",
+      "Description": "District Attorney Investigators 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "3947 ",
+      "HEX ": "f6b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD ADM1",
+      "Description": "Sheriff Administration 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3949 ",
+      "HEX ": "f6d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD ADM2",
+      "Description": "Sheriff Administration 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3951 ",
+      "HEX ": "f6f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD TRNG1",
+      "Description": "Sheriff Training 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3953 ",
+      "HEX ": "f71 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD TRNG2",
+      "Description": "Sheriff Training 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3955 ",
+      "HEX ": "f73 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD TS1",
+      "Description": "Sheriff Technical Services 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3957 ",
+      "HEX ": "f75 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD TS2",
+      "Description": "Sheriff Technical Services 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3959 ",
+      "HEX ": "f77 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD AUX1",
+      "Description": "Sheriff Auxiliary 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3961 ",
+      "HEX ": "f79 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD AUX2",
+      "Description": "Sheriff Auxiliary 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3963 ",
+      "HEX ": "f7b ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD AUX3",
+      "Description": "Sheriff Auxiliary 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3965 ",
+      "HEX ": "f7d ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD AUX4",
+      "Description": "Sheriff Auxiliary 4 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3967 ",
+      "HEX ": "f7f ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD SED",
+      "Description": "Sheriff Special Enforcement Detail ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3971 ",
+      "HEX ": "f83 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD EVOC",
+      "Description": "Sheriff Emergency Vehicle Operations Course ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "3973 ",
+      "HEX ": "f85 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSD AUX8",
+      "Description": "Sheriff Auxiliary 8 ",
+      "Tag  ": "Law Talk "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "4059 ",
+      "HEX ": "fdb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD1",
+      "Description": "Police Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "4061 ",
+      "HEX ": "fdd ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD2",
+      "Description": "Police Channel 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4063 ",
+      "HEX ": "fdf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD REC",
+      "Description": "Police Records ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4065 ",
+      "HEX ": "fe1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD ADMIN",
+      "Description": "Police Administration ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4067 ",
+      "HEX ": "fe3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T1",
+      "Description": "Police Tac 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4069 ",
+      "HEX ": "fe5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T2",
+      "Description": "Police Tac 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4071 ",
+      "HEX ": "fe7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T3",
+      "Description": "Police Tac 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4073 ",
+      "HEX ": "fe9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T4",
+      "Description": "Police Tac 4 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4075 ",
+      "HEX ": "feb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T5",
+      "Description": "Police Tac 5 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4077 ",
+      "HEX ": "fed ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T6",
+      "Description": "Police Tac 6 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4079 ",
+      "HEX ": "fef ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD T7",
+      "Description": "Police Tac 7 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "4081 ",
+      "HEX ": "ff1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD INV",
+      "Description": "Police Investigations ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4083 ",
+      "HEX ": "ff3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD SINV1",
+      "Description": "Police Special Investigations 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4085 ",
+      "HEX ": "ff5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD SINV2",
+      "Description": "Police Special Investigations 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4087 ",
+      "HEX ": "ff7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PD TRNG",
+      "Description": "Police Training ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4013 ",
+      "HEX ": "fad ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD1",
+      "Description": "Fire Dispatch 1 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "4015 ",
+      "HEX ": "faf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD2",
+      "Description": "Fire Dispatch 2 ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "4017 ",
+      "HEX ": "fb1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T2",
+      "Description": "Fire Tac 2 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4019 ",
+      "HEX ": "fb3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T3",
+      "Description": "Fire Tac 3 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4021 ",
+      "HEX ": "fb5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T4",
+      "Description": "Fire Tac 4 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4023 ",
+      "HEX ": "fb7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T5",
+      "Description": "Fire Tac 5 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4025 ",
+      "HEX ": "fb9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T6",
+      "Description": "Fire Tac 6 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4027 ",
+      "HEX ": "fbb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T7",
+      "Description": "Fire Tac 7 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4029 ",
+      "HEX ": "fbd ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD T8",
+      "Description": "Fire Tac 8 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "4031 ",
+      "HEX ": "fbf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD MA3",
+      "Description": "Fire Mutual Aid 3 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4033 ",
+      "HEX ": "fc1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD MA4",
+      "Description": "Fire Mutual Aid 4 ",
+      "Tag  ": "Interop "
+    },
+    {
+      "DEC ": "4035 ",
+      "HEX ": "fc3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD TRNG",
+      "Description": "Fire Training ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4037 ",
+      "HEX ": "fc5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD DTRNG",
+      "Description": "Fire Dispatch Training ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4039 ",
+      "HEX ": "fc7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS FD ADMIN",
+      "Description": "Fire Administration ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "4041 ",
+      "HEX ": "fc9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PW1",
+      "Description": "Public Works 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4043 ",
+      "HEX ": "fcb ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PW2",
+      "Description": "Public Works 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4045 ",
+      "HEX ": "fcd ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PW3",
+      "Description": "Public Works 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4047 ",
+      "HEX ": "fcf ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PW4",
+      "Description": "Public Works 4 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4049 ",
+      "HEX ": "fd1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS CE",
+      "Description": "Code Enforcement ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4051 ",
+      "HEX ": "fd3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS TRNG2",
+      "Description": "Training 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4053 ",
+      "HEX ": "fd5 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PR1",
+      "Description": "Parks & Recreation 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4055 ",
+      "HEX ": "fd7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PR2",
+      "Description": "Parks & Recreation 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "4057 ",
+      "HEX ": "fd9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WS PR3",
+      "Description": "Parks & Recreation 3 ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

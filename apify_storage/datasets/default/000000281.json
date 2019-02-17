@@ -1,0 +1,141 @@
+{
+  "System Name": "Avenal State Prison",
+  "Location": "Avenal, CA",
+  "County": "Kings",
+  "System Type": "Motorola Type I",
+  "System Voice": "Analog",
+  "Last Updated": "November 15, 2015, 5:28 am (Updated Function Tag assignments for 10 talkgroups)",
+  "System ID List": [
+    {
+      "System ID": "1915",
+      "Connect Tone": "97.3"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "D",
+      "B1": "D",
+      "B2": "D",
+      "B3": "D",
+      "B4": "D",
+      "B5": "D",
+      "B6": "M",
+      "B7": "M"
+    },
+    {
+      "Type": "TT",
+      "B0": "S4",
+      "B1": "S4",
+      "B2": "S4",
+      "B3": "S4",
+      "B4": "S4",
+      "B5": "S4",
+      "B6": "S12",
+      "B7": "S12"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Grounds",
+      "Freqs": [
+        "858.2625",
+        "859.2625",
+        "860.2625c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "000-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Activities",
+      "Description": "Activities (Adam units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "000-06  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bldg 6 Recr",
+      "Description": "Building 6 (Recreation) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "000-10  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ASP 000-10",
+      "Description": "? ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "000-14  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bravo Units",
+      "Description": "(Bravo Units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "100-00  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ASP 100-00",
+      "Description": "? ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "400-00  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Control",
+      "Description": "Control (Frank units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "400-02  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Alpha Units",
+      "Description": "(Alpha units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "400-12  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Yard",
+      "Description": "Yard (Frank units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "400-14  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Frank Units",
+      "Description": "(Frank units) ",
+      "Tag  ": "Corrections "
+    },
+    {
+      "Subfleet ": "400-15  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ASP 400-15",
+      "Description": "? ",
+      "Tag  ": "Corrections "
+    }
+  ]
+}

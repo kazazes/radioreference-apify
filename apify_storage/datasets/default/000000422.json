@@ -1,0 +1,20 @@
+{
+  "System Name": "Walsh Vineyards Management, Inc.",
+  "Location": "Napa, CA",
+  "County": "Napa",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "August 30, 2009, 4:54 pm (Related Link Deleted [Walsh Vineyards Management, Inc. - http://www.wvmgmt.com/])",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Napa",
+        "01 462.125 ",
+        "02 462.325 ",
+        "03 462.400 ",
+        "04 463.300 "
+      ]
+    }
+  ]
+}

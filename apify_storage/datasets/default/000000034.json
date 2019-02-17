@@ -1,0 +1,60 @@
+{
+  "System Name": "Indorama Ventures Xylenes & PTA",
+  "Location": "Decatur, AL",
+  "County": "Morgan",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "May 29, 2016, 7:28 pm (Updated General Trunked System Information)",
+  "System ID List": [
+    {
+      "System ID": "7E37",
+      "Connect Tone": "116.13"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Decatur",
+      "Freqs": [
+        "936.4875",
+        "936.500",
+        "937.3875",
+        "937.400",
+        "937.4125",
+        "937.425",
+        "937.4375",
+        "937.450",
+        "937.4625c",
+        "937.475c",
+        "937.4875c",
+        "937.500c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "3216 ",
+      "HEX ": "0c9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Amoco 3216",
+      "Description": "Amoco 3216 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Amoco 3376",
+      "Description": "Amoco 3376 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3856 ",
+      "HEX ": "0f1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Amoco 3856",
+      "Description": "Amoco 3856 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

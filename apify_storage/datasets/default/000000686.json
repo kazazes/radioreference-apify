@@ -1,0 +1,33 @@
+{
+  "System Name": "Fort Collins",
+  "Location": "Fort Collins, CO",
+  "County": "Larimer",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "March 5, 2010, 1:12 am (Added Talkgroup 01051 Parks)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.500 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-051 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks",
+      "Description": "Parks ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1-01-050 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Parks",
+      "Description": "Parks ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

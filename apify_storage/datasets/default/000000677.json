@@ -1,0 +1,42 @@
+{
+  "System Name": "ACS Associates LLC",
+  "Location": ", CO",
+  "County": "Jefferson",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "May 4, 2018, 1:00 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "004 (4)",
+      "Name": "Site 4",
+      "Freqs": [
+        "152.3375c",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Site 5",
+      "Freqs": [
+        "152.885",
+        "153.3575"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2008 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Encrypted",
+      "Description": "Encrypted 2008 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2010 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Encrypted",
+      "Description": "Encrypted 2010 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "System Name": "Eastern Iowa Power Cooperative",
+  "Location": "Various, IA",
+  "County": "5 counties",
+  "System Type": "DMR Conventional Networked",
+  "System Voice": "DMR",
+  "Last Updated": "October 24, 2018, 12:31 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Wapello",
+      "County": [
+        "Louisa",
+        "451.425 (CC 6)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "West Burlington",
+      "County": [
+        "Des Moines",
+        "463.2125 (CC 5)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Wilton",
+      "County": [
+        "Muscatine",
+        "461.6875 (CC 2)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Muscatine",
+      "County": [
+        "Muscatine",
+        "451.500 (CC 4)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "Lone Tree",
+      "County": [
+        "Johnson",
+        "462.0375 (CC 1)"
+      ]
+    },
+    {
+      "Site": "001 (1)",
+      "Name": "DeWitt",
+      "County": [
+        "Clinton",
+        "461.4125 (CC 3)"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "56 ",
+      "Slot ": "1 ",
+      "Mode  ": "T",
+      "Alpha Tag": "EILPC Ops 56",
+      "Description": "Operations 56 ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

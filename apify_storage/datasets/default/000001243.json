@@ -1,0 +1,21 @@
+{
+  "System Name": "Stoker Communications",
+  "Location": "Boise, ID",
+  "County": "Ada",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 24, 2017, 3:32 am (Deleted 1 talkgroup(s) (General))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Primary",
+        "01 452.025 ",
+        "02 452.4875 ",
+        "03 461.400 ",
+        "04 463.6625 ",
+        "05 464.450 "
+      ]
+    }
+  ]
+}

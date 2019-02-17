@@ -1,0 +1,102 @@
+{
+  "System Name": "Howard County",
+  "Location": "Kokomo, IN",
+  "County": "Howard",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 8, 2018, 2:14 am (Changed Site # 001 (Simulcast) to 001 (Simulcast))",
+  "System ID List": [
+    {
+      "System ID": "734",
+      "WACN": "00001"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "851.200",
+        "851.3375",
+        "852.125c",
+        "852.325a",
+        "852.600a",
+        "852.600",
+        "852.850",
+        "853.2125c",
+        "853.2875",
+        "854.0625",
+        "854.4875"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "10018 ",
+      "HEX ": "2722 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HCEMA DISPATCH",
+      "Description": "Dispatch ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "10019 ",
+      "HEX ": "2723 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HCEMA 5",
+      "Description": "Operations 5 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "10020 ",
+      "HEX ": "2724 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HCEMA 6",
+      "Description": "Operations 6 ",
+      "Tag  ": "Emergency Ops "
+    },
+    {
+      "DEC ": "10021 ",
+      "HEX ": "2725 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HCEMA 7",
+      "Description": "Operations 7 ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "10001 ",
+      "HEX ": "2711 ",
+      "Mode  ": "T",
+      "Alpha Tag": "KTS-TROLLEY",
+      "Description": "Kokomo City Transit Services - Trolley ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "10055 ",
+      "HEX ": "2747 ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC-ROADS 1",
+      "Description": "County Highway ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10061 ",
+      "HEX ": "274d ",
+      "Mode  ": "T",
+      "Alpha Tag": "HC ROADS",
+      "Description": "County Highway ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "10123 ",
+      "HEX ": "278b ",
+      "Mode  ": "T",
+      "Alpha Tag": "KDPW OPS",
+      "Description": "Kokomo Public Works - Operations ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

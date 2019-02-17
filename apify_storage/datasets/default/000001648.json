@@ -1,0 +1,108 @@
+{
+  "System Name": "Midwest Mobile Radio Service - Kansas",
+  "Location": "Hiawatha, KS",
+  "County": "6 counties",
+  "System Type": "LTR Passport",
+  "System Voice": "Analog",
+  "Last Updated": "July 30, 2012, 3:56 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Hiawatha",
+      "County": [
+        "Brown",
+        "01 451.9125 ",
+        "02 453.0125 ",
+        "03 463.925 ",
+        "04 463.2875 ",
+        "05 464.6125 ",
+        "06 464.7875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "Troy",
+      "County": [
+        "Doniphan",
+        "01 463.800 ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Hoyt",
+      "County": [
+        "Jackson",
+        "01 463.3625 ",
+        "02 463.6125 ",
+        "03 463.8375 ",
+        "04 464.4625 ",
+        "05 464.6375 ",
+        "06 464.9125 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Leavenworth 1",
+      "County": [
+        "Leavenworth",
+        "01 461.075 ",
+        "02 461.150 ",
+        "03 461.225 ",
+        "04 464.075 ",
+        "05 464.150 ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Leavenworth 2",
+      "County": [
+        "Leavenworth",
+        "01 451.500 ",
+        "02 461.075 ",
+        "03 461.150 ",
+        "04 461.225 ",
+        "05 461.475 ",
+        "06 461.775 "
+      ],
+      "Data": [
+        "07 464.075 ",
+        "08 464.150 ",
+        "09 464.200 ",
+        "10 463.2125 ",
+        "11 464.4875 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "St. Marys",
+      "County": [
+        "Pottawatomie",
+        "01 463.5625 ",
+        "02 463.9375 ",
+        "03 464.8625 ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Topeka",
+      "County": [
+        "Shawnee",
+        "01 463.6125 ",
+        "02 464.4625 ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "System Name": "Southwest Allen County Schools",
+  "Location": "Fort Wayne, IN",
+  "County": "Allen",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "November 15, 2013, 1:12 pm (Changed Site # 001 (Fort Wayne) to 001 (Fort Wayne))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Fort Wayne",
+        "00 453.1875 ",
+        "00 453.6375 ",
+        "00 453.100 ",
+        "03 453.7375 ",
+        "05 460.1125 "
+      ]
+    }
+  ]
+}

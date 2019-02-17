@@ -1,0 +1,79 @@
+{
+  "System Name": "Story County",
+  "Location": "Alleman, IA",
+  "County": "Story",
+  "System Type": "Motorola Type IIi Hybrid",
+  "System Voice": "Analog",
+  "Last Updated": "May 2, 2016, 3:39 am (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "2308",
+      "Connect Tone": "83.72"
+    }
+  ],
+  "System Fleetmap": [
+    {
+      "Type": "Mot",
+      "B0": "A",
+      "B1": "A",
+      "B2": "A",
+      "B3": "B",
+      "B4": "B",
+      "B5": "C",
+      "B6": "A",
+      "B7": "2"
+    },
+    {
+      "Type": "TT",
+      "B0": "S1",
+      "B1": "S1",
+      "B2": "S1",
+      "B3": "S2",
+      "B4": "S2",
+      "B5": "S3",
+      "B6": "S1",
+      "B7": "S0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "856.5125",
+        "856.6375",
+        "857.5125",
+        "857.6375",
+        "858.5125",
+        "858.6375",
+        "859.5125",
+        "859.6375c",
+        "860.1125",
+        "860.5125",
+        "860.6375c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "Subfleet ": "0  ",
+      "DEC ": "61440 ",
+      "HEX ": "f00 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Weather",
+      "Description": "NWS MICRN (Severe Weather Net) ",
+      "Tag  ": "Emergency Ops "
+    }
+  ],
+  "undefined": [
+    {
+      "Subfleet ": "010-1  ",
+      "DEC ": "0 ",
+      "HEX ": "000 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Ames Taxi",
+      "Description": "Taxi ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "System Name": "COJ SPORTS COMPLEX MOTOTRBO",
+  "Location": "Jacksonville, FL",
+  "County": "Duval",
+  "System Type": "DMR Motorola Capacity Plus Single Site (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 11, 2018, 12:56 am ((2) Talkgroups Updated (TIAA BANK FIELD))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Site 1",
+        "01 453.100 ",
+        "02 453.400 ",
+        "03 453.300 ",
+        "04 453.050 ",
+        "05 453.150 ",
+        "06 453.250 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "7 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 7 U/K",
+      "Description": "UNKOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "10 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 10 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "20 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 20 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "26 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 26 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "27 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 27 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "28 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 28 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "29 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "TG 29 U/K",
+      "Description": "UNKNOWN TG 29 ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "33 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 33 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "34 ",
+      "Mode  ": "Te",
+      "Alpha Tag": "PARKING DIRECT",
+      "Description": "PARKING ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "42 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 42 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "46 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 46 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "48 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 48 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "49 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 49 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "52 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 52 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "53 ",
+      "Mode  ": "TE",
+      "Alpha Tag": "TG 53 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "101 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 101 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "102 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CATERING-1",
+      "Description": "CATERING ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "105 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 105 U/K",
+      "Description": "UNKOWN TG ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "107 ",
+      "Mode  ": "T",
+      "Alpha Tag": "CATERING-2",
+      "Description": "CATERING ",
+      "Tag  ": "Other "
+    },
+    {
+      "DEC ": "108 ",
+      "Mode  ": "T",
+      "Alpha Tag": "TG 108 U/K",
+      "Description": "UNKNOWN TG ",
+      "Tag  ": "Other "
+    }
+  ]
+}

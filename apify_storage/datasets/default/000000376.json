@@ -1,0 +1,317 @@
+{
+  "System Name": "Shell (Carson)",
+  "Location": "Carson, CA",
+  "County": "Los Angeles",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "September 19, 2013, 8:33 am (Changed System ID: [0f11 | 90.00 | ] to [0F11 | 90.0 | ])",
+  "System ID List": [
+    {
+      "System ID": "0F11",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "937.450",
+        "937.4625c",
+        "937.475c",
+        "937.4875c",
+        "937.500c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1456 ",
+      "HEX ": "05b ",
+      "Mode  ": "A",
+      "Alpha Tag": "Carson",
+      "Description": "Carson ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1552 ",
+      "HEX ": "061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Main Gate",
+      "Description": "Main Gate ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MIsle SPHB",
+      "Description": "Mormon Island San Pedro Harbor Berth 171 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1840 ",
+      "HEX ": "073 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ERT",
+      "Description": "ERT ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2032 ",
+      "HEX ": "07f ",
+      "Mode  ": "A",
+      "Alpha Tag": "Logistics",
+      "Description": "Logistics ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2064 ",
+      "HEX ": "081 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Environmenta",
+      "Description": "Environmenta ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2096 ",
+      "HEX ": "083 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "2128 ",
+      "HEX ": "085 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Emergency",
+      "Description": "Emergency ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2352 ",
+      "HEX ": "093 ",
+      "Mode  ": "A",
+      "Alpha Tag": "LAR",
+      "Description": "LAR ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2384 ",
+      "HEX ": "095 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HPD",
+      "Description": "HPD ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2416 ",
+      "HEX ": "097 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HPD2",
+      "Description": "HPD2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2448 ",
+      "HEX ": "099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HPD3",
+      "Description": "HPD3 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2480 ",
+      "HEX ": "09b ",
+      "Mode  ": "A",
+      "Alpha Tag": "CPD",
+      "Description": "CPD ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2512 ",
+      "HEX ": "09d ",
+      "Mode  ": "A",
+      "Alpha Tag": "RP&S",
+      "Description": "RP&S ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2544 ",
+      "HEX ": "09f ",
+      "Mode  ": "A",
+      "Alpha Tag": "COGEN/ETD",
+      "Description": "COGEN/ETD ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2576 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ALKY/LPG",
+      "Description": "ALKY/LPG ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2608 ",
+      "HEX ": "0a3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "FCCU",
+      "Description": "FCCU ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2640 ",
+      "HEX ": "0a5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SRP",
+      "Description": "SRP ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2704 ",
+      "HEX ": "0a9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Open A",
+      "Description": "Open A ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2736 ",
+      "HEX ": "0ab ",
+      "Mode  ": "A",
+      "Alpha Tag": "Open A",
+      "Description": "Open A ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2864 ",
+      "HEX ": "0b3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Maint",
+      "Description": "Maint ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2896 ",
+      "HEX ": "0b5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "HPD Suprvsr",
+      "Description": "HPD Suprvsr ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2928 ",
+      "HEX ": "0b7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CPD Suprvsr",
+      "Description": "CPD Suprvsr ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2960 ",
+      "HEX ": "0b9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SASuprvsr",
+      "Description": "SASuprvsr ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2992 ",
+      "HEX ": "0bb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Const",
+      "Description": "Const ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3024 ",
+      "HEX ": "0bd ",
+      "Mode  ": "A",
+      "Alpha Tag": "T/AHPD",
+      "Description": "T/AHPD ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3088 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "T/A South Ar",
+      "Description": "T/A South Ar ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3120 ",
+      "HEX ": "0c3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "MP 1",
+      "Description": "MP 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3248 ",
+      "HEX ": "0cb ",
+      "Mode  ": "A",
+      "Alpha Tag": "Open E",
+      "Description": "Open E ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "Open F",
+      "Description": "Open F ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "Open G",
+      "Description": "Open G ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Safety",
+      "Description": "Safety ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3408 ",
+      "HEX ": "0d5 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Fire",
+      "Description": "Fire ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3440 ",
+      "HEX ": "0d7 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tac 1",
+      "Description": "Tac 1 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3472 ",
+      "HEX ": "0d9 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tac 2",
+      "Description": "Tac 2 ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3504 ",
+      "HEX ": "0db ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tac 1",
+      "Description": "Tac 1 ",
+      "Tag  ": "Business "
+    }
+  ]
+}

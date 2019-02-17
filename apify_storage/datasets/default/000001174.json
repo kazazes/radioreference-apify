@@ -1,0 +1,21 @@
+{
+  "System Name": "Chevron USA, Inc.",
+  "Location": "Ewa Beach, HI",
+  "County": "Honolulu",
+  "System Type": "Motorola Type II Smartnet",
+  "System Voice": "Analog",
+  "Last Updated": "December 23, 2007, 7:10 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Simulcast",
+      "Freqs": [
+        "856.4125",
+        "857.4125",
+        "858.4125",
+        "859.4125",
+        "860.4125c"
+      ]
+    }
+  ]
+}

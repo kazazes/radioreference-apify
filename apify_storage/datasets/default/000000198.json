@@ -1,0 +1,341 @@
+{
+  "System Name": "United States Air Force (57C)",
+  "Location": "Multiple, CA AR DE KS NE",
+  "County": "6 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "November 10, 2018, 1:35 pm (Updated Function Tag assignments for 5 talkgroups(Little Rock Air Force Base))",
+  "System ID List": [
+    {
+      "System ID": "57C",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Travis AFB",
+      "County": "Solano, CA",
+      "Freqs": [
+        "385.2125c",
+        "385.625a",
+        "385.9125a",
+        "386.0375a",
+        "386.3375",
+        "386.500",
+        "386.6375",
+        "386.8125",
+        "388.000",
+        "388.150",
+        "388.300",
+        "388.550"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Travis AFB",
+      "County": "Solano, CA",
+      "Freqs": [
+        "385.0125c",
+        "385.0625a",
+        "385.8875a",
+        "386.050a",
+        "386.1875",
+        "386.350",
+        "386.4875",
+        "386.650",
+        "386.800",
+        "386.9625",
+        "388.475",
+        "388.5625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Little Rock AFB",
+      "County": "Pulaski, AR",
+      "Freqs": [
+        "385.350",
+        "385.625",
+        "386.200",
+        "386.350a",
+        "386.450a",
+        "386.525",
+        "386.650",
+        "386.850",
+        "386.975",
+        "388.175",
+        "388.300a",
+        "388.575",
+        "388.800c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "012 (C)",
+      "Name": "McConnell AFB",
+      "County": "Sedgwick, KS",
+      "Freqs": [
+        "162.6125c",
+        "163.000a",
+        "163.5125a",
+        "163.5375",
+        "163.5625",
+        "164.4125a",
+        "164.500",
+        "165.0625",
+        "165.0875",
+        "165.1625",
+        "165.1875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "032 (20)",
+      "Name": "Dover AFB",
+      "County": "Kent, DE",
+      "Freqs": [
+        "381.425c",
+        "381.7375",
+        "381.950",
+        "385.625",
+        "386.0625",
+        "386.1625",
+        "386.350",
+        "386.725"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "100 (64)",
+      "Name": "Offutt AFB",
+      "County": "Sarpy, NE",
+      "Freqs": [
+        "406.5625c",
+        "406.9625a",
+        "407.3625",
+        "407.7625",
+        "408.5625",
+        "409.3625",
+        "409.7625",
+        "410.1625",
+        "410.5625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "103 (67)",
+      "Name": "Beale AFB",
+      "County": "Yuba, CA",
+      "Freqs": [
+        "138.0375c",
+        "138.1625a",
+        "138.2625a",
+        "138.3625a",
+        "138.3875",
+        "138.5125",
+        "138.6125",
+        "138.7125",
+        "139.4875",
+        "139.7625"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "104 (68)",
+      "Name": "Beale AFB",
+      "County": "Yuba, CA",
+      "Freqs": [
+        "139.2375c",
+        "139.375a",
+        "140.600",
+        "142.1875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "105 (69)",
+      "Name": "Beale AFB",
+      "County": "Yuba, CA",
+      "Freqs": [
+        "139.0375c",
+        "140.525a",
+        "141.200",
+        "141.800",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "5380 ",
+      "HEX ": "1504 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB MP",
+      "Description": "Military Police ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "5379 ",
+      "HEX ": "1503 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Fire",
+      "Description": "Fire Dispatch ",
+      "Tag  ": "Fire Dispatch "
+    },
+    {
+      "DEC ": "5382 ",
+      "HEX ": "1506 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB X-Ray Base",
+      "Description": "X-Ray Base ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5397 ",
+      "HEX ": "1515 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Global Hawk",
+      "Description": "Global Hawk ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5398 ",
+      "HEX ": "1516 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Bishop Ops",
+      "Description": "Base Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5399 ",
+      "HEX ": "1517 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Air Boss",
+      "Description": "Air Boss ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5400 ",
+      "HEX ": "1518 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Control",
+      "Description": "Control ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5408 ",
+      "HEX ": "1520 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Flight Prep",
+      "Description": "Flight Prep ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5410 ",
+      "HEX ": "1522 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Ground",
+      "Description": "Ground ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5411 ",
+      "HEX ": "1523 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Shuttle",
+      "Description": "Base Shuttle ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5427 ",
+      "HEX ": "1533 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Air Link",
+      "Description": "Aircraft Link ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5442 ",
+      "HEX ": "1542 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Flight Ops",
+      "Description": "Flight Operations ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5456 ",
+      "HEX ": "1550 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Combat",
+      "Description": "Combat ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "5458 ",
+      "HEX ": "1552 ",
+      "Mode  ": "D",
+      "Alpha Tag": "BAFB Materials",
+      "Description": "Materials ",
+      "Tag  ": "Military "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1005",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1007 ",
+      "HEX ": "3ef ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1007",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1011 ",
+      "HEX ": "3f3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1011",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1014 ",
+      "HEX ": "3f6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1014",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1030 ",
+      "HEX ": "406 ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1030",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    },
+    {
+      "DEC ": "1035 ",
+      "HEX ": "40b ",
+      "Mode  ": "D",
+      "Alpha Tag": "OAFB 1035",
+      "Description": "Ops ",
+      "Tag  ": "Military "
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "System Name": "Port of Long Beach",
+  "Location": "Long Beach / Signal Hill, CA",
+  "County": "Los Angeles",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "June 21, 2018, 10:02 pm ((1) Talkgroups Updated (Port Tenants))",
+  "System ID List": [
+    {
+      "System ID": "469",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "0 (0)",
+      "Site": "001 (1)",
+      "Name": "Signal Hill",
+      "Freqs": [
+        "771.45625c",
+        "771.46875a",
+        "771.83125a",
+        "771.84375a",
+        "772.08125c",
+        "772.09375",
+        "772.33125",
+        "772.58125",
+        "772.83125"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "101 ",
+      "HEX ": "065 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LOB PD-701",
+      "Description": "Police - Dispatch West 701 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "102 ",
+      "HEX ": "066 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LOB PD-702",
+      "Description": "Police - Dispatch East 702 ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "103 ",
+      "HEX ": "067 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LOB PD-703",
+      "Description": "Police - Dispatch North ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "104 ",
+      "HEX ": "068 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LOB PD-704",
+      "Description": "Police - Car to Car ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "105 ",
+      "HEX ": "069 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB PD-705",
+      "Description": "Police - Car to Car ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "106 ",
+      "HEX ": "06a ",
+      "Mode  ": "DE",
+      "Alpha Tag": "LOB PD-706",
+      "Description": "Police - Detectives ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "107 ",
+      "HEX ": "06b ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB PD-707",
+      "Description": "Police - Specials ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "120 ",
+      "HEX ": "078 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB AIRPT701",
+      "Description": "Long Beach Airport  ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "131 ",
+      "HEX ": "083 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBPD TAC701",
+      "Description": "Police - TAC 1 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBPD TAC702",
+      "Description": "Police - TAC 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "133 ",
+      "HEX ": "085 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBPD TAC703",
+      "Description": "Police - TAC 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "147 ",
+      "HEX ": "093 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB SAR-701",
+      "Description": "Search & Rescue  ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "601 ",
+      "HEX ": "259 ",
+      "Mode  ": "D",
+      "Alpha Tag": "ENVIRONMENT",
+      "Description": "Public Service / Refuse / Street Sweeping ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "602 ",
+      "HEX ": "25a ",
+      "Mode  ": "D",
+      "Alpha Tag": "TOWING",
+      "Description": "Parking Enforcement / Towing ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "603 ",
+      "HEX ": "25b ",
+      "Mode  ": "D",
+      "Alpha Tag": "ANIMAL CONTR",
+      "Description": "Animal Control ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "604 ",
+      "HEX ": "25c ",
+      "Mode  ": "D",
+      "Alpha Tag": "SIGNALS",
+      "Description": "Traffic Signals ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "631 ",
+      "HEX ": "277 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PUB WKS TAC1",
+      "Description": "Public Works Tactical 1 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "632 ",
+      "HEX ": "278 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PUB WKS TAC2",
+      "Description": "Public Works Tactical 2 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "633 ",
+      "HEX ": "279 ",
+      "Mode  ": "D",
+      "Alpha Tag": "PUB WKS TAC3",
+      "Description": "Public Works Tactical 3 ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "701 ",
+      "HEX ": "2bd ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-701",
+      "Description": "Fire Department 701 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "702 ",
+      "HEX ": "2be ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-702",
+      "Description": "Fire Department 702 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "703 ",
+      "HEX ": "2bf ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-703",
+      "Description": "Fire Department 703 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "704 ",
+      "HEX ": "2c0 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-704",
+      "Description": "Fire Department 704 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "705 ",
+      "HEX ": "2c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-705",
+      "Description": "Fire Department 705 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "706 ",
+      "HEX ": "2c2 ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOB FD-706",
+      "Description": "Fire Department  706 ",
+      "Tag  ": "Fire-Talk "
+    },
+    {
+      "DEC ": "731 ",
+      "HEX ": "2db ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBFD TAC701",
+      "Description": "Fire Department Tac 701 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "732 ",
+      "HEX ": "2dc ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBFD TAC702",
+      "Description": "Fire Department Tac 702 ",
+      "Tag  ": "Fire-Tac "
+    },
+    {
+      "DEC ": "733 ",
+      "HEX ": "2dd ",
+      "Mode  ": "D",
+      "Alpha Tag": "LOBFD TAC703",
+      "Description": "Fire Department Tac 703 ",
+      "Tag  ": "Fire-Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "POLB 1",
+      "Description": "Testing Noted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "50 ",
+      "HEX ": "032 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 50",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "301 ",
+      "HEX ": "12d ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 301",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "501 ",
+      "HEX ": "1f5 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 501",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1003 ",
+      "HEX ": "3eb ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1003",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1004 ",
+      "HEX ": "3ec ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1004",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1005 ",
+      "HEX ": "3ed ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1005",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1006 ",
+      "HEX ": "3ee ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1006",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1007 ",
+      "HEX ": "3ef ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1007",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1008 ",
+      "HEX ": "3f0 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1008",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1010 ",
+      "HEX ": "3f2 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1010",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1011 ",
+      "HEX ": "3f3 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1011",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1012 ",
+      "HEX ": "3f4 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1012",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1014 ",
+      "HEX ": "3f6 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1014",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1021 ",
+      "HEX ": "3fd ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1021",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1023 ",
+      "HEX ": "3ff ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1023",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1024 ",
+      "HEX ": "400 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1024",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1044 ",
+      "HEX ": "414 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "POLB 1044",
+      "Description": "Encrypted ",
+      "Tag  ": "Public Works "
+    },
+    {
+      "DEC ": "1046 ",
+      "HEX ": "416 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "SSA MARINE",
+      "Description": "SSA Marine ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

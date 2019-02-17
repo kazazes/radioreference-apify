@@ -1,0 +1,17 @@
+{
+  "System Name": "Reidy Rhodes and Taylor (LTR)",
+  "Location": "Middleburg, FL",
+  "County": "Clay",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "July 20, 2018, 10:58 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed",
+        "01 451.0125c "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "System Name": "Exxon Communications (Will)",
+  "Location": "Channahon, IL",
+  "County": "Will",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "June 13, 2011, 3:29 am (General text description updated)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.4125",
+        "858.3125",
+        "858.9125",
+        "859.3125c",
+        "860.3125",
+        "860.9125"
+      ]
+    }
+  ]
+}

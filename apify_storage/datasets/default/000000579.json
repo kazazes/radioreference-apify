@@ -1,0 +1,30 @@
+{
+  "System Name": "Ray's Radio Inc LTR",
+  "Location": "Twain Harte, CA",
+  "County": "Tuolumne",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "May 27, 2016, 8:33 pm (Changed Site # 001 (Mt Elizabeth) to 001 (Mt Elizabeth))",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Mt Elizabeth",
+        "01 451.4625 ",
+        "02 N/A ",
+        "04 N/A ",
+        "08 N/A ",
+        "09 N/A "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-060 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Transports",
+      "Description": "Private Transports ",
+      "Tag  ": "Business "
+    }
+  ]
+}

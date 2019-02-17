@@ -1,0 +1,1913 @@
+{
+  "System Name": "AmerenMissouri (P25)",
+  "Location": "St Louis Metro Area/E MO, MO IL IA",
+  "County": "54 counties",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 15, 2018, 3:03 am (Added Talkgroup 561 Electrical Ops (site 30)(All Areas))",
+  "System ID List": [
+    {
+      "System ID": "010",
+      "WACN": "85343"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Caseyville, IL",
+      "County": "St. Clair, IL",
+      "Freqs": [
+        "854.9875c",
+        "856.7875c",
+        "857.9125c",
+        "858.2375",
+        "858.9125c",
+        "859.9125c",
+        "860.8375c"
+      ]
+    },
+    {
+      "RFSS": "2 (2)",
+      "Site": "002 (2)",
+      "Name": "St Louis City - Chouteau",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "855.4875",
+        "856.7875",
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375",
+        "860.8375",
+        "860.9375"
+      ]
+    },
+    {
+      "RFSS": "3 (3)",
+      "Site": "003 (3)",
+      "Name": "Godfrey, IL",
+      "County": "Madison, IL",
+      "Freqs": [
+        "854.3625c",
+        "855.1875c",
+        "855.6875c",
+        "857.1125c",
+        "858.1125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "4 (4)",
+      "Site": "004 (4)",
+      "Name": "High Ridge",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "854.9875c",
+        "855.3875c",
+        "855.9875c",
+        "856.3875c",
+        "857.3875c",
+        "858.3875c",
+        "859.3875c",
+        "860.3875c"
+      ]
+    },
+    {
+      "RFSS": "5 (5)",
+      "Site": "005 (5)",
+      "Name": "St Charles",
+      "County": "St. Charles, MO",
+      "Freqs": [
+        "854.3125",
+        "854.9375",
+        "855.9125",
+        "857.0875c",
+        "857.1375c",
+        "858.0875c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "6 (6)",
+      "Site": "006 (6)",
+      "Name": "Creve Couer ",
+      "County": "St. Louis, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        "857.9125",
+        "858.2375",
+        "858.7875c",
+        "859.2375",
+        "859.7875c",
+        "860.2375c"
+      ]
+    },
+    {
+      "RFSS": "8 (8)",
+      "Site": "001 (1)",
+      "Name": "Portage De Sioux Power Plant",
+      "County": "St. Charles, MO",
+      "Freqs": [
+        "855.0125c",
+        "855.5375c",
+        "857.9125c",
+        "857.9625c",
+        "858.9125c",
+        "859.9125c",
+        " "
+      ]
+    },
+    {
+      "RFSS": "9 (9)",
+      "Site": "001 (1)",
+      "Name": "DeSoto ",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "854.3625c",
+        "855.1875",
+        "857.1125c",
+        "858.1125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "10 (A)",
+      "Site": "001 (1)",
+      "Name": "Crystal City/Festus",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "855.0125",
+        "855.5375",
+        "857.9125",
+        "858.9125c",
+        "859.9125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "11 (B)",
+      "Site": "001 (1)",
+      "Name": "Union ",
+      "County": "Franklin, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        "858.7875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "12 (C)",
+      "Site": "001 (1)",
+      "Name": "Hannibal",
+      "County": "Ralls, MO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        "859.8375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "13 (D)",
+      "Site": "013 (D)",
+      "Name": "Labadie ",
+      "County": "Franklin, MO",
+      "Freqs": [
+        "855.0125c",
+        "855.5375c",
+        "857.9125c",
+        "859.9125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "14 (E)",
+      "Site": "001 (1)",
+      "Name": "Louisiana",
+      "County": "Pike, MO",
+      "Freqs": [
+        "856.3875c",
+        "857.3875c",
+        "858.3875c",
+        "859.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "15 (F)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "854.3125c",
+        "855.1375c",
+        "855.1875c",
+        "855.6375c",
+        "855.6875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "16 (10)",
+      "Site": "001 (1)",
+      "Name": "New Hope",
+      "County": "Lincoln, MO",
+      "Freqs": [
+        "855.0125c",
+        "855.5375c",
+        "857.9125c",
+        "858.9125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "17 (11)",
+      "Site": "001 (1)",
+      "Name": "Quincy, IL ",
+      "County": "Adams, IL",
+      "Freqs": [
+        "855.3625c",
+        "855.8875c",
+        "858.3625c",
+        "859.8875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "19 (13)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.4875c",
+        "855.5375c",
+        "857.8625c",
+        "859.8625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "20 (14)",
+      "Site": "001 (1)",
+      "Name": "Vandalia",
+      "County": "Audrain, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        "860.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "22 (16)",
+      "Site": "001 (1)",
+      "Name": "Wright City (corrected)",
+      "County": "Warren, MO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "23 (17)",
+      "Site": "001 (1)",
+      "Name": "Bakerville",
+      "County": "Pemiscot, MO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "24 (18)",
+      "Site": "001 (1)",
+      "Name": "Benton",
+      "County": "Scott, MO",
+      "Freqs": [
+        "854.7625c",
+        "855.5375c",
+        "856.9125c",
+        "857.9125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "25 (19)",
+      "Site": "001 (1)",
+      "Name": "Cape Girardeau ",
+      "County": "Cape Girardeau, MO",
+      "Freqs": [
+        "854.3625c",
+        "855.1875c",
+        "855.6875c",
+        "857.1125c",
+        "858.1125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "26 (1A)",
+      "Site": "001 (1)",
+      "Name": "Park Hills",
+      "County": "St. Francois, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        "858.7875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "27 (1B)",
+      "Site": "001 (1)",
+      "Name": "Coffman",
+      "County": "Ste. Genevieve, MO",
+      "Freqs": [
+        "854.9375",
+        "857.0875c",
+        "858.0875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "28 (1C)",
+      "Site": "001 (1)",
+      "Name": "Dexter ",
+      "County": "Stoddard, MO",
+      "Freqs": [
+        "854.0625c",
+        "854.3125c",
+        "854.6375c",
+        "854.9375c",
+        "857.1125",
+        "858.1125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "29 (1D)",
+      "Site": "001 (1)",
+      "Name": "Farrar",
+      "County": "Perry, MO",
+      "Freqs": [
+        "856.3875c",
+        "857.3875c",
+        "858.3875c",
+        "859.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "30 (1E)",
+      "Site": "001 (1)",
+      "Name": "Cadet",
+      "County": "Washington, MO",
+      "Freqs": [
+        "855.6875c",
+        "858.9125c",
+        "859.9125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "31 (1F)",
+      "Site": "001 (1)",
+      "Name": "Marble Hill",
+      "County": "Bollinger, MO",
+      "Freqs": [
+        "855.9125c",
+        "856.8625c",
+        "858.8625c",
+        "860.8875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "32 (20)",
+      "Site": "001 (1)",
+      "Name": "Marston",
+      "County": "New Madrid, MO",
+      "Freqs": [
+        "855.0625c",
+        "858.4625c",
+        "859.4625c",
+        "860.3375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "33 (21)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "854.9375c",
+        "855.9125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "34 (22)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "857.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "35 (23)",
+      "Site": "001 (1)",
+      "Name": "Doe Run /or/ Rush Island",
+      "County": ", ",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "37 (25)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "859.3875c",
+        "860.3875c",
+        "860.8375c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "38 (26)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "39 (27)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "854.3125c",
+        "854.9375c",
+        "857.0875c",
+        "858.0875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "40 (28)",
+      "Site": "001 (1)",
+      "Name": "Hickory Hill? (unid loc)",
+      "County": ", ",
+      "Freqs": [
+        "859.3875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "41 (29)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "42 (2A)",
+      "Site": "001 (1)",
+      "Name": "Holts Summit",
+      "County": "Callaway, MO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        "858.8375c",
+        "859.8375c",
+        "860.3875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "43 (2B)",
+      "Site": "001 (1)",
+      "Name": "Portland",
+      "County": "Callaway, MO",
+      "Freqs": [
+        "856.3875c",
+        "857.3875c",
+        "858.3875c",
+        "860.3875c",
+        "860.8375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "44 (2C)",
+      "Site": "001 (1)",
+      "Name": "Columbia",
+      "County": "Boone, MO",
+      "Freqs": [
+        "854.9375c",
+        "857.0875c",
+        "858.0875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "45 (2D)",
+      "Site": "001 (1)",
+      "Name": "Dixon ",
+      "County": "Maries, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "46 (2E)",
+      "Site": "001 (1)",
+      "Name": "unid NEW",
+      "County": ", ",
+      "Freqs": [
+        "856.3875c",
+        "857.3875c",
+        "858.3875c",
+        "859.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "47 (2F)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "859.3875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "48 (30)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "856.3625c",
+        "858.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "49 (31)",
+      "Site": "001 (1)",
+      "Name": "unid NEW",
+      "County": ", ",
+      "Freqs": [
+        "855.5875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "50 (32)",
+      "Site": "001 (1)",
+      "Name": "unid NEW",
+      "County": ", ",
+      "Freqs": [
+        "854.0125c",
+        "854.3125c",
+        "854.6375c",
+        "854.9375c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "51 (33)",
+      "Site": "001 (1)",
+      "Name": "Columbia (*)",
+      "County": "Boone, MO",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        "857.7875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "52 (34)",
+      "Site": "001 (1)",
+      "Name": "Rolla",
+      "County": "Phelps, MO",
+      "Freqs": [
+        "855.0125c",
+        "855.5375c",
+        "857.9125c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "53 (35)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.0125c",
+        "855.5375c",
+        "857.9125c",
+        "860.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "54 (36)",
+      "Site": "001 (1)",
+      "Name": "Altamont",
+      "County": "Crawford, MO",
+      "Freqs": [
+        "854.9375",
+        "856.8375c",
+        "857.8375c",
+        "858.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "55 (37)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.0125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "56 (38)",
+      "Site": "001 (1)",
+      "Name": "Kirksville ?  check for lic**",
+      "County": "Adair, MO",
+      "Freqs": [
+        "856.8125c",
+        "857.8125a",
+        "858.8125a",
+        "859.8125a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "57 (39)",
+      "Site": "001 (1)",
+      "Name": "Brookfield ",
+      "County": "Linn, MO",
+      "Freqs": [
+        "856.3875c",
+        "857.3875a",
+        "858.3875a",
+        "859.3875a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "58 (3A)",
+      "Site": "001 (1)",
+      "Name": "Edina [Need Neighbors]",
+      "County": "Knox, MO",
+      "Freqs": [
+        "854.3125",
+        "854.9375",
+        "857.0875c",
+        "858.0875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "59 (3B)",
+      "Site": "001 (1)",
+      "Name": "Greentop",
+      "County": "Schuyler, MO",
+      "Freqs": [
+        "856.8375c",
+        "857.8375",
+        "858.8375",
+        "859.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "60 (3C)",
+      "Site": "001 (1)",
+      "Name": "unid NEW",
+      "County": ", ",
+      "Freqs": [
+        "856.3125c",
+        "857.3125c",
+        "858.3125c",
+        "859.3125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "61 (3D)",
+      "Site": "001 (1)",
+      "Name": "Keokuk, IA",
+      "County": "Lee, IA",
+      "Freqs": [
+        "856.3875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "62 (3E)",
+      "Site": "001 (1)",
+      "Name": "Booneville ",
+      "County": "Cooper, MO",
+      "Freqs": [
+        "856.8125",
+        "857.8125c",
+        "858.8125",
+        "859.8125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "63 (3F)",
+      "Site": "001 (1)",
+      "Name": "Lawson",
+      "County": "Clay, MO",
+      "Freqs": [
+        "854.3125c",
+        "855.9125a",
+        "857.0875a",
+        "858.0875a",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "64 (40)",
+      "Site": "001 (1)",
+      "Name": "unidentified location (E/NE MO)",
+      "County": ", ",
+      "Freqs": [
+        "854.3625c",
+        "855.1875c",
+        "857.1125c",
+        "858.1125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "65 (41)",
+      "Site": "001 (1)",
+      "Name": "Moberly",
+      "County": "Randolph, MO",
+      "Freqs": [
+        "856.3625",
+        "857.3625c",
+        "858.3625",
+        "859.3625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "66 (42)",
+      "Site": "001 (1)",
+      "Name": "New Florence",
+      "County": "Montgomery, MO",
+      "Freqs": [
+        "856.3125c",
+        "857.3125c",
+        "858.3125c",
+        "859.3125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "66 (42)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "856.3125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "67 (43)",
+      "Site": "001 (1)",
+      "Name": "Utica",
+      "County": "Livingston, MO",
+      "Freqs": [
+        "855.7875a",
+        "856.7875",
+        "857.7875a",
+        "860.3875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "68 (44)",
+      "Site": "001 (1)",
+      "Name": "Houstonia ",
+      "County": "Pettis, MO",
+      "Freqs": [
+        "855.6375",
+        "857.4125c",
+        "858.4125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "69 (45)",
+      "Site": "001 (1)",
+      "Name": "Mount Pleasant, IA ",
+      "County": "Henry, IA",
+      "Freqs": [
+        "856.8375c",
+        "857.8375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "70 (46)",
+      "Site": "001 (1)",
+      "Name": "Odessa",
+      "County": "Lafayette, MO",
+      "Freqs": [
+        "855.1125c",
+        "855.9125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "71 (47)",
+      "Site": "001 (1)",
+      "Name": "Riverside, IA ",
+      "County": "Washington, IA",
+      "Freqs": [
+        "855.7875c",
+        "856.7875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "72 (48)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.1625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "73 (49)",
+      "Site": "001 (1)",
+      "Name": "unidentified location",
+      "County": ", ",
+      "Freqs": [
+        "855.1125c",
+        "855.6375c",
+        "856.3375c",
+        "857.2875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "74 (4A)",
+      "Site": "001 (1)",
+      "Name": "Vienna ",
+      "County": "Maries, MO",
+      "Freqs": [
+        "854.8625c",
+        "855.4625c",
+        "857.3375c",
+        "858.8625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "986 (3DA)",
+      "Site": "001 (1)",
+      "Name": "Doe Run PP [? 23-001]",
+      "County": "St. Francois, MO",
+      "Freqs": [
+        "856.8375",
+        "857.8375",
+        "858.8375",
+        "859.8375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "987 (3DB)",
+      "Site": "001 (1)",
+      "Name": "Charleston ",
+      "County": "Mississippi, MO",
+      "Freqs": [
+        "855.7875",
+        "856.7875",
+        "857.7875",
+        "858.7875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "988 (3DC)",
+      "Site": "001 (1)",
+      "Name": "Cherryville ",
+      "County": "Crawford, MO",
+      "Freqs": [
+        "856.3875",
+        "857.3875",
+        "858.3875",
+        "859.3875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "989 (3DD)",
+      "Site": "001 (1)",
+      "Name": "Mexico",
+      "County": "Audrain, MO",
+      "Freqs": [
+        "854.3625",
+        "855.1875",
+        "857.1125",
+        "858.1125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "990 (3DE)",
+      "Site": "001 (1)",
+      "Name": "Arnold",
+      "County": "Jefferson, MO",
+      "Freqs": [
+        "852.7625",
+        "853.5625",
+        "854.3625",
+        "855.1875",
+        "855.6875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "991 (3DF)",
+      "Site": "001 (1)",
+      "Name": "Overton",
+      "County": "Cooper, MO",
+      "Freqs": [
+        "855.7875",
+        "856.7875",
+        "857.7875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "992 (3E0)",
+      "Site": "001 (1)",
+      "Name": "Gerald ",
+      "County": "Franklin, MO",
+      "Freqs": [
+        "856.3125",
+        "857.3125",
+        "858.3125",
+        "859.3125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "993 (3E1)",
+      "Site": "001 (1)",
+      "Name": "Lesterville/TSPP",
+      "County": "Reynolds, MO",
+      "Freqs": [
+        "855.0125",
+        "855.5375",
+        "856.2875",
+        "857.9125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "994 (3E2)",
+      "Site": "001 (1)",
+      "Name": "Hermann ",
+      "County": "Gasconade, MO",
+      "Freqs": [
+        "856.3625",
+        "857.0875",
+        "857.3625",
+        "858.0875",
+        "858.3625",
+        "859.3625",
+        " "
+      ]
+    },
+    {
+      "RFSS": "995 (3E3)",
+      "Site": "001 (1)",
+      "Name": "Viburnum",
+      "County": "Iron, MO",
+      "Freqs": [
+        "859.3875",
+        "860.3875",
+        "860.8375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "996 (3E4)",
+      "Site": "001 (1)",
+      "Name": "Hallsville",
+      "County": "Boone, MO",
+      "Freqs": [
+        "856.3125",
+        "857.3125",
+        "858.3125",
+        "859.3125",
+        "860.3125",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "997 (3E5)",
+      "Site": "001 (1)",
+      "Name": "Ironton",
+      "County": "Iron, MO",
+      "Freqs": [
+        "856.3625",
+        "857.3625",
+        "858.3625",
+        "859.3625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "998 (3E6)",
+      "Site": "001 (1)",
+      "Name": "Fulton",
+      "County": "Callaway, MO",
+      "Freqs": [
+        "854.9875",
+        "855.9875",
+        "857.4125",
+        "858.4125",
+        "859.4125",
+        "860.4125",
+        " "
+      ]
+    },
+    {
+      "RFSS": "999 (3E7)",
+      "Site": "001 (1)",
+      "Name": "Atlanta ",
+      "County": "Macon, MO",
+      "Freqs": [
+        "855.0125",
+        "855.5375",
+        "857.9125",
+        "858.9125",
+        "860.3875",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "1 ",
+      "HEX ": "001 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "17 ",
+      "HEX ": "011 ",
+      "Mode  ": "D",
+      "Alpha Tag": "N County 17",
+      "Description": "Electrical Ops [North St Louis County] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "18 ",
+      "HEX ": "012 ",
+      "Mode  ": "D",
+      "Alpha Tag": "N County2 18",
+      "Description": "Electrical Ops [North St Louis County 2] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "19 ",
+      "HEX ": "013 ",
+      "Mode  ": "D",
+      "Alpha Tag": "North City",
+      "Description": "Electrical Ops [North St Louis City] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "20 ",
+      "HEX ": "014 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 20",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "33 ",
+      "HEX ": "021 ",
+      "Mode  ": "D",
+      "Alpha Tag": "S County 33",
+      "Description": "Electrical Ops (Ellisville/Training) [South St Louis County] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "34 ",
+      "HEX ": "022 ",
+      "Mode  ": "D",
+      "Alpha Tag": "SSLC Trouble",
+      "Description": "South County Trouble [South St Louis County Ch. 2] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "35 ",
+      "HEX ": "023 ",
+      "Mode  ": "D",
+      "Alpha Tag": "JeffCo 35",
+      "Description": "Electrical Ops - Jefferson County (Pacific/Eureka) [South St Louis City] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "49 ",
+      "HEX ": "031 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 49",
+      "Description": "Electrical Ops (T202) [Berkekey] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "50 ",
+      "HEX ": "032 ",
+      "Mode  ": "D",
+      "Alpha Tag": "N County 50",
+      "Description": "Electrical Ops (Bellfontaine Neighbors) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "51 ",
+      "HEX ": "033 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 51",
+      "Description": "Material Delivery/Pickup* [Dorsett,Creve Coeur] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "66 ",
+      "HEX ": "042 ",
+      "Mode  ": "D",
+      "Alpha Tag": "WbstrGrove66",
+      "Description": "Electrical Ops (Shrewsbery/WebsterGroves/RockHill)  [South St Louis County 3 (MacKenzie)] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "67 ",
+      "HEX ": "043 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ellisville67",
+      "Description": "Electrical Ops \"Ellisville\" ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "70 ",
+      "HEX ": "046 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 70",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "81 ",
+      "HEX ": "051 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 81",
+      "Description": "Electrical Ops (Forest Park/EDACS Patch) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "82 ",
+      "HEX ": "052 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 82",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "129 ",
+      "HEX ": "081 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 129",
+      "Description": "Electrical Ops [Construction] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "132 ",
+      "HEX ": "084 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 132",
+      "Description": "Electrical Ops [Unit Engineering] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "136 ",
+      "HEX ": "088 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 136",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "161 ",
+      "HEX ": "0a1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 161",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "193 ",
+      "HEX ": "0c1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 193",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "207 ",
+      "HEX ": "0cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 207",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "209 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 209",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "280 ",
+      "HEX ": "118 ",
+      "Mode  ": "D",
+      "Alpha Tag": "St Louis 280",
+      "Description": "Electrical Ops (St L) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "281 ",
+      "HEX ": "119 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 281",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "337 ",
+      "HEX ": "151 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 337",
+      "Description": "Electrical Ops (T606) (T6101) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "373 ",
+      "HEX ": "175 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 373",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "511 ",
+      "HEX ": "1ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 511",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "561 ",
+      "HEX ": "231 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 561",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "561 ",
+      "HEX ": "231 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 561",
+      "Description": "Electrical Ops (site 30) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "562 ",
+      "HEX ": "232 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 562",
+      "Description": "Electrical Ops [Pacific?] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "594 ",
+      "HEX ": "252 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 594",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "597 ",
+      "HEX ": "255 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 597",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "609 ",
+      "HEX ": "261 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 609",
+      "Description": "Electrical Ops [St. Charles 3] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "610 ",
+      "HEX ": "262 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 610",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "625 ",
+      "HEX ": "271 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 625",
+      "Description": "Electrical Ops (St Louis City?) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "630 ",
+      "HEX ": "276 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 630",
+      "Description": "Electrical Ops [Line Crews 2] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "641 ",
+      "HEX ": "281 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 641",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "646 ",
+      "HEX ": "286 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 646",
+      "Description": "Electrical Ops [Jeff City Distribution Control?] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "653 ",
+      "HEX ": "28d ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 653",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "865 ",
+      "HEX ": "361 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 865",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1022 ",
+      "HEX ": "3fe ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1022",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1029 ",
+      "HEX ": "405 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1029",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1121 ",
+      "HEX ": "461 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1121",
+      "Description": "Electrical Ops (EDACS Patch) [Wentzville Office] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1123 ",
+      "HEX ": "463 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1123",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1126 ",
+      "HEX ": "466 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Pike 1126",
+      "Description": "Electrical Ops - Louisiana (Pike) [Jefferson City Dispatch] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1553 ",
+      "HEX ": "611 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Taum Sauk 1553",
+      "Description": "Taum Sauk Hydroelectric Power Station ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1569 ",
+      "HEX ": "621 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1569",
+      "Description": "Electrical Ops [Trs Maintenance 1] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1570 ",
+      "HEX ": "622 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1570",
+      "Description": "Electrical Ops [Trs Maintenance 2] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1571 ",
+      "HEX ": "623 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1571",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1584 ",
+      "HEX ": "630 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1584",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1585 ",
+      "HEX ": "631 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1585",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1586 ",
+      "HEX ": "632 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transm 1586",
+      "Description": "Electrical Ops [Transmission (St Ch/Louisiana)] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1588 ",
+      "HEX ": "634 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1588",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1595 ",
+      "HEX ": "63b ",
+      "Mode  ": "D",
+      "Alpha Tag": "Transm 1595",
+      "Description": "Transmission Operations (Rush Island) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1601 ",
+      "HEX ": "641 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1601",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1602 ",
+      "HEX ": "642 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1602",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1605 ",
+      "HEX ": "645 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security N1",
+      "Description": "Security N1 - Nights (simulcast EDACS 12-085) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1606 ",
+      "HEX ": "646 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1606",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1609 ",
+      "HEX ": "649 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1609",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1617 ",
+      "HEX ": "651 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1617",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1618 ",
+      "HEX ": "652 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Security",
+      "Description": "Security (simulcast EDACS 12-102) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1649 ",
+      "HEX ": "671 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Storm One",
+      "Description": "Electrical Ops [Storm One] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1650 ",
+      "HEX ": "672 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Storm Two",
+      "Description": "Electrical Ops [Storm Two] ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1651 ",
+      "HEX ": "673 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1651",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1652 ",
+      "HEX ": "674 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1652",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1653 ",
+      "HEX ": "675 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1653",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1654 ",
+      "HEX ": "676 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1654",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1655 ",
+      "HEX ": "677 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1655",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1656 ",
+      "HEX ": "678 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1656",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1657 ",
+      "HEX ": "679 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1657",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1658 ",
+      "HEX ": "67a ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1658",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1791 ",
+      "HEX ": "6ff ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1791",
+      "Description": "Operations (Radio Testing) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1827 ",
+      "HEX ": "723 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1827",
+      "Description": "Electrical Ops - EDACS Link (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "1832 ",
+      "HEX ": "728 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 1832",
+      "Description": "Electrical Ops (T202) ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15094 ",
+      "HEX ": "3af6 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 15094",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "15097 ",
+      "HEX ": "3af9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Ops 15097",
+      "Description": "Electrical Ops ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

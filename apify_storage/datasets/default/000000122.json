@@ -1,0 +1,58 @@
+{
+  "System Name": "Intermountain Communications (Glassord Hill)",
+  "Location": "Glassord Hill, AZ",
+  "County": "Yavapai",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "December 8, 2011, 10:12 pm (Added Talkgroup 2001 Cab/Transport)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.3875 ",
+        "02 452.4375 ",
+        "03 452.2125 ",
+        "04 451.9625 ",
+        "05 451.7875 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Tri-City Cab",
+      "Description": "Tri-City Cab ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-02-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Cab/Tnsprt",
+      "Description": "Cab/Transport ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-02-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "PauldenESBus",
+      "Description": "Paulden Elementary School Buses ",
+      "Tag  ": "Schools "
+    },
+    {
+      "DEC ": "0-02-015 ",
+      "Mode  ": "A",
+      "Alpha Tag": "H&M Transpor",
+      "Description": "H&M Transportation ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-03-013 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Dial-A-Ride",
+      "Description": "Dial-A-Ride ",
+      "Tag  ": "Transportation "
+    }
+  ]
+}

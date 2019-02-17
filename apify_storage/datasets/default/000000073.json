@@ -1,0 +1,282 @@
+{
+  "System Name": "Maricopa County (Motorola)",
+  "Location": "Maricopa County, AZ",
+  "County": "4 counties",
+  "System Type": "Motorola Type II SmartZone",
+  "System Voice": "Analog and APCO-25 Common Air Interface",
+  "Last Updated": "October 10, 2018, 7:32 pm (Changed Talkgroup Category: Services to Services(Services))",
+  "System ID List": [
+    {
+      "System ID": "521C",
+      "Connect Tone": "128.57"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Thompson Peak (Scottsdale)",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.1375",
+        "851.1875",
+        "853.3875",
+        "854.3375",
+        "854.5875",
+        "857.2625",
+        "857.3375a",
+        "857.9125",
+        "858.5625",
+        "858.8125",
+        "859.2625c",
+        "859.3625",
+        "859.5625",
+        "859.7625",
+        "860.2375"
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "White Tanks",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.2875",
+        "851.3625",
+        "851.4375",
+        "851.5625",
+        "851.6875",
+        "851.7125",
+        "851.8375",
+        "851.8625",
+        "853.7875",
+        "853.9125a",
+        "853.9375c"
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Oatman/Gila Bend",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.2625",
+        "851.8125c",
+        "853.875a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Yarnell Hill/West Yavapai County",
+      "County": "Yavapai",
+      "Freqs": [
+        "851.6125",
+        "851.7625c",
+        "853.8125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Mt. Gillen/North Phoenix",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.0625",
+        "851.2125",
+        "851.450",
+        "857.7625a",
+        "858.7625c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Bronco Butte/Apache Junction",
+      "County": "Pinal",
+      "Freqs": [
+        "851.075",
+        "851.8125a",
+        "853.875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Mt. Ord/Sunflower",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.225",
+        "851.700",
+        "851.825",
+        "853.8375c",
+        "853.900a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "008 (8)",
+      "Name": "Humbolt Mtn./North Carefree",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.350",
+        "851.6375",
+        "851.7875a",
+        "853.8625c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "009 (9)",
+      "Name": "Central Court/Downtown Phoenix",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.125",
+        "851.175",
+        "851.325",
+        "851.775a",
+        "853.825c",
+        "857.8625",
+        "858.2625"
+      ]
+    },
+    {
+      "Site": "010 (A)",
+      "Name": "Southeast Center (Mesa)",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.1625",
+        "851.750",
+        "853.800",
+        "853.925c",
+        "853.950a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "011 (B)",
+      "Name": "Durango Jail/Phoenix",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.575",
+        "851.6625",
+        "851.8125c",
+        "853.850a",
+        "853.875a",
+        "857.6625",
+        " "
+      ]
+    },
+    {
+      "Site": "012 (C)",
+      "Name": "Chandler",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.150",
+        "851.250a",
+        "851.600a",
+        "851.675a",
+        "853.775c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "013 (D)",
+      "Name": "Smith Peak/ Harcuvar Mtns",
+      "County": "La Paz",
+      "Freqs": [
+        "851.2625",
+        "851.8125a",
+        "853.875c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "014 (E)",
+      "Name": "Towers Mtn./Crown King",
+      "County": "Yavapai",
+      "Freqs": [
+        "851.3375",
+        "851.5875",
+        "851.650",
+        "853.8875a",
+        "851.800c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "015 (F)",
+      "Name": "South Scottsdale",
+      "County": "Maricopa",
+      "Freqs": [
+        "851.3125",
+        "851.625",
+        "851.850a",
+        "853.7625c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "43248 ",
+      "HEX ": "a8f ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO - EAST",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "43280 ",
+      "HEX ": "a91 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO - E C2C",
+      "Description": "Car to Car ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "43312 ",
+      "HEX ": "a93 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO E EMER",
+      "Description": "Emergency ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "43344 ",
+      "HEX ": "a95 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO E TAC",
+      "Description": "Tac ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "52752 ",
+      "HEX ": "ce1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SURP WasMgt",
+      "Description": "Waste Management ",
+      "Tag  ": "Public Works "
+    }
+  ]
+}

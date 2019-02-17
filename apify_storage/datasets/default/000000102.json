@@ -1,0 +1,131 @@
+{
+  "System Name": "Salt River Project",
+  "Location": "Phoenix, AZ",
+  "County": "2 counties",
+  "System Type": "DMR Motorola Connect Plus (TRBO)",
+  "System Voice": "DMR",
+  "Last Updated": "September 30, 2016, 11:48 pm (Changed Talkgroup Category assignments for 1 talkgroups(Operations))",
+  "System ID List": [
+    {
+      "System ID": "452"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "South Mountain",
+      "County": [
+        "Maricopa",
+        "01 938.8875c ",
+        "02 939.3875c ",
+        "03 939.8875 "
+      ]
+    },
+    {
+      "Site": "002 (2)",
+      "Name": "White Tanks",
+      "County": [
+        "Maricopa",
+        "01 938.9875c ",
+        "02 939.450 ",
+        "03 939.4875 "
+      ]
+    },
+    {
+      "Site": "003 (3)",
+      "Name": "Shaw Butte",
+      "County": [
+        "Maricopa",
+        "01 938.925c ",
+        "02 939.425 ",
+        "03 939.925 "
+      ]
+    },
+    {
+      "Site": "004 (4)",
+      "Name": "Thompson Peak",
+      "County": [
+        "Maricopa",
+        "01 938.900c ",
+        "02 939.400c ",
+        "03 939.900 "
+      ]
+    },
+    {
+      "Site": "005 (5)",
+      "Name": "Chandler",
+      "County": [
+        "Maricopa",
+        "01 938.9375 ",
+        "02 939.4375c ",
+        "03 939.9375 "
+      ]
+    },
+    {
+      "Site": "006 (6)",
+      "Name": "Mesa",
+      "County": [
+        "Maricopa",
+        "01 938.950c ",
+        "02 939.000 ",
+        "03 939.500 "
+      ]
+    },
+    {
+      "Site": "007 (7)",
+      "Name": "Sacaton",
+      "County": [
+        "Pinal",
+        "01 938.9125c ",
+        "02 939.4125c ",
+        "03 939.9125 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "2001 ",
+      "Mode  ": "T",
+      "Alpha Tag": "ADC IrrigOps",
+      "Description": "Association Dispatch Center - Irrigation Operations ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3401 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Power Crew",
+      "Description": "Power Crew Talk ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "3601 ",
+      "Mode  ": "T",
+      "Alpha Tag": "SOC",
+      "Description": "Security Operations Center ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "3801 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Security",
+      "Description": "Security - Patrol ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "4001 ",
+      "Mode  ": "T",
+      "Alpha Tag": "PDO",
+      "Description": "Power Dispatch Office ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "4501 ",
+      "Mode  ": "T",
+      "Alpha Tag": "Radio Maint",
+      "Description": "Radio Maintenance ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

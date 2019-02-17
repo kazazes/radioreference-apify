@@ -1,0 +1,826 @@
+{
+  "System Name": "Pacific Gas and Electric (PG&E)",
+  "Location": "Various, CA",
+  "County": "47 counties",
+  "System Type": "MPT-1327 Standard",
+  "System Voice": "Analog",
+  "Last Updated": "February 20, 2017, 4:47 am (Changed Site # 21457 (Telegraph Hill (Z8, S11)) to 21457 (Telegraph Hill (Z8, S11)))",
+  "System Frequencies": [
+    {
+      "Site": "20609 (5081)",
+      "Name": "Petaluma SC (Z2, S1)",
+      "County": "Sonoma",
+      "Freqs": [
+        "464.1875c",
+        "461.450",
+        "461.5375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20617 (5089)",
+      "Name": "Montara Ridge (Z2, S2)",
+      "County": "San Mateo",
+      "Freqs": [
+        "452.2125",
+        "454.09375c",
+        "454.49375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20625 (5091)",
+      "Name": "Clayton Hill (Z2, S3)",
+      "County": "Contra Costa",
+      "Freqs": [
+        "451.325",
+        "454.13125c",
+        "454.21875",
+        "454.63125",
+        "454.65625",
+        "463.850",
+        " "
+      ]
+    },
+    {
+      "Site": "20633 (5099)",
+      "Name": "Sunol Ridge (Z2, S4)",
+      "County": "Alameda",
+      "Freqs": [
+        "452.3875",
+        "454.23125",
+        "454.55625c",
+        "464.6375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20649 (50A9)",
+      "Name": "Big Rock Ridge (Z2, S6)",
+      "County": "Marin",
+      "Freqs": [
+        "454.39375c",
+        "463.7625",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20657 (50B1)",
+      "Name": "Mt Tamalpais (Z2, S7)",
+      "County": "Marin",
+      "Freqs": [
+        "454.11875c",
+        "454.26875",
+        "454.61875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20673 (50C1)",
+      "Name": "Twin Peaks (Z2, S9)",
+      "County": "San Francisco",
+      "Freqs": [
+        "451.200",
+        "454.01875",
+        "454.14375c",
+        "454.29375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20689 (50D1)",
+      "Name": "Cummins Skyway? (Z2, S11)",
+      "County": "Contra Costa",
+      "Freqs": [
+        "454.44375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20697 (50D9)",
+      "Name": "Round Top (Z2, S12)",
+      "County": "Contra Costa",
+      "Freqs": [
+        "451.0375",
+        "451.225",
+        "454.10625c",
+        "454.28125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20705 (50E1)",
+      "Name": "Rocky Ridge (Z2, S13)",
+      "County": "Contra Costa",
+      "Freqs": [
+        "451.0625",
+        "454.43125c",
+        "454.53125",
+        "454.64375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20729 (50F9)",
+      "Name": "San Bruno Mtn (Z2, S16)",
+      "County": "San Mateo",
+      "Freqs": [
+        "451.575",
+        "452.800",
+        "454.15625",
+        "454.45625c",
+        "463.2375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20745 (5109)",
+      "Name": "Sonoma Mtn (Z3, S2)",
+      "County": "Sonoma",
+      "Freqs": [
+        "454.56875c",
+        "461.450",
+        "461.5375",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20769 (5121)",
+      "Name": "Berryessa Peak",
+      "County": "Yolo",
+      "Freqs": [
+        "454.29375",
+        "454.41875c",
+        "461.9875",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20777 (5129)",
+      "Name": "San Leandro Hill",
+      "County": "Alameda",
+      "Freqs": [
+        "452.300",
+        "454.46875c",
+        "461.4875",
+        "462.075",
+        "463.9375",
+        "464.0625",
+        "454.64375"
+      ]
+    },
+    {
+      "Site": "20873 (5189)",
+      "Name": "Fremont Pk (Z4, S2)",
+      "County": "Monterey",
+      "Freqs": [
+        "464.0875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20881 (5191)",
+      "Name": "Tassajera Peak",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "460.6625c",
+        "461.275",
+        "461.650",
+        "462.425",
+        "464.100",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "20945 (51D1)",
+      "Name": "Black Butte",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "451.725",
+        "452.050c",
+        "452.300",
+        "452.500",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21193 (52C9)",
+      "Name": "Double Mtn (Z6, S10)",
+      "County": "Kern",
+      "Freqs": [
+        "451.0875c",
+        "452.2125",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21201 (52D1)",
+      "Name": "Pampa Peak (Z6, S11)",
+      "County": "Kern",
+      "Freqs": [
+        "463.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21225 (52E9)",
+      "Name": "Joaquin Ridge (Z6, S14)",
+      "County": "Fresno",
+      "Freqs": [
+        "463.450c",
+        "463.3875",
+        "464.1625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21273 (5319)",
+      "Name": "Bear Mountain?",
+      "County": "Fresno",
+      "Freqs": [
+        "451.100c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21281 (5321)",
+      "Name": "Meadow Lakes (Z7, S5)",
+      "County": "Fresno",
+      "Freqs": [
+        "463.4125c",
+        "460.7375",
+        "461.600",
+        "451.7125",
+        "463.6375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21289 (5329)",
+      "Name": "Deadwood Pk (Z7, S6)",
+      "County": "Madera",
+      "Freqs": [
+        "454.45625c",
+        "461.025",
+        "462.050",
+        "464.3625",
+        "464.800c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21377 (5381)",
+      "Name": "UNKNOWN",
+      "County": "",
+      "Freqs": [
+        "454.51875",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21385 (5389)",
+      "Name": "Mt Bullion (Z8, S2)",
+      "County": "Mariposa",
+      "Freqs": [
+        "454.44375",
+        "461.875c",
+        "462.475",
+        "464.725",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21393 (5391)",
+      "Name": "Mount Oso (Z8, S3)",
+      "County": "Stanislaus",
+      "Freqs": [
+        "454.09375c",
+        "454.16875",
+        "454.29375",
+        "454.50625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21401 (5399)",
+      "Name": "Mount Vaca (Z8, S4)",
+      "County": "Solano",
+      "Freqs": [
+        "451.450",
+        "454.03125",
+        "454.16875",
+        "454.30625",
+        "454.54375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21417 (53A9)",
+      "Name": "Unknown near Butte Co. (Z8, S6)",
+      "County": "Butte",
+      "Freqs": [
+        "454.09375c",
+        "454.16875",
+        "454.24375",
+        "454.50625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21433 (53B9)",
+      "Name": "Los Banos Sub (Z8, S8)",
+      "County": "Merced",
+      "Freqs": [
+        "463.3625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21441 (53C1)",
+      "Name": "Mt Reba (Z8, S9)",
+      "County": "Alpine",
+      "Freqs": [
+        "451.1125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21457 (53D1)",
+      "Name": "Telegraph Hill (Z8, S11)",
+      "County": "Tuolumne",
+      "Freqs": [
+        "451.025",
+        "454.29375",
+        "454.41875c",
+        "464.175c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21465 (53D9)",
+      "Name": "UNKNOWN",
+      "County": "",
+      "Freqs": [
+        "454.48125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21473 (53E1)",
+      "Name": "Tiger Creek Forebay (Z8, S13)",
+      "County": "Amador",
+      "Freqs": [
+        "454.01875",
+        "454.46875c",
+        "463.6125",
+        "463.9625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21481 (53E9)",
+      "Name": "Oregon Peak",
+      "County": "Yuba",
+      "Freqs": [
+        "451.2625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21497 (53F9)",
+      "Name": "Unknown Bay Area or Valley",
+      "County": "",
+      "Freqs": [
+        "454.41875",
+        "454.51875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21513 (5409)",
+      "Name": "Drum Forebay (Z9, S2)",
+      "County": "Placer",
+      "Freqs": [
+        "461.5625",
+        "463.925",
+        "464.450c",
+        "464.825",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21521 (5411)",
+      "Name": "Osborne Hill (Z9, S3)",
+      "County": "Nevada",
+      "Freqs": [
+        "464.0875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21529 (5419)",
+      "Name": "Signal Peak (Z9, S4)",
+      "County": "Nevada",
+      "Freqs": [
+        "454.55625c",
+        "462.350",
+        "464.725",
+        "464.925",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21537 (5421)",
+      "Name": "Ruby Bluff (Z9, S5)",
+      "County": "Sierra",
+      "Freqs": [
+        "461.175c",
+        "461.3875",
+        "463.350",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21553 (5431)",
+      "Name": "Bear Mtn - Calaveras (Z9, S7)",
+      "County": "Calaveras",
+      "Freqs": [
+        "451.9125",
+        "454.49375c",
+        "454.56875",
+        "463.9375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21569 (5441)",
+      "Name": "Mariposa",
+      "County": "Mariposa",
+      "Freqs": [
+        "452.575c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21633 (5481)",
+      "Name": "Pine Hill (Z10, S1)",
+      "County": "El Dorado",
+      "Freqs": [
+        "454.06875",
+        "454.25625",
+        "454.40625",
+        "454.51875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21641 (5489)",
+      "Name": "Round Mountain",
+      "County": "Tehama",
+      "Freqs": [
+        "454.10625c",
+        "454.18125",
+        "454.53125",
+        "461.9625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21649 (5491)",
+      "Name": "Inskip Peak",
+      "County": "Tehama",
+      "Freqs": [
+        "454.4375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21657 (5499)",
+      "Name": "Haney Mtn (Z10, S4)",
+      "County": "Shasta",
+      "Freqs": [
+        "461.400c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21673 (54A9)",
+      "Name": "Hatchet Mtn (Z10, S6)",
+      "County": "Shasta",
+      "Freqs": [
+        "451.875c",
+        "452.4625",
+        "452.700",
+        "454.14375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21681 (54B1)",
+      "Name": "Happy Camp (Z10, S7)",
+      "County": "Modoc",
+      "Freqs": [
+        "451.850c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21689 (54B9)",
+      "Name": "Unknown near Butte Co. (Z10, S8)",
+      "County": "Butte",
+      "Freqs": [
+        "454.48125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21697 (54C1)",
+      "Name": "Flea Mountain",
+      "County": "Butte",
+      "Freqs": [
+        "451.350",
+        "452.075c",
+        "452.250",
+        "454.13125",
+        "461.950",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21705 (54C9)",
+      "Name": "Bucks Lake",
+      "County": "Plumas",
+      "Freqs": [
+        "452.200c",
+        "452.700",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21713 (54D1)",
+      "Name": "Unknown",
+      "County": "",
+      "Freqs": [
+        "464.400c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21729 (54E1)",
+      "Name": "St Helena (Z10, S13)",
+      "County": "Lake",
+      "Freqs": [
+        "454.49375c",
+        "464.7125",
+        "454.03125",
+        "454.28125",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21745 (54F1)",
+      "Name": "Oregon Mtn (Z10, S15)",
+      "County": "Trinity",
+      "Freqs": [
+        "452.000c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21785 (5519)",
+      "Name": "Stirling City",
+      "County": "Butte",
+      "Freqs": [
+        "451.200c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "21953 (55C1)",
+      "Name": "Shasta Bally (Z12, S9)",
+      "County": "Shasta",
+      "Freqs": [
+        "461.8375c",
+        "463.7125",
+        "464.4375",
+        "464.825",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "22049 (5621)",
+      "Name": "Berryessa Pk (Z13, S5)",
+      "County": "Yolo",
+      "Freqs": [
+        "454.29375",
+        "454.41875c",
+        "461.9875",
+        "463.725",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "Site": "22057 (5629)",
+      "Name": "View Hill",
+      "County": "San Luis Obispo",
+      "Freqs": [
+        "461.350",
+        "462.1375",
+        "463.2625",
+        "464.4625c",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "6714 ",
+      "Mode  ": "A",
+      "Alpha Tag": "SF Electric",
+      "Description": "Electric - SF County ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "6709 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Sono Elec",
+      "Description": "North Coast Electric - Sonoma County ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

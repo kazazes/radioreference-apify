@@ -1,0 +1,68 @@
+{
+  "System Name": "Innisbrook Resort and Golf Club",
+  "Location": "Tarpon Springs, FL",
+  "County": "Pinellas",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 25, 2018, 1:03 am (Added Talkgroup 1006 Banquets)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 461.675 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-01-001 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Property Ops",
+      "Description": "Property Operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-002 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Grounds Mnt",
+      "Description": "Grounds Maintenance ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-004 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Shuttles",
+      "Description": "Shuttles ",
+      "Tag  ": "Transportation "
+    },
+    {
+      "DEC ": "0-01-005 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Golf Course",
+      "Description": "Golf Course ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-006 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Banquets",
+      "Description": "Banquets ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-007 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Bellman",
+      "Description": "Bellman ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "0-01-008 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Housekeeping",
+      "Description": "Housekeeping ",
+      "Tag  ": "Business "
+    }
+  ]
+}

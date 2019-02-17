@@ -1,0 +1,965 @@
+{
+  "System Name": "Southern California Edison",
+  "Location": "Various, CA AZ NV",
+  "County": "11 counties",
+  "System Type": "Project 25 Phase II",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "December 24, 2018, 10:56 pm ((1) Talkgroups Updated (Transmission (Substations)))",
+  "System ID List": [
+    {
+      "System ID": "5AA",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "064 (40)",
+      "Name": "Site 1-64",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.325c",
+        "935.875a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "066 (42)",
+      "Name": "Mount Wilson",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "938.8375c",
+        "939.850a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "066 (42)",
+      "Name": "Site 1-66",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "936.2625c",
+        "936.7625a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "070 (46)",
+      "Name": "Mt Wilson/Burnt Peak",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "938.825c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "081 (51)",
+      "Name": "Site 1-81",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.7625c",
+        "936.550a",
+        "936.975",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "083 (53)",
+      "Name": "Site 1-83",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.800c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "084 (54)",
+      "Name": "Blackjack Mtn",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.850c",
+        "935.8625a",
+        "935.8625",
+        "936.550",
+        "936.550",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "085 (55)",
+      "Name": "Site 1-85",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.800c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "087 (57)",
+      "Name": "Site 1-87",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "935.2625",
+        "935.275a",
+        "935.3625c",
+        "935.7625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "088 (58)",
+      "Name": "Dakin Peak ",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "936.5125",
+        "936.525",
+        "936.900a",
+        "936.925c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "089 (59)",
+      "Name": "Site 1-89",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.975",
+        "936.275a",
+        "936.9625c",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "091 (5B)",
+      "Name": "Site 1-91",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "936.2625a",
+        "936.275c",
+        "936.350a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "092 (5C)",
+      "Name": "Site 1-92",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.375c",
+        "935.7875a",
+        "935.800c",
+        "936.8625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "093 (5D)",
+      "Name": "Site 1-93",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "936.300c",
+        "936.3125a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "094 (5E)",
+      "Name": "Site 1-94",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "935.7875",
+        "935.800a",
+        "935.8125c",
+        "936.825",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "095 (5F)",
+      "Name": "Site 1-95",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.2875",
+        "935.3125a",
+        "935.350",
+        "936.875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "096 (60)",
+      "Name": "Site 1-96",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "935.325",
+        "936.4125c",
+        "936.525a",
+        "936.5625",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "097 (61)",
+      "Name": "Site 1-97",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "936.2875",
+        "936.300a",
+        "936.3375",
+        "936.7875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "098 (62)",
+      "Name": "Site 1-98",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.300",
+        "935.3375a",
+        "936.375",
+        "936.5875c",
+        "936.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "099 (63)",
+      "Name": "Palos Verdes",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.800c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "100 (64)",
+      "Name": "Site 1-100",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.325",
+        "935.875",
+        "936.325",
+        "936.3625",
+        "936.825c",
+        "936.850a",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "101 (65)",
+      "Name": "Site 1-101",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.2625",
+        "935.275c",
+        "935.3625a",
+        "936.900",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "102 (66)",
+      "Name": "Site 1-102",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.3125a",
+        "935.8125a",
+        "935.850c",
+        "935.8625a",
+        "935.875",
+        "936.875",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "103 (67)",
+      "Name": "Site 1-103",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "936.8375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "104 (68)",
+      "Name": "Site 1-104",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.3125a",
+        "935.350",
+        "935.425",
+        "935.4375c",
+        "936.4875a",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "105 (69)",
+      "Name": "Site 1-105",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "936.2875c",
+        "936.300a",
+        "936.3375",
+        "936.7875",
+        "936.800",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "106 (6A)",
+      "Name": "Site 1-106",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "936.2625",
+        "936.275c",
+        "936.350a",
+        "936.7625",
+        "936.775",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "107 (6B)",
+      "Name": "Site 1-107",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.7875",
+        "935.800c",
+        "935.8125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "108 (6C)",
+      "Name": "Site 1-108",
+      "County": ", ",
+      "Freqs": [
+        "935.6625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "109 (6D)",
+      "Name": "Site 1-109",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "936.4625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "110 (6E)",
+      "Name": "Site 1-110",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.2875",
+        "935.925",
+        "936.5375c",
+        "936.575a",
+        "936.8375",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "111 (6F)",
+      "Name": "Santa Ynez",
+      "County": "Santa Barbara, CA",
+      "Freqs": [
+        "935.3875",
+        "936.4375c",
+        "936.450a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "112 (70)",
+      "Name": "Site 1-112",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.7625c",
+        "936.3375a",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "113 (71)",
+      "Name": "Site 1-113",
+      "County": "Los Angeles, CA",
+      "Freqs": [
+        "935.7875c",
+        "935.800a",
+        "936.5125",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "115 (73)",
+      "Name": "Site 1-115",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "936.8375c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "119 (77)",
+      "Name": "Site 1-119",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.4125c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "120 (78)",
+      "Name": "Oak Peak",
+      "County": "Kern, CA",
+      "Freqs": [
+        "935.2125",
+        "936.7375c",
+        "936.900a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "121 (79)",
+      "Name": "Blue Diamond",
+      "County": "Clark, NV",
+      "Freqs": [
+        "936.4875c",
+        "936.550",
+        "936.9125a",
+        "938.9875",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "122 (7A)",
+      "Name": "Quartzite Mountain",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "935.2625",
+        "935.275c",
+        "935.3625",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "124 (7C)",
+      "Name": "Desert Hot Springs",
+      "County": "Riverside, CA",
+      "Freqs": [
+        "935.400",
+        "935.4875c",
+        "936.975a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "125 (7D)",
+      "Name": "Site 1-125",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.475c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "126 (7E)",
+      "Name": "Site 1-126",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.675c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "127 (7F)",
+      "Name": "Boulder City ",
+      "County": "Clark, NV",
+      "Freqs": [
+        "935.2125",
+        "935.975",
+        "936.000c",
+        "936.6875",
+        "936.7375",
+        "936.900",
+        "936.925a",
+        "936.9625",
+        "937.225",
+        "937.6875"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "128 (80)",
+      "Name": "Laughlin",
+      "County": "Clark, NV",
+      "Freqs": [
+        "935.6375",
+        "936.1625c",
+        "936.2125",
+        "936.6375",
+        "936.750",
+        "937.4875",
+        "937.500",
+        "939.950"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "129 (81)",
+      "Name": "Site 1-129",
+      "County": ", ",
+      "Freqs": [
+        "935.225c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "130 (82)",
+      "Name": "Site 1-130",
+      "County": ", ",
+      "Freqs": [
+        "935.4625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "131 (83)",
+      "Name": "Site 1-131",
+      "County": ", ",
+      "Freqs": [
+        "935.6625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "133 (85)",
+      "Name": "Blue Ridge",
+      "County": "Tulare, CA",
+      "Freqs": [
+        "935.400",
+        "935.4125c",
+        "936.925a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "135 (87)",
+      "Name": "Breckenridge",
+      "County": "Kern, CA",
+      "Freqs": [
+        "935.3875",
+        "935.6875c",
+        "936.400a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "136 (88)",
+      "Name": "Meadow Lakes",
+      "County": "Fresno, CA",
+      "Freqs": [
+        "936.000",
+        "936.3875c",
+        "936.4125a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "137 (89)",
+      "Name": "Musick Peak",
+      "County": "Fresno, CA",
+      "Freqs": [
+        "935.3875a",
+        "935.425",
+        "936.150a",
+        "936.9125c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "138 (8A)",
+      "Name": "Kaiser Peak",
+      "County": "Fresno, CA",
+      "Freqs": [
+        "935.1625",
+        "935.3875c",
+        "935.4125a",
+        "936.4375",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "141 (8D)",
+      "Name": "White Tanks",
+      "County": "Maricopa, AZ",
+      "Freqs": [
+        "935.750",
+        "936.000c",
+        "936.925a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "145 (91)",
+      "Name": "Site 1-145",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "936.3875c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "146 (92)",
+      "Name": "Site 1-146",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.7625c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "147 (93)",
+      "Name": "Site 1-147",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.725c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "148 (94)",
+      "Name": "Site 1-148",
+      "County": "Fresno, CA",
+      "Freqs": [
+        "936.850c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "149 (95)",
+      "Name": "Site 1-149",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.3125c",
+        "935.775",
+        "935.7875a",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "150 (96)",
+      "Name": "Site 1-150",
+      "County": "UNKNOWN, CA",
+      "Freqs": [
+        "935.800c",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "12013 ",
+      "HEX ": "2eed ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVCONST1",
+      "Description": "East Valley Construction 1  ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12015 ",
+      "HEX ": "2eef ",
+      "Mode  ": "D",
+      "Alpha Tag": "EVCONST2\t",
+      "Description": "East Valley Construction 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "12711 ",
+      "HEX ": "31a7 ",
+      "Mode  ": "D",
+      "Alpha Tag": "CONST 77",
+      "Description": "District 77 - Construction ",
+      "Tag  ": "Utilities "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "13257 ",
+      "HEX ": "33c9 ",
+      "Mode  ": "D",
+      "Alpha Tag": "TSD EAST",
+      "Description": "East ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13259 ",
+      "HEX ": "33cb ",
+      "Mode  ": "D",
+      "Alpha Tag": "TSD NORTH",
+      "Description": "North ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13261 ",
+      "HEX ": "33cd ",
+      "Mode  ": "D",
+      "Alpha Tag": "TSD SOUTH",
+      "Description": "South ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "13263 ",
+      "HEX ": "33cf ",
+      "Mode  ": "D",
+      "Alpha Tag": "TSD WEST",
+      "Description": "West ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "System Name": "Archer Daniels Midland (Decatur)",
+  "Location": "Decatur, IL",
+  "County": "Macon",
+  "System Type": "Motorola Type II",
+  "System Voice": "Analog",
+  "Last Updated": "March 29, 2015, 8:52 pm (Changed Site # 001 (Primary) to 001 (Primary))",
+  "System ID List": [
+    {
+      "System ID": "6C22",
+      "Connect Tone": "90.0"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Primary",
+      "Freqs": [
+        "855.2875",
+        "855.3375",
+        "855.5625",
+        "855.9125c",
+        "856.8125",
+        "857.8125",
+        "858.9125c",
+        "860.8875c",
+        "859.9125c",
+        "860.9125c"
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "48 ",
+      "HEX ": "003 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Security",
+      "Description": "Security ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "880 ",
+      "HEX ": "037 ",
+      "Mode  ": "A",
+      "Alpha Tag": "Trucking",
+      "Description": "ADM Trucking ",
+      "Tag  ": "Business "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "1136 ",
+      "HEX ": "047 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1136",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1232 ",
+      "HEX ": "04d ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1232",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1552 ",
+      "HEX ": "061 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1552",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1584 ",
+      "HEX ": "063 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1584",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1648 ",
+      "HEX ": "067 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1648",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "1680 ",
+      "HEX ": "069 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 1680",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2224 ",
+      "HEX ": "08b ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 2224",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2448 ",
+      "HEX ": "099 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 2448",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "2800 ",
+      "HEX ": "0af ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 2800",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3280 ",
+      "HEX ": "0cd ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 3280",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3312 ",
+      "HEX ": "0cf ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 3312",
+      "Description": "refinery operations (air samples?) ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3344 ",
+      "HEX ": "0d1 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 3344",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3376 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 3376",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3504 ",
+      "HEX ": "0db ",
+      "Mode  ": "A",
+      "Alpha Tag": "trains 3504",
+      "Description": "train operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "3632 ",
+      "HEX ": "0e3 ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 3632",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    },
+    {
+      "DEC ": "9712 ",
+      "HEX ": "25f ",
+      "Mode  ": "A",
+      "Alpha Tag": "ops 9712",
+      "Description": "refinery operations ",
+      "Tag  ": "Business "
+    }
+  ]
+}

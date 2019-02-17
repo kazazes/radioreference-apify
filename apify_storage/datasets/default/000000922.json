@@ -1,0 +1,330 @@
+{
+  "System Name": "Monroe County",
+  "Location": "Monroe County, FL",
+  "County": "Monroe",
+  "System Type": "Project 25 Phase I",
+  "System Voice": "APCO-25 Common Air Interface Exclusive",
+  "Last Updated": "October 3, 2018, 12:12 pm (Updated Function Tag assignments for 3 talkgroups(Monroe County Sheriff ))",
+  "System ID List": [
+    {
+      "System ID": "697",
+      "WACN": "BEE00"
+    }
+  ],
+  "System Frequencies": [
+    {
+      "RFSS": "1 (1)",
+      "Site": "001 (1)",
+      "Name": "Marathon",
+      "Freqs": [
+        "851.8375",
+        "852.325",
+        "852.7125",
+        "853.200a",
+        "853.700c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "002 (2)",
+      "Name": "Summerland Key",
+      "Freqs": [
+        "852.0375",
+        "852.3375",
+        "852.8375a",
+        "853.2875c",
+        "853.5875",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "003 (3)",
+      "Name": "Stock Island",
+      "Freqs": [
+        "851.1875",
+        "851.6875",
+        "852.1625",
+        "853.3625a",
+        "853.7375c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "004 (4)",
+      "Name": "Key West",
+      "Freqs": [
+        "851.2375",
+        "852.125",
+        "852.5875",
+        "852.900",
+        "853.400",
+        "853.6625a",
+        "853.8375c"
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "005 (5)",
+      "Name": "Islamorada",
+      "Freqs": [
+        "851.4125",
+        "851.9125",
+        "852.2625",
+        "853.3375a",
+        "853.7125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "006 (6)",
+      "Name": "North Key Largo",
+      "Freqs": [
+        "851.175",
+        "852.175",
+        "852.600",
+        "852.8625a",
+        "853.6875c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "007 (7)",
+      "Name": "Tavernier",
+      "Freqs": [
+        "851.2625",
+        "852.1875",
+        "852.6125",
+        "852.8875a",
+        "853.3125c",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "008 (8)",
+      "Name": "Layton",
+      "Freqs": [
+        "851.3375",
+        "852.2125",
+        "852.6375a",
+        "853.1875c",
+        " ",
+        " ",
+        " "
+      ]
+    },
+    {
+      "RFSS": "1 (1)",
+      "Site": "009 (9)",
+      "Name": "Sugar Loaf Key",
+      "Freqs": [
+        "851.100",
+        "851.7875",
+        "852.0875",
+        "853.575a",
+        "853.8125c",
+        " ",
+        " "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "200 ",
+      "HEX ": "0c8 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Tac 200",
+      "Description": "Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "211 ",
+      "HEX ": "0d3 ",
+      "Mode  ": "D",
+      "Alpha Tag": "VHF CH16 PATCH",
+      "Description": "VHF CH-16 Patch  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "275 ",
+      "HEX ": "113 ",
+      "Mode  ": "D",
+      "Alpha Tag": "EYW ARFF Tac",
+      "Description": "Key West International Airport Aircraft Rescue and Firefighting Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "517 ",
+      "HEX ": "205 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Tac 1",
+      "Description": "Tactical 1 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "519 ",
+      "HEX ": "207 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Tac 2",
+      "Description": "Tactical 2 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "521 ",
+      "HEX ": "209 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MSCO Tac 3",
+      "Description": "Tactical 3 ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "529 ",
+      "HEX ": "211 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO UK Tac",
+      "Description": "Upper Keys Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "531 ",
+      "HEX ": "213 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO LK Tac",
+      "Description": "Lower Keys Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "533 ",
+      "HEX ": "215 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO MK Tac",
+      "Description": "Middle Keys Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "535 ",
+      "HEX ": "217 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MSCO UK Tac",
+      "Description": "Upper Keys Tactical ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "537 ",
+      "HEX ": "219 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Disp",
+      "Description": "Dispatch ",
+      "Tag  ": "Law Dispatch "
+    },
+    {
+      "DEC ": "545 ",
+      "HEX ": "221 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO TTY",
+      "Description": "Teletype ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "547 ",
+      "HEX ": "223 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO 3",
+      "Description": "Car-to-Car ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "553 ",
+      "HEX ": "229 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Tactical 553",
+      "Description": "Tactical  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "563 ",
+      "HEX ": "233 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO Tac",
+      "Description": "Tactical  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "629 ",
+      "HEX ": "275 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO KW Tac",
+      "Description": "Key West Tac, Interop, Special Events ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "769 ",
+      "HEX ": "301 ",
+      "Mode  ": "D",
+      "Alpha Tag": "MCSO EYW Sec",
+      "Description": "Key West International Airport Security ",
+      "Tag  ": "Security "
+    },
+    {
+      "DEC ": "771 ",
+      "HEX ": "303 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Courts 1",
+      "Description": "Courthouse Deputies ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "773 ",
+      "HEX ": "305 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Courts 2",
+      "Description": "Courthouse Administration 2 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "775 ",
+      "HEX ": "307 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Courts 3",
+      "Description": "Courthouse Administration 3 ",
+      "Tag  ": "Law Talk "
+    },
+    {
+      "DEC ": "1307 ",
+      "HEX ": "51b ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Tactical  1307",
+      "Description": "Tactical  ",
+      "Tag  ": "Law Tac "
+    },
+    {
+      "DEC ": "1555 ",
+      "HEX ": "613 ",
+      "Mode  ": "DE",
+      "Alpha Tag": "Tactical 1555",
+      "Description": "Tactical  ",
+      "Tag  ": "Law Tac "
+    }
+  ],
+  "undefined": [
+    {
+      "DEC ": "29958 ",
+      "HEX ": "7506 ",
+      "Mode  ": "D",
+      "Alpha Tag": "Key West NAS",
+      "Description": "Operations ",
+      "Tag  ": "Military "
+    }
+  ]
+}

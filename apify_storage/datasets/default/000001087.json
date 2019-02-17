@@ -1,0 +1,41 @@
+{
+  "System Name": "Coweta-Fayette EMC",
+  "Location": "Madras, GA",
+  "County": "2 counties",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "September 29, 2017, 4:30 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Madras",
+      "County": [
+        "Coweta",
+        "03 153.410 "
+      ]
+    }
+  ],
+  "System Talkgroups": [
+    {
+      "DEC ": "0-03-204 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CFEMC DISP 1",
+      "Description": "Service Dispatch 1 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "0-03-200 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CFEMC DISP 2",
+      "Description": "Service Dispatch 2 ",
+      "Tag  ": "Utilities "
+    },
+    {
+      "DEC ": "0-03-253 ",
+      "Mode  ": "A",
+      "Alpha Tag": "CFEMC CW ID",
+      "Description": "CW Morse Code Identifier ",
+      "Tag  ": "Utilities "
+    }
+  ]
+}

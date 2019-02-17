@@ -1,0 +1,23 @@
+{
+  "System Name": "Seninole Hard Rock Hotel and Casino",
+  "Location": "Tampa, FL",
+  "County": "Hillsborough",
+  "System Type": "NXDN NEXEDGE 4800",
+  "System Voice": "NXDN Digital",
+  "Last Updated": "January 3, 2019, 9:16 pm (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": "Unconfirmed LCN",
+      "Freqs": [
+        "451.2625c",
+        "461.275",
+        "461.575",
+        "461.8875a",
+        "462.525",
+        "463.3625a",
+        "464.450"
+      ]
+    }
+  ]
+}

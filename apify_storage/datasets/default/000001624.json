@@ -1,0 +1,19 @@
+{
+  "System Name": "Midamerican Energy (Council Bluffs)",
+  "Location": "Council Bluffs, IA",
+  "County": "Pottawattamie",
+  "System Type": "LTR Standard",
+  "System Voice": "Analog",
+  "Last Updated": "January 23, 2010, 5:30 am (Updated General Trunked System Information)",
+  "System Frequencies": [
+    {
+      "Site": "001 (1)",
+      "Name": [
+        "Confirmed LCN",
+        "01 463.8125 ",
+        "02 463.900 ",
+        "03 464.7625 "
+      ]
+    }
+  ]
+}
