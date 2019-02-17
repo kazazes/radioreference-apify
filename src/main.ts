@@ -91,8 +91,7 @@ Apify.main(async () => {
     // Here you can set options that are passed to the Apify.launchPuppeteer() function.
     // For example, you can set "slowMo" to slow down Puppeteer operations to simplify debugging
     launchPuppeteerOptions: {
-      devTools: true,
-      headless: Apify.isAtHome(),
+      headless: true,
       liveView: true,
     },
     maxConcurrency: 50,

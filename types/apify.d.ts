@@ -285,7 +285,7 @@ export namespace utils {
   function extractUrls({ string, urlRegExp }: any): any;
   function getRandomUserAgent(): any;
   function htmlToText(html: any): any;
-  function isDocker(forceReset: any): any;
+  function isDocker(): Promise<boolean>;
   namespace log {
     const LEVELS: {
       DEBUG: number;
